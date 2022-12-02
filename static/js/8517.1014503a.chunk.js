@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[8517],{78517:function(n,o,e){e.r(o),e.d(o,{Solution:function(){return l}});var u=e(15671),t=e(43144),l=(e(88859),e(64355),function(){function n(o){(0,u.Z)(this,n),console.log("Let's learn TF JS !!"),console.log("=============================="),console.log("Playground done!")}return(0,t.Z)(n,[{key:"destroy",value:function(){}}]),n}())}}]);
+//# sourceMappingURL=8517.1014503a.chunk.js.map
