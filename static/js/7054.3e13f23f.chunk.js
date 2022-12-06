@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[7054],{7054:function(n,u,t){t.r(u),t.d(u,{Solution:function(){return a}});var e=t(15671),r=t(43144),c=t(60136),i=t(29388),a=function(n){(0,c.Z)(t,n);var u=(0,i.Z)(t);function t(n){return(0,e.Z)(this,t),u.call(this,n)}return(0,r.Z)(t,[{key:"render",value:function(n){}}]),t}(t(38966).TF)}}]);
+//# sourceMappingURL=7054.3e13f23f.chunk.js.map
