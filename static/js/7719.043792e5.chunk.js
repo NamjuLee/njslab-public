@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[7719],{97719:function(n,o,e){e.r(o),e.d(o,{Solution:function(){return s}});var t=e(15671),i=e(43144),s=function(){function n(o){(0,t.Z)(this,n),console.log("Let's learn Typescript for digital mapping and visualization!!"),console.log("01 Typescript Basic, Type and Cast"),console.log("=================================")}return(0,i.Z)(n,[{key:"destroy",value:function(){}}]),n}()}}]);
-//# sourceMappingURL=7719.043792e5.chunk.js.map

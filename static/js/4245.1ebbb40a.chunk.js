@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[4245],{54245:function(o,n,e){e.r(n),e.d(n,{Solution:function(){return s}});var t=e(15671),l=e(43144),s=function(){function o(n){(0,t.Z)(this,o),console.log("Let's learn Typescript for digital mapping and visualization!!"),console.log("03 Typescript, Data structure"),console.log("=================================");var e=[1,2,3,4,5];console.log(e),console.log(e[3])}return(0,l.Z)(o,[{key:"destroy",value:function(){}}]),o}()}}]);
-//# sourceMappingURL=4245.1ebbb40a.chunk.js.map

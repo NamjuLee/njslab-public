@@ -1,2 +1,0 @@
-"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[2642],{92642:function(n,o,e){e.r(o),e.d(o,{Solution:function(){return s}});var t=e(15671),u=e(43144),s=function(){function n(o){(0,t.Z)(this,n),console.log("Let's learn Typescript for Computational Design !"),console.log("=================================================")}return(0,u.Z)(n,[{key:"destroy",value:function(){}}]),n}()}}]);
-//# sourceMappingURL=2642.46338a87.chunk.js.map
