@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[6934],{86934:function(t,i,s){s.r(i),s.d(i,{Solution:function(){return a}});var e=s(15671),n=s(43144),a=function(){function t(i){(0,e.Z)(this,t),this.hostDiv=void 0,this.hostDiv=i;window.open("https://senseable.mit.edu/papers/pdf/20221028_SalazarMiranda_MeasuringImpact_Cities.pdf","_blank")}return(0,n.Z)(t,[{key:"destroy",value:function(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}]),t}()}}]);
+//# sourceMappingURL=6934.e04d3aec.chunk.js.map
