@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[3123],{43123:function(n,s,t){t.r(s),t.d(s,{Solution:function(){return u}});class u{constructor(n){}destroy(){}}}}]);
+//# sourceMappingURL=3123.fcb44b55.chunk.js.map
