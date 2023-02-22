@@ -1,0 +1,159 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+  
+  <title>NJSLAB :::</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+  <style type="text/css">
+
+
+#theContent{
+  width: 60%;
+}
+
+  </style>
+  <link href="../../css/styleForProjectIndividual.css" rel="stylesheet" type="text/css">
+
+  <script>document.onselectstart = nocopy;document.oncontextmenu = nocopy;document.ondragstart = nocopy;function nocopy(){return false;}</script>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38712828-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function() {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+</head>
+
+
+<body>
+  <div id="top">
+    <table width="100" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td>&nbsp;</td>
+      </tr>
+    </table>
+    <table width="621" border="0" cellspacing="0" cellpadding="0">
+      <tr>
+        <td width="35">&nbsp;</td>
+        <td width="586"><a href="../../main.html">INDEX</a> 
+          <a href="../../project.html">PROJECT</a> 
+          <a href="../../about.html">ABOUT</a> 
+          <a href="../../activity.html">ACTIVITY</a>
+          <a href="../../Link.html">LINK</a></td>
+        </tr>
+      </table>
+    </div>
+    <p>&nbsp;</p>
+
+
+    <div id="Link">
+
+
+
+        <!-- <iframe width="1280" height="720" src="https://www.youtube.com/embed/pBFWZeBfGiA" frameborder="0" allowfullscreen></iframe> -->
+   
+    
+    <!-- <a href="https://flux.io/" target="_blank"> -->
+    <a href="https://techcrunch.com/2015/12/21/google-x-alum-flux-factory-raises-29m-series-b/" target="_blank"></a>
+      <img src="2016_FluxFactory_01.jpg">
+    </a> <br><br>
+
+    <a href="https://techcrunch.com/2015/12/21/google-x-alum-flux-factory-raises-29m-series-b/" target="_blank">
+      <h2 id="watch-headline-title"> Flux Factory </h2>
+    </a> <br>
+  
+    position : Application Engineer(Computational Designer) <br>
+    <br>
+
+
+    <div id="theContent">
+      <h2>Code Block</h2>
+
+      <h4> 
+      <a href="https://github.com/flux-labs/SimpleCodeBlock" target="_blank">[GitHub]Flux-Labs </a> <br><br>
+
+      Background<br>
+      Code Block in the Flow tool of Flux can be createdis a text edit tool where people use Flux Geometry API or library as a form of Javascript that run in the Flow on the Flux web platform.  Flux is not only to work for saving and sharing geometry or BIM data from platforms to platforms, it also provides with a place to hijack the data to manipulate it on the web environment and populate the data to other platforms(e.g.  Rhino, Grasshopper, Revit, Dynamo, SketchUp, 3ds max) in a real time. In the Code Block, designers can do geometry computations, data visualizations, and so on. In addition, designers could share the algorithm of Code Block to other people or to other projects.<br><br>
+
+      To enrich the library, I convert and create several Code Blocks from simple tasks, such as MeshExtrusion or FindPoint function, to complex tasks such as Grid Optimizer or Solar Vector that can possibly be reused by general users or projects. Plus some of the functions came from the Parkerator Phase 1 and 2 projects. <br><br>
+
+      Objective<br>
+      - Developing Code Block that in run on the web environment to solve a single problem in computational design<br>
+      - Sharing the logic with other users or projects<br>
+      - Hijacking and modify the geometries while transforming in different platforms in the real time update.<br><br>
+
+      <a href="https://github.com/flux-labs/SimpleCodeBlock" target="_blank">
+        <img src="codeBlock_01.jpg">
+      </a> <br><br>
+
+      <h2>Viewshed analysis(region feature)</h2><br>
+      Background<br>
+      It should allow the user to input a set of meshes representing a physical site (including buildings, terrain, or any other possible view obstacles), a set of meshes representing visible features, and a set of windows from which to calculate viewsheds. From each window’s center, the workflow will detect whether each feature mesh is visible, and to what degree (scaled from 0.0 to 1.0). Then it will calculate a cumulative score for each window, weighting the different features by scalar factors. Finally, it will visualize these scores over their respective windows.<br><br>
+
+      my goal in this project is to create a function that popuate the given number of point with in the meshes representing visible features.<br><br>
+
+      Objective<br>
+      - Generate a set of points with the given mesh<br><br>
+
+      The Polyline class has two functions to achieve it. First one is “GetVectorGridByDis” function which creates point grids in the shape. Then “GetVectorGridbyOptimizationWithDistance” function analyzes the number. If the number of point is above the target number of point, then the first function will execute with the increased distance for the grids, and the loop will be execute until they reach the number with the tolerance.<br>
+      <img src="visi_01.jpg"><br>
+      <img src="visi_02.jpg"><br><br>
+
+      <h2>Immersive representation (FluxVR)</h2><br>
+
+      Background<br>
+      I worked with a team of engineers to continue the development of a web application which linked the Unity Engine to the Flux platform. Flux being a cloud-based platform, the geometric data could be send and consume by any other tool. The idea is that the Flux Unity instantly create a VR environment with the geometry living in Flux on web browser. That way, in a few clicks or by simply touching a screen, designers are able to generate a VR mock-up of their models, share it with other designers or clients sending a simple url, and communicate each other by adding comments in the model.<br><br>
+
+      Objective<br>
+      setting up the Unity to create and share VR environment in real time update <br><br>
+
+      UI<br>
+      As the first task, we need to develop a UI menu that communicate Flux server and Unity, for example, Solar panel was added to communicate between Flux and web interaction.<br><br>
+
+      <img src="fluxVR_01.jpg"><br>   
+      solar panel(left top, and right top)<br> 
+      basic UI (middle bottom)<br> <br> 
+
+      Tour Mode and Tour Graph Class<br> 
+      Bascially, user can attach camera position and comment on the opend project. so TourGraph and tree visualization were created. <br> <br> 
+
+      <img src="TourGraphAndVis_AddPin.gif" height="430px"><br>
+      Function : TourGraphAndVis_AddPin <br> <br>
+
+      <img src="TourGraphAndVis_AddTourAndPin.gif" height="430px"><br>
+      Function :  TourGraphAndVis_AddTourAndPin<br><br>
+
+      <img src="TourGraphAndVis_VisPin.gif" height="430px"><br>
+      Function : TourGraphAndVis_VisPin<br><br>
+
+      Conclusion <br>
+      Tour Graph Class in Javascript  is spcialized to deal with a data in a tree data streucture. you can easily add and remove a Tour in the project, and also add and remove a comment in the Tour. In addition, it could pass the data to Flux Web Server to save and process the data as a form of JSON. <br> <br>
+
+      Copyright 2016. <a href="https://flux.io/" target="_blank">Flux Factory</a>. ALL RIGHTS RESERVED.<br><br>
+
+
+
+
+      </h4>
+    </div>
+
+
+
+
+
+
+
+</body>
+
+
+</html>
