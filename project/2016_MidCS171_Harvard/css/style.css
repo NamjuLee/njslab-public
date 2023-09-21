@@ -1,0 +1,381 @@
+
+
+body{
+  margin: 0px;
+  background-color: rgb(250,250,250);
+  font-family: 'Roboto', sans-serif;
+}
+
+h1{
+	color: black;
+	font-size: 38px;
+	font-weight: bolder;
+
+}
+h1:hover{
+	color: #cc0000;
+	font-size: 41px;
+	font-weight: bolder;
+}
+
+h2{
+	color: black;
+	font-size: 25px;
+	font-weight: bolder;
+}
+
+a
+{
+	color: darkgray;
+}
+a:hover
+{
+	color: green;
+}
+
+p
+{
+	color: darkgray;
+}
+em
+{
+	font-weight: bold;
+}
+
+img
+{
+	box-shadow: 10px 10px 5px #dedede;
+	opacity: 0.823;
+}
+
+img:hover
+{
+	box-shadow: 10px 10px 5px #dedede;
+	opacity: 1;
+}
+
+.container{
+	position: relative;
+	align-items: center;
+	align-content: center;
+}
+
+#textLine
+{
+    font-family: 'Roboto', sans-serif;
+    line-height: 80%;
+
+}
+
+#textLine:hover
+{
+    font-family: 'Roboto', sans-serif;
+	color: black;
+    line-height: 80%;
+}
+
+#titleDiv
+{
+	margin-bottom: 15px;
+	margin-top: 10px;
+}
+
+#d1-1
+{
+	padding-top: 10px;
+	color: gray;
+	line-height: 12%;
+}
+
+#d1-2
+{
+	height: 500px;
+	width: 660px;
+}
+
+
+.geoPath:hover
+{
+	fill : #d09c72;
+	box-shadow: 10px 10px 5px #dedede;
+}
+
+
+#d2-2
+{
+	padding-left: 30px;
+	padding-top: 0px;
+	margin-top: 0px;
+}
+
+#d3-1
+{
+	padding-top: 0px;
+	margin-top: 0px;
+	color: gray;
+	float: initial;
+	float: left;
+	width:486px;
+}
+
+#d3-2
+{
+	float: right;
+	width:691px;
+}
+
+#textBox02
+{
+	padding-right: 30px;
+	text-align: right;
+}
+
+#textBox3-4
+{
+	margin-top: 10px;
+}
+
+#textBox03
+{
+	margin: inherit;
+	padding: inherit;
+	height: 250px;
+	width: 250px;
+	text-align: right;
+	float: right;
+}
+
+#textBox04
+{
+	margin-top: 0px;
+	padding-top: 0px;
+	text-align: right;
+}
+
+#textBox05
+{
+	margin-top: 0px;
+	padding-top: 0px;
+	text-align: right;
+	width:458px;
+}
+
+#chart-area01
+{
+	left:100px;
+	top:100px;
+	background-color: rgb(245,245,245);
+}
+
+#chart-area02
+{
+	background-color: rgb(245,245,245);
+}
+
+#chart-area03
+{
+	padding-right: 50px;
+	margin-right: 100px;
+	background-color: rgb(245,245,245);
+	height: 490px;
+	width: 565px;
+}
+
+#cs171
+{
+	text-align: left;
+	margin-top: 10px;
+}
+
+
+
+
+#intro
+{
+	position: fixed;
+	width:800px;
+	height: 600px;
+}
+
+#bg
+{
+	color:black;
+	background-color: black;
+	position: fixed;
+	top: 0;
+	left: 0;
+	width:100%;
+	height:100%;
+	opacity: 0.85;
+}
+
+
+
+#popUp
+{
+	margin-left: 5px;
+	margin-top: 5px;
+	width:150px;
+    float: left;
+    position: absolute;
+}
+
+#tipMap
+{
+	position: absolute;
+	float:initial;
+	padding: 5px;
+	width:250px;
+	height:110px;
+	text-align: center;
+	background-color: white;
+	color:white;
+	opacity: 0.853;
+	font-size: 12px;
+}
+
+
+.node {
+	cursor: pointer;
+}
+
+.node circle {
+  fill: black;
+  stroke: #1a5559; 
+  stroke-width: 3px;
+}
+
+.node circle:hover {
+  fill: #ff0000;
+  stroke: #ff0000;
+  stroke-width: 3px;
+}
+
+.node text {
+  font: 12px sans-serif;
+}
+
+.link {
+  fill: none;
+  stroke: darkgray;
+  stroke-width: 2px;
+}
+
+#popUp2
+{
+	margin-left: 5px;
+	margin-top: 5px;
+	width:246px;
+    float: left;
+    position: absolute;
+}
+
+#startTime{
+	margin-left: 5px;
+	margin-top: 5px;
+	width:100px;
+    float: left;
+    position: absolute;
+}
+
+#endTime{
+	margin-left: 5px;
+	margin-top: 5px;
+	width:100px;
+    float: left;
+    position: absolute;
+}
+.btn2{
+	margin-left: 5px;
+	margin-top: 5px;
+	width:50px;
+    float: left;
+	position: absolute;
+}
+
+#t1{
+	width: 0px;
+}
+
+#t2{
+	width: 260px;
+}
+
+#t3{
+	width: 100px;
+}
+
+#t4{
+	width: 130px;
+}
+
+
+.axis path,
+.axis line {
+  fill: none;
+  stroke: #000;
+  shape-rendering: crispEdges;
+}
+.axis text {
+  font-size: 11px;
+}
+
+.line {
+  fill: none;
+  stroke: gray;
+  stroke-width: 1.5px;
+}
+
+.tooltip-circle {
+  fill: #96AB96;
+}
+
+.tooltip-title {
+  display: block;
+  margin-bottom: 5px;
+  font-weight: 600;
+    opacity: 0.8;
+}
+
+.d3-tip {
+  line-height: 1;
+  padding: 12px;
+  background: #1a5559;
+  color: #fff;
+  border-radius: 2px;
+  text-align: center;
+  line-height: 150%;
+  opacity: 0.8;
+}
+
+.d3-tip:after 
+{
+  box-sizing: border-box;
+  display: inline;
+  font-size: 10px;
+  width: 100%;
+  line-height: 1;
+  color: rgba(0, 0, 0, 0.8);
+  position: absolute;
+  text-align: center;
+  opacity: 0.8;
+}
+
+.node circle:hover 
+{
+  fill: #ff0000;
+  stroke: #ff0000;
+}
+
+
+.d3-tip.n:after 
+{
+  margin: -1px 0 0 0;
+  top: 100%;
+  left: 0;
+}
+
+.theCircle:hover
+{
+	fill:red;
+}

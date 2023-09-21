@@ -1,0 +1,124 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+	<meta charset="utf-8">
+	
+	<title>NJSTUDIO :::</title>
+<script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+<style type="text/css">
+</style>
+<link href="../../css/styleForProjectIndividual.css" rel="stylesheet" type="text/css">
+<script>document.onselectstart = nocopy;document.oncontextmenu = nocopy;document.ondragstart = nocopy;function nocopy(){return false;}</script>
+
+<script type="text/javascript">
+
+  var _gaq = _gaq || [];
+  _gaq.push(['_setAccount', 'UA-38712828-1']);
+  _gaq.push(['_trackPageview']);
+
+  (function() {
+    var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+    ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+    var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+  })();
+
+</script>
+
+</head>
+
+<body>
+<div id="top">
+  <table width="100" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td>&nbsp;</td>
+    </tr>
+  </table>
+  <table width="621" border="0" cellspacing="0" cellpadding="0">
+    <tr>
+      <td width="35">&nbsp;</td>
+      <td width="586"><a href="../../main.html">INDEX</a> <a href="../../project.html">PROJECT</a> <a href="../../about.html">ABOUT</a> <a href="../../activity.html">ACTIVITY</a><a href="../../Link.html">LINK</a></td>
+    </tr>
+  </table>
+</div>
+<p>&nbsp;</p>
+
+
+
+<div class="video">
+        <div id="superimposed">
+          <div class="play"></div><img src="img/superimposed.png">
+        </div>
+        <div id="player" style="width:930px; height:523px"></div>
+  <script>
+          // 2. This code loads the IFrame Player API code asynchronously.
+            var tag = document.createElement('script');
+            
+            tag.src = "https://www.youtube.com/iframe_api";
+            var firstScriptTag = document.getElementsByTagName('script')[0];
+            firstScriptTag.parentNode.insertBefore(tag, firstScriptTag);
+            
+            // 3. This function creates an <iframe> (and YouTube player)
+            //    after the API code downloads.
+            var player;
+            function onYouTubeIframeAPIReady() {
+              console.log('apiReady')
+              player = new YT.Player('player', {
+                width: '930',
+                height: '523',
+                videoId: '8CD66HcXgSk',
+                events: {
+                  'onReady': onPlayerReady
+                }
+              });
+            }
+            
+            // 4. The API will call this function when the video player is ready.
+            function onPlayerReady(event) {
+              console.log('playerReady')
+              // event.target.playVideo();
+              d3.select('#superimposed')
+                  .on('click', function () {
+                      d3.select(this)
+                          .transition()
+                          .style({
+                              opacity: 0
+                          })
+                          .each('end', function () {
+                              d3.select(this).remove()
+                          })
+                      player.playVideo()
+                  })
+                  .on('mouseover', function (argument) {
+                      d3.select(this).select('#circle')
+                          .transition()
+                          .style({
+                              'stroke-width': 3
+                          })
+                  })
+                  .on('mouseout', function (argument) {
+                      d3.select(this).select('#circle')
+                          .transition()
+                          .style({
+                              'stroke-width': 1
+                          })
+                  })
+            }
+            
+            
+            
+          d3.xml('img/play.svg', function (e, doc) {
+              var sel = d3.select('#superimposed .play')
+                  .append(function () {
+                      return doc.querySelector('svg')
+                  })
+          })
+          
+        </script>
+        
+        
+      </div>
+</body>
+
+</html>

@@ -1,0 +1,98 @@
+
+.cir{
+
+}
+
+
+.cir:hover{
+
+    r:15;
+    fill: red;
+    pointer-events: auto;
+    cursor: pointer;
+    -webkit-transition: top 0.1s,left 0.1s, width 1s, height 1s, background-color 1s, -webkit-transform 1s, r1s;
+    transition: top 0.1s,left 0.1s, width 1s, height 1s, background-color 1s, fill 0.5s, opacity 1s, transform 1s , r 0.5s;
+    
+}
+
+
+
+
+
+
+/*
+.visA{
+
+    position: absolute;
+    float: right;
+    align: left;
+    background-color: black;
+    z-index: 10;
+    position: initial;
+    margin-top: 20px;
+    margin-right: 50px;
+    position: relative;
+}
+
+*/
+
+#vis1{
+padding: 8px;
+height:400px;
+width:620px;
+opacity: 1.0;
+}
+
+
+#vis2{
+ padding: 8px;
+ padding-top: 130px;
+ height:100px;
+ width:630px;  
+}
+
+
+#streetImage{
+  opacity: 0.8;
+}
+
+#streetImage:hover{
+  opacity: 1.0;
+}
+
+
+#dataBox{
+    margin-right: 45px;
+    display: block;
+    position:inherit;
+    /*margin: 0px auto;*/
+    left: 10%;
+    top: 10%;
+    width: 650px;
+    height: 650px;
+    padding: 10px;
+    float: right;
+    background: #b2b9a1;
+    color:white;
+/*    border: none;
+    border-radius: 3px;
+    font-size: 12px;
+    text-align: center;
+    color: #fff;
+    
+
+    
+    position: relative;
+    max-width: 200px;
+    box-shadow: 10px 10px 15px #888888;*/
+    z-index: 15;
+    opacity: 0.7;
+    /*opacity: initial;*/
+    box-shadow: 10px 10px 15px rgba(0, 0, 0, 0.5);;
+
+}
+
+#dataContent_A{
+    color: black;
+    font-weight: bold;
+}

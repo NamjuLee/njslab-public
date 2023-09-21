@@ -1,0 +1,2417 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Remixing and Resampling Three Dimensional Objects Use of Volumetric Representations And Machine Learning in Design</title>
+
+
+    <!-- Jquery -->
+    <script type="text/javascript" src="js/jquery.min.js"></script>
+    <script type="text/javascript" src="js/jquery-ui.js"></script>
+    <link rel="stylesheet" href="js/jquery-ui.min.css" type="text/css">
+    <script src="js/jquery.ui.touch-punch.js"></script>
+
+
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+    <!-- Custom CSS -->
+    <link href="css/scrolling-nav.css" rel="stylesheet">
+
+
+    <!-- soket io -->
+    <script type="text/javascript" src="js/socket.io.js"></script>
+
+
+    <!-- D3 -->
+    <script type="text/javascript" src="js/d3.js"></script>
+    <script type="text/javascript" src="js/d3.tip.js"></script>
+
+    <!-- Semantic UI -->
+    <script type="text/javascript" src="js/semantic.min.js"></script>
+    <link rel="stylesheet" href="js/semantic.min.css" type="text/css">
+
+
+    <!-- three js  -->
+    <script type="text/javascript" src="threejs/three.min.js"></script>   
+
+    
+    <script type="text/javascript" src="threejs/controls/TrackballControls.js"></script>
+    <script type="text/javascript" src="threejs/controls/OrbitControlsRhino3d.js"></script>
+    <script type="text/javascript" src="threejs/renderers/Projector.js"></script>
+
+
+    <!-- NJS webGL -->
+    <script type="text/javascript" src="NCanvas/GLWindow.js" ></script>    
+
+    <script type="text/javascript" src="NPanel/NWindow.js"></script>  
+    <script type="text/javascript" src="NPanel/NControl.js"></script>   
+    <link   rel="stylesheet" href="NPanel/NControl.css" type="text/css">
+
+    <script type="text/javascript" src="NJSCore/NLight.js"></script>
+    <script type="text/javascript" src="NJSCore/NShader.js"></script>
+    <script type="text/javascript" src="NJSCore/NGeometry.js"></script>
+
+    <script type="text/javascript" src="NJSCore/NVector.js"></script> 
+    <script type="text/javascript" src="NJSCore/NPolyline.js"></script> 
+
+
+    <script type="text/javascript" src="NJSCore/NProtocol.js"></script>
+
+    <script type="text/javascript" src="NCanvas/GLWindow.js"></script>
+
+
+    <script src="/ace/src-noconflict/ace.js" type="text/javascript" charset="utf-8"></script>
+    
+
+    <!-- data vis -->
+    <script type="text/javascript" src="NData/parallelCoordinates.js"></script>
+    <link rel="stylesheet" href="NData/parallelCoordinates.css" type="text/css">
+    
+
+
+    <!-- main css -->
+    <link rel="stylesheet" href="css/main.css" type="text/css">
+</head>
+
+<!-- The #page-top ID is part of the scrolling feature - the data-spy and data-target are part of the built-in Bootstrap scrollspy function -->
+
+<body id="page-top" data-spy="scroll" data-target=".navbar-fixed-top">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top" role="navigation">
+        <div class="container">
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target=".navbar-ex1-collapse">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">Thesis Project</a>
+                <!-- <a class="navbar-brand page-scroll" href="GLWindow.html">SKETCH</a> -->
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse navbar-ex1-collapse">
+                <ul class="nav navbar-nav">
+                    <!-- Hidden li included to remove active class from about link when scrolled up past about section -->
+                    <li class="hidden">
+                        <a class="page-scroll" href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#Content">BACKGROUND</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#PROBLEM_STATEMENT">PROBLEM STATEMENT</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#LITERATURE_REVIEW">LITERATURE REVIEW</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="#METHODOLOGY">METHODOLOGY</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#slider39">WORKFLOW A</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#slider52">WORKFLOW B</a>
+                    </li>
+
+                    <li>
+                        <a class="page-scroll" href="#VOXEL_BLENDING">VOXEL BLENDING</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#slider81">IMPLEMENTATION</a>
+                    </li>
+
+
+                    <li>
+                        <a class="page-scroll" href="#slider82">CONCLUSION</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#OTHER">REFERENCE</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Intro Section -->
+    <section id="intro" class="intro-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br></br></br></br>
+                    <img src="img/img_v_01.jpg" class="img-fluid" width="450px">
+                    <h1>
+                        Remixing and Resampling Three Dimensional Objects Use of Volumetric Representations And Machine Learning in Design
+                    </h1>
+
+                    <h2>
+                        Design Workflows Integrating Machine Learning and Voxel Representations
+                    </h2>
+
+                    </br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#abstract">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="abstract" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br>
+                    </br>                
+                    <h1>ABSTRACT</h1>
+                    <p>
+                        This thesis aims to explore the opportunities of voxel modeling with Machine Learning. </br>
+                        First, it introduces (1) what voxel modeling is, compared to traditional model technic,</br>
+                        what the characteristics of voxel model such as pixel map and graph representation, </br>
+                        and what the Deep Learning and network are. </br>
+                        The thesis examines (2) prototypical implementations of proposed design systems or workflows </br>
+                        based on the process from rasterization of space and geometry to Machine Learning. </br>
+                    </p>
+                    </br>
+                    <div class="btn-bottom-aline">
+                        <a class="btn btn-default page-scroll btnStyle" href="#Content">Next!</a>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="Content" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h1>CONTENT</h1>
+                    </br></br>
+                    <img src="img/img_v_02.jpg" class="img-fluid" width="450px">
+
+
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#slider01">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider01" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h6>- SLIDE 01 -</h6>
+                    <h1>Introduction</h1>
+                    <img src="img/img_v_03.jpg" class="img-fluid" width="700px">
+                    
+                    <p>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#slider02">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider02" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h6>- SLIDE 02 -</h6>
+                    <h1>AI in our daily life beyond aid</h1>
+                    </br></br>
+                    <p>
+                    inference</br>
+                    classification or ranking</br>
+                    recommendation</br>
+                    voice recognition</br>
+                    translation</br>
+                    …</br>
+                    </br>
+                    amazon</br>
+                    google</br>
+                    facebook</br>
+                    microsoft</br>
+                    Tesla</br>
+                    ...</br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#slider03">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider03" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h6>- SLIDE 03 -</h6>
+                    <h1>technology in design</h1>
+                    </br></br>
+                    
+                    <p>
+                    CAAD (Computer-aided architectural design)</br></br>
+                    creation, modification, analysis, or optimization of a design
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#slider04">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider04" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h6>- SLIDE 04 -</h6>
+                    <h1>beyond aid in design</h1>
+                    </br></br>
+
+                    <p>
+                    fabrication</br>
+                    3D printing</br>
+                    material</br>
+                    physically based rendering</br>
+                    BIM (Building Information Modeling)</br>
+                    modeling library</br>
+                    ...</br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll btnStyle" href="#PROBLEM_STATEMENT">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Services Section -->
+    <section id="PROBLEM_STATEMENT" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <h6>- SLIDE 05 -</h6>
+                    <h1>PROBLEM STATEMENT AND OBJECTIVE</h1>
+
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider06">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="slider06" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br>
+                    <p>
+                    <h6>- SLIDE 06 -</h6>
+                    <h3>PROBLEM</h3>
+                    limited geometry resources</br>
+                    lack of skill using 3D tools</br>
+                    managing system</br></br></br>
+
+                    <h3>QUESTION</h3>
+                    exploring various geometry options</br>
+                    finding geometry among data base</br>
+                    sketch to 3D fabrication</br></br></br>
+
+                    <h3>OBJECTIVE</h3>
+                    geometry’s blending  problem</br>
+                    classification, inference, matching problem</br>
+                    design system problem</br>
+                    </p>
+
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#LITERATURE_REVIEW">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <section id="LITERATURE_REVIEW" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 07 -</h6>
+                    </br></br>
+                    <h1>LITERATURE REVIEW AND CASE STUDY</h1>
+                    </br></br>
+                    <h3>literature review: Deep Learning</h3>
+                    </br>
+
+                    <p>
+                    scene parsing , semantic segmentation, colorization </br>
+                    </br></br>
+                    Learning Deep Features for Scene Recognition</br>
+                    </br></br>
+                    DeepStereo: Learning to Predict New Views from the World's Imagery</br>
+                    Data-driven Visual Similarity for Cross-domain Image Matching</br>
+                    </br></br>
+                    Learning a Probabilistic Latent Space of Object Shapes</br>
+                    via 3D Generative-Adversarial Modeling</br>
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider08">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- Slide Section -->
+    <section id="slider08" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 08 -</h6>
+                    </br></br>
+                    <h3>Deep neural network</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_04.jpg" class="img-fluid" width="600px">
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider09">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider09" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 09 -</h6>
+                    </br></br>
+                    <h3>LeNet-5</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_05.jpg" class="img-fluid" width="600px"><br><br>
+                    <img src="img/img_v_06.jpg" class="img-fluid" width="400px"><br><br>
+
+                    [LeCun et al 2012]<br>
+                    Conv filters were 5x5, applied at stride 1<br>
+                    Subsampling (Pooling) layers were 2x2 applied at stride 2<br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider10">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider10" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 10 -</h6>
+                    </br></br>
+                    <h3>AlexNet</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_07.jpg" class="img-fluid" width="600px"><br><br>
+
+
+
+                    [krizhevsky et al 2012]<br>
+
+                    Input: 227 X 227 X 3 images<br>
+                    ReLu, dropout<br>
+                    7 CNN ensemble:  2.8 reduction of error  18.2% -> 15.4%<br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider11">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider11" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 11 -</h6>
+                    </br></br>
+                    <h3>GoogLeNet</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_08.jpg" class="img-fluid" width="700px"><br><br>
+                    <img src="img/img_v_09.jpg" class="img-fluid" width="500px"><br><br>
+
+
+
+                    [Szegedy et al., 2014]<br>
+
+                    Inception module<br>
+                    ILSVRC 2014 winner (6.7% top 5 error)<br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider12">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider12" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 12 -</h6>
+                    </br></br>
+                    <h3>ResNet</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_10.jpg" class="img-fluid" width="800px"><br><br>
+
+                    
+                    [He et al., 2015]<br>
+
+                    Xavier/2 initialization from He et al.<br>
+                    No dropout used<br>
+                    ILSVRC 2015 winner (3.6% top 5 error)<br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider13">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider13" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 13 -</h6>
+                    </br></br>
+                    <h3>Siamese net</h3>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_11.jpg" class="img-fluid" width="800px"><br><br>
+
+                    
+                    Siamese networks for image ranking/retrieval<br>
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider14">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider14" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 14 -</h6>
+                    </br></br>
+                    <h3>Case study: 3D modeling</h3>
+                    </br>
+
+                    <p>
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider15">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider15" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 15 -</h6>
+                    </br></br>
+                    <h3>Polygonal model(mesh)</h3>
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_12.jpg" class="img-fluid" width="600px"><br><br></br>
+
+                    How they construct:</br>
+                    Adding or removing Vertex and its connectivity in a space</br></br>
+
+                    Data:</br>
+                    Containing point and its connectivity including normal, UV and so on</br>
+
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider16">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider16" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 16 -</h6>
+                    </br></br>
+                    <h3>PNURBS(Non-uniform rational B-spline)</h3>
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_13.jpg" class="img-fluid" width="600px"><br><br></br>
+
+                    </br>
+
+                    How they construct:</br>
+                    Define mathematical model for curves or surfaces</br></br>
+
+                    Data:</br>
+                    Control points, Knot vector, and Positional, tangential and curvature continuity </br>
+
+
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider17">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider17" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 17 -</h6>
+                    </br></br>
+                    <h3>Connectivity</h3>
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_14.jpg" class="img-fluid" width="500px"><br><br></br>
+
+                    </br>
+
+                    Connectivity or data dependency , relational data base </br>
+                    - Like Graph model or BIM : how they are related in a space  </br>
+
+
+
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider18">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider18" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 18 -</h6>
+                    </br></br>
+                    <h3>connectivity comparison</h3>
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_15.jpg" class="img-fluid" width="554px"><br><br></br>
+
+                    </br>
+
+                    voxel & pixel</br></br>
+                    dense representation</br>
+                    continuous information</br>
+                    implicit relations due to proximity [neighbors]</br></br></br>
+
+
+                    Mesh (graph like structure)</br></br>
+                    sparse representation</br>
+                    discrete points or information</br>
+                    explicit relations </br>
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider19">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider19" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 19 -</h6>
+                    </br></br>
+                    <h3>pixel as a data structure</h3>
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_16.jpg" class="img-fluid" width="900px"><br><br></br>
+                    <img src="img/img_v_17.gif" class="img-fluid" width="900px"><br><br></br>
+                    </br>
+
+
+                    - Pixel is point like feature, this pixelated grid carries the information </br>
+                    and help to do position.</br></br>
+                    - the idea pixelated or voxelated space  allows describe  properties that derived </br>
+                      by point to point in space.</br>
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider20">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider20" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 20 -</h6>
+                    </br></br>
+                    <!-- <h3>pixel as a data structure</h3> -->
+                    </br></br>
+
+                    <p>
+                    <img src="img/img_v_18.gif" class="img-fluid" width="400px"><br>
+                    capturing spatial data in pixel
+                    <br></br>
+                    <img src="img/img_v_19.gif" class="img-fluid" width="400px"><br>
+                    real time curvature analysis on pixel map
+
+                    <br></br>
+                    </br>
+
+
+
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider21">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider21" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 21 -</h6>
+                    </br>
+
+                    <p>
+                    <img src="img/img_v_20.gif" class="img-fluid" width="700px"><br>
+                    forward propagation: <br>
+                    Walker-ability for urban energy modeling
+                    <br></br>
+                    <img src="img/img_v_21.gif" class="img-fluid" width="400px"><br>
+                    Properties : 
+                    distance</br>
+                    slope </br>
+                    retail</br>
+                    tree(park)</br>
+                    outdoor Thermal Comfort</br>
+                    view ... </br>
+
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider22">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider22" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 22 -</h6>
+                    </br>
+                    <h3> Voxel (Volumetric Element) </h3><br>
+                    <p>
+                    <img src="img/img_v_22.jpg" class="img-fluid" width="800px"><br><br>
+                    <br>
+                    - Voxel could be considered as a set of image(pixel)<br>
+
+                    Voxel is a 3 dimensional grid containing pixels can have rich data set including R, G, B, A values. <br>
+                    It is frequently utilized for visualization of scientific or medical data which is needed for volumetric representation.<br><br>
+
+                    Voxel for geometry in space is a discretized space of geometry <br>
+                    where it has a beam or node are connecting but as a continuous map in space. <br>
+                    This is basically an idea that an object become a 3 dimensional map.<br>
+
+
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider23">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider23" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 23 -</h6>
+                    </br>
+                    <h3> voxel from image </h3><br>
+                    <p>
+                    <img src="img/img_v_23.gif" class="img-fluid" width="700px"><br>
+                    <img src="img/img_v_24.gif" class="img-fluid" width="400px"><br><br>
+                    Mesh rasterization</br>
+                    Construction from sequence images</br>
+                    capture data</br>
+                    ...</br>
+
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider24">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider24" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 24 -</h6>
+                    </br>
+                    <h3> voxel with blending </h3><br>
+                    <p>
+                    <img src="img/img_v_25.gif" class="img-fluid" width="400px">
+                    <img src="img/img_v_26.gif" class="img-fluid" width="300px"><br>
+                    Blending modes</br>
+                    Threshold</br>
+                    Brushing</br>
+                    Filter: Smoothing and so on</br>
+                    ...</br>
+
+                    </p>
+                    </br>
+                    <a class="btn btn-default page-scroll" href="#METHODOLOGY">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="METHODOLOGY" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 25 -</h6>
+                    </br></br></br></br></br></br>
+                    <h1> METHODOLOGY </h1><br>
+                    <p>
+
+
+                    </p>
+                    </br></br></br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider26">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider26" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 26 -</h6>
+                    </br>
+                    <h3> OVERVIEW </h3><br>
+                    <p>
+                    <img src="img/img_v_27.jpg" class="img-fluid" width="500px"><br><br>
+
+                    design workflow <br>
+                    Machine Learning with Voxel <br>
+
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider27">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider27" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 27 -</h6>
+                    </br>
+                    <h3> voxel with blending </h3><br>
+                    <p>
+                    <img src="img/img_v_28.jpg" class="img-fluid" width="700px"></br></br>
+  
+                    design workflow </br>
+                    Machine Learning with Voxel </br>
+                    
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider28">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider28" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 28 -</h6>
+                    </br>
+                    <h3> rasterization (vector to bitmap)</h3><br>
+                    <p>
+                    <img src="img/img_v_29.gif" class="img-fluid" width="500px"></br>
+                    rendering</br></br>
+                    <img src="img/img_v_30.gif" class="img-fluid" width="500px"></br>
+                    slice mesh with Monolith</br></br>
+
+
+                    </br>
+                    
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider29">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider29" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 29 -</h6>
+                    </br>
+                    <h3> train </h3><br>
+                    <p>
+                    <img src="img/img_v_31.jpg" class="img-fluid" width="700px"></br></br>
+
+                    5 classes and 1,000 images for each class </br>
+                    capture all possible angle along X, Y and Z axis</br>
+                    
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider30">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider30" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 30 -</h6>
+                    </br>
+                    <h3> train </h3><br>
+                    <p>
+                    <img src="img/img_v_32.jpg" class="img-fluid" width="500px"></br></br>
+
+                    train : 3,200 images (random)</br>
+                    validation : 800 images (random)</br></br>
+
+                    optimization</br>
+                    Adam Optimizer</br>
+                    Gradient Descent Optimizer</br>
+                    Momentum Optimizer</br>
+                    Proximal Gradient Descent Optimizer</br>
+                    Ftrl Optimizer</br>
+                    RMSProp Optimizer</br>
+
+
+                    
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider31">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider31" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 31 -</h6>
+                    </br>
+                    <h3> optimizer comparison </h3><br>
+                    <p>
+                    <img src="img/img_v_33.jpg" class="img-fluid" width="900px"></br></br>
+
+                    
+                    </p>
+                    </br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider32">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider32" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 32 -</h6>
+                    <p>
+                    <img src="img/img_v_34.jpg" class="img-fluid" width="1200px"></br></br>
+                    </p>
+                    </br></br>
+                    <a class="btn btn-default page-scroll" href="#slider33">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Slide Section -->
+    <section id="slider33" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 33 -</h6>
+                    </br>
+                    <h3> optimizer comparison </h3><br>
+                    <p>
+                    <img src="img/img_v_35.jpg" class="img-fluid" width="900px"></br></br>
+
+                    
+                    </p>
+                    </br></br></br></br>
+                    <a class="btn btn-default page-scroll" href="#slider34">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider34" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 34 -</h6>
+                    </br>
+                    <h3> train data exploration </h3><br>
+                    <p>
+                    <img src="img/img_v_36.jpg" class="img-fluid" width="900px"></br></br>
+
+                    
+                    </p>
+                    </br></br>
+                    <a class="btn btn-default page-scroll" href="#slider35">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider35" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 35 -</h6>
+                    </br>
+                    <h3> outline and background experimentation </h3><br><br>
+                    <p>
+                    <img src="img/img_v_37.jpg" class="img-fluid" width="900px"></br></br>
+
+                    clear outline when resize (224X224)
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider36">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider36" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 36 -</h6>
+                    </br>
+                    <h3> optimization </h3><br><br>
+                    <p>
+                    <img src="img/img_v_38.jpg" class="img-fluid" width="700px"></br></br>
+
+                    data_mean = np.asarray([0.5,0.5,0.5])
+                    image = image - self.data_mean
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider37">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider37" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 37 -</h6>
+                    </br>
+                    <h3> rasterization of degree and resolution </h3><br><br>
+                    <p>
+                    <img src="img/img_v_39.jpg" class="img-fluid" width="700px"></br></br>
+
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider38">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider38" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 38 -</h6>
+                    </br>
+                    <h3> rasterization of degree and resolution </h3><br><br>
+                    <p>
+                    <img src="img/img_v_40.gif" class="img-fluid" width="500px">
+                    <img src="img/img_v_41.gif" class="img-fluid" width="500px"></br></br>
+                    180 degree of object’s facade</br>
+                    or</br>
+                    380 degree along X, Y and Z axis</br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider39">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider39" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 39 -</h6>
+                    </br>
+                    <h3> rasterization of chair for ranking </h3><br><br>
+                    <p>
+                    <img src="img/img_v_42.jpg" class="img-fluid" width="700px"><br>
+
+                    design workflow <br>
+                    Machine Learning with Voxel <br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider40">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider40" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 40 -</h6>
+                    </br>
+                    <h3> class </h3><br><br>
+                    <p>
+                    <img src="img/img_v_43.jpg" class="img-fluid" width="700px"><br>
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider41">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider41" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 41 -</h6>
+                    </br>
+                    <h3> train images for each class </h3><br><br>
+                    <p>
+                    <img src="img/img_v_44.jpg" class="img-fluid" width="700px"><br>
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider42">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider42" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 42 -</h6>
+                    </br>
+                    <h3> network and properties </h3><br><br>
+                    <p>
+                    <img src="img/img_v_45.jpg" class="img-fluid" width="700px"><br><br>
+                    TRAIN PROPERTIES<br>
+                    class : 13<br>
+                    train images : 13,000 images<br>
+                    one iteration : 100 images<br>
+                    epoch : 1400 iterations<br>
+                    total iteration : 140,000  <br>
+                    network : originated from alexNet<br>
+                    framework: Tensorflow<br>
+                    optimizer: tf.train.AdamOptimizer<br>
+                    learning rate = 0.01<br>
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider43">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider43" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 43 -</h6>
+                    </br>
+                    <h3> validation </h3><br><br>
+                    <p>
+                    <img src="img/img_v_46.jpg" class="img-fluid" width="900px"><br><br>
+
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider44">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider44" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 44 -</h6>
+                    </br>
+                    <h3> result </h3><br><br>
+                    <p>
+                    <img src="img/img_v_47.jpg" class="img-fluid" width="600px"><br><br>
+                    <img src="img/img_v_48.jpg" class="img-fluid" width="600px"><br><br>
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider45">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider45" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 45 -</h6>
+                    </br>
+                    <h3> ranking and geometry blending </h3><br><br>
+                    <p>
+                    <img src="img/img_v_49.jpg" class="img-fluid" width="600px"><br><br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider46">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider46" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 46 -</h6>
+                    </br>
+                    <h3> train image for detecting rotation degree </h3><br><br>
+                    <p>
+                    <img src="img/img_v_50.gif" class="img-fluid" width="600px"><br><br>
+                    <img src="img/img_v_51.jpg" class="img-fluid" width="600px"><br><br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider47">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider47" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 47 -</h6>
+                    </br>
+                    <h3> geometry blending </h3><br><br>
+                    <p>
+                    <img src="img/img_v_52.jpg" class="img-fluid" width="800px"><br><br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider48">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider48" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 48 -</h6>
+                    </br>
+                    <h3> geometry blending </h3><br><br>
+                    <p>
+                    <img src="img/img_v_53.gif" class="img-fluid" width="200px"><br>
+                    result A
+                    <br><br>
+                    <img src="img/img_v_54.gif" class="img-fluid" width="200px"><br>
+                    result B
+                    <br><br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider49">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider49" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 49 -</h6>
+                    </br>
+                    <h3> blend modes </h3><br>
+                    Multiply   >   Screen >   Overlay   >   Hard Light   >   Soft Light<br>
+                    <p>
+                    <img src="img/img_v_55.gif" class="img-fluid" width="200px"><br>
+                    <br><br>
+                    Blend<br>
+                    f(a,b, blend ) = a (1.0 - blend ) + b * blend<br>
+                    <br>
+                    Multiply<br>
+                    f(a,b) = ab<br>
+                    <br>
+                    Screen<br>
+                    f(a,b) = 1 - ( 1 - a ) ( 1 - b ) <br>
+                    <br>
+                    Overlay<br>
+                    f(a,b) = 2ab , if a < 0.5<br>
+                    f(a,b) = 1 - 2 ( 1 - a ) ( 1 - b ) , if a > 0.5<br>
+                    <br>
+                    Soft Light<br>
+                    f(a,b) = 2ab + a^2 (1 - 2b) , if a < 0.5<br>
+                    f(a,b) = 2a (1-b) + sqrt(a) ( 2b - 1) , if a > 0.5<br>
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider50">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider50" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <h6>- SLIDE 50 -</h6>
+                    </br>
+                    <br><br>
+                    Multiply   >   Screen >   Overlay   >   Hard Light   >   Soft Light<br>
+                    <p>
+                    <img src="img/img_v_56.gif" class="img-fluid" width="300px"><br>
+                    <br><br>
+
+                    </p>
+                    </br></br><br>
+                    <a class="btn btn-default page-scroll" href="#slider51">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider51" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 51 -</h6>
+                    </br>
+                    <h3> blend by transform </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_57.gif" class="img-fluid" width="500px"><br>
+                    <br><br>
+                    position<br>
+                    rotation<br>
+                    scale<br>
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider52">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider52" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 52 -</h6>
+                    </br>
+                    <h3> WORKFLOW B  WITH VOXEL MODEL  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_58.jpg" class="img-fluid" width="800px"><br>
+                    <br><br>
+                    design workflow <br>
+                    Machine Learning with Voxel<br>
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider53">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider53" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 53 -</h6>
+                    </br>
+                    <h3> voxel to mesh</h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_59.gif" class="img-fluid" width="300px">
+                    &ensp;&ensp;&ensp;&ensp;
+                    <img src="img/img_v_60.jpg" class="img-fluid" width="200px">
+                    &ensp;&ensp;&ensp;&ensp;
+                    <img src="img/img_v_61.gif" class="img-fluid" width="300px">      
+                    <br><br>
+                    voxelated by slicing  <br>
+                    mesh reconstruction by voxel <br>
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider54">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider54" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 54 -</h6>
+                    </br>
+                    <h3> voxel to mesh</h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_62.jpg" class="img-fluid" width="200px">
+                    &ensp;&ensp;&ensp;&ensp;
+                    <img src="img/img_v_63.gif" class="img-fluid" width="200px">      
+                    <br><br>
+                    voxelated by slicing  <br>
+                    mesh reconstruction by voxel <br>
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider55">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider55" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 55 -</h6>
+                    </br>
+                    <h3> slicer</h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_64.gif" class="img-fluid" width="700px">    
+                    <br><br>
+                    voxel slicer, stand-alone <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider56">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider56" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 56 -</h6>
+                    </br>
+                    <h3> pix2pix </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_65.jpg" class="img-fluid" width="500px">    
+                    <br><br>
+                    <a href="https://github.com/phillipi/pix2pix ">https://github.com/phillipi/pix2pix </a>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider57">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider57" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 57 -</h6>
+                    </br>
+                    <h3> rasterization of geometry </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_66.jpg" class="img-fluid" width="400px">    
+                    <br><br>
+
+
+                    <br>
+                    Voxelated geometry
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider58">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider58" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 58 -</h6>
+                    </br>
+                    <h3> result with different line widths </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_67.jpg" class="img-fluid" width="600px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider59">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider59" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 59 -</h6>
+                    </br>
+                    <h3> epoch </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_68.jpg" class="img-fluid" width="600px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider60">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider60" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 60 -</h6>
+                    </br>
+                    <h3> overfitting </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_69.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider61">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider61" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 61 -</h6>
+                    </br>
+                    <h3> resolution of voxel </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_70.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider62">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider62" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 62 -</h6>
+                    </br>
+                    <h3> result </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_71.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider63">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider63" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 63 -</h6>
+                    </br>
+                    <h3> train with primitive geometry </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_72.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider64">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider64" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 64 -</h6>
+                    </br>
+                    <h3> result </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_73.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider65">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider65" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 65 -</h6>
+                    </br>
+                    <h3> result </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_74.jpg" class="img-fluid" width="700px">    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider66">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider66" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 66 -</h6>
+                    </br>
+                    <h3> possibly rebuilt geometry </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_75.jpg" class="img-fluid" width="400px"><br>
+                    <img src="img/img_v_76.gif" class="img-fluid" width="600px">     
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider67">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider67" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 67 -</h6>
+                    </br></br></br><br><br><br><br>
+                    <h3> train with depth </h3><br>
+                    <br>
+                    <p>   
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider68">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider68" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 68 -</h6>
+                    </br>
+                    <h3> train with depth image </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_77.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider69">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider69" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 69 -</h6>
+                    </br>
+                    <h3> validation with sketch  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_78.jpg" class="img-fluid" width="600px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider70">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider70" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 70 -</h6>
+                    </br>
+                    <h3> train with depth image  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_79.jpg" class="img-fluid" width="600px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider71">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider71" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 71 -</h6>
+                    </br>
+                    <h3> validation with depth image  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_80.jpg" class="img-fluid" width="400px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider72">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider72" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 72 -</h6>
+                    </br>
+                    <h3> result with sketch  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_81.jpg" class="img-fluid" width="400px"><br>  <br> <br>  
+                    <img src="img/img_v_82.gif" class="img-fluid" width="600px"><br>  
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider73">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Slide Section -->
+    <section id="slider73" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 73 -</h6>
+                    </br>
+                    <h3> reconstruction mesh from depth image by training  </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_83.jpg" class="img-fluid" width="200px"><br>    
+                    <br><br>
+                    <br>
+                    point cloud
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider74">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider74" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 74 -</h6>
+                    </br>
+                    <h3> Projection Transformation and Inverse Projection </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_84.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider75">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider75" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 75 -</h6>
+                    </br>
+                    <h3> reconstruction mesh from depth image by result </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_85.gif" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#VOXEL_BLENDING">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="VOXEL_BLENDING" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    </br></br></br></br></br></br></br></br></br>
+                    <h3> VOXEL BLENDING ( IN POST TRAIN) </h3><br>
+                    <br>
+                    <p>
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider76">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider76" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 76 -</h6>
+                    </br>
+                    <h3> different blending model and transformation </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_86.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider77">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider77" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 77 -</h6>
+                    </br>
+                    <h3> different blending model </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_87.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider78">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Slide Section -->
+    <section id="slider78" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 78 -</h6>
+                    </br>
+                    <h3> different blending values </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_88.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider79">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Slide Section -->
+    <section id="slider79" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 79 -</h6>
+                    </br>
+                    <h3> different blending values with rotation </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_89.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider80">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+        <!-- Slide Section -->
+    <section id="slider80" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 80 -</h6>
+                    </br>
+                    <h3> different blending with depth at different angles </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_90.jpg" class="img-fluid" width="700px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider81">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+        <!-- Slide Section -->
+    <section id="slider81" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 81 -</h6>
+                    </br>
+                    <h1> POSSIBLE IMPLEMENTATION </h1><br>
+                    <br>
+                    <p>
+<iframe width="1000" height="560" src="https://www.youtube.com/embed/dOPXHhzRbhs" frameborder="0" allowfullscreen></iframe>  
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider82">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Slide Section -->
+    <section id="slider82" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    </br></br><br></br><br>
+                    </br>
+                    <h1> CONCLUSION </h1><br>
+                    <br>
+                    <p>   
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider83">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+    <!-- Slide Section -->
+    <section id="slider83" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 82 -</h6>
+                    </br>
+                    <h3> summary of problem statement </h3><br>
+                    <br>
+                    <p>
+                    <img src="img/img_v_91.jpg" class="img-fluid" width="800px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#slider84">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Slide Section -->
+    <section id="slider84" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+
+                    <h6>- SLIDE 83 -</h6>
+                    </br>
+                    <h3> summary of work flow </h3><br>
+                    <br><br><br>
+                    <p>
+                    <img src="img/img_v_92.gif" class="img-fluid" width="800px"><br>    
+                    <br><br>
+                    <br>
+
+                    </p>
+                    </br></br><br>
+
+                    <a class="btn btn-default page-scroll" href="#CONTRIBUTION">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+    <!-- Contact Section -->
+    <section id="CONTRIBUTION" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <br><br>
+                    <h1>contribution</h1>
+                    <br><br><br>
+                    training network for 3D geometry<br><br>
+                    volumetric representation with Machine Learning<br><br>
+                    mesh blending for design space, emerging meshes<br><br>
+                    use of repository of geometry<br><br>
+                    <br><br><br>
+                    <a class="btn btn-default page-scroll" href="#futureWorks">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="futureWorks" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <br><br>
+                    <h1>future works</h1>
+                    <br><br><br>
+                    3D convolutional neural networks for voxel<br><br>
+                    to contrive interface that use of geometry database to recreate mesh<br><br>
+                    optimization with structural and material analysis<br><br>
+                    interface how people use this workflow<br><br>
+                    <br><br><br>
+                    <a class="btn btn-default page-scroll" href="#OTHER">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+
+
+
+
+    <!-- Contact Section -->
+    <section id="OTHER" class="contact-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <br>
+                    <h1>REFERENCE</h1>
+
+                    NETWORK<br>
+                    LeNet-5 [LeCun et al 2012]<br>
+                    AlexNet [krizhevsky et al 2012]<br>
+                    pix2pix<br>
+                    <br><br>
+
+                    STAND-ALONE<br>
+                    Slicer<br>
+                    <br><br>
+
+                    3ds max<br>
+                    JSON export<br>
+                    environment setting(rendering and post-effecting)<br>
+                    ...<br>
+                    <br><br>
+
+                    Rhinio3D<br>
+                    IO for JSON<br>
+                    ...<br>
+                    <br><br>
+
+                    LIBRARY<br>
+                    Monolith, Millipede, openGL, python library for Machine Learning<br>
+                    <br><br>
+
+                    FRAMEWORKS<br>
+                    tensorflow<br>
+                    network: Alexnet, pix2pix, and others<br>
+                    <br><br>
+
+                    CAD SOFTWARE<br>
+                    3ds max, Rhino3d<br><br>
+                    ...<br>
+                    <br><br>
+
+                    CODE<br>
+                    c# python, maxscript, html, CSS, JS<br>
+
+                    <br><br>
+                    <a class="btn btn-default page-scroll" href="#OTHER-2">Next!</a>
+                    <br>
+                </div>
+            </div>
+        </div>
+    </section>
+    <!-- Contact Section -->
+    <section id="OTHER-2" class="services-section">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12">
+                    <br><br>
+                    <h1>adviser</h1>
+                    <br><br><br>
+                    Panagiotis Michalatos <br>  Harvard Graduate School of Design<br><br><br> 
+                    Takehiko Nagakura <br>  Massachusetts Institute of Technology
+                    
+                    <br><br><br> <br> <br> 
+                    <a class="btn btn-default page-scroll" href="#contact">Next!</a>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Contact Section -->
+    <section id="contact" class="contact-section">
+        <div class="container">
+            <div class="row" height="500">
+                <div class="col-lg-12">
+                    <br><br>
+                    <h1></h1> 
+                    <br><br><br><br> 
+                    <img src="img/gsdLogo.png" class="img-fluid" width="300px"><br><br><br><br>  
+                    NJ Namju Lee<br> <br> 
+                    Master in Design Studies(MDes), 2017<br><br> 
+                    nj.namju@gmail.com<br><br> 
+                    <br><br> <br> 
+                    <a href="http://www.njstudio.co.kr" id="link">www.njstudio.co.kr</a>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Scrolling Nav JavaScript -->
+    <script src="js/jquery.easing.min.js"></script>
+    <script src="js/scrolling-nav.js"></script>
+
+</body>
+
+</html>

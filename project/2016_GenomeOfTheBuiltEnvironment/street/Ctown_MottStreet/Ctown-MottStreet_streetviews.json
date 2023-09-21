@@ -1,0 +1,322 @@
+[
+    {
+        "bearing": 150.350003882385, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-0", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7167506612,-73.9977978209&cbp=12,460.350003882,0,0,6", 
+        "coordinates": [
+            -73.99779782089247, 
+            40.716750661150435
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-0_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 460.350003882385, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 148.57626524913346, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-1", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7166753185,-73.99784104&cbp=12,458.576265249,0,0,6", 
+        "coordinates": [
+            -73.99784104000088, 
+            40.71667531851458
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-1_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 458.5762652491335, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 149.8060995871115, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-2", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7166016137,-73.9978864201&cbp=12,459.806099587,0,0,6", 
+        "coordinates": [
+            -73.99788642006473, 
+            40.716601613679615
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-2_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 459.8060995871115, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 143.84382988775525, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-3", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7165279088,-73.9979296392&cbp=12,453.843829888,0,0,6", 
+        "coordinates": [
+            -73.99792963917315, 
+            40.71652790876305
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-3_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 453.84382988775525, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 148.57704148266336, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-4", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7164574795,-73.9979815021&cbp=12,458.577041483,0,0,6", 
+        "coordinates": [
+            -73.99798150210327, 
+            40.71645747954431
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-4_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 458.5770414826634, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 149.80685840680601, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-5", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7163837745,-73.9980268822&cbp=12,459.806858407,0,0,6", 
+        "coordinates": [
+            -73.9980268821671, 
+            40.71638377446816
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-5_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 459.806858406806, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 151.59819273602972, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-6", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7163100693,-73.9980701013&cbp=12,461.598192736,0,0,6", 
+        "coordinates": [
+            -73.99807010127553, 
+            40.716310069310424
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-6_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 461.5981927360297, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 147.37970519177514, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-7", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7162347262,-73.9981111594&cbp=12,457.379705192,0,0,6", 
+        "coordinates": [
+            -73.99811115942853, 
+            40.71623472617595
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-7_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 457.37970519177514, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 155.97933338975446, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-8", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7161610209,-73.9981587004&cbp=12,465.97933339,0,0,6", 
+        "coordinates": [
+            -73.99815870044779, 
+            40.7161610208532
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-8_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 465.97933338975446, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 142.7247080039017, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-9", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7160840397,-73.9981932757&cbp=12,452.724708004,0,0,6", 
+        "coordinates": [
+            -73.99819327573455, 
+            40.7160840396512
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-9_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 452.7247080039017, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 145.61600251339362, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-10", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.71601361,-73.9982472996&cbp=12,455.616002513,0,0,6", 
+        "coordinates": [
+            -73.99824729962006, 
+            40.71601360996289
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-10_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 455.6160025133936, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 159.1022709221456, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-11", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7159415423,-73.9982970016&cbp=12,469.102270922,0,0,6", 
+        "coordinates": [
+            -73.99829700159475, 
+            40.71594154229772
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-11_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 469.10227092214564, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 143.35837351168917, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-12", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7158629229,-73.998327255&cbp=12,453.358373512,0,0,6", 
+        "coordinates": [
+            -73.99832725497065, 
+            40.715862922937646
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-12_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 453.35837351168914, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 148.57942437734894, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-13", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7157908551,-73.9983812789&cbp=12,458.579424377,0,0,6", 
+        "coordinates": [
+            -73.99838127885617, 
+            40.71579085510937
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-13_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 458.5794243773489, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 145.61711473363775, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-14", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7157171493,-73.9984266589&cbp=12,455.617114734,0,0,6", 
+        "coordinates": [
+            -73.99842665892002, 
+            40.7157171492952
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-14_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 455.6171147336378, 
+        "heading_offset": 310
+    }, 
+    {
+        "bearing": 145.61735656092492, 
+        "imgsize": [
+            600, 
+            300
+        ], 
+        "node_id": "0-15", 
+        "pitch": 6, 
+        "maplayer": "Ctown-MottStreet", 
+        "fov": 70, 
+        "url": "http://maps.google.com/?layer=c&cbll=40.7156450813,-73.9984763609&cbp=12,455.617356561,0,0,6", 
+        "coordinates": [
+            -73.99847636089471, 
+            40.71564508130912
+        ], 
+        "filename": "StreetView_Ctown-MottStreet_0-15_310_6_70.png", 
+        "type": "StreetView", 
+        "heading": 455.6173565609249, 
+        "heading_offset": 310
+    }
+]

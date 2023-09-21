@@ -1,0 +1,436 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>Third Place Mobility Energy Consumption, Changing Places Group, MIT Media Lab </title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' rel='stylesheet' />
+    <script src="js/mapbox-gl-geocoder.js"></script>
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/queue.min.js"></script>
+    
+    <link href="css/main.css" rel="stylesheet">
+
+    <script src="js/mapbox-gl-geocoder.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Mobility Energy Consumption for Third place</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="index.html">summary</a>
+                    </li>
+                    <li>
+                        <a href="tool.html">tool</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/main_bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="page-heading">
+                        <h1>Third Place Mobility Energy Consumption</h1>
+                        <h2>Per Person</h2>
+                        <hr class="large">
+                        <span class="subheading">Changing Places Group, MIT Media Lab</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+
+                <h3>INTRODUCTIVE VIDEO</h3>
+                <hr>
+                <div class="container">
+                  <!-- <iframe width="1100" height="563" src="https://www.youtube.com/embed/FMBxHGcWrXA" frameborder="0" allowfullscreen></iframe> -->
+                  <iframe width="1100" height="620" src="https://www.youtube.com/embed/FMBxHGcWrXA" frameborder="0" allowfullscreen></iframe>
+                </div>
+                <hr>
+
+                <h3>BACKGROUND</h3> 
+                <p>
+                Energy is very essential resource in modern societies, Every major city in the earth consumes diverse type of energy such as fossil fuel, electrical energy, and etc at the expanse of our environment. Climate change has beome more important issu on modern society. However, everyday life , we need certin amout of energy to guarantee our live. Among the major energy consumption in cities, transform is major issue and it could be reduced.
+                </p>
+                <br>
+                
+                <div id="theImg">
+                  <img class="center" src="img/Energy consumption in selected cities in middle-income countries.jpg" width="800px" align="middle"> 
+                </div>
+                <p>
+                  <a href="http://www.rrojasdatabank.info/statewc08093.4.pdf" align="middle" target="_blank">reference link</a>
+                </p>
+                <p>
+                  Urban population is a lager than rula areas, is concentrated on a area to deal with in term of urban mobility. 
+                </p>
+                <div id="theImg">
+                  <img class="center" src="img/vis/PopulationDensityChart.jpg" width="800px" align="middle">
+                </div>
+                <p>
+                  <a href="https://people.hofstra.edu/geotrans/eng/ch8en/conc8en/urbanenergy.html" target="_blank" align="middle">reference link</a>
+                </p>
+                <p>
+                  In this project, mobility energy is considered as numerical data in urban context and compute them to find better way of understading tranfortation. Based on walkerable distance, the data in the graph are computed. 
+                </p>
+
+                <div id="theImg">
+                  <img class="center" src="img/vis/graph_MIT_01.png" width="800px" align="middle">
+                </div>
+                <p id="theContent">
+                analysis methods for mobility energy  per person<br>
+                within 1 min (80 meter, 0.0497097 mile)<br>
+                within 5 min (400 meter, 0.2485485 mile)<br>
+                within 10 min (800 meter, 0.497097 mile)<br>
+                within 20 min (1,600 meter 0.9941939 mile)<br>
+                </p>
+                <div id="theImg">
+                  <img class="center" src="img/GraphDistance_5_20.jpg" width="1300px" align="middle">
+                </div>
+
+
+                <hr>
+
+                <section id="mapdivCraigslist" class="bg-light-gray">
+                    <h3 class="section-heading">Data from Google Place</h3> 
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+                            <div id="popUp" class = "user-control" width="300px">
+                                <button id="theBtn" class="btn-default form-control" width="300px"> clear </button>
+                                <div id="maplog"><p> </p></div>
+                                <select id = "selection_01" class="form-control" width="300px"> 
+                                  <option id="menuData" selected>school</option>
+                                  <option id="menuData">airport</option>
+                                  <option id="menuData">plumber</option>
+                                  <option id="menuData">roofing_contractor</option>
+                                  <option id="menuData">atm</option>
+                                  <option id="menuData">meal_takeaway</option>
+                                  <option id="menuData">hair_care</option>
+                                  <option id="menuData">insurance_agency</option>
+                                  <option id="menuData">veterinary_care</option>
+                                  <option id="menuData">airport</option>
+                                  <option id="menuData">synagogue</option>
+                                  <option id="menuData">stadium</option>
+                                  <option id="menuData">movie_theater</option>
+                                  <option id="menuData">meal_takeaway</option>
+                                  <option id="menuData">doctor</option>
+                                  <option id="menuData">zoo</option>
+                                  <option id="menuData">electrician</option>
+                                  <option id="menuData">establishment</option>
+                                  <option id="menuData">funeral_home</option>
+                                  <option id="menuData">spa</option>
+                                  <option id="menuData">aquarium</option>
+                                  <option id="menuData">storage</option>
+                                  <option id="menuData">casino</option>
+                                  <option id="menuData">park</option>
+                                  <option id="menuData">courthouse</option>
+                                  <option id="menuData">hospital</option>
+                                  <option id="menuData">subway_station</option>
+                                  <option id="menuData">painter</option>
+                                  <option id="menuData">moving_company</option>
+                                  <option id="menuData">movie_rental</option>
+                                  <option id="menuData">embassy</option>
+                                  <option id="menuData">fire_station</option>
+                                  <option id="menuData">gym</option>
+                                  <option id="menuData">bicycle_store</option>
+                                  <option id="menuData">local_government_office</option>
+                                  <option id="menuData">book_store</option>
+                                  <option id="menuData">police</option>
+                                  <option id="menuData">florist</option>
+                                  <option id="menuData">museum</option>
+                                  <option id="menuData">lawyer</option>
+                                  <option id="menuData">car_rental</option>
+                                  <option id="menuData">real_estate_agency</option>
+                                  <option id="menuData">physiotherapist</option>
+                                  <option id="menuData">electronics_store</option>
+                                  <option id="menuData">hindu_temple</option>
+                                  <option id="menuData">car_dealer</option>
+                                  <option id="menuData">jewelry_store</option>
+                                  <option id="menuData">gas_station</option>
+                                  <option id="menuData">mosque</option>
+                                  <option id="menuData">liquor_store</option>
+                                  <option id="menuData">campground</option>
+                                  <option id="menuData">library</option>
+                                  <option id="menuData">university</option>
+                                  <option id="menuData">accounting</option>
+                                  <option id="menuData">travel_agency</option>
+                                  <option id="menuData">finance</option>
+                                  <option id="menuData">locksmith</option>
+                                  <option id="menuData">bank</option>
+                                  <option id="menuData">convenience_store</option>
+                                  <option id="menuData">health</option>
+                                  <option id="menuData">church</option>
+                                  <option id="menuData">bakery</option>
+                                  <option id="menuData">lodging</option>
+                                  <option id="menuData">laundry</option>
+                                  <option id="menuData">shopping_mall</option>
+                                  <option id="menuData">dentist</option>
+                                  <option id="menuData">store</option>
+                                  <option id="menuData">cemetery</option>
+
+                                </select>
+                            </div>
+
+                    </div>
+                    <p>
+                    Google Place data are mapped as Graph and pixel covering Kendall Station so that the it internally compute and  
+                    </p>
+                    <p>
+                    Type of query:
+                    </p>
+                    <p id="theContent">
+                        'parking', 'veterinary_care', 'airport', 'plumber', 'roofing_contractor', 'atm', 'meal_takeaway', 'hair_care', 'insurance_agency', 'school', 'synagogue', 'stadium', 'movie_theater', 'doctor', 'zoo', 'electrician', 'establishment', 'funeral_home', 'spa', 'aquarium', 'storage', 'casino', 'park', 'courthouse', 'hospital', 'subway_station', 'painter', 'moving_company', 'movie_rental','embassy', 'fire_station', 'gym', 'bicycle_store', 'local_government_office', 'book_store', 'police', 'florist', 'museum', 'lawyer', 'car_rental','real_estate_agency', 'physiotherapist', 'electronics_store', 'hindu_temple','car_dealer', 'jewelry_store', 'gas_station', 'mosque', 'liquor_store', 'campground', 'library', 'university', 'accounting', 'travel_agency', 'finance', 'locksmith', 'bank','convenience_store', 'health', 'church', 'bakery', 'lodging', 'laundry', 'shopping_mall', 'dentist', 'store', 'cemetery'
+                    </p>
+                     <div id="map" class="embed-responsive embed-responsive-16by9">
+                    <img class="center" src="img/googlePlace_Web_01.jpg" width="1140px" align="middle">
+                    </div>
+                    <!-- </div> -->
+                </section>
+
+
+                <hr>
+                <section id="mapdivCraigslist" class="bg-light-gray">
+                    <h3 class="section-heading">query reduction</h3>
+                    <h4>For Third place in Cambridge, MA</h4> 
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+
+                      <p> Places from the selected node</p>
+                      <p>
+                        Facilities 
+                        <p id="theContent">'accounting','bank', 'post_office','library','finance','laundry']</p>
+                        Amusement 
+                        <p id="theContent">'amusement_park', "zoo",'aquarium','art_gallery','spa','stadium', 'rv_park', 'park','museum','movie_theater', 'night_club'</p>
+                        Health
+                        <p id="theContent">'doctor','hair_care','health', 'hospital','gym']</p>
+                        Store 
+                        <p id="theContent">'clothing_store','convenience_store','department_store', 'shoe_store', 'store', 'liquor_store',  'grocery_or_supermarket','hardware_store', 'beauty_salon','bicycle_store','book_store','home_goods_store', 'electronics_store', 'furniture_store',"shopping_mall"</p>
+                        Food
+                        <p id="theContent">'meal_delivery','meal_takeaway', 'food',"restaurant",'bakery','cafe', 'bar']</p>
+                        Transportation 
+                        <p id="theContent">'taxi_stand', "subway_station", 'train_station','bus_station', 'parking', ]</p>
+                      </p>
+                      <br>
+
+
+                    </div>
+                </section>
+
+                <section id="siteSelection" class="bg-light-gray">
+                    <hr>
+                    <h3 class="section-heading">Site Selection</h3>
+                    <h5>For Third place in Cambridge, MA</h5> 
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+                      <p>Site Selection and Third place mobility visualization</p>
+                        <img class="center" src="img/site_01.jpg" width="950px" align="middle">
+                    </div>
+                </section>
+
+                <section id="siteSelection" class="bg-light-gray">
+                    <h5 class="section-heading">Data Visualization</h5>
+                      <p align="middle">Mobility for Third place on each site</p>
+                        <img class="center" src="img/11.gif" width="950px" align="middle">
+                      <p align="middle">Mobility for Third place on each site</p>
+                        <img class="center" src="img/44.gif" width="950px" align="middle">
+                        <img class="center" src="img/55.gif" width="950px" align="middle">
+                </section>
+
+                <section id="siteSelection" class="bg-light-gray">
+                    <h5 class="section-heading">Comparison</h5>
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+                      <p align="middle">Mobility for Third place on each site</p>
+                        <img class="center" src="img/plot_01_01.jpg" width="950px" align="middle">
+                    </div>
+                </section>
+
+                <section id="siteSelection" class="bg-light-gray">
+                    <!-- <h5 class="section-heading">Heat Map and comparison</h5>    -->
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+                        <p align="middle">comparison for 5min, 10min, and 15min</p>
+                        <img class="center" src="img/plot_01_03.jpg" width="950px" align="middle">
+                        <p align="middle">Heat Map for Third Density</p>
+                        <img class="center" src="img/plot_01_02.jpg" width="950px" align="middle">
+                    </div>
+                    <hr>
+ 
+                </section>
+
+
+                <section id="mapdivCraigslist" class="bg-light-gray">
+                    <h3 class="section-heading">summary</h3> 
+                    <div id="map" class="embed-responsive embed-responsive-16by9">
+                      <h4> Mobility Energy Consumption</h4>
+                      <p>
+                        Basically, as to Mobility Energy Consumption in urban, it could be measured by computing Third place. In this research, the assumption is that 5 min, 10 min to 10 min walkable place could be considered as an identical area so that it can be characterized and visualized as a radar plot.
+                      </p>
+                      <h4>Data manipulation</h4>
+                      <p>
+                        Google Place is harnessed as key data for Third place in the areas, and Graph structure is utilized for data manipulation. Node in the Graph has a its own Google Place data within distance, and Edge is for computing distance in the urban network of the city.
+                      </p>
+                      <h4>Data visualization</h4>
+                      <p>
+                        For Harvard Square, high density is shown compared to other places for example there are 110 food places in 5-min walkerable areas. For Volpe Center, the number of food place start from 6 places. However, it is rapidly increased due to the Cambridge Side Galleria.  
+                      </p>
+                      <h4>Conclusion</h4>
+                      <p>
+                        This research reveals the Mobility Energy Consumption for Third place. Thus, it allows designer to improve the Mobility Energy by remove or add the place catabolized into 1: Facilities, 2: Amusement, 3: Health, 4: Store, 5: Transportation.
+                      <p>
+
+                    </div>
+                </section>
+
+
+            </div>
+        </div>
+    </div>
+
+    <div class="container">
+          <div class="row">
+              <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+              <hr>
+
+                  <div>
+                    <ul class="pager col-lg-6">
+                        <li class="previous">
+                            <a href="index.html">&larr; 1:summary</a>
+                        </li>
+                    </ul>
+                  </div>
+                  <div>
+                     <ul class="pager col-lg-6">
+                        <li class="next">
+                            <a href="tool.html"> 2:Tool &rarr;</a>
+
+                        </li>
+                    </ul>
+                  </div>
+              </div>
+
+        </div>
+  </div>
+
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+        <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+           <div class="row">
+                <div class="col-lg-12 text-center">
+                <hr>
+                    <h3 class="section-heading">Credits</h3>
+                    <p class="section-subheading text-muted">Prof. Kent Larson<br>
+                                                             Changing Places Group, MIT Media Lab
+                    </p>
+                </div>
+            
+                <div class="row col-lg-12 text-center">
+                    <div class="col-sm-12">
+
+                            <div class="team-member">
+                                <p class="section-subheading text-muted">NJ Namju Lee<br>
+                                                                         Harvard GSD
+                                </p>
+                            </div>
+
+                    </div>
+                </div>
+          </div>
+        </div>
+        </div>
+    </footer>
+
+
+  
+
+    <!-- Footer -->
+    <footer>
+    <hr>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <p class="copyright text-muted">Mobility Energy Consumption, Changing Places Group, MIT Media Lab </p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+
+    <script src="js/MapboxGLGooglePlace.js"></script>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+    <script src="js/main.js"></script>
+
+</body>
+
+</html>

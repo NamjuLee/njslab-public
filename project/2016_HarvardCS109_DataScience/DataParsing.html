@@ -1,0 +1,307 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CS109 Data Science, Harvard</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/vis.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' rel='stylesheet' />
+    <script src="js/mapbox-gl-geocoder.js"></script>
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/d3pie.js"></script>
+
+
+    <script src="js/queue.min.js"></script>
+    <link href="css/main.css" rel="stylesheet">
+    <script src="js/mapbox-gl-geocoder.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Summary</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="DataParsing.html">Data Parsing</a>
+                    </li>
+                    <li>
+                        <a href="DataExploration.html">Data Exploration</a>
+                    </li> 
+                    <li>
+                        <a href="MachineLearningHousing.html">Learning Housing Price</a>
+
+                    </li>
+                    <li>
+                        <a href="MachineLearningRenting.html">Learning Renting Price</a>
+                    </li>
+                    <li>
+                        <a href="Conclusion.html">Conclusion</a>
+                    </li>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/about-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="page-heading">
+                        <h1 align="middle">Parsing, cleaning and<br>data structure</h1>
+                        <span class="subheading">data from google street view, google place, Craigslist Boston, and Zillow.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <h2 class="section-heading">SECTION 1 DATA </h2>
+                <p>
+                    There are two different data sets: 1) social economic data representing city of boston as a social aspect such as land price, crime, energy usage, and so on, 2) Urban spatial data representing city of boston as a urban 
+                </p>
+                <hr>
+                <h3>Social Economic Data:</h3>
+                <p>
+                  Renting Prices Data From <a href="https://www.trulia.com/" target="_blank">Trulia</a> [Jupyter Notebook]: <a href="JupyterNotebook/Section_1_Parse/Step_1_Parse_RentDataFromTrulia.ipynb" target="_blank">download</a><br>
+                  data type : <i> numeric and category </i><br>
+                  featrues: <i>umber of room and bathroom, zip, address, date, rent price, SQFT(Square Foot/Feet)</i>
+    
+                </p>
+                <p>
+                  Housing Prices Data From <a href="http://www.zillow.com/" target="_blank">Zillow</a> [Jupyter Notebook]: <a href="JupyterNotebook/Section_1_Parse/Step_1_Parse_HosingDataFromZillow.ipynb" target="_blank">download</a><br>
+                  data type : <i>numeric and category</i> <br>
+                  featrues: <i>geographic coordinate, last_sold_price, number of bathrooms and bedrooms, zestimate amount, prices, property size, zip, tax year, status, address, last sold date, tax value, year built, home_size, home_type, property</i>
+                </p>
+                <p>
+                  Energy data in Boston from <a href="https://data.cityofboston.gov/" target="_blank">Boston Data</a> [csv]: <a href="data/_buildingEnergy.csv" target="_blank">download</a><br>
+                  data type: <i>numeric and category</i> <br>
+                  featrues: <i>Site EUI, geographic coordinate, Tax Parcel, Years Repo, Site Energ, ZIP, ShapeSTLen, Energy Star, Pct Gas, Reported, Pct_Electr, Address, GHG Intens, Year Built, Property T, Water Inte</i>
+                </p>
+                <p>
+                  Crime data in Boston from <a href="https://data.cityofboston.gov/" target="_blank">Boston Data</a> [JSON]: <a href="data/_CrimeData.json" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>year, type of crime, geographic coordinate</i>
+                </p>
+                 <p>
+                  Poperties Assessment in Boston from <a href="http://boston.craigslist.org/" target="_blank">Boston Craigslist</a> [JSON]: <a href="data/_Property_Assessment_2016_Vis" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>average land values, geographic coordinate</i>
+                </p>
+                 <p>
+                  House and Room post data in Boston from <a href="http://boston.craigslist.org/" target="_blank">Boston Craigslist</a> [JSON]: <a href="data/_CraigslistData.json" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>date, title of post, content of post, geographic coordinate</i>
+                </p>
+
+
+
+
+                <hr>
+                <h3>Urban spatial Data :</h3>
+                <p>
+                  google place from <a href="https://developers.google.com/places/" target="_blank">Google place API</a> [Jupyter Notebook]: <a href="JupyterNotebook/Section_1_Parse/Step_1_Parse_RentDataFromTrulia.ipynb" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>geographic coordinate, type of places(school, food, MBTA, etc.. )</i>
+                </p>
+                <p>
+                  google street view from <a href="https://developers.google.com/maps/documentation/streetview/" target="_blank">Google street API</a> [Jupyter Notebook]: <a href="JupyterNotebook/Section_1_Parse/Step_1_Parse_googlePlace.ipynb" target="_blank">download</a><br>
+                  [JSON]: <a href="data/_GooglePlaceData.json" target="_blank">download</a><br>
+                  data type: <i>image</i> <br>
+                  featrues: <i>RGB values and mathematical numerical features</i>
+                </p>
+            </div>
+        </div>
+  </div>
+
+
+
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <hr>
+                <h2 class="section-heading">SECTION 2 DATA STRUCTURE FOR MANIPULATION </h2>
+                <p>
+                    In order to process more complex data than one datum internally, data structure is necessary. Unlike the well know data array such SQL (Structured Query Language) as Tabular matrix like CSV (Comma Separated Values), TSV (Tab Separated Values), or such NoSQL (No Structured Query Language) as JSON (JavaScript Object Notation) or graph structure, a data structure should be interactive and computable with its data sets and neighbor or connected data sets as efficient as possible.
+                </p>
+
+
+
+                <hr>
+                <h3>Data Processing :</h3>
+                <p> 
+                On top of the top down data, the bottom-up data(post processing of google street views) can be map for predicting housing price. This is currently being processed and haven’t being analyzed yet.
+                To process the google street view data, there are two data structures(pixel and graph data  structure) where individual data are populated and calculated.Pixel data structure is a matrix, discretizing a urban or district into a finite setting for analysis, in which each pixel has the relationship with its neighbors, and each one computes its own data on the basis of neighbors’ settings, so that urban data can be naturally addressed and computed  in spatial context.<p>
+
+                <hr>
+                <h3>Pixel Structure :</h3>
+                <p>
+                Pixel Data structure based on two-dimension matrix array consists of individual pixel which contain diverse data internally. As a parent of each pixel in the hierarchy, the pixel structure governs and controls computing and emerging the new data by processing not only its child pixel but also its neighbors. Just like image processing, the data affect their neighbors based on given algorisms so that the effect of data in the given relationships appear and emerge new pattern of data.
+                </p>
+                <div id="theImg"><img class="center" src="img/C_img_Pixel_01.jpg" align="middle"></div>    
+                <br>   
+                <div id="theImg"><img class="center" src="img/C_img_Pixel_GIF_01.gif" align="middle" width="1000px"></div> 
+                <p>example: data blending in pixel structure </p>
+                <br>
+                <div id="theImg">
+                    <img class="center" src="img/vis/bostonGISandPixelMap.jpg" align="middle" height="400px">    
+                </div>
+                <p>So that individual data can live in the closest pixel and make its relationship with neighbor in the pixels of City of Boston.</p>
+                <hr>
+                <h3>Graph Structure :</h3>
+                <p>
+                As a similar technic, Graph data structure could be deployed. Graph structure is mathematical objects that consist of nodes and edges, and are widely used to represent relational data structures. The street network of urban, street, highway or the subway map are examples of objects whose graphs closely resemble their physical form. Thus, the structure will deploy to process urban data in spatial relationships in order to produce features for the house prediction model. 
+                </p>
+                <div id="theImg"><img class="center" src="img/C_img_Graph_01.jpg" align="middle"></div>
+                <div id="theImg">
+                    <img class="center" src="img/C_img_Graph_Gif_01.gif" align="middle" height="400px">
+                </div>
+                <p> example: Graph interacting with computing data in each nodes, and visualizing its path from a node to a node </p>
+                <div id="theImg">
+                    <img class="center" src="img/C_img_Graph_Gif_02.gif" align="middle" height="400px">    
+                </div>
+                <p> example: Graph interacting with orphan nodes computing internal data based on the change </p>
+                <p> Thus, Graph makes it possible to deal with the relationship between the Google Place map and each pixel locations, not based on Euclidean distance, but based on Manhattan Distance within roads and street in the Boston, so that it is able to compute the actual distance in the urban context.</p>
+                <hr>
+            </div>
+        </div>
+  </div>
+
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                <h2 class="section-heading">SECTION 3 SUMMARY </h2>
+                <p>
+                <div id="theImg">
+                    <img class="center" src="img/vis/bostonGISandPixelMapPixel.jpg" align="middle" height="400px">    
+                </div>
+
+
+                    Basically, these data are stored in the discretized gird capturing city of Boston as form of data, so that it makes possible to compute these data sets both in a very effective way and in a comprehensive way to synthesizing multiple data in each pixels. 
+                </p>
+            </div>
+
+      </div>
+</div>
+
+
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+            <hr>
+
+                <div>
+                  <ul class="pager col-lg-6">
+                      <li class="previous">
+                          <a href="index.html"> &larr; Summary</a>
+                      </li>
+                  </ul>
+                </div>
+                <div>
+                   <ul class="pager col-lg-6">
+                      <li class="next">
+                          <a href="DataExploration.html">2:Data Exploration &rarr;</a>
+                      </li>
+                  </ul>
+                </div>
+            </div>
+
+      </div>
+</div>
+
+
+  <hr>
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <p class="copyright text-muted">cs109, Harvard University</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="js/MapboxGLGooglePlace.js"></script>
+    <script src="js/MapboxGLGoogleStreet.js"></script>
+    <script src="js/MapboxGLHousing.js"></script>
+    <script src="js/MapboxGL.js"></script>
+    <script src="js/MapboxGLRent.js"></script>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+    <script src="js/dataExplorationPage.js"></script>
+
+</body>
+
+</html>
