@@ -5,3 +5,7 @@
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-invisible-dream/2009-invisible-dream-01.jpg)
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-invisible-dream/2009-invisible-dream-02.jpg)
+
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-invisible-dream/2009-invisible-dream-03.jpg)
+
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-invisible-dream/2009-invisible-dream-04.jpg)
