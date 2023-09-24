@@ -1,0 +1,63 @@
+#theImg{
+
+    position: relative;
+    width: 100vw;
+    left: calc(-50vw + 50%);
+    /*max-width: 100%*/
+}
+img.center {
+    display: block;
+    margin: 0 auto;
+}
+
+
+
+#mapdivCraigslist{
+
+
+
+}
+
+#selection_01{
+    width: 400px;
+    float: right;
+    z-index: 10000;
+    position: absolute;
+    left: 62px;
+}
+#theBtn{
+    float: initial;
+    position: absolute;
+    width: 60px;
+    left: 0px;
+    top: 0px;
+    z-index: 10000;
+
+}
+.cirGooglePlace:hover{
+	fill: black;
+	fill-opacity: 1.0;
+
+
+}
+
+
+#maplog{
+    float: initial;
+    position: absolute;
+    width: 100px;
+    height:40px;
+    left: 1000px;
+    top: 130px;
+    z-index: 10000;
+    background: white;
+    color:purple;
+
+}
+#theContent{
+    font-size: 13px;
+    color: darkgray;
+    padding-top: 5px;
+    margin-top: 5px;
+
+}

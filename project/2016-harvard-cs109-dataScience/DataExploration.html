@@ -1,0 +1,659 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CS109 Data Science, Harvard</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/vis.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' rel='stylesheet' />
+    <script src="js/mapbox-gl-geocoder.js"></script>
+    
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/d3pie.js"></script>
+
+
+    <script src="js/queue.min.js"></script>
+    
+    <link href="css/main.css" rel="stylesheet">
+
+    <script src="js/mapbox-gl-geocoder.js"></script>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Summary</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="DataParsing.html">Data Parsing</a>
+                    </li>
+                    <li>
+                        <a href="DataExploration.html">Data Exploration</a>
+                    </li> 
+                    <li>
+                        <a href="MachineLearningHousing.html">Learning Housing Price</a>
+
+                    </li>
+                    <li>
+                        <a href="MachineLearningRenting.html">Learning Renting Price</a>
+                    </li>
+                    <li>
+                        <a href="Conclusion.html">Conclusion</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/plt-bg.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="page-heading">
+                        <h1 align="middle">Data Exploration</h1>
+
+                        <span class="subheading">data from google street view, google place, Craigslist Boston, Zillow and Data Boston.</span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+
+
+
+
+    <!-- Main Content -->
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+                <h2 class="section-heading">SECTION 1 EXPLORATION</h2>
+                <p>
+                On top of the top down data (generated by the local government), the bottom-up data (post processing of <a href="https://developers.google.com/maps/documentation/streetview/" target="_blank"><i >Google Street Views</i></a>, <a href="https://developers.google.com/places/"  target="_blank"><i >Google Places</i></a>, and <a href="https://boston.craigslist.org/"  target="_blank"><i >Craigslist Boston</i></a>), and the top-down data(Crime data from <a href="https://data.cityofboston.gov/" target="_blank"><i >Data Boston</i></a> and hosing price data from <a href="http://www.zillow.com/" target="_blank"><i >Zillow</i></a>  ) can be mapped and deployed for train and contrive the analytical model of predicting housing price. To process the google street view data, there are two data structures (pixel and graph data structure) where individual data are populated and calculated. Pixel data structure is a matrix, discretizing an urban or district into a finite setting for analysis, in which each pixel has the relationship with its neighbors, and each one computes its own data on the basis of neighbors’ settings, so that urban data can be naturally addressed and computed in spatial context.
+                </p>
+                
+                <hr>
+                <h3 >Data from Craigslist Boston</h3> 
+                <h5> [keyword: house and room] </h5>
+                <P>
+                As the bottom data, house and room data from Craigslist with Geo coordinate position and text data can be utilized as a train data for the housing prediction model..
+                </P>
+                <p>MA scale</p>
+                <div id="theImg"><img class="center" src="img/vis/crVis_MA_01.jpg" width="1200px" align="middle"></div>
+
+                <hr>
+                <p>Boston scale</p>
+                <div id="theImg"><img class="center" src="img/vis/crVis_Boston_01.jpg" width="1200px" align="middle"></div>
+                <h4>Data</h4>
+                <p>
+                    number of data used and keyword:<br>
+                    house - 2,500 posts including text data<br>
+                    room - 2,500 posts including text data<br>
+                    JSON: <a href="data/_CraigslistData.json" target="_blank">download</a><br>
+                </p>
+
+                <hr>
+
+                <section id="mapdivCraigslist" class="bg-light-gray">
+                    <h3 >Data from Google Place</h3> 
+                    <div id="map1" class="embed-responsive embed-responsive-16by9">
+                            <div id="popUp" class = "user-control" width="300px">
+                                <button id="theBtn" class="btn-default form-control" width="300px"> clear </button>
+                                <div id="maplog"><p> </p></div>
+                                <select id = "selection_01" class="form-control" width="300px"> 
+                                  <option id="menuDataPlace" selected>school</option>
+                                  <option id="menuDataPlace">airport</option>
+                                  <option id="menuDataPlace">plumber</option>
+                                  <option id="menuDataPlace">roofing_contractor</option>
+                                  <option id="menuDataPlace">atm</option>
+                                  <option id="menuDataPlace">meal_takeaway</option>
+                                  <option id="menuDataPlace">hair_care</option>
+                                  <option id="menuDataPlace">insurance_agency</option>
+                                  <option id="menuDataPlace">veterinary_care</option>
+                                  <option id="menuDataPlace">airport</option>
+                                  <option id="menuDataPlace">synagogue</option>
+                                  <option id="menuDataPlace">stadium</option>
+                                  <option id="menuDataPlace">movie_theater</option>
+                                  <option id="menuDataPlace">meal_takeaway</option>
+                                  <option id="menuDataPlace">doctor</option>
+                                  <option id="menuDataPlace">zoo</option>
+                                  <option id="menuDataPlace">electrician</option>
+                                  <option id="menuDataPlace">establishment</option>
+                                  <option id="menuDataPlace">funeral_home</option>
+                                  <option id="menuDataPlace">spa</option>
+                                  <option id="menuDataPlace">aquarium</option>
+                                  <option id="menuDataPlace">storage</option>
+                                  <option id="menuDataPlace">casino</option>
+                                  <option id="menuDataPlace">park</option>
+                                  <option id="menuDataPlace">courthouse</option>
+                                  <option id="menuDataPlace">hospital</option>
+                                  <option id="menuDataPlace">subway_station</option>
+                                  <option id="menuDataPlace">painter</option>
+                                  <option id="menuDataPlace">moving_company</option>
+                                  <option id="menuDataPlace">movie_rental</option>
+                                  <option id="menuDataPlace">embassy</option>
+                                  <option id="menuDataPlace">fire_station</option>
+                                  <option id="menuDataPlace">gym</option>
+                                  <option id="menuDataPlace">bicycle_store</option>
+                                  <option id="menuDataPlace">local_government_office</option>
+                                  <option id="menuDataPlace">book_store</option>
+                                  <option id="menuDataPlace">police</option>
+                                  <option id="menuDataPlace">florist</option>
+                                  <option id="menuDataPlace">museum</option>
+                                  <option id="menuDataPlace">lawyer</option>
+                                  <option id="menuDataPlace">car_rental</option>
+                                  <option id="menuDataPlace">real_estate_agency</option>
+                                  <option id="menuDataPlace">physiotherapist</option>
+                                  <option id="menuDataPlace">electronics_store</option>
+                                  <option id="menuDataPlace">hindu_temple</option>
+                                  <option id="menuDataPlace">car_dealer</option>
+                                  <option id="menuDataPlace">jewelry_store</option>
+                                  <option id="menuDataPlace">gas_station</option>
+                                  <option id="menuDataPlace">mosque</option>
+                                  <option id="menuDataPlace">liquor_store</option>
+                                  <option id="menuDataPlace">campground</option>
+                                  <option id="menuDataPlace">library</option>
+                                  <option id="menuDataPlace">university</option>
+                                  <option id="menuDataPlace">accounting</option>
+                                  <option id="menuDataPlace">travel_agency</option>
+                                  <option id="menuDataPlace">finance</option>
+                                  <option id="menuDataPlace">locksmith</option>
+                                  <option id="menuDataPlace">bank</option>
+                                  <option id="menuDataPlace">convenience_store</option>
+                                  <option id="menuDataPlace">health</option>
+                                  <option id="menuDataPlace">church</option>
+                                  <option id="menuDataPlace">bakery</option>
+                                  <option id="menuDataPlace">lodging</option>
+                                  <option id="menuDataPlace">laundry</option>
+                                  <option id="menuDataPlace">shopping_mall</option>
+                                  <option id="menuDataPlace">dentist</option>
+                                  <option id="menuDataPlace">store</option>
+                                  <option id="menuDataPlace">cemetery</option>
+
+                                </select>
+                            </div>
+                    </div>
+                    <!-- </div> -->
+                </section>
+                <p>
+                     The interesting pattern from the data visualization is that, in the scale of MA, the evenly sparse density of Housing visualize the contrast to the room data which compacted around particular areas in Boston area. When it comes to text data, there are...
+                </p>
+                <h4>Data</h4>
+                <p>
+                    number of data used: 20,559 places<br><br>
+                    Type of query: 
+                    <p id="theContent">
+                        'parking', 'veterinary_care', 'airport', 'plumber', 'roofing_contractor', 'atm', 'meal_takeaway', 'hair_care', 'insurance_agency', 'school', 'synagogue', 'stadium', 'movie_theater', 'doctor', 'zoo', 'electrician', 'establishment', 'funeral_home', 'spa', 'aquarium', 'storage', 'casino', 'park', 'courthouse', 'hospital', 'subway_station', 'painter', 'moving_company', 'movie_rental','embassy', 'fire_station', 'gym', 'bicycle_store', 'local_government_office', 'book_store', 'police', 'florist', 'museum', 'lawyer', 'car_rental','real_estate_agency', 'physiotherapist', 'electronics_store', 'hindu_temple','car_dealer', 'jewelry_store', 'gas_station', 'mosque', 'liquor_store', 'campground', 'library', 'university', 'accounting', 'travel_agency', 'finance', 'locksmith', 'bank','convenience_store', 'health', 'church', 'bakery', 'lodging', 'laundry', 'shopping_mall', 'dentist', 'store', 'cemetery'
+                    </p>
+                    JSON: <a href="data/_GooglePlaceData.json" target="_blank">download</a><br>
+                </p>
+
+                <hr>
+
+                <section id="mapdivCraigslist" class="bg-light-gray">
+                    <h3 >Data from Google street view</h3> 
+                    <div id="map2" class="embed-responsive embed-responsive-16by9">
+                            <div id="popUp" class = "user-control" width="300px">
+                                <div id="maplog"><p> </p></div>
+                                <select id = "selection_02" class="form-control" width="300px"> 
+                                    <option id="menuData" selected>tree</option>
+                                    <option id="menuData">house</option>
+                                    <option id="menuData">skyscraper</option>
+                                    <option id="menuData">hill</option>
+                                    <option id="menuData">sidewalk, pavement</option>
+                                    <option id="menuData">bridge, span</option>
+                                    <option id="menuData">seat</option>
+                                    <option id="menuData">water</option>
+                                    <option id="menuData">wall</option>
+                                    <option id="menuData">sky</option>
+                                    <option id="menuData">river</option>
+                                    <option id="menuData">car, auto, automobile, machine, motorcar</option>
+                                    <option id="menuData">building, edifice</option>
+                                    <option id="menuData">airplane, aeroplane, plane</option>
+                                    <option id="menuData">bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle</option>
+                                    <option id="menuData">trade name, brand name, brand, marque</option>
+                                    <option id="menuData">microwave, microwave oven</option>
+                                    <option id="menuData">pot, flowerpot</option>
+                                    <option id="menuData">animal, animate being, beast, brute, creature, fauna</option>
+                                    <option id="menuData">ball</option>
+                                    <option id="menuData">food, solid food</option>
+                                    <option id="menuData">step, stair</option>
+                                    <option id="menuData">tank, storage tank</option>
+                                    <option id="menuData">bicycle, bike, wheel, cycle </option>
+                                    <option id="menuData">lake</option>
+                                    <option id="menuData">case, display case, showcase, vitrine</option>
+                                    <option id="menuData">counter</option>
+                                    <option id="menuData">toilet, can, commode, crapper, pot, potty, stool, throne</option>
+                                    <option id="menuData">table</option>
+                                    <option id="menuData">wardrobe, closet, press</option>
+                                    <option id="menuData">bannister, banister, balustrade, balusters, handrail</option>
+                                    <option id="menuData">screen door, screen</option>
+                                    <option id="menuData">arcade machine</option>
+                                    <option id="menuData">curtain, drape, drapery, mantle, pall</option>
+                                    <option id="menuData">chandelier, pendant, pendent</option>
+                                    <option id="menuData">railing, rail</option>
+                                    <option id="menuData">rug, carpet, carpeting</option>
+                                    <option id="menuData">bottle</option>
+                                    <option id="menuData">booth, cubicle, stall, kiosk</option>
+                                    <option id="menuData">sconce</option>
+                                    <option id="menuData">vase</option>
+                                    <option id="menuData">traffic light, traffic signal, stoplight</option>
+                                    <option id="menuData">grandstand, covered stand</option>
+                                    <option id="menuData">box</option>
+                                    <option id="menuData">blanket, cover</option>
+                                    <option id="menuData">sculpture</option>
+                                    <option id="menuData">tray</option>
+                                    <option id="menuData">ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin</option>
+                                    <option id="menuData">floor, flooring</option>
+                                    <option id="menuData">ceiling</option>
+                                    <option id="menuData">road, route</option>
+                                    <option id="menuData">windowpane, window </option>
+                                    <option id="menuData">pool table, billiard table, snooker table</option>
+                                    <option id="menuData">sand</option>
+                                    <option id="menuData">boat</option>
+                                    <option id="menuData">flower</option>
+                                    <option id="menuData">mountain, mount</option>
+                                    <option id="menuData">lamp</option>
+                                    <option id="menuData">sea</option>
+                                    <option id="menuData">escalator, moving staircase, moving stairway</option>
+                                    <option id="menuData">awning, sunshade, sunblind</option>
+                                    <option id="menuData">path</option>
+                                    <option id="menuData">column, pillar</option>
+                                    <option id="menuData">palm, palm tree</option>
+                                    <option id="menuData">bookcase</option>
+                                    <option id="menuData">person, individual, someone, somebody, mortal, soul</option>
+                                    <option id="menuData">fence, fencing</option>
+                                    <option id="menuData">painting, picture</option>
+                                    <option id="menuData">apparel, wearing apparel, dress, clothes</option>
+                                    <option id="menuData">light, light source</option>
+                                    <option id="menuData">pillow</option>
+                                    <option id="menuData">sink</option>
+                                    <option id="menuData">bar</option>
+                                    <option id="menuData">book</option>
+                                    <option id="menuData">plant, flora, plant life</option>
+                                    <option id="menuData">bathtub, bathing tub, bath, tub</option>
+                                    <option id="menuData">mirror</option>
+                                    <option id="menuData">ottoman, pouf, pouffe, puff, hassock</option>
+                                    <option id="menuData">streetlight, street lamp</option>
+                                    <option id="menuData">monitor, monitoring device</option>
+                                    <option id="menuData">bulletin board, notice board</option>
+                                    <option id="menuData">shower</option>
+                                    <option id="menuData">fan</option>
+                                    <option id="menuData">pier, wharf, wharfage, dock</option>
+                                    <option id="menuData">crt screen</option>
+                                    <option id="menuData">plate</option>
+                                    <option id="menuData">glass, drinking glass</option>
+                                    <option id="menuData">clock</option>
+                                    <option id="menuData">ship</option>
+                                    <option id="menuData">fountain</option>
+                                    <option id="menuData">conveyer belt, conveyor belt, conveyer, conveyor, transporter</option>
+                                    <option id="menuData">canopy</option>
+                                    <option id="menuData">buffet, counter, sideboard</option>
+                                    <option id="menuData">poster, posting, placard, notice, bill, card</option>
+                                    <option id="menuData">stage</option>
+                                    <option id="menuData">van</option>
+                                    <option id="menuData">washer, automatic washer, washing machine</option>
+                                    <option id="menuData">plaything, toy</option>
+                                    <option id="menuData">flag</option>
+                                    <option id="menuData">stairs, steps</option>
+                                    <option id="menuData">signboard, sign</option>
+                                    <option id="menuData">kitchen island</option>
+                                    <option id="menuData">blind, screen</option>
+                                    <option id="menuData">earth, ground</option>
+                                    <option id="menuData">desk</option>
+                                    <option id="menuData">sofa, couch, lounge</option>
+                                    <option id="menuData">pole</option>
+                                    <option id="menuData">truck, motortruck</option>
+                                    <option id="menuData">waterfall, falls</option>
+                                    <option id="menuData">tent, collapsible shelter</option>
+                                    <option id="menuData">bag</option>
+                                    <option id="menuData">minibike, motorbike</option>
+                                    <option id="menuData">swimming pool, swimming bath, natatorium</option>
+                                    <option id="menuData">stool</option>
+                                    <option id="menuData">barrel, cask</option>
+                                    <option id="menuData">basket, handbasket</option>
+                                    <option id="menuData">cushion</option>
+                                    <option id="menuData">grass</option>
+                                    <option id="menuData">fireplace, hearth, open fireplace</option>
+                                    <option id="menuData">field</option>
+                                    <option id="menuData">chair</option>
+                                    <option id="menuData">oven</option>
+                                    <option id="menuData">stairway, staircase</option>
+                                    <option id="menuData">bench</option>
+                                    <option id="menuData">television, television receiver, television set, tv, tv set, idiot box, boob tube, telly, goggle box</option>
+                                    <option id="menuData">hovel, hut, hutch, shack, shanty</option>
+                                    <option id="menuData">runway</option>
+                                    <option id="menuData">door, double door</option>
+                                    <option id="menuData">rock, stone</option>
+                                    <option id="menuData">shelf</option>
+                                    <option id="menuData">land, ground, soil</option>
+                                    <option id="menuData">refrigerator, icebox</option>
+                                    <option id="menuData">base, pedestal, stand</option>
+                                    <option id="menuData">countertop</option>
+                                    <option id="menuData">armchair</option>
+
+                                </select>
+                            </div>
+
+
+
+
+
+                    </div>
+
+                    <div id="GoogleStreetInfo" class="container-fluid">
+                        <div id="thePieChart" class="col-md-4">
+                          
+                        </div>
+                        <div id="googleStreetLog" class="streetLog col-md-8">
+
+                        </div>
+                    </div>
+
+                <hr>
+
+                    <h3 >Deep learning for semantic segmentation</h3> 
+                    <div>
+                        <p id="theContent">
+                        Caffe framework with ADE20K dataset(<a href="http://groups.csail.mit.edu/vision/datasets/ADE20K/" target="_blank">CSAIL MIT</a>)
+                        <div id="theImg"><img class="center" src="img/DeepLearningdiagram_01.jpg" width="1000px" align="middle"></div><br>
+                        </p>
+                        <h4>information</h4>
+                        <div id="theImg"><img class="center" src="img/DeepLearningdiagram.jpg" width="1050px" align="middle"></div><br>
+                        <p id="theContent">
+                            "path": imgFinal/StreetView_theBoston_0-1024_292.0_6_70.png <br>
+                            " coordinates": -71.14012330788046, 42.35124604676936 <br>
+                            "node_id": 0-1024 <br>
+                        </p>
+
+                        <h4>semantic segmentation</h4>
+                        <p id="theContent">
+                            <span id="highlightColor">
+                                "building, edifice": 410351 pixel<br>
+                                "sky": 114653 pixel<br>
+                                "plant, flora, plant life": 59085 pixel <br>
+                                "car, auto, automobile, machine, motorcar": 5375 pixel    <br>  
+                                "tree" : 33864 pixel            <br>
+                                "road, route": 28512 pixel<br>
+                                "sidewalk, pavement": 20407 pixel <br>      
+                                "house" : 18637 pixel <br> 
+                                "grass": 15550 pixel <br> 
+                                "fence, fencing" 14803 pixel <br> 
+                                "wall": 8737 pixel <br> 
+                            </span>
+                            "stairs, steps" : 1979 pixel <br> 
+                            "earth, ground": 1329 pixel <br> 
+                            "signboard, sign": 1244 pixel <br> 
+                            "bridge, span" : 896 pixel <br> 
+                            "path" : 393 pixel <br> 
+                            "ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash  <br> barrel, trash bin" : 374 pixel <br> 
+                            "person, individual, someone, somebody, mortal, soul": 346 pixel   <br>           
+                            "bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle":  315 pixel <br> 
+                            "truck, motortruck": 297 pixel <br> 
+                            "stairway, staircase"  : 98 pixel <br> 
+                            "railing, rail": 30 pixel <br> 
+                            "van": 5 pixel <br> 
+                        </p>
+                        <p>
+                            The semantic segmentation from the Deep Learning make it possible to compute numerical computation and  calculate precise ratio of objects in the google street view. This data is utilized for training the prediction model.
+                        </p>
+                        <h4>Data</h4>
+                        <p>
+                            Image data used: 18,588 images<br><br>
+                            Semantic type: 
+                            <p id="theContent">
+                            airplane, aeroplane, plane, animal, animate being, beast, brute, creature, fauna, apparel, wearing apparel, dress, clothes, arcade machine, armchair, ashcan, trash can, garbage can, wastebin, ash bin, ash-bin, ashbin, dustbin, trash barrel, trash bin, awning, sunshade, sunblind, bag, ball, bannister, banister, balustrade, balusters, handrail, bar, barrel, cask, base, pedestal, stand, basket, handbasket, bathtub, bathing tub, bath, tub, bed, bench, bicycle, bike, wheel, cycle, blanket, cover, blind, screen, boat, book, bookcase, booth, cubicle, stall, kiosk, bottle, box, bridge, span, buffet, counter, sideboard, building, edifice, bulletin board, notice board, bus, autobus, coach, charabanc, double-decker, jitney, motorbus, motorcoach, omnibus, passenger vehicle, cabinet, canopy, car, auto, automobile, machine, motorcar, case, display case, showcase, vitrine, ceiling, chair, chandelier, pendant, pendent, clock, column, pillar, computer, computing machine, computing device, data processor, electronic computer, information processing system, conveyer belt, conveyor belt, conveyer, conveyor, transporter, counter, crt screen, curtain, drape, drapery, mantle, pall, cushion, desk, door, double door, earth, ground, escalator, moving staircase, moving stairway, fan, fence, fencing, field, fireplace, hearth, open fireplace, flag, floor, flooring, flower, food, solid food, fountain, glass, drinking glass, grandstand, covered stand, grass, hill, house, hovel, hut, hutch, shack, shanty, kitchen island, lake, lamp, land, ground, soil, light, light source, microwave, microwave oven, minibike, motorbike, mirror, monitor, monitoring device, mountain, mount, ottoman, pouf, pouffe, puff, hassock, oven, painting, picture, palm, palm tree, path, person, individual, someone, somebody, mortal, soul, pier, wharf, wharfage, dock, pillow, plant, flora, plant life, plate, plaything, toy, pole, pool table, billiard table, snooker table, poster, posting, placard, notice, bill, card, pot, flowerpot, railing, rail, refrigerator, icebox, river, road, route, rock, stone, rug, carpet, carpeting, runway, sand, sconce, screen door, screen, sculpture, sea, seat, shelf, ship, shower, sidewalk, pavement, signboard, sign, sink, sky, skyscraper, sofa, couch, lounge, stage, stairs, steps, stairway, staircase, step, stair, stool, stove, kitchen stove, range, kitchen range, cooking stove, streetlight, street lamp, swimming pool, swimming bath, natatorium, table, tank, storage tank, television, television receiver, television set, tv, tv set, idiot box, boob tube, telly, goggle box, tent, collapsible shelter, toilet, can, commode, crapper, pot, potty, stool, throne, towel, tower, trade name, brand name, brand, marque, traffic light, traffic signal, stoplight, tray, tree, truck, motortruck, van, vase, wall, wardrobe, closet, press, washer, automatic washer, washing machine, water, waterfall, falls, windowpane, window 
+                            </p>
+                         JSON: <a href="data/_DeepLearningSegData.json" target="_blank">download</a><br>
+                        </p>
+
+                    </div>
+
+
+                    <!-- </div> -->
+                </section>
+
+                <hr>
+                <section id="mapdiv2" class="bg-light-gray">
+                    <h3 >Crime data visualization</h3>
+                    <div id="map3" class="embed-responsive embed-responsive-16by9">
+                        <div id="maplogCrime"><p> </p></div>
+                    </div>
+                    <p>
+                        The crime data visualization shows the relationship between area and violence in a sense of social problem in the urban context. Although the data covers range from trivial one to serious incident, it could be categorized and harnessed for train data.
+                    </p>
+                    <h4>Data</h4>
+                    <p>
+                    number of data used: 5,001 crimes<br><br>
+                    JSON: <a href="data/_CrimeData.json" target="_blank">download</a><br>
+                    <p>
+                </section>
+
+                <hr>
+                <section id="mapdiv2" class="bg-light-gray">
+                    <h3 >Housing Price data visualization</h3>
+                    <div id="map4" class="embed-responsive embed-responsive-16by9">
+                        <div id="maplogHosing" ><p> </p></div>
+                    </div>
+                    <p>
+                        Most importantly, the housing price data from Zillow is a key data for training model. This is because one of our assumption is that there should be a strong relationship between the prices and urban environmental condition.  
+                    </p>
+                    <h4>Data</h4>
+                    <p>
+                    number of data used: 988 houses<br><br>
+                    JSON: <a href="data/_HousingPriceFromWebTestWithPropertiesData.json" target="_blank">download</a><br>
+                    <p>
+
+                    <h3 >Rent Price data visualization</h3>
+                    <div id="map5" class="embed-responsive embed-responsive-16by9">
+                        <div id="maplogRent" ><p> </p></div>
+                    </div>
+                    <p>
+                        Additionally, rent is also very important data for social economic data since Boston is famous for educational city meaning that many of students could not be able to buy house. This perspective is give us different lenses of viewing and understanding Boston.
+                    </p>
+                    <h4>Data</h4>
+                    <p>
+                    number of data used: 13049 rents<br><br>
+                    JSON: <a href="data/_RentPrice.json" target="_blank">download</a><br>
+                    <p>
+
+                    <hr>
+
+                    <h3>Poperties Assessment and Energy Use Intensity visualization from City of Boston</h3>
+                     <div id="theImg" class="embed-responsive embed-responsive-16by9">
+                        <div id="theImgs"><p><img class="center" src="img/vis/extraVis.jpg" width="1200px" align="middle"></p></div>
+                    </div>
+                    <br>
+                    <p>
+                        Lastly, as a social economic data (Top-down) take into consideration, so that the features are trained with the urban data. 
+                    </p>
+                    number of EUI(Energy Use Intensity) data: 1806 Data<br>
+                    JSON: <a href="data/_buildingEnergy.json" target="_blank">download</a><br><br>
+
+                    number of Property Assessment data: 50869 data<br>
+                    JSON: <a href="data/_Property_Assessment_Vis.json" target="_blank">download</a><br>
+                </section>
+
+            </div>
+        </div>
+    </div>
+
+
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+                <hr>
+                <h2 class="section-heading">SECTION 2 FEATURES</h2>
+                <p>
+                  On top of Pixel and Graph Data, we query the selected Pixel based on longitude and latitude to generate the synthesized data matrix for traning machine. <br>
+                  library we made : 
+                  <a href="JupyterNotebook/Section_2_DataExploration/Section_2_DataExploration_PixelMap.cs" target="_blank">Pixel map class(c#)</a> ,  
+                  <a href="JupyterNotebook/Section_2_DataExploration/Section_2_DataExploration_DataVis.py" target="_blank">Data visualization(python)</a> 
+                </p>
+                <hr>
+                <p>
+                  Rent Price Data for Machine Learning[CSV]: <a href="data/_RentPriceTruliaMergeForML.csv" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>date, title of post, content of post, geographic coordinate</i><br>
+
+                  <div id="theImgs"><p><img class="center" src="img/vis/dataCSVForRent.jpg" width="1150px" align="middle"></p></div>
+
+                  <br>
+                  Features Vs Price/SQM 
+                  <div id="theImgs"><p><img class="center" src="img/ml/pic1.jpg" width="1150px" align="middle"></p></div>
+                  <div id="theImgs"><p><img class="center" src="img/ml/pic2.jpg" width="1150px" align="middle"></p></div>
+                  <hr>
+                  Features in Different Classes (Housing) | High,Middle,Low
+
+                  <div id="theImgs"><p><img class="center" src="img/ml/housing1.jpg" width="1200px" align="middle"></p></div>
+                  <div id="theImgs"><p><img class="center" src="img/ml/housing2.jpg" width="1200px" align="middle"></p></div>
+                  <hr>
+                  Features in Different Classes (Rent) | High,Middle,Low
+
+                  <div id="theImgs"><p><img class="center" src="img/ml/rent1.jpg" width="1200px" align="middle"></p></div>
+                  <div id="theImgs"><p><img class="center" src="img/ml/rent2.jpg" width="1200px" align="middle"></p></div>
+
+                </p>
+                <p>
+                  Housing Price Data for Machine Learning[CSV]: <a href="data/_housingPriceZillowMergeForML.csv" target="_blank">download</a><br>
+                  data type: <i>numeric, string, and category</i> <br>
+                  featrues: <i>date, title of post, content of post, geographic coordinate</i>
+
+                  <div id="theImgs"><p><img class="center" src="img/vis/dataCSVForHousing.jpg" width="1150px" align="middle"></p></div>
+                </p>
+
+
+
+
+          </div>
+       </div>
+    </div>
+    <div class="container">
+        <div class="row">
+            <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+                <hr>
+                <h2 class="section-heading">SECTION 3 SUMMARY</h2>
+                <p>
+                  Finally, two csv files both for Housing and rent data is generated with Built Urban Environment Assessment data in City of Boston. Now it is ready to train the analytical models.
+
+                </p>
+
+
+          </div>
+       </div>
+    </div>
+
+    <div class="container">
+          <div class="row">
+              <div class="col-lg-12 col-lg-offset-0 col-md-10 col-md-offset-1">
+              <hr>
+
+                  <div>
+                    <ul class="pager col-lg-6">
+                        <li class="previous">
+                            <a href="DataParsing.html">&larr; 1:Data Parsing</a>
+                        </li>
+                    </ul>
+                  </div>
+                  <div>
+                     <ul class="pager col-lg-6">
+                        <li class="next">
+                            <a href="MachineLearningHousing.html"> 3:Learning Housing Price &rarr;</a>
+
+                        </li>
+                    </ul>
+                  </div>
+              </div>
+
+        </div>
+  </div>
+
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <p class="copyright text-muted">cs109, Harvard University</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+
+    <script src="js/MapboxGLGooglePlace.js"></script>
+    <script src="js/MapboxGLGoogleStreet.js"></script>
+    <script src="js/MapboxGLHousing.js"></script>
+    <script src="js/MapboxGL.js"></script>
+    <script src="js/MapboxGLRent.js"></script>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+    <script src="js/dataExplorationPage.js"></script>
+
+</body>
+
+</html>

@@ -1,0 +1,213 @@
+<!DOCTYPE html>
+<html>
+
+<head>
+  <meta charset="utf-8">
+
+  <title>NJSLAB :::</title>
+  <script src="http://ajax.googleapis.com/ajax/libs/jquery/1.7.1/jquery.min.js"></script>
+
+  <style type="text/css">
+    #theContent {
+      width: 60%;
+    }
+  </style>
+  <link href="../../css/styleForProjectIndividual.css" rel="stylesheet" type="text/css">
+
+  <script>document.onselectstart = nocopy; document.oncontextmenu = nocopy; document.ondragstart = nocopy; function nocopy() { return false; }</script>
+
+  <script type="text/javascript">
+
+    var _gaq = _gaq || [];
+    _gaq.push(['_setAccount', 'UA-38712828-1']);
+    _gaq.push(['_trackPageview']);
+
+    (function () {
+      var ga = document.createElement('script'); ga.type = 'text/javascript'; ga.async = true;
+      ga.src = ('https:' == document.location.protocol ? 'https://ssl' : 'http://www') + '.google-analytics.com/ga.js';
+      var s = document.getElementsByTagName('script')[0]; s.parentNode.insertBefore(ga, s);
+    })();
+
+  </script>
+</head>
+
+
+<body>
+
+  <div id="Link">
+
+
+
+    <!-- <iframe width="1280" height="720" src="https://www.youtube.com/embed/pBFWZeBfGiA" frameborder="0" allowfullscreen></iframe> -->
+
+
+    <!-- <a href="https://flux.io/" target="_blank"> -->
+    <img src="2016_FluxFactoryParkerator_01.jpg">
+    <!-- </a>  -->
+    <br><br>
+
+    <!-- <a href="https://flux.io/" target="_blank"> -->
+    <h2 id="watch-headline-title"> Flux Factory </h2>
+    <!-- </a> -->
+
+    position : Application Engineer(Computational Designer) <br>
+    <br>
+
+
+    <div id="theContent">
+      <h2>Parkerator </h2>
+      [rule-based design system]<br><br>
+      <h4> As a first project at Flux, I developped a multi-story car park (MSCP) configurator for SJ in Singapore.
+        Among other requests, the idea of a “Parkerator”(Parking + Configurator: it is a plugin running on Flux flow and
+        Grashopper to generate parking buildings ) was one of the most suitable projects for the implementation of
+        computational design workflow for the following reasons: <br><br>
+
+        (1) it should be fully automoted process before decision making phase, <br>
+        (2) it should be modularized because the company uses precast modules in the construction phase, <br>
+        (3) it should provide the maximum usage capacity possible for an arbitrary site <br><br>
+
+        Singapore being one of the densest city in the world, the whole objective of the project was to leverage
+        computer intelligence to provide the most optimized parking design for space allocation. <br>
+
+        Rule based design as a design system<br>
+        The first step in this project was to analyze the use case in Singapore, we then converted into parameterized
+        criteria our learning, hence turning design rules into model parameters. Then, on the high level, we setup a
+        hierarchical system for a Cell, which contains column, parking lot, core, aisle, ramp, and bridge, by research
+        the use case in Singapore so that individual Cell can interact each other and controlled by Cell Graph that is
+        top on the hierarchy.<br><br>
+
+
+        <img src="p_01.png"><br>
+        image for parking module<br><br>
+
+        <h2>Parkerator Phase 1</h2><br><br>
+        The aim of the initial phase is to give users a volumetric and numerical sense of what a basic rectangular
+        parking building would be based on the number of cars that can be parked and the number of floors. In short,
+        users input the number of car and the height of building, and the script automatically generates a 3D building
+        model with an associated set of descriptive metrics. <br>
+
+        <iframe width="1280" height="720" src="https://www.youtube.com/embed/Chd8oqjR3BM" frameborder="0"
+          allowfullscreen></iframe> <br>
+
+        Objective and problem: <br>
+        Provide a volumetric sense of a basic rectangular parking building <br>
+        Flesh-out the generated circulation in the parking building <br>
+        Rapid prototyping for design spaces with the number of cars and the length of building <br>
+        Simple descriptive metrics about the building <br> <br>
+        Parameters: <br>
+        - Number of Car <br>
+        - Number of floor <br> <br>
+
+        Class hierarchy in the c# code <br>
+        * Building class<br>
+        -Build (function related to create mesh and lines)<br><br>
+        * Lot class<br>
+        - isParkingLot (check for the status for building)<br>
+        - isCore (check for the status for building)<br>
+        - isRamp (check for the status for building)<br>
+        - ...<br>
+
+        <img src="dataS_01.png"><br>
+        <span> Data Structure for Parkerator Phase1<br>
+          <img src="p_01_01.png"><br><br>
+
+
+          <h2>Parkerator Phase 2</h2><br>
+          The phase 2 was build to achieve 3 objectives:<br>
+          (1) how to interact random site condition efficiently<br>
+          (2) how to shape design space as a data, and provide users with the data for their intuitive design<br>
+          (3) how can we discretize and improve the algorithms from Pakerator Phase 1<br>
+
+          <iframe width="1280" height="720" src="https://www.youtube.com/embed/4eQGtMEE46k" frameborder="0"
+            allowfullscreen></iframe> <br>
+
+          Grid Optimizer<br>
+          To achieve 1st objective, we contrive a Grid Optimizer that shapes a grid system in which cell can be
+          populated, in arbitrary boundary conditions. Basically, using brute force algorithm, it create a data set
+          ranging from 0 to 360 degree to find a suitable grid where the rules apply, and find a best ratio and optimal
+          situation in the given site context. In addition, it also provide users with a manual mode to explore the
+          design space tracking individual set of parameters by shifting the parameter. Then, using “Find” option it
+          automatically restore the optimal parameter in the data that user produce.<br><br>
+
+          Data Listener for design space<br>
+          For 2nd one, we create Data Listener which records parameters and visualize them as a graph. It draws a novel
+          visualization which re-maps data to circular coordinate system to directly visualize data based on their own
+          direction from 0 to 360 degree with the brute force algorithm. For the Manual mode, the listener keep recode
+          every single change of parameter and visualize a 2D graph and circular graph so that designer create their own
+          data visualization by play with the parameters.<br><br>
+
+          Blue Printer & Constructor<br>
+          For 3rd goal, the holistic process is discretized as two parts (1) Blue Print part (2) Construction part. This
+          modification makes it more effective and parameterizable in the more complex programming. In the Blue Print
+          phase, the algorithms concentrate on mathematical computation to shape semantic data of a parking building as
+          a blue print. In that period, the grid optimization also happen. Once you create your own blue print, the data
+          can be inject into Constructor to create actual geometries and draw them on viewport based on the API. For the
+          implementation for different platform, we need to simply execute a function switching the API such as Flux
+          Geometry API, RhinoCommon API, WebGL, or OpenGL in the Construction phase.<br><br>
+
+          Objective and problem:<br>
+          - Design building footprint based on an arbitrary site boundary conditions<br>
+          - Include an arbitrary entry point<br>
+          - Manual mode for those who want to explore the design space<br>
+          - Optimal mode for those who want to find the optimal option in a mouse click<br><br>
+
+          Parameter<br>
+          - Site boundary condition (polyline)<br>
+          - A entry point (point or vector)<br>
+          - Auto mode / Manual Mode with degree (bool / number) <br><br>
+
+
+          <img src="dataS_02.png"><br>
+          Data Structure for Parkerator Phase2<br><br>
+
+
+          Constructor<br>
+          - Analysis (for entry point because decks can have different levels based on the entry points)<br>
+          - Build (compute meshes and draw them on screen)<br><br>
+
+          DataListener<br>
+          - DataListener (store the every combination of parameters while changing)<br>
+          - DataVis (pie, Bar, graph, and parallel Coordinates chart for data visualization)<br><br>
+
+          Cell Graph<br>
+          - Build (produce a blue print that can be passed to constructor for 3D rendering)<br>
+          - Cell (contain semantic properties of the different usage of each cell )<br>
+          Aisle (circulation of cars)<br>
+          Column (for streucture)<br>
+          Lot (four distinct usage)<br>
+          - ParkingLot (check for the status for building)<br>
+          - Core (check for the status for building)<br>
+          - Ramp (check for the status for building)<br>
+          - Bridge (check for the status for building)<br><br>
+
+          GridCell<br>
+          - Analysis (compare the new data with the the data in the listener)<br>
+          - Update <br><br>
+
+          Custom Utility<br>
+          - NVector (other utility to promote process)<br>
+          - NPolyline (other utility to promote process)<br>
+
+
+          <img src="p_01_02.png"><br>
+
+          <img src="Parkerator_Viis.gif" height="500px"><br>
+          Design Space exporiation and Data Visualization <br><br>
+
+          This visualization and UI was built on the web with the Flux Javascript SDK.<br>
+          Scenario one<br>
+          - The parkerator P2 can create the data in all possible combination and push the data to the Flux Web.<br>
+          - Designers can open the web and select the project and data key that we saved in the previous step<br>
+          - It automatically generate the parallel coordinates visualization with the selected data.<br>
+          - Designer can brush the data and select one of the parameters, and it automatically generate the
+          mesh.<br><br>
+
+          Copyright 2016. <a href="https://flux.io/" target="_blank">Flux Factory</a>. ALL RIGHTS RESERVED.<br><br>
+
+      </h4>
+    </div>
+
+
+</body>
+
+</html>

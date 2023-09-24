@@ -1,0 +1,761 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CEREBRO 2016 CS171 PROJECT: GDELT Plus</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Custom CSS -->
+    <link href="css/agency.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href="https://fonts.googleapis.com/css?family=Montserrat:400,700" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Kaushan+Script' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Droid+Serif:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Roboto+Slab:400,100,300,700' rel='stylesheet' type='text/css'>
+
+    <!-- MapboxGL -->
+    <link rel='stylesheet' href='https://api.tiles.mapbox.com/mapbox-gl-js/v0.15.0/mapbox-gl.css' />
+    <!-- <script src='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.js'></script> -->
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+
+
+    <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' rel='stylesheet' />
+
+    <link href='https://api.mapbox.com/mapbox.js/v2.3.0/mapbox.css' rel='stylesheet' />
+    <script src='https://api.tiles.mapbox.com/mapbox-gl-js/v0.15.0/mapbox-gl.js'></script>
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+    <link rel='stylesheet' href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' type='text/css' />
+
+
+    <!-- <link rel="stylesheet" href="css/style.css"> -->
+    <link rel="stylesheet" href="css/styleVis.css">
+    <!--  
+    <!--vis css  -->
+    <link rel="stylesheet" href="css/visMap.css">
+    <link rel="stylesheet" href="css/MapLog.css">
+
+    <script src='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.js'></script>
+    <script src='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.js'></script>
+
+    <link href='https://api.mapbox.com/mapbox-gl-js/v0.12.0/mapbox-gl.css' rel='stylesheet' />
+    <link href='https://api.mapbox.com/mapbox-gl-js/plugins/mapbox-gl-geocoder/v1.0.0/mapbox-gl-geocoder.css' rel='stylesheet' />
+
+
+    <script src="js/mapbox-gl-geocoder.js"></script>
+
+
+
+    <script src="js/jquery.min.js"></script>
+    <script src="js/jquery-ui.js"></script>
+    <script src="js/bootstrap.min.js"></script>
+    <script src="js/d3.min.js"></script>
+    <script src="js/queue.min.js"></script>
+    <script src="js/sankeyvis.js"></script>
+	<script src="js/loader.js"></script>
+	<script src="js/underscore.js"></script>
+
+    <!-- Zihao Visualization JS files-->
+    <!-- Visualizations -->
+    <script src="js/stationMap.js"></script>
+    <script src="js/slider.js"></script>
+
+    <!-- Load data, create visualizations -->
+    <script src="js/main.js"></script>
+
+    <!-- Load leaflet -->
+    <script src="js/leaflet-src.js"></script>
+
+
+</head>
+
+<body id="page-top" class="index">
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-fixed-top">
+        <div class="container">
+        <!-- <div class="map"> -->
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                    <span class="icon-bar"></span>
+                </button>
+                <a class="navbar-brand page-scroll" href="#page-top">GDELT Plus</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li class="hidden">
+                        <a href="#page-top"></a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#services">Introduction</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#video">Video</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#vis1">Vis1</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#vis2">Vis2</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#vis3">Vis3</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#mapdiv">Map</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#about">More</a>
+                    </li>
+                    <li>
+                        <a class="page-scroll" href="#team">Credit</a>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container-fluid -->
+    </nav>
+
+    <!-- Header -->
+    <header>
+        <div class="container">
+            <div class="intro-text">
+                <div class="intro-lead-in">GDELT Plus</div>
+                <div class="intro-heading">International Interaction Visualizations</div>
+                <a href="#teamVideo" class="page-scroll btn btn-xl">Get Started!</a>
+            </div>
+        </div>
+    </header>
+
+    <!-- Services Section -->
+    <section id="services">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Introduction</h2>
+                    <h3 class="section-subheading text-muted">Gigabytes of data flowing in daily, drawn from all over the world, across print, broadcast and web sources, in over 100 different languages</h3>
+                </div>
+            </div>
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-eye fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Entities</h4>
+                    <p class="text-muted">Google-curated algorithms and crawlers pulling out names of countries, organizations, religions, ethnicities, ...</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-share fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Actions</h4>
+                    <p class="text-muted">Algorithms extracting keyword patterns to classify interactions by verbal/material and cooperation/conflict, as well as a three-level hierarchy of characteristics and impact scores.</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-smile-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Attitude</h4>
+                    <p class="text-muted"> Measures of press coverage in terms of sources, articles and mentions, as well as AI model-driven extraction of tone of coverage. </p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Services Section -->
+    <section id="video" class="video">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center embed-responsive embed-responsive-16by9" id = "teamVideo">
+                    <!-- <h2 class="section-heading">Introduction</h2> -->
+                    <!-- <iframe class="embed-responsive-item" width="1280" height="720" src="img/v5.mp4" frameborder="0" allowfullscreen></iframe> -->
+
+                    <iframe width="1280" height="720" src="https://www.youtube.com/embed/TsjjOl0nkng" frameborder="0" allowfullscreen></iframe>
+
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <section>
+        <div class="container edition">
+            <div class="row text-center">
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-globe fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Event Flow</h4>
+                    <p class="text-muted">Sankey Chart visualizing the density of bidirectional interaction among countries in the world</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-newspaper-o fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Perception Radar</h4>
+                    <p class="text-muted">Starplot to indicate how major countries view the world's superpowers</p>
+                </div>
+                <div class="col-md-4">
+                    <span class="fa-stack fa-4x">
+                        <i class="fa fa-circle fa-stack-2x text-primary"></i>
+                        <i class="fa fa-users fa-stack-1x fa-inverse"></i>
+                    </span>
+                    <h4 class="service-heading">Interaction Networks</h4>
+                    <p class="text-muted"> Cluster visualization of mutual interaction reveals cliques and foci of interactivity among countries</p>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+    <!-- Team Section -->
+    <section id="vis1" class="bg-light-gray">
+        <!-- <div id="vis1"></div> -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">V1: Action Flows</h2>
+                    <h3 class="section-subheading text-muted">A visualization of the relative density of interaction among countries, from a set of agent countries to a set of target countries</h3>
+                </div>
+            </div>
+            <div class="row">
+
+                <div id="vis1Canvas" class="col-sm-3" >
+
+
+
+	<div class="container" id="sankey-all">
+		<div class="row" sty>
+			<div class="col-md-2"><div class="label label-primary" style="font-size:14px;width:100%;float:left">Agent Countries</div><select multiple style="width:100%" size="45" id="agent"></select></div>
+			<div class="col-md-8"><div id="sankey_multiple" style="width: 100%; height: 880px;"></div></div>
+			<div class="col-md-2"><div class="label label-primary" style="font-size:14px;width:100%;float:right">Target Countries</div><select multiple style="width:100%" size="45" id="recip"></select></div>
+		</div>
+		<div class="row">
+			<div class="col-md-12" style="align:center;">
+				<input class="btn btn-primary" style="font-weight:bold;width:100%" type="submit" onclick='skredraw()'>
+			</div>
+		</div>
+	</div>
+	
+	
+	
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading"> </h2>
+                    <h3 class="section-subheading text-muted"> </h3>
+                </div>
+            </div>
+    </section>
+
+
+    <!-- Team Section --
+    <section id="vis2">
+
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">V2: Summary of Events in Geographic Locations</h2>
+                    <h3 class="section-subheading text-muted">A review of death reports in April 2016</h3>
+                </div>
+            </div>
+            <div class="row">
+
+
+                <div id="station-map" style = "width: 100%;height: 500px;"></div>
+                <div id="slider"></div>
+
+            </div>
+
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading"> </h2>
+                    <h3 class="section-subheading text-muted"> </h3>
+                </div>
+            </div>
+    </section>
+    <!-->
+
+    <!-- Team Section -->
+    <section id="vis2" class="vis2">
+        <!-- <div id="vis1"></div> -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">V2: Starplot </h2>
+                    <h3 class="section-subheading text-muted"> How Several Major Countries View the World's Superpowers.</h3>
+                </div>
+            </div>
+
+
+            <div class="row">
+
+                <div class="col-md-8" id ='radarChart'></div>
+                <div class="col-md-4">
+                    <h4 style="padding-top: 60px" id = "bar-title" align = "center">United States</h4>
+                    <div id = 'barChart'></div>
+                </div>
+            </div>
+
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+
+                    <h4>Key Patterns</h4>
+                    <div>
+                        <ul>
+                            <li>Small radar graph indicates that America is viewed as less friendly by other countries</li>
+                            <li>Large radar graph indicates that China has good relations with European countries.</li>
+                            <li>Similar graphs indicate that Russia and China are quite aligned.</li>
+                            <li>Japan and US don't seem to view other countries quite nicely.</li>
+                        </ul>
+                    </div>
+
+                    <div style = "font-size: 10px;text-align: center">*The metric is the Goldstein score (seen on axis of Radar chart).
+                        We compute the average Goldstein score of news sent from seven countries to China, United States, and Russia.
+                        Higher scores indicate that countries are aligned.
+                        For country's relationship to itself, we use the mean received from all countries.
+                    </div>
+
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+
+            <script src="js/radarChart.js"></script>
+            <script src="js/radarBarChart.js"></script>
+            <script>
+                //////////////////////////////////////////////////////////////
+                //////////////////////// Set-Up //////////////////////////////
+                //////////////////////////////////////////////////////////////
+
+                var margin = {top: 100, right: 100, bottom: 100, left: 100},
+                        width = 600 - margin.left - margin.right,
+                        height = 600 - margin.top - margin.bottom;
+
+                //////////////////////////////////////////////////////////////
+                ////////////////////////// Data //////////////////////////////
+                //////////////////////////////////////////////////////////////
+
+                var data = [
+                    [//China
+                        {axis:"USA",value:1.671},
+                        {axis:"China",value:2.888},
+                        {axis:"Russia",value:2.955},
+                        {axis:"Germany",value:3.328},
+                        {axis:"UK",value:2.875},
+                        {axis:"Japan",value:1.620},
+                        //{axis:"Australia",value:2.168},
+                        {axis:"France",value:3.054}
+                    ],[//USA
+                        {axis:"USA",value:1.511},
+                        {axis:"China",value:1.411},
+                        {axis:"Russia",value:1.151},
+                        {axis:"Germany",value:1.383},
+                        {axis:"UK",value:1.270},
+                        {axis:"Japan",value:1.548},
+                        //{axis:"Australia",value:0.996},
+                        {axis:"France",value:0.873}
+                    ],[//Russia
+                        {axis:"USA",value:	0.896},
+                        {axis:"China",value:3.191},
+                        {axis:"Russia",value:2.016},
+                        {axis:"Germany",value:	2.576},
+                        {axis:"UK",value:	1.192},
+                        {axis:"Japan",value:1.886},
+                        //{axis:"Australia",value:-1.024},
+                        {axis:"France",value:2.759}
+                    ]
+                ];
+                //////////////////////////////////////////////////////////////
+                //////////////////// Draw the Chart //////////////////////////
+                //////////////////////////////////////////////////////////////
+
+                var color = d3.scale.ordinal()
+                        .range(["#CC333F","#00A0B0","#EDC951"]);
+
+                var radarChartOptions = {
+                    w: width,
+                    h: height,
+                    margin: margin,
+                    maxValue: 4,
+                    levels: 4,
+                    roundStrokes: true,
+                    color: color
+                };
+                //Call function to draw the Radar chart
+                RadarChart("#radarChart", data, radarChartOptions);
+                var barChart = new BarChart("#barChart", data, 1);
+            </script>
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading"> </h2>
+                    <h3 class="section-subheading text-muted"> </h3>
+                </div>
+            </div>
+        </div>
+    </section>
+
+
+
+
+    <!-- Team Section -->
+    <section id="vis3">
+        <!-- <div id="vis1"></div> -->
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">V3: Interaction Network</h2>
+                    <h3 class="section-subheading text-muted">Visualization of density of interaction among countries as a weighted network</h3>
+                </div>
+            </div>
+            <div class="row">
+
+	<div class="container" id="cn-all">
+		<div class="row" sty>
+			<div class="col-md-2"><div class="label label-primary" style="font-size:14px;width:100%;float:left">Countries</div><select multiple style="width:100%" size="25" id="cn_agents"></select></div>
+			<div class="col-md-10"><div id="cn_render" style="width: 100%; height: 480px;"></div></div>
+		<div class="row">
+			<div class="col-md-12" style="align:center;">
+				<input class="btn btn-primary" style="font-weight:bold;width:100%" type="submit" onclick='createClusternet()'>
+			</div>
+		</div>
+	</div>
+
+                </div>
+            </div>
+
+
+            <div class="row">
+                <div class="col-md-3"></div>
+                <div class="col-md-6">
+
+                    <h4>Key Patterns</h4>
+                    <div>
+                        <ul>
+                            <li>Interaction among OECD+ countries centers around the US</li>
+                            <li>Extremely high interaction between US and UK, and US and China</li>
+                            <li>Very low degree of interaction between Russia and China.</li>
+                            <li>Israel shows highest international interaction outside Security Council countries.</li>
+                        </ul>
+                    </div>
+
+                    <div style = "font-size: 10px;text-align: center">*The metric is the product of the bilateral interaction among countries scaled relatively among the interaction products of all the countries in the chosen network.
+                    </div>
+
+                </div>
+                <div class="col-md-3"></div>
+            </div>
+    </section>
+
+
+
+<br/><br/><br/><br/>
+    <!-- Portfolio Grid Section -->
+    <section id="mapdiv" class="bg-light-gray">
+    	<div style="text-align:center">
+    	<h2 class="section-heading">VX: Reciprocity Map</h2>
+         <h3 class="section-subheading text-muted">View bilateral reciprocity of interactions, exploring the balance of agency and receptivity of interaction</h3>
+        <!-- <div class="container"> -->
+        </div>
+        <div id="map" class="embed-responsive embed-responsive-16by9"></div>
+        <!-- </div> -->
+    </section>
+
+
+
+
+<br/><br/><br/><br/>
+    <!-- About Section -->
+    <section id="about">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Other Visualizations</h2>
+                    <h3 class="section-subheading text-muted">Nimbly navigate the visualizations below.
+                        </br> </br> Click images to explore!</h3>
+
+                </div>
+            </div>
+            <div class="row">
+                <div class="col-lg-12">
+                    <ul class="timeline">
+                        <li>
+                            <div class="timeline-image">
+                                <a href="ZihaoPrototype/index.html" target="_blank">
+                                    <img class="img-circle img-responsive" src="img/squaremap.png" alt="" >
+                                </a>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Visualization 4</h4>
+                                    <h4 class="subheading">Events Map</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <a href="ZihaoPrototype/index.html">
+                                        Summary of global events that happen in April 2016.
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <a href="ScatterPrototype/index.html" target="_blank">
+                                    <img class="img-circle img-responsive" src="img/scatter.png" alt="" >
+                                </a>
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Visualization 5</h4>
+                                    <h4 class="subheading">Scatterplot</h4>
+                                </div>
+
+                                <div class="timeline-body">
+                                    <a href="ScatterPrototype/index.html">
+                                        Interactive scatterplot revealing how countries correlation between Goldstein and number of articles.
+                                    </a>
+                                </div>
+                            </div>
+                        </li>
+
+                        <!--
+                        <li>
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/3.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Step C</h4>
+                                    <h4 class="subheading">Visual limitations</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">Humans have visual limitations Minor details of shape grammars are easily unseen by human eyes People do not know whether the existing artifact belongs to the contemporary inhabitants of  the neighborhoods, or one of the many groups who lived there in the past. </p>
+                                </div>
+                            </div>
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <img class="img-circle img-responsive" src="img/about/4.jpg" alt="">
+                            </div>
+                            <div class="timeline-panel">
+                                <div class="timeline-heading">
+                                    <h4>Step D</h4>
+                                    <h4 class="subheading">Visual Queues</h4>
+                                </div>
+                                <div class="timeline-body">
+                                    <p class="text-muted">each towns in NYC</p>
+                                </div>
+                            </div>
+
+                        <!-->
+                        </li>
+                        <li class="timeline-inverted">
+                            <div class="timeline-image">
+                                <h4>
+                                    <br> Conclusion
+                                    <br> </h4>
+                            </div>
+                        </li>
+
+
+                    </ul>
+                </div>
+            </div>
+        </div>
+    </section>
+
+    <!-- Team Section -->
+    <section id="team" class="bg-light-gray">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Credits</h2>
+                    <h3 class="section-subheading text-muted">CS 171 Visualization / 06472: Visualization (at SEAS) (SCI 0647200)<br> <br>
+                                                              Harvard John A. Paulson School of Engineering and Applied Sciences</h3>
+                </div>
+            </div>
+            <div class="row">
+
+                <div class="col-sm-3">
+                    <div class="team-member">
+                        
+                        <h4>Dimiter Radonov</h4>
+                        <p class="text-muted"> Harvard College</p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="mailto:radonov@college.harvard.edu"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+                <div class="col-sm-3">
+                    <div class="team-member">
+                        
+                        <h4>Sohan Dsouza</h4>
+                        <p class="text-muted"> Media Lab, MIT </p>
+                        <ul class="list-inline social-buttons">
+                            <li><a href="mailto:sohand1@gmail.com"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div> 
+
+                <div class="col-sm-3">
+                    <div class="team-member">
+
+                        <h4>Zihao Wang</h4>
+                        <p class="text-muted">Harvard College</p>
+                        <ul class="list-inline social-buttons">
+<!--                             <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li> -->
+<!--                             <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li> -->
+                            <li><a href="mailto:zihaowang01@college.harvard.edu"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+                    </div>
+                </div>
+
+                <div class="col-sm-3">
+                    <div class="team-member">
+                        
+                        <h4>NJ Namju Lee</h4>
+                        <p class="text-muted">Harvard GSD</p>
+                        <ul class="list-inline social-buttons">
+<!--                             <li><a href="#"><i class="fa fa-twitter"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-facebook"></i></a>
+                            </li>
+                            <li><a href="#"><i class="fa fa-linkedin"></i></a>
+                            </li> -->
+                            <li><a href="mailto:nj.namju@gmail.com"><i class="fa fa-envelope"></i></a>
+                            </li>
+                        </ul>
+
+                    </div>
+                </div>
+
+            </div>
+
+            <div class="row">
+                <div class="col-lg-12 text-center">
+                    <h2 class="section-heading">Reference</h2>
+                    <h3 class="section-subheading text-muted"> Data : <a href="http://gdeltproject.org" target="_blank">The GDELT Project</a> <br> <br> 
+                                                               Language: HTML, CSS, Javascript, python <br> <br> 
+                                                               Library: D3, JQuery, MapboxGL, Bootstrap </h3>
+                </div>
+            </div>
+
+<!--             <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 text-center">
+                    <p class="large text-muted">Lorem ipsum dolor sit amet, consectetur adipisicing elit. Aut eaque, laboriosam veritatis, quos non quis ad perspiciatis, totam corporis ea, alias ut unde.</p>
+                </div>
+            </div> -->
+
+        </div>
+    </section>
+
+    <!-- Clients Aside -->
+    <aside class="clients">
+        <div class="container">
+            <div class="row">
+                <div class="col-md-4 col-sm-4">
+                    <a href="#">
+                        <img src="img/logos/harvardCollege.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <a href="#">
+                        <img src="img/logos/MediaLab.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+                <div class="col-md-4 col-sm-4">
+                    <a href="#">
+                        <img src="img/logos/GSD.png" class="img-responsive img-centered" alt="">
+                    </a>
+                </div>
+            </div>
+        </div>
+    </aside>
+    
+
+
+
+    <!-- jQuery -->
+    <!-- <script src="js/jquery.js"></script> -->
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="js/bootstrap.min.js"></script>
+
+    <!-- Plugin JavaScript -->
+    <!-- <script src="http://cdnjs.cloudflare.com/ajax/libs/jquery-easing/1.3/jquery.easing.min.js"></script> -->
+    <script src="js/classie.js"></script>
+    <script src="js/cbpAnimatedHeader.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <!-- <script src="js/contact_me.js"></script> -->
+
+    <!-- Custom Theme JavaScript -->
+    <script src="js/agency.js"></script>
+
+
+
+    <!-- <script src="js/mainMapbox.js"></script> -->
+
+    <!-- <script src="js/main.js"></script> -->
+    <script src="js/control.js"></script>
+
+
+
+
+    <!--vis css  -->
+    <link rel="stylesheet" href="css/visCluster.css">
+    <link rel="stylesheet" href="css/visMap.css">
+    <link rel="stylesheet" href="css/MapLog.css">
+
+    <!-- visualization -->
+    <script src="js/raphael.js" type="text/javascript" charset="utf-8"></script>
+    <script src="js/MapboxGL.js"></script>
+    <script src="js/MapLog.js"></script> 
+    <script src="js/visMap.js"></script>
+    <script src="js/visCluster.js"></script>
+
+
+</body>
+
+</html>
