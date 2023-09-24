@@ -16,7 +16,7 @@ In fact, of the five senses, including sight, hearing, touch, smell, and taste, 
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-intended-space/2009-intended-space-05.jpg)
 
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-intended-space/2009-intended-space-01.jpg)
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-intended-space/2009-intented-space-01.jpg)
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-intended-space/2009-intended-space-02.jpg)
 
