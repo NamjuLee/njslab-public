@@ -1,6 +1,5 @@
 ## Algorithmic Surface 2009
 
-role: director
+Algorithmic Surface [Series Work]
 
-
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2008-autodesk-opening-work/2008-autodesk-opening-work.jpg)
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2009-algorithmic-surface/2009-algorithmic-surface.jpg)
