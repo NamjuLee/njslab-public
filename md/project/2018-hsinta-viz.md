@@ -10,4 +10,4 @@ Link: [https://www.ether-ship.com/Hsinta-Ecological-Power-Plant-2018](https://ww
 
 Animation by NJSTUDIO
 
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2018_hsinta/2018_hsinta.png)
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2018-hsinta-viz/2018-hsinta-viz.jpg)
