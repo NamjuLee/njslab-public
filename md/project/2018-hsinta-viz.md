@@ -1,5 +1,13 @@
 ## Design Visualization 2018
 
-Under the construction
+Hsinta Ecological Power Plant 2018
 
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2018_hsinta/2018_hsinta.jpg)
+Hsinta Ecological Power Plant, Kaoshiung, Taiwan
+
+Ether-Ship
+
+Link: [https://www.ether-ship.com/Hsinta-Ecological-Power-Plant-2018](https://www.ether-ship.com/Hsinta-Ecological-Power-Plant-2018)
+
+Animation by NJSTUDIO
+
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2018_hsinta/2018_hsinta.png)
