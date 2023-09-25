@@ -1,0 +1,86 @@
+
+.MapLog
+{
+	margin: 12px;
+	width: 220px;
+	height: 200px;
+    position: absolute;
+}
+
+.MapLogSubTopDiv{
+	background-color: black;
+	height : 20px;
+	color : white;
+	opacity: 0.8;
+	text-align: center;
+}
+.MapLogSubTopDiv3{
+
+	margin: 5px;
+}
+
+.MapLogSubTopDiv4{
+	height: 220px;
+    float: left;
+    position: relative;
+    width: 220px;
+    color: red;
+    background: white;
+    /*opacity : 0.8;*/
+    padding-left: 10px;
+}
+
+.MapLogSubTopDiv4{
+    height: 220px;
+    float: left;
+    position: relative;
+    width: 220px;
+    /*color: red;*/
+    background: white;
+    /*opacity : 0.8;*/
+    padding-left: 10px;
+}
+
+.MapLogSubTopDiv5{
+    /*height: 220px;*/
+    float: left;
+    position: relative;
+    width: 220px;
+    /*color: red;*/
+    background: white;
+    /*opacity : 0.8;*/
+    padding-left: 10px;
+    padding-bottom: 10px;
+}
+
+
+#holder {
+    height: 480px;
+    left: 50%;
+    margin: -240px 0 0 -320px;
+    position: absolute;
+    top: 50%;
+    width: 640px;
+}
+#copy {
+    bottom: 0;
+    font: 300 .7em "Helvetica Neue", Helvetica, "Arial Unicode MS", Arial, sans-serif;
+    position: absolute;
+    right: 1em;
+    text-align: right;
+}
+#copy a {
+    color: #fff;
+}
+
+
+.Rcanvas{
+/*    height: 480px;
+    left: 50%;
+    margin: -240px 0 0 -320px;*/
+    position: absolute !important; 
+    z-index: 1 !important; 
+/*    top: 50%;
+    width: 640px;*/
+}
+

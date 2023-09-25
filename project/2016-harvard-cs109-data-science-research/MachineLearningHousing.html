@@ -1,0 +1,386 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CS109 Data Science, Harvard</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <script src="js/rainbow-custom.min.js"></script>
+
+
+
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Summary</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="DataParsing.html">Data Parsing</a>
+                    </li>
+                    <li>
+                        <a href="DataExploration.html">Data Exploration</a>
+                    </li> 
+                    <li>
+                        <a href="MachineLearningHousing.html">Learning Housing Price</a>
+
+                    </li>
+                    <li>
+                        <a href="MachineLearningRenting.html">Learning Renting Price</a>
+                    </li>
+                    <li>
+                        <a href="Conclusion.html">Conclusion</a>
+                    </li>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/ml/Housing/mainPerspective_02.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1 align="middle"> Machine Learning </h1>
+                        <h2 align="middle">for Housing Price <br></h2>
+                        <span align="middle" class="meta"> in the City of Boston </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+<!-- your content start here -->
+
+<h2 class="section-heading">SECTION 1   Data</h2>
+<h3>The basic stats of housing price in the city of Boston </h3>
+
+<hr>
+<p> 
+We explored housing prices statistics and the relationshpi between Boston housing price and our dataset features. Boston's average housing price is around $58/m2 and the median is about $60/m2 while it has a range from $9.4/m2 to $447/m2, which ranks quite high nationally.According to Zillow home values report , the national average housin gprice is $13.2/m2.(http://www.zillow.com/home-values/) <br>
+
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Basic-Stats.jpg" width="800px" align="middle"></p></div>
+
+Compare the boston housing median price to the two most expensive city in the US , SanFrancisco and New York (data if from Zillow ,09/2016/ http://metrocosm.com/3d-map-us-real-estate/) Boston houisng price closely follows the top tier. Keep in mind that at national level, the housing average housing price is $13.2/m2<br>3
+0
+
+    <div id="theImgs"><p><img class="center" src="img\ml\Housing\boston-compare.jpg" width="730px" align="middle"></p></div>
+<p>
+
+<h2 class="section-heading">SECTION 2   Prediction Models </h2>
+
+<h3>What features depict boston housing price?</h3>
+<hr>
+
+<h3>The Baseline Model </h3>
+<p> 
+Zillow Features (used for baseline model): <br>
+Longitude,Latitude,Zipcode,SoldOnce(bool),Bedrooms,Bathrooms,House type,land size <br>
+These features come with the data set we obtained from Zillow websites. A simple linear regression of housing price with these features gives a prediction with test score (R2) of 0.3 which is not optimal as we can see that we are missing a lot of determinant features to price of a house such as wether it has garage, central heating, or if it is newly renovated.  
+    <div id="theImgs"><p><img class="center" src="img\ml\Housing\Feature-Exploration_housingPrice_Baseline.jpg" width="1000px" align="middle"></p></div>
+
+<h3>The Baseline Model </h3>
+The baseline model involves features only from Zillow resource. There are 727 houses data in total, and we had to filling in missing  327 land size and 55 missing building age values through KNN methods using the location, and house type features to estimate. The result of the baseline model is not so predicative with an measure around 0.32 in R square of the test set. 
+
+<pre>
+base=['longitude', 'latitude',
+       'bathrooms', 'last_sold_price', 'property_size', 'zip', 'status',
+       'bedrooms', 'year_built', 'home_type']
+xlinear = data[base].values
+n = xlinear.shape[0]
+n_train = int(np.round(n * 0.4))
+
+# First 40% train, remaining test
+xlinear_train = xlinear[:n_train, :]
+y_train = y[:n_train]
+xlinear_test = xlinear[n_train:, :]
+y_test = y[n_train:]
+reg = Lin_Reg() #automatically fits intercept (adds column of one's) for you
+reg.fit(xlinear_train, y_train)
+ylinearpred = reg.predict(xlinear_test)
+train_r_squared_plain = reg.score(xlinear_train, y_train)
+test_r_squared_plain = reg.score(xlinear_test, y_test)
+</pre>
+
+
+<p id="print"> 
+Plain Regression: R^2 score on training set 0.316326357898 <br>
+Plain Regression: R^2 score on test set 0.390477980533 <br>
+[ -8.86686784e+01   4.34318178e+02   3.10418622e+00  -6.93186846e+00
+  -9.17424434e-07  -2.87754641e-01   2.54193714e+00  -3.32795469e+00
+  -2.75095526e-03  -4.95002385e+00]
+</p>
+
+The meaningful postive features are bathroom numbers meaning that with the same range of housing price/square meter, more bathrooms adds the value to the house. Bedroom number and whether the house was sold once or not has negatice coefficients meaning that , same more bedrooms and second hand house decrease the value of the house with similiar areas. 
+
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Baseline model result.JPG" width="1000px" align="middle"></p></div>
+
+<h3>The Improved Model </h3>
+To imporve the model, first we would add datas that we obtained from google places, boston city government site and google street views. 
+<p>
+City Infrastructural Features: <br>
+These include: <br>
+walking distance to mbta, walking distance to school(k-12 education),walking distance to university, walking distance to park, crime rates, land energy use, craiglist house posting, craiglist room posting<br>
+These factors appear to be crucial prediction features, especially in a cultural city with strong academic resources like Boston, school districts appeared to be a major factor. 
+    <div id="theImgs"><p><img class="center" src="img\ml\Housing\Feature-Exploration_housingPrice_Informal.jpg" width="1000px" align="middle"></p></div>
+
+<p>
+Google Street views data would capture interesitng charachteristics of the neighborhoods and we plot prices in relationship with features deployed from the streetview images. Among these some interesting ones are pixelWater, pixelVan, pixelCar,pixel road, pixelSidewalk, pixelSky. These somewhat shows correlation with housing price. 
+<br>
+</p>
+ Google Street View Features <br>
+
+    <div id="theImgs"><p><img class="center" src="img\ml\Housing\Feature-Exploration_housingPrice_UrbanEnvironment.jpg" width="1000px" align="middle"></p></div>
+
+<p>
+The combination of zillow data set and these features that we gathered from other sources  have 40 features together, and it looks like this after processing:
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\dataset.JPG" width="1000px" align="middle"></p></div>
+<p> Forward and Backward selection of these features picked 'pixelWall' 'pixelCeiling' 'pixelPath' 'walkSchool' 'walkMbta'  'energySiteEUI' 'walkPark' 'pixelBridge' 'pixelWindow' 'pixelGrandstand'
+ 'latitude' 'bathrooms' 'bedrooms'  while pixel window is the only different feature from the two selections. 
+<p id="print"> 
+Step-wise forward subset selection:
+[3, 8, 9, 12, 13, 14, 18, 25, 29, 30, 34, 35, 40]
+['pixelWall' 'pixelCeiling' 'pixelPath' 'walkSchool' 'walkMbta'
+ 'energySiteEUI' 'walkPark' 'pixelBridge' 'pixelWindow' 'pixelGrandstand'
+ 'latitude' 'bathrooms' 'bedrooms']
+</p>
+<p id="print"> 
+Step-wise backward subset selection:
+[3, 8, 9, 12, 13, 14, 18, 25, 30, 34, 35, 40]
+['pixelWall' 'pixelCeiling' 'pixelPath' 'walkSchool' 'walkMbta'
+ 'energySiteEUI' 'walkPark' 'pixelBridge' 'pixelGrandstand' 'latitude'
+ 'bathrooms' 'bedrooms']
+</p>
+Using these selected features, a linear regression model now have a much prediction power as the R square meausre increased to around 0.55
+
+<pre>reg = Lin_Reg() #automatically fits intercept (adds column of one's) for you
+reg.fit(xlinear_train, y_train)
+ylinearpred = reg.predict(xlinear_test)
+train_r_squared_plain = reg.score(xlinear_train, y_train)
+test_r_squared_plain = reg.score(xlinear_test, y_test)
+
+print 'Plain Regression: R^2 score on training set', train_r_squared_plain
+print 'Plain Regression: R^2 score on test set', test_r_squared_plain
+print backward
+print reg.coef_</pre>
+
+
+<p id="print"> 
+Plain Regression: R^2 score on training set 0.554806605344<br>
+Plain Regression: R^2 score on test set 0.552280768531<br>
+['pixelWall' 'pixelCeiling' 'pixelPath' 'walkSchool' 'walkMbta'
+ 'energySiteEUI' 'walkPark' 'pixelBridge' 'pixelGrandstand' 'latitude'
+ 'bathrooms' 'bedrooms']<br>
+[  1.66975864e+00  -5.08047923e+00   1.02931553e+01   8.37755472e-01
+  -4.70824163e-01  -2.65410930e-03   9.89936107e-01  -9.55759953e+00
+   4.06865061e+01   3.34295897e+02   2.07474792e+00  -4.47986540e+00]
+</p>
+
+This time bathrooms and bedrooms numbers still appear important in the model, the urban environment features tell us that more walls( meaning more construction, denser neighborhood) , more paths , more public stands are associated with higher housing value. More ceiling(meaning more covered space/less open space), more bridges are associated with lower housing value. 
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Improved model.JPG" width="1000px" align="middle"></p></div>
+
+
+<P> Visulization of the original data set and its predicted value:
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Housing Price Prediction .png" width="800px" align="middle"></p></div>
+
+<p> Lasso and ridge models have similiar (slightly smaller) R square compared to the linear regression model. They picked up  more features thant the backward and forward selection . After tuning alpha parameter, the results are below: 
+
+<br>
+<pre> x_std = Standardize(with_mean=False).fit_transform(x)
+
+# Lasso regression
+reg = Lasso_Reg(alpha =1)
+reg.fit(x_std, y)
+coefficients = reg.coef_
+
+print 'Lasso:'
+print 'Coefficients:', coefficients
+print  'Predictors with non-zero coefficients:', [i for i, item in enumerate(coefficients) if abs(item) > 0]
+print data.columns.values[[i for i, item in enumerate(coefficients) if abs(item) > 0]]</pre>
+
+
+<p id="print"> 
+Lasso: <br>
+Coefficients: [  1.78022984   0.76351372  -1.62028417   3.85289307   1.19614439   0.           0.
+  -0.16021163  -3.09622089   2.86537383  -0.03692707   1.54431305
+   9.99467568   4.29210187  -1.21071298   0.09701096   0.           1.49519728
+   6.15427688   0.           0.           0.          -0.23433414   0.          -0.
+  -2.08276022  -0.          -0.          -1.34738636   0.19296128
+   5.31385155  -0.           0.          -0.          11.50284928
+   5.42092042   0.           0.          -0.87417761   1.74624793
+  -8.45279138  -0.          -1.42791519] <br>
+Predictors with non-zero coefficients: [0, 1, 2, 3, 4, 7, 8, 9, 10, 11, 12, 13, 14, 15, 17, 18, 22, 25, 28, 29, 30, 34, 35, 38, 39, 40, 42] <br>
+['pixelPlant' 'pixelPole' 'pixelRoad' 'pixelWall' 'pixelCar' 'pixelBus'
+ 'pixelCeiling' 'pixelPath' 'pixelBuilding' 'crime' 'walkSchool' 'walkMbta'
+ 'energySiteEUI' 'pixelPerson' 'pixelVan' 'walkPark' 'pixelMountain'
+ 'pixelBridge' 'pixelField' 'pixelWindow' 'pixelGrandstand' 'latitude'
+ 'bathrooms' 'zip' 'status' 'bedrooms' 'home_type']
+</p>
+
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Ridge Tuning.png" width="500px" align="middle"></p></div>
+
+
+<pre> reg = Ridge_Reg(alpha = 10)
+reg.fit(x_std, y)
+coefficients = reg.coef_
+
+print 'Ridge:'
+print 'Coefficients:', coefficients
+print 'Predictors with non-zero coefficients:', [i for i, item in enumerate(coefficients) if abs(item) > 0]</pre>
+
+
+<p id="print"> 
+Ridge: <br>
+Coefficients: [  1.52969298   2.29213497  -2.42188672   5.31383223   1.92563376
+   0.54345318  -1.18607724  -0.95832993  -6.82493919   3.53947267
+  -1.47858632   2.83548732   9.43789854   5.56754656  -3.96066808
+   1.92563376  -1.15601065   1.71357325   6.54673171   0.70230854
+   1.9336431    0.          -1.2053437   -0.26665896  -1.47599769
+  -3.10929521   1.01643824  -0.56669797  -3.0005008    1.94453138
+   8.74845762  -0.14141461   0.2827675   -1.05692459  12.21418469
+   6.39028537   0.28957751   0.19573106  -0.7571994    3.56798651
+  -8.4690419   -1.03686992  -3.70092368] <br>
+Predictors with non-zero coefficients: [0, 1, 2, 3, 4, 5, 6, 7, 8, 9, 10, 11, 12, 13, 14, 15, 16, 17, 18, 19, 20, 22, 23, 24, 25, 26, 27, 28, 29, 30, 31, 32, 33, 34, 35, 36, 37, 38, 39, 40, 41, 42]
+</p>
+
+<div id="theImgs"><p><img class="center" src="img\ml\Housing\Ridge Tuning1.png" width="500px" align="middle"></p></div>
+
+
+<P> RandomForest Regression model is showing much better results with a R square measure above 0.6. 
+<pre> max_depth =5
+regr_rf = RandomForestRegressor(max_depth=max_depth, random_state=2)
+regr_rf.fit(x_train, y_train)
+y_rf = regr_rf.predict(x_test)
+
+score = regr_rf.score(x_test,y_test)
+print score</pre>
+
+
+<p id="print"> 
+0.585502733075
+</p>
+
+
+<h2 class="section-heading">SECTION 3  Conclusion </h2>
+<p>
+Using regression methods, we found out that linear regression with featured selection can predict the housing price with an R square around 0.55 while Randomforest regression method with depth of 5 have an R square of 0.59. These have much improved from the baseline model ( house features only from zillow dataset ). Adding the urban infrastructure data ( crimerates, walking distance to facilites, energey use) and the urban visual envrioment data, the model accuracy definitely have improved. Among those features, walking distance to mbta, walking distance to park appeared important in all regression models. Urban environment features such as public stands, public paths, denser construction are associated with higher housing value. More covered ceiling and more bridges are associated with lower housing value.<br><br>
+We see in the result, that these features affect housing price differently then the rent price(discussed in next chapter). These could become important factors for urban planners and realest developers to consider. <br><br>
+
+For future development, we feel that more tree models could help explain these data better and maybe it would be more intuitive to explain some of the factors associated with a 3 class (high medium low) price range. So we could use classification method to further identify and perhaps see formation of neighborhood charachteristics in the city of Boston.
+
+</p>
+
+<a href="JupyterNotebook/Section_4_Leraning Housing Price/HousingPrice.ipynb" target="_blank">
+    <p class="post-subtitle">Jupyter Notebook for Housing Price : download  </p>
+</a>
+
+<!-- your content ebd here -->
+
+                </div>
+            </div>
+        </div>
+    </article>
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                 <hr>
+
+                <div>
+                  <ul class="pager col-lg-6">
+                      <li class="previous">
+                        <a href="DataExploration.html"> &larr; 2:Data Exploration</a>
+                          
+                      </li>
+                  </ul>
+                </div>
+                <div>
+                   <ul class="pager col-lg-6">
+                      <li class="next">
+                            <a href="MachineLearningRenting.html">  4:Learning Renting Price &rarr;</a>
+                      </li>
+                  </ul>
+                </div>
+            </div>
+
+          </div>
+    </div>
+
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+                    <p class="copyright text-muted">cs109, Harvard University</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>

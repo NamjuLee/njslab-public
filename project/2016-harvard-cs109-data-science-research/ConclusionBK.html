@@ -1,0 +1,267 @@
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+    <meta charset="utf-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1">
+    <meta name="description" content="">
+    <meta name="author" content="">
+
+    <title>CS109 Data Science, Harvard</title>
+
+    <!-- Bootstrap Core CSS -->
+    <link href="vendor/bootstrap/css/bootstrap.min.css" rel="stylesheet">
+
+    <!-- Theme CSS -->
+    <link href="css/clean-blog.min.css" rel="stylesheet">
+    <link href="css/main.css" rel="stylesheet">
+
+    <!-- Custom Fonts -->
+    <link href="vendor/font-awesome/css/font-awesome.min.css" rel="stylesheet" type="text/css">
+    <link href='https://fonts.googleapis.com/css?family=Lora:400,700,400italic,700italic' rel='stylesheet' type='text/css'>
+    <link href='https://fonts.googleapis.com/css?family=Open+Sans:300italic,400italic,600italic,700italic,800italic,400,300,600,700,800' rel='stylesheet' type='text/css'>
+
+    <!-- HTML5 Shim and Respond.js IE8 support of HTML5 elements and media queries -->
+    <!-- WARNING: Respond.js doesn't work if you view the page via file:// -->
+    <!--[if lt IE 9]>
+        <script src="https://oss.maxcdn.com/libs/html5shiv/3.7.0/html5shiv.js"></script>
+        <script src="https://oss.maxcdn.com/libs/respond.js/1.4.2/respond.min.js"></script>
+    <![endif]-->
+
+</head>
+
+<body>
+
+    <!-- Navigation -->
+    <nav class="navbar navbar-default navbar-custom navbar-fixed-top">
+        <div class="container-fluid">
+            <!-- Brand and toggle get grouped for better mobile display -->
+            <div class="navbar-header page-scroll">
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#bs-example-navbar-collapse-1">
+                    <span class="sr-only">Toggle navigation</span>
+                    Menu <i class="fa fa-bars"></i>
+                </button>
+                <a class="navbar-brand" href="index.html">Summary</a>
+            </div>
+
+            <!-- Collect the nav links, forms, and other content for toggling -->
+            <div class="collapse navbar-collapse" id="bs-example-navbar-collapse-1">
+                <ul class="nav navbar-nav navbar-right">
+                    <li>
+                        <a href="DataParsing.html">Data Parsing</a>
+                    </li>
+                    <li>
+                        <a href="DataExploration.html">Data Exploration</a>
+                    </li> 
+                    <li>
+                        <a href="MachineLearningHousing.html">Learning Housing Price</a>
+
+                    </li>
+                    <li>
+                        <a href="MachineLearningRenting.html">Learning Renting Price</a>
+                    </li>
+                    <li>
+                        <a href="Conclusion.html">Conclusion</a>
+                    </li>
+                    </li>
+                </ul>
+            </div>
+            <!-- /.navbar-collapse -->
+        </div>
+        <!-- /.container -->
+    </nav>
+
+    <!-- Page Header -->
+    <!-- Set your background image for this header on the line below. -->
+    <header class="intro-header" style="background-image: url('img/ellieconclusion.jpg')">
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                    <div class="post-heading">
+                        <h1 align="middle" >Conclusion</h1>
+                        <h2 class="subheading"> </h2>
+                        <span class="meta"> </span>
+                    </div>
+                </div>
+            </div>
+        </div>
+    </header>
+
+    <!-- Post Content -->
+    <article>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+
+<!-- start here  -->
+
+
+
+<h2>Conclusion with data visualization </h2>
+<hr>
+
+
+<h3>Section 1 : Validation of assumptions</h3>
+<hr>
+
+<p> 
+<h4> Price Data Visuzlization </h4>
+<p>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/price.JPG" width="800px" align="middle"></p></div>
+</div>
+
+<hr>
+
+<h4> Assumptions </h4>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/assumption.JPG" width="800px" align="middle"></p></div>
+</div>
+<p id="mainText">
+Initially, we assumed that the accessibility to schools and university and MBTA and park affects housing value. Thus, we visualized location of critical factors based on collected raw data. As you can see the figure above, the distribution of important features related to normalized housing and rent prices.<br>
+<hr>
+
+<h3>Section 2 : Visualization after Machine Learning</h3>
+<hr>
+
+<h4> Impact of Socio-economic Data </h4>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/energy.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Energy Data : Site EUI of building sectors </p>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/crime.JPG" width="800px" align="middle"></p></div>
+</div>
+
+<p align="middle">Crime Data : Crime rate within boundary areas </p>
+
+<p id="mainText">
+On top of the assumptions we made from the social observations, we considered few features as critical factors for building or built environment disclosure. Two of distinctive features are Energy and Crime data. Both are positively correlated with the housing values. Therefore, among multiple features of socio-economic data, we selected site EUI data and crime rate data as final features of the model prediction.  <br>
+<hr>
+
+
+<h4> Impact of Visual Data </h4>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/waterandbridge.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Positive Relationship : Visualized Water and Bridge </p>
+
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/treeandgrass.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Positive Relationship : Visualized Trees and Grass </p>
+<p id="mainText">
+There are several critical factors which have an influence on housing value predictions. The positive relationship between visual data and housing value allows us to predict housing values based on the direct relationships. Based on the results of feature selections (cross validation, backward and forward selection and decision trees), it can be conclude that the river (represented as water feature) and bridges near the center of the downtown shows positive relationships. While, we can observe a large amount of cluster of trees in low housing value areas from the figure above, the information of grass and parks(shown in the paragraph above) could be a great indicator to predict housing values and their surroundings. <br>
+<hr>
+
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/bldgandpath.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Negative Relationship : Visualized Building and Path </p>
+<p id="mainText">
+Unlike the previous analysis, features which have negative relationship of housing values could be another indicators to predict housing values and built environment. Especially, the resolution of visualized buildings and path shows the areas where more affordable housing units and rent units are located.<br>
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/people.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Negative Relationship : Visualized People </p>
+
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/car.JPG" width="800px" align="middle"></p></div>
+</div>
+<p align="middle">Negative Relationship : Visualized Cars </p>
+<p id="mainText">
+Besides buildings and infrastructures, people and cars were captured by google streetviews assumming where has less urban density. The tendency of such data shows that the different tendency of Craiglist data which is more densely distributed in high values of housing areas. It can be resulted in more engagement in social media is related to housing prices, but less people and cars we can observe from such areas. <br>
+
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/posandneg.JPG" width="1200px" height="400" align="middle"></p></div>
+</div>
+<p align="middle">Comparison of different relationships </p>
+
+<h3>Section 3 : Final Visualization and Interpretation</h3>
+
+<!-- <div id="theImg" class="embed-responsive embed-responsive-16by9"> -->
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/finalIMG.JPG" width="1200px" height="800"  align="middle"></p></div>
+<!-- </div> -->
+<div id="theImg" class="embed-responsive embed-responsive-16by9">
+    <div id="theImgs"><p><img class="center" src="img/ml/viz/elliehome.JPG" width="1200px" height="600" align="middle"></p></div>
+</div>
+<p align="middle">Final visualization model with associated features </p>
+<p id="mainText">
+In conclusion, intricated urban matrix needs to be organized such an order, but there are multiple factors effecting urban issues including land values and housing prices. From our project, it can be said that decision tree and random forest model predict better to built environment with manifold affecting features. Furthermore, even portion of selected features for each classses shows that the importance of urban condition to estimate property values. Both visual analysis and contextual analysis are crucial to evaluate monetary values for residential units. As you can see the final visualization above, a various range of features could be an estimator to predict housing values. Buildings people, and cars could be the negative estimators, while accesibility to greens, water, and bridges, the use of energy and the rate of crime can possibly indicate positive relation for housing value prediction. Densely packed urban areas sometimes can be categorized with different portion between walls and sky with simple visual analysis. From this project, we learned the potential possibility to analyze certain values based on visually represented data and environment by taking google street views as a method for mathmetical analysis. As a future work, we will apply same models on similar cities to see the performance of suggested model and to improve existing model further.  <br>
+
+<p>
+Parse_RentDataFromTrulia[Jupyter Notebook]: <a href="Step_1_Parse_RentDataFromTrulia.ipynb" target="_blank">download</a><br>
+</p>
+
+
+
+
+
+
+
+
+<!-- end here  -->
+
+                </div>
+            </div>
+        </div>
+    </article>
+
+  <div class="container">
+        <div class="row">
+            <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+                 <hr>
+
+                <div>
+                  <ul class="pager col-lg-6">
+                      <li class="previous">
+                          <a href="MachineLearningHousing.html"> &larr; 4:Leraning Housing Price</a>
+                      </li>
+                  </ul>
+                </div>
+                <div>
+                   <ul class="pager col-lg-6">
+                      <li class="next">
+                          <a href="index.html"> Summary &rarr; </a> </a>
+                      </li>
+                  </ul>
+                </div>
+            </div>
+
+          </div>
+    </div>
+
+
+    <hr>
+
+    <!-- Footer -->
+    <footer>
+        <div class="container">
+            <div class="row">
+                <div class="col-lg-8 col-lg-offset-2 col-md-10 col-md-offset-1">
+
+                    <p class="copyright text-muted">cs109, Harvard University</p>
+                </div>
+            </div>
+        </div>
+    </footer>
+
+    <!-- jQuery -->
+    <script src="vendor/jquery/jquery.min.js"></script>
+
+    <!-- Bootstrap Core JavaScript -->
+    <script src="vendor/bootstrap/js/bootstrap.min.js"></script>
+
+    <!-- Contact Form JavaScript -->
+    <script src="js/jqBootstrapValidation.js"></script>
+    <script src="js/contact_me.js"></script>
+
+    <!-- Theme JavaScript -->
+    <script src="js/clean-blog.min.js"></script>
+
+</body>
+
+</html>
