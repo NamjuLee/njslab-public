@@ -1,5 +1,2 @@
-## 2015
+## NJSTUDIO VISUALIZATION DEMO REEL, 2015
 
-Under the construction
-
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2015-demo-design-viz/2015-demo-design-viz.jpg)

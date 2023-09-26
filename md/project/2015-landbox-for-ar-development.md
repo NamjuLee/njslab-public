@@ -1,5 +1,5 @@
-## 2015
+## LandBox for AR, Experiment 2015, in progress, 2015
 
-Under the construction
+Stand-alone software
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2015-landbox-for-ar-development/2015-landbox-for-ar-development.jpg)
