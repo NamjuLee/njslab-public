@@ -1,4 +1,4 @@
-## INTRODUCTION TO 3D VISUALIZATION [WORKSHOP], Harvard GSD Spring 2015
+## INTRODUCTION TO DESIGN VISUALIZATION [WORKSHOP], Harvard GSD Spring 2015
 
 Digital Media Workshop, 
 
@@ -8,6 +8,7 @@ Optimization, Animation, Rendering, and Post-production process
 
 
 WHO YOU ARE
+
 This workshop is for those who are familiar with 3D software such CAD program as 3ds max,
 Maya, Rhino to develop an advanced 3D visualization skill, or those who want to understand
 the process of 3D visualization in Urban, Architecture, and Landscape architect representation

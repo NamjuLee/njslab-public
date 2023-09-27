@@ -2,7 +2,9 @@
 
 
 Location: Helsinki, Finland
+
 Date: September 2014
+
 Collaboration with Daekwon Park, Patricia Correa, Ale Romo, Taekyung Kim,and Hansol Kang
 
 [Link](http://daekwonpark.com/portfolio/helsinki-guggenheim-museum/)
