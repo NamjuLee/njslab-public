@@ -2,6 +2,7 @@
 
 ### Data, Design Computation, Artificial Intelligence, Visualization, Harvard GSD J Term 2023
 
+[link](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
 
 **KEYWORD:**
 
