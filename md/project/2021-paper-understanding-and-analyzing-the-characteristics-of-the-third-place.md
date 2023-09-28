@@ -4,6 +4,8 @@
 
 Conference Paper
 
+[link](https://link.springer.com/chapter/10.1007/978-981-33-4400-6_11)
+
 Lee, Namju: Understanding and Analyzing the Characteristics of the Third Place in Urban Design: A Methodology for Discrete and Continuous Data in Environmental Design
 
 Proceedings of the 2020 DigitalFUTURES, 

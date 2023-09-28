@@ -1,8 +1,10 @@
-## 4th industry, and Coding, KIBIM Vol 11, p16 ~ 29, ISSN: 2288-3053, Korean INSTITUTE of. Building Information Modeling, 2021
+## 4th industry, and Coding, KIBIM Vol 11, Korean INSTITUTE of. Building Information Modeling, 2021
 
 2021 Mar
 
 Book Chapter
+
+[link](https://kibim.or.kr/publication/publication01.asp)
 
 Lee, Namju:Design, 4th industry, and Coding
 

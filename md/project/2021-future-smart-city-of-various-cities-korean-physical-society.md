@@ -2,6 +2,8 @@
 
 2021 Apr
 
+[link](https://webzine.kps.or.kr/?p=5_view&idx=16552)
+
 Book Chapter
 
 Lee, Namju,Urban Physics: How do we live together? Future smart city of various cities as seen by architects, 
