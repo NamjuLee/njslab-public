@@ -4,10 +4,15 @@ May 26, 2020
 
 [link](https://nj-namju.medium.com/clustering-points-collision-based-dynamic-grid-graph-method-f602d0152cd2)
 
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/point-clustering/MouseinteractionCluster.gif)
+
+
 Research for clustering point data in digital mapping
 
 Abstract
 This article states a clustering algorithm for dynamic points at different zoom levels on digital mapping. Urban, landscape, or architectural designers could use this methodology to represents data as visual groups or to reveal insights from data while interacting data directly, on the stage of analysis and decision-making process.
+
 
 ## 1 Introduction
 Data become much more available for designers, and it enables us to understand urban contexts with the lens of data of cities. Design practices with data allow designers to identify a pattern of data in different level of scale, or interpret the relationship with other layers of data. There would be many visual processes minimizing noises and maximize the contrast of insights from data. Particularly point representation on maps is a basic and essential visual element to visualize data. Clustering Algorithms promote process the point data to filter out insights as a meaningful visual language.
@@ -36,6 +41,7 @@ While the traditional grid-based(Partitioning) clustering would be suitable for 
 
 It addresses a special clustering technique for adding and translating points dynamically in an intuitive way for digital mapping. This method works on both renderers (1) static renderer (such as SVG or HTML Canvas ), (2) dynamic renderer(HTML Canvas, OpenGL, or WebGL).
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/point-clustering/clusterEx.gif)
 
 ### 2.1 Methodology
 Collision-Based Dynamic Grid Graph method for clustering points consists of Five steps:
@@ -67,7 +73,10 @@ However, although the collision-based system works correctly in most cases, some
 Due to recursive checking, sometimes the cluster could concatenate the possible independent cluster graphs like a block hole. As a generalization, the subdivision of the graph could be executed on the basis of a resolution which could have something to do with the visual looks or style of the graph, preventing from getting stuck with each other visually. It allows users to understand which cluster could contain the translating point, while interacting point with other points or clusters.
 
 ### 2.1.5. Merged graphs
-in the previous steps, they process the graph against point, but in this final step, we have an additional generalization to apply graph against other graphs or subgraphs.
+in the previous steps, they process the graph against point, but in this final step, we have an additional generalization to apply graph against other graphs or sub-graphs.
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/point-clustering/styleClustering.gif)
 
 ## 3 Implementation:
 This method deployed in the product of ArcGIS StoryMaps.
@@ -81,6 +90,7 @@ This method deployed in the product of ArcGIS StoryMaps.
 (4) Hierarchical sub-graphs and (5) Merged graphs
 
 ![Data in Design](https://miro.medium.com/v2/resize:fit:1400/1*81xy4e52KJFIfcvOTiLwKw.gif)
+
 
 ## 4 Conclusion
 In this article, I address a methodology for a clustering algorithm to cluster dynamic points, which users or designers can translate freely while rendering and visualizing point data at different zoom levels. This method allows them to reveal patterns or visual cues while interacting with point data directly.

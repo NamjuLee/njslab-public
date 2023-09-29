@@ -5,6 +5,9 @@ Jul 19, 2020
 [link](https://medium.com/@nj-namju/discrete-urban-space-and-connectivity-492b3dbd0a81)
 
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/network/nnaSet.gif)
+
+
 Subtitle: Partition & Relationship
 
 Keyword
