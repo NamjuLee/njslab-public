@@ -13,3 +13,7 @@ allowing us to understand different points of view in urban contexts.
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2006-pixel-raised-urban-computation/2006_Pixel-Raised-Urban_02.jpg)
 
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2006-pixel-raised-urban-computation/2006_Pixel-Raised-Urban_03.jpg)
+
+![Data in Design](https://namjulee.github.io/njs-lab-public/project/2006-pixel-raised-urban-computation/2006_Pixel-Raised-Urban_04.jpg)
+
