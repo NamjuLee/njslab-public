@@ -1,5 +1,3 @@
-### [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna)  Playlist - [link](https://www.youtube.com/playlist?list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e)
-
 #### [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna)  26, 질문 그리고 유의사항!!! - [link](https://www.youtube.com/embed/zlXe31zJhJA)
 
 [00:23](https://www.youtube.com/watch?v=zlXe31zJhJA&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=1&t=23s) - 나는 멘토가 아닙니다, but 정보 전달자
