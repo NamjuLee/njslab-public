@@ -9,4 +9,6 @@
 
 전체 버전 - https://brunch.co.kr/@njnamju/140
 
+[English Version](https://nj-namju.medium.com/interview-1-2-by-se-29ab459c3a64)
+
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2021-interview-snut-times/2021-interview-snut-times.jpg)
