@@ -1,4 +1,8 @@
-#### [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna)  26, 질문 그리고 유의사항!!! - [link](https://www.youtube.com/embed/zlXe31zJhJA)
+### [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna) Playlist - [link](https://www.youtube.com/playlist?list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e)
+
+#### [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna) 26 - 질문 그리고 유의 사항!!!
+
+ - [link](https://www.youtube.com/embed/zlXe31zJhJA)
 
 [00:23](https://www.youtube.com/watch?v=zlXe31zJhJA&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=1&t=23s) - 나는 멘토가 아닙니다, but 정보 전달자
 
@@ -14,7 +18,7 @@
 
 ---
 
-#### **QnA 122 디자이너를 위한 데이터사이언스 학습 / 적용 전략**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 122 - 디자이너를 위한 데이터사이언스 학습 / 적용 전략
 
 [00:05](https://www.youtube.com/watch?v=0oJqBTQWDZg&t=5s) - 질문자 백그라운드 소개
 
@@ -114,7 +118,7 @@
 
 ---
 
-#### **QnA 121 자료관리와 백업 & 파일관리와 폴더구조**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 121 - 자료관리와 백업 & 파일관리와 폴더구조
 
 [00:05](https://www.youtube.com/watch?v=wrdal2XN-hA&t=5s) - 오늘의 질문
 
@@ -138,7 +142,7 @@
 
 ---
 
-#### **QnA 120 인테리어 디자이너의 컴퓨테이셔널 디자인 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 120 - 인테리어 디자이너의 컴퓨테이셔널 디자인 질문
 
 [00:05](https://www.youtube.com/watch?v=9hhOb7BkiFo&t=5s) - 인테리어 디자인, 컴퓨테이셔널 디자인 활용
 
@@ -154,7 +158,7 @@
 
 ---
 
-#### **QnA 119 RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 119 - RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문
 
 [00:00](https://www.youtube.com/watch?v=4N9pEG6h5aM&t=0s) - 자기소개
 
@@ -176,7 +180,7 @@
 
 ---
 
-#### **QnA 118 프로덕트 디자이너의 컴퓨테이셔널 디자인 학습 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 118 - 프로덕트 디자이너의 컴퓨테이셔널 디자인 학습 질문
 
 [00:36](https://www.youtube.com/watch?v=AxOuZG6_3ME&t=36s) - 오늘의 질문: 프로덕트 디자이너가 컴퓨테이션을 학습하는 방법에 대해...
 
@@ -240,213 +244,213 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 117 A - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 117 - A 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문
 
-#### 1부
+1부
 
-[00:05](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=5s) \- 배경 [01:36](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=96s) \- 자기소개 그리고 Harvard GSD, MDE 프로그램
-
-.........................
-
-[05:50](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=350s) \- MDE 프로그램 & 포트폴리오 피드백
-
-[11:12](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=672s) \- 홈페이지를 보고 느낀 점
-
-[13:09](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=789s) \- MDes도 같은 맥락이다.
+[00:05](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=5s) - 배경 [01:36](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=96s) - 자기소개 그리고 Harvard GSD, MDE 프로그램
 
 .........................
 
-[14:57](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=897s) \- 질문자 피드백
+[05:50](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=350s) - MDE 프로그램 & 포트폴리오 피드백
 
-[17:39](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1059s) \- 내가 누군지를 아는 것의 중요성
+[11:12](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=672s) - 홈페이지를 보고 느낀 점
 
-[19:50](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1190s) \- 작품마다 역할을 꼭 명시하자
+[13:09](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=789s) - MDes도 같은 맥락이다.
 
 .........................
 
-[22:17](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1337s) \- 질문자의 포트폴리오 고민
+[14:57](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=897s) - 질문자 피드백
+
+[17:39](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1059s) - 내가 누군지를 아는 것의 중요성
+
+[19:50](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1190s) - 작품마다 역할을 꼭 명시하자
+
+.........................
+
+[22:17](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1337s) - 질문자의 포트폴리오 고민
 
 진로상담/취직/유학-디자인-건축/컴퓨테이션 - [https://computationaldesign.tistory.com/45](https://computationaldesign.tistory.com/45)
 
 ........................
 
-[26:13](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1573s) \- 포트폴리오 리뷰
+[26:13](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1573s) - 포트폴리오 리뷰
 
-[32:51](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1971s) \- 어떤 내용을 나열할 것인가?
-
-.........................
-
-[36:07](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2167s) \- 어느 수준의 정보까지 보여야 하나?
-
-[39:27](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2367s) \- 질문에 충분한 정보를 주자, 프로그램의 컨텍스트에 맞춰
-
-[39:58](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2398s) \- 당연히 생각은 바뀐다!
-
-[40:35](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2435s) \- SOP의 단어 할애의 비중은?
-
-[43:31](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2611s) \- SOP는 수학 공식과 같다.
-
-[43:54](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2634s) \- 졸업 후 남는 것은?? 유학과 학비 - [https://youtu.be/eFtT4N80xR4?t=1601](https://youtu.be/eFtT4N80xR4?t=1601)
-
-[47:25](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2845s) \- 전략 요약
-
-[50:00](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=3000s) \- 마음 가짐
-
-#### 2부
-
-[00:05](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=5s) \- 질문: 하버드 MDes 프로그램, Ecologies, Mediums
-
-[04:54](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=294s) \- 디자인 대학원에서 프로덕션의 중요성!!
-
-[09:32](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=572s) \- 슬기로운 대학원 생활의 기본은?
-
-[11:24](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=684s) \- 팀 프로젝트 VS 개인 프로젝트
-
-[18:53](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1133s) \- Other 카테고리라도, 결국 Master in Design Engineering 디그리에 맞는 학습을 하게 될 것이다.
-
-[19:26](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1166s) \- 없는 것을 찾지 말고, 가지고 있는 것에 집중하자
-
-[20:37](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1237s) \- CEO 교육, 직원 교육 [21:51](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1311s) \- 마무리
+[32:51](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=1971s) - 어떤 내용을 나열할 것인가?
 
 .........................
 
-[22:29](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1349s) \- 녹화 후, 내용 요약
+[36:07](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2167s) - 어느 수준의 정보까지 보여야 하나?
 
-[23:47](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1427s) \- 코딩의 중요성
+[39:27](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2367s) - 질문에 충분한 정보를 주자, 프로그램의 컨텍스트에 맞춰
 
-[24:44](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1484s) \- 파이썬 언어와 디자이너 그리고 CEO
+[39:58](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2398s) - 당연히 생각은 바뀐다!
 
-[26:27](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1587s) \- 코딩을 배우는 목적은?
+[40:35](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2435s) - SOP의 단어 할애의 비중은?
 
-[26:44](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1604s) \- NJ채널 시작한 이유?
+[43:31](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2611s) - SOP는 수학 공식과 같다.
 
-[28:58](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1738s) \- 데이터 기반 사회가 열어 주는 환경
+[43:54](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2634s) - 졸업 후 남는 것은?? 유학과 학비 - [https://youtu.be/eFtT4N80xR4?t=1601](https://youtu.be/eFtT4N80xR4?t=1601)
 
-[30:51](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1851s) \- 지식의 누적과 이행의 특이점 때문
+[47:25](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=2845s) - 전략 요약
 
-[35:03](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2103s) \- CS50 : [https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+[50:00](https://www.youtube.com/watch?v=l4SqYYYUqN8&t=3000s) - 마음 가짐
 
-[36:10](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2170s) \- 그 변화들, 과거처럼, 흉내만 내고 넘어갈 수 있는 부분이 아님
+2부
 
-[38:47](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2327s) \- 회사 운영 기로에 선 경험
+[00:05](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=5s) - 질문: 하버드 MDes 프로그램, Ecologies, Mediums
 
-[39:46](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2386s) \- 인생은 새옹지마, 과정과 결과 말고 '목표'에 집중하자!
+[04:54](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=294s) - 디자인 대학원에서 프로덕션의 중요성!!
+
+[09:32](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=572s) - 슬기로운 대학원 생활의 기본은?
+
+[11:24](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=684s) - 팀 프로젝트 VS 개인 프로젝트
+
+[18:53](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1133s) - Other 카테고리라도, 결국 Master in Design Engineering 디그리에 맞는 학습을 하게 될 것이다.
+
+[19:26](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1166s) - 없는 것을 찾지 말고, 가지고 있는 것에 집중하자
+
+[20:37](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1237s) - CEO 교육, 직원 교육 [21:51](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1311s) - 마무리
+
+.........................
+
+[22:29](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1349s) - 녹화 후, 내용 요약
+
+[23:47](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1427s) - 코딩의 중요성
+
+[24:44](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1484s) - 파이썬 언어와 디자이너 그리고 CEO
+
+[26:27](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1587s) - 코딩을 배우는 목적은?
+
+[26:44](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1604s) - NJ채널 시작한 이유?
+
+[28:58](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1738s) - 데이터 기반 사회가 열어 주는 환경
+
+[30:51](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=1851s) - 지식의 누적과 이행의 특이점 때문
+
+[35:03](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2103s) - CS50 : [https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0](https://pll.harvard.edu/course/cs50-introduction-computer-science?delta=0)
+
+[36:10](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2170s) - 그 변화들, 과거처럼, 흉내만 내고 넘어갈 수 있는 부분이 아님
+
+[38:47](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2327s) - 회사 운영 기로에 선 경험
+
+[39:46](https://www.youtube.com/watch?v=J3TEtKqbDs4&t=2386s) - 인생은 새옹지마, 과정과 결과 말고 '목표'에 집중하자!
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 116 A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 116 - A 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)
 
-#### 1부
+1부
 
-[00:05](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=5s) \- 주의 사항
+[00:05](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=5s) - 주의 사항
 
 .................... 유학 SOP와 포트폴리오의 기초
 
-[00:29](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=29s) \- 건축 유학 프로그램 MArch와 MDes의 차이
+[00:29](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=29s) - 건축 유학 프로그램 MArch와 MDes의 차이
 
-[01:48](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=108s) \- 내가 연구할 준비가 되어 있는가? SOP와 포트폴리오 .
+[01:48](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=108s) - 내가 연구할 준비가 되어 있는가? SOP와 포트폴리오 .
 
 ................... 프로그램의 차이
 
-[04:43](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=283s) \- 결국 졸업 때, 나가는 학위(Degree)가 무엇인가???
+[04:43](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=283s) - 결국 졸업 때, 나가는 학위(Degree)가 무엇인가???
 
-[06:42](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=402s) \- MArch1과 MArch2 학위의 경우
+[06:42](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=402s) - MArch1과 MArch2 학위의 경우
 
-[07:45](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=465s) \- MS, MDes, SMArchs 등 학위의 경우
+[07:45](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=465s) - MS, MDes, SMArchs 등 학위의 경우
 
-[10:41](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=641s) \- Harvard의 Mdes는 수업 자유도가 높다??
+[10:41](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=641s) - Harvard의 Mdes는 수업 자유도가 높다??
 
 ..................... SOP 리뷰
 
-[14:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=849s) \- SOP리뷰 할 때 들었던 생각
+[14:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=849s) - SOP리뷰 할 때 들었던 생각
 
-[16:02](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=962s) \- 나의 예를 들면
+[16:02](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=962s) - 나의 예를 들면
 
-[17:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1029s) \- 구조로 접근해 보면, 아카데믹 라이팅
+[17:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1029s) - 구조로 접근해 보면, 아카데믹 라이팅
 
-[19:00](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1140s) \- 내가 생각하는 SOP의 목적은: 잘함의 이야기가 아닌 다름의 이야기
+[19:00](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1140s) - 내가 생각하는 SOP의 목적은: 잘함의 이야기가 아닌 다름의 이야기
 
-[21:11](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1271s) \- 브레인스토밍 그리고 글 쓰기 전략
+[21:11](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1271s) - 브레인스토밍 그리고 글 쓰기 전략
 
-[24:19](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1459s) \- Q 사실을 나열하지 않고 어떻게 SOP를 쓰나??
+[24:19](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1459s) - Q 사실을 나열하지 않고 어떻게 SOP를 쓰나??
 
-[25:37](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1537s) \- A 문제로부터 시작 하자
+[25:37](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1537s) - A 문제로부터 시작 하자
 
-[26:31](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1591s) \- A 주제와 흥미를 중심으로 커리어를 간접 활용
+[26:31](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1591s) - A 주제와 흥미를 중심으로 커리어를 간접 활용
 
-[30:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1809s) \- 질문자의 요약
+[30:09](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1809s) - 질문자의 요약
 
-[30:36](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1836s) \- '역지사지'' 해보자, 내가 심사관이라면...
+[30:36](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1836s) - '역지사지'' 해보자, 내가 심사관이라면...
 
-[31:29](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1889s) \- Q 성적이 안 좋은 경우 이야기를 하는 것이 좋을까요?
+[31:29](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=1889s) - Q 성적이 안 좋은 경우 이야기를 하는 것이 좋을까요?
 
-[37:30](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2250s) \- 한 숨부터 나오는 나의 SOP 경험은.... .
+[37:30](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2250s) - 한 숨부터 나오는 나의 SOP 경험은.... .
 
 .................... 사족
 
-[38:25](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2305s) \- 어떤 결정이 나오던 최선을 다하면 된다.
+[38:25](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2305s) - 어떤 결정이 나오던 최선을 다하면 된다.
 
-[39:14](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2354s) \- 어떤 선택을 하던 결국에 정답으로 만들면 된다.
+[39:14](https://www.youtube.com/watch?v=Nv6A5rd7sXE&t=2354s) - 어떤 선택을 하던 결국에 정답으로 만들면 된다.
 
-#### 2부
+2부
 
-[00:05](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=5s) \- 포트폴리오 이야기 시작
+[00:05](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=5s) - 포트폴리오 이야기 시작
 
-[00:47](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=47s) \- 폰트 사이즈에 대한 이야기
+[00:47](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=47s) - 폰트 사이즈에 대한 이야기
 
-[02:30](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=150s) \- 그 밖의 활동(extra activity)
+[02:30](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=150s) - 그 밖의 활동(extra activity)
 
-[04:07](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=247s) \- 프로젝트 설명 때, 상대편의 입장에서 선택과 집중을 하자
+[04:07](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=247s) - 프로젝트 설명 때, 상대편의 입장에서 선택과 집중을 하자
 
-[07:58](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=478s) \- 한국 설계 스튜디오와 미국 설계 스튜디오를 겪으면서 느낀 점
+[07:58](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=478s) - 한국 설계 스튜디오와 미국 설계 스튜디오를 겪으면서 느낀 점
 
-[08:58](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=538s) \- 콘셉트, 이유, 문제를 설명하고 해결하는 과정 = 기자
+[08:58](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=538s) - 콘셉트, 이유, 문제를 설명하고 해결하는 과정 = 기자
 
-[09:37](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=577s) \- '다름'을 웅변하는 훈련
+[09:37](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=577s) - '다름'을 웅변하는 훈련
 
-[10:52](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=652s) \- 포트폴리오를 발전시키는 하나의 방법
+[10:52](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=652s) - 포트폴리오를 발전시키는 하나의 방법
 
-[14:28](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=868s) \- 디자인을 어느 용도로 활용할 것인가?
+[14:28](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=868s) - 디자인을 어느 용도로 활용할 것인가?
 
-[16:50](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1010s) \- 단발성 프로젝트는 지양하자!
+[16:50](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1010s) - 단발성 프로젝트는 지양하자!
 
-[18:18](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1098s) \- 아이디어와 프로젝트를 누적시키자
+[18:18](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1098s) - 아이디어와 프로젝트를 누적시키자
 
-[21:33](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1293s) \- 포트폴리오의 개념을 넓히자
+[21:33](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1293s) - 포트폴리오의 개념을 넓히자
 
-[23:29](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1409s) \- 사족, 비교우위가 아닌 내가 나 다운 작업을 할
+[23:29](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1409s) - 사족, 비교우위가 아닌 내가 나 다운 작업을 할
 
-[25:54](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1554s) \- 중간 요약: 다름으로 승부 보자
+[25:54](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1554s) - 중간 요약: 다름으로 승부 보자
 
 ..................... 추천서
 
-[27:14](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1634s) \- 추천서 관련 질문
+[27:14](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1634s) - 추천서 관련 질문
 
-[27:47](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1667s) \- 참조링크 설명
+[27:47](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1667s) - 참조링크 설명
 
-[28:19](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1699s) \- 추천서의 배경을 생각해 보자
+[28:19](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1699s) - 추천서의 배경을 생각해 보자
 
-[29:40](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1780s) \- 추천서의 구조?
+[29:40](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1780s) - 추천서의 구조?
 
-[31:22](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1882s) \- 내용적 측면은?
+[31:22](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=1882s) - 내용적 측면은?
 
-[33:46](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2026s) \- 해외에서 추천서가 같은 의미는?
+[33:46](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2026s) - 해외에서 추천서가 같은 의미는?
 
-[37:24](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2244s) \- 내가 속해있는 커뮤니티의 중요성!
+[37:24](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2244s) - 내가 속해있는 커뮤니티의 중요성!
 
-[39:10](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2350s) \- 추천서를 미리 받을 수 있나?
+[39:10](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2350s) - 추천서를 미리 받을 수 있나?
 
-[41:36](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2496s) \- 이렇게 이야기하면서 받아내자!
+[41:36](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2496s) - 이렇게 이야기하면서 받아내자!
 
-[42:39](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2559s) \- 인종차별???
+[42:39](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2559s) - 인종차별???
 
 ..................... 형식
 
-[44:10](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2650s) \- SOP 혹은 추천서의 형식은?
+[44:10](https://www.youtube.com/watch?v=hkleqZ-wwo0&t=2650s) - SOP 혹은 추천서의 형식은?
 
 ---
 
-#### ****[QnA](https://www.youtube.com/hashtag/njc_qna)** QnA****115 연구를 위한 알고리즘 구현과 시각화 소프트웨어 활용**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 115 - 연구를 위한 알고리즘 구현과 시각화 소프트웨어 활용
 
 [00:00](https://www.youtube.com/watch?v=F-e8ulEnLNA&t=0s) - 시작
 
@@ -486,7 +490,7 @@
 
 ---
 
-#### ****[QnA](https://www.youtube.com/hashtag/njc_qna)**  QnA 114. TA(테크니컬 아티스트)를 준비하는 컴퓨터 공학 학생의 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 114 - TA(테크니컬 아티스트)를 준비하는 컴퓨터 공학 학생의 질문
 
 [00:00](https://www.youtube.com/watch?v=3UieOImmbds&t=0s) - 오늘의 질문 TA(테크니컬 아티스트) 준비 방법[01:52](https://www.youtube.com/watch?v=3UieOImmbds&t=112s) - 사족: 커리어 전략을 새울 때
 
@@ -498,7 +502,7 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 113. Low Code, No Code / 코드를 적게, 코드 없이 프로그래밍? 앞으로의 미래, Feat 비판적 사고 75 % 매운맛 버전**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 113 - Low Code, No Code / 코드를 적게, 코드 없이 프로그래밍? 앞으로의 미래, Feat 비판적 사고 75 % 매운맛 버전
 
 [00:00](https://www.youtube.com/watch?v=htzXjgYTO0M&t=0s) - 배경: Low Code, No Code
 
@@ -554,7 +558,7 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 112\. 회계일을 하는 미래 디자이너의 질문들, 컴퓨테이셔널 디자이너 준비 방법**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 112 - 회계일을 하는 미래 디자이너의 질문들, 컴퓨테이셔널 디자이너 준비 방법
 
 [00:00](https://www.youtube.com/watch?v=r5zjdtClzF8&t=0s) - 시작
 
@@ -602,7 +606,7 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 111 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 111 - 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직
 
 [00:00](https://www.youtube.com/watch?v=L7QIASh3-9k&t=0s) - 시작: [https://youtu.be/ZvdrR1UjSko](https://youtu.be/ZvdrR1UjSko)
 
@@ -618,11 +622,11 @@
 
 .......................
 
-[04:18](https://www.youtube.com/watch?v=L7QIASh3-9k&t=258s) - 1) 도움이 된다! 어제든 사람이 하는 일이다. 도움이 된다!
+[04:18](https://www.youtube.com/watch?v=L7QIASh3-9k&t=258s) - 1: 도움이 된다! 어제든 사람이 하는 일이다. 도움이 된다!
 
-[06:41](https://www.youtube.com/watch?v=L7QIASh3-9k&t=401s) - 2) 도움이 된다! 학교와 프로그램의 사정을 잘 안다!
+[06:41](https://www.youtube.com/watch?v=L7QIASh3-9k&t=401s) - 2: 도움이 된다! 학교와 프로그램의 사정을 잘 안다!
 
-[08:15](https://www.youtube.com/watch?v=L7QIASh3-9k&t=495s) - 3) 잘 모르겠다! 구체적으로 추천이 가능한가?
+[08:15](https://www.youtube.com/watch?v=L7QIASh3-9k&t=495s) - 3: 잘 모르겠다! 구체적으로 추천이 가능한가?
 
 .......................
 
@@ -630,7 +634,7 @@
 
 [12:20](https://www.youtube.com/watch?v=L7QIASh3-9k&t=740s) - 추천서의 초안은 스스로 작성해야 한다...
 
-[12:55](https://www.youtube.com/watch?v=L7QIASh3-9k&t=775s) - 추천서 작성 시 유의사항/요령
+[12:55](https://www.youtube.com/watch?v=L7QIASh3-9k&t=775s) - 추천서 작성 시 유의 사항/요령
 
 .......................
 
@@ -650,7 +654,7 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 110 - 44살, 학습 전략과 몇몇의 생각, 라이노와 파이썬 / Python**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 110 - 44살, 학습 전략과 몇몇의 생각, 라이노와 파이썬 / Python
 
 [00:00](https://www.youtube.com/watch?v=sXjteY4Sv-o&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=128&t=0s) - 시작
 
@@ -706,77 +710,77 @@
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 109 영국 건축학교(AA School & Bartlett ) 유학 관련 질문과 생각들...**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 109 - 영국 건축학교(AA School & Bartlett) 유학 관련 질문과 생각들...
 
-[00:00](https://www.youtube.com/watch?v=0_fOtsFEryE&t=0s) \- 시작
+[00:00](https://www.youtube.com/watch?v=0_fOtsFEryE&t=0s) - 시작
 
-[00:18](https://www.youtube.com/watch?v=0_fOtsFEryE&t=18s) \- 오늘의 질문: 영국 건축 유학
+[00:18](https://www.youtube.com/watch?v=0_fOtsFEryE&t=18s) - 오늘의 질문: 영국 건축 유학
 
-[01:09](https://www.youtube.com/watch?v=0_fOtsFEryE&t=69s) \- 답을 드리기 앞서... .
+[01:09](https://www.youtube.com/watch?v=0_fOtsFEryE&t=69s) - 답을 드리기 앞서... .
 
 ..............
 
-[01:40](https://www.youtube.com/watch?v=0_fOtsFEryE&t=100s) \- 두 학교를 비교해 보면
+[01:40](https://www.youtube.com/watch?v=0_fOtsFEryE&t=100s) - 두 학교를 비교해 보면
 
-[02:19](https://www.youtube.com/watch?v=0_fOtsFEryE&t=139s) \- 지도 교수에 따라...
+[02:19](https://www.youtube.com/watch?v=0_fOtsFEryE&t=139s) - 지도 교수에 따라...
 
-[02:26](https://www.youtube.com/watch?v=0_fOtsFEryE&t=146s) \- 졸업생의 활동에 따라...
+[02:26](https://www.youtube.com/watch?v=0_fOtsFEryE&t=146s) - 졸업생의 활동에 따라...
 
-[02:48](https://www.youtube.com/watch?v=0_fOtsFEryE&t=168s) \- 지역과 문화 언어를 고려해 본다면...
+[02:48](https://www.youtube.com/watch?v=0_fOtsFEryE&t=168s) - 지역과 문화 언어를 고려해 본다면...
 
-[02:55](https://www.youtube.com/watch?v=0_fOtsFEryE&t=175s) \- 학비의 차이는 문제가 안된다.
+[02:55](https://www.youtube.com/watch?v=0_fOtsFEryE&t=175s) - 학비의 차이는 문제가 안된다.
 
-[03:07](https://www.youtube.com/watch?v=0_fOtsFEryE&t=187s) \- 요약하면 ...............
+[03:07](https://www.youtube.com/watch?v=0_fOtsFEryE&t=187s) - 요약하면 ...............
 
-[03:27](https://www.youtube.com/watch?v=0_fOtsFEryE&t=207s) \- 현실적 고민거리 1: 내가 어느 환경에서 상위 10% 안에 들 수 있을까?
+[03:27](https://www.youtube.com/watch?v=0_fOtsFEryE&t=207s) - 현실적 고민거리 1: 내가 어느 환경에서 상위 10% 안에 들 수 있을까?
 
-[05:14](https://www.youtube.com/watch?v=0_fOtsFEryE&t=314s) \- 요약하면
+[05:14](https://www.youtube.com/watch?v=0_fOtsFEryE&t=314s) - 요약하면
 
-[05:48](https://www.youtube.com/watch?v=0_fOtsFEryE&t=348s) \- 조언을 이해할 때, 그 배경을 이해하고, 나의 상황을 투영해 보자
-
-...............
-
-[06:34](https://www.youtube.com/watch?v=0_fOtsFEryE&t=394s) \- 국제적인 명성은?
-
-[07:21](https://www.youtube.com/watch?v=0_fOtsFEryE&t=441s) \- 마인드 셋을 바꿔 보면, 가장 중요한 것은, 나의 '캐릭터(아이덴티티)'이다!
-
-[07:44](https://www.youtube.com/watch?v=0_fOtsFEryE&t=464s) \- 학력세탁:
-
-[08:49](https://www.youtube.com/watch?v=0_fOtsFEryE&t=529s) \- 학력 인플레이션 시대와 전략?
-
-[09:14](https://www.youtube.com/watch?v=0_fOtsFEryE&t=554s) \- 졸업 후 그 프로그램을 따라가는 사람은 많지 않다...
+[05:48](https://www.youtube.com/watch?v=0_fOtsFEryE&t=348s) - 조언을 이해할 때, 그 배경을 이해하고, 나의 상황을 투영해 보자
 
 ...............
 
-[09:54](https://www.youtube.com/watch?v=0_fOtsFEryE&t=594s) \- 취직에 관해서? 일반적 관점과 건축 설계 사무실 관점
+[06:34](https://www.youtube.com/watch?v=0_fOtsFEryE&t=394s) - 국제적인 명성은?
+
+[07:21](https://www.youtube.com/watch?v=0_fOtsFEryE&t=441s) - 마인드 셋을 바꿔 보면, 가장 중요한 것은, 나의 '캐릭터(아이덴티티)'이다!
+
+[07:44](https://www.youtube.com/watch?v=0_fOtsFEryE&t=464s) - 학력세탁:
+
+[08:49](https://www.youtube.com/watch?v=0_fOtsFEryE&t=529s) - 학력 인플레이션 시대와 전략?
+
+[09:14](https://www.youtube.com/watch?v=0_fOtsFEryE&t=554s) - 졸업 후 그 프로그램을 따라가는 사람은 많지 않다...
 
 ...............
 
-[10:52](https://www.youtube.com/watch?v=0_fOtsFEryE&t=652s) \- 나의 선택을 정답으로 만들자!
+[09:54](https://www.youtube.com/watch?v=0_fOtsFEryE&t=594s) - 취직에 관해서? 일반적 관점과 건축 설계 사무실 관점
 
 ...............
 
-[11:31](https://www.youtube.com/watch?v=0_fOtsFEryE&t=691s) \- 유학에 기준에 대해서 생각해 보자!!
-
-[12:23](https://www.youtube.com/watch?v=0_fOtsFEryE&t=743s) \- 유학 참조 링크: [https://computationaldesign.tistory.com/45](https://computationaldesign.tistory.com/45)
-
-[12:32](https://www.youtube.com/watch?v=0_fOtsFEryE&t=752s) \- 내가 생각하는 유학은...
-
-[13:29](https://www.youtube.com/watch?v=0_fOtsFEryE&t=809s) \- 유학의 목적은?
-
-[14:01](https://www.youtube.com/watch?v=0_fOtsFEryE&t=841s) \- 트레이닝 센터! 목적에 맞게 훈련을 받자!
-
-[14:55](https://www.youtube.com/watch?v=0_fOtsFEryE&t=895s) \- 각 위치에 따라 보이는 것이 다르다, 열정의 연료로 실력을 기르자
-
-[15:42](https://www.youtube.com/watch?v=0_fOtsFEryE&t=942s) \- 두 가지 부류의 사람: 사회가 상정한 타이틀의 성취로 설명하는 사람
+[10:52](https://www.youtube.com/watch?v=0_fOtsFEryE&t=652s) - 나의 선택을 정답으로 만들자!
 
 ...............
 
-[17:09](https://www.youtube.com/watch?v=0_fOtsFEryE&t=1029s) \- 오늘의 주제를 질문으로 요약하면!!!
+[11:31](https://www.youtube.com/watch?v=0_fOtsFEryE&t=691s) - 유학에 기준에 대해서 생각해 보자!!
+
+[12:23](https://www.youtube.com/watch?v=0_fOtsFEryE&t=743s) - 유학 참조 링크: [https://computationaldesign.tistory.com/45](https://computationaldesign.tistory.com/45)
+
+[12:32](https://www.youtube.com/watch?v=0_fOtsFEryE&t=752s) - 내가 생각하는 유학은...
+
+[13:29](https://www.youtube.com/watch?v=0_fOtsFEryE&t=809s) - 유학의 목적은?
+
+[14:01](https://www.youtube.com/watch?v=0_fOtsFEryE&t=841s) - 트레이닝 센터! 목적에 맞게 훈련을 받자!
+
+[14:55](https://www.youtube.com/watch?v=0_fOtsFEryE&t=895s) - 각 위치에 따라 보이는 것이 다르다, 열정의 연료로 실력을 기르자
+
+[15:42](https://www.youtube.com/watch?v=0_fOtsFEryE&t=942s) - 두 가지 부류의 사람: 사회가 상정한 타이틀의 성취로 설명하는 사람
+
+...............
+
+[17:09](https://www.youtube.com/watch?v=0_fOtsFEryE&t=1029s) - 오늘의 주제를 질문으로 요약하면!!!
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 108 - 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...
 
 AI and Data for design / 디자이너를 위한 인공지능 index - [https://computationaldesign.tistory.com/29](https://computationaldesign.tistory.com/29)
 
@@ -832,7 +836,7 @@ AI and Data for design / 디자이너를 위한 인공지능 index - [https://c
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 107 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 / 하드웨어 기술 / 창의성에 대해**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 107 - 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 / 하드웨어 기술 / 창의성에 대해
 
 원본: [https://youtu.be/ggiYldy6X68](https://youtu.be/ggiYldy6X68)
 
@@ -886,7 +890,7 @@ Q4: 창의성에 관련
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 106 컴퓨테이셔널 디자인에 정의? 에 답을 해 보자!**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 106 - 컴퓨테이셔널 디자인에 정의? 에 답을 해 보자!
 
 원본: [https://youtu.be/kRBmoK\_p5Tg](https://youtu.be/kRBmoK_p5Tg)
 
@@ -918,7 +922,7 @@ Q4: 창의성에 관련
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 105 KICDT 건설산업(AEC)에서 컴퓨테이션 디자인 도입이 왜 늦어지는가? 디자인 기술 / 기성과 신진세대 / 컴퓨테이션의 정의**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 105 - KICDT 건설산업(AEC)에서 컴퓨테이션 디자인 도입이 왜 늦어지는가? 디자인 기술 / 기성과 신진세대 / 컴퓨테이션의 정의
 
 원본: [https://youtu.be/hbjEgombIWs](https://youtu.be/hbjEgombIWs)
 
@@ -982,7 +986,7 @@ Q4: 창의성에 관련
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 104 컴퓨테이셔널 디자인, 이해가 안될 때, 완벽한 해결책?!**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 104 - 컴퓨테이셔널 디자인, 이해가 안될 때, 완벽한 해결책?!
 
 [00:00](https://www.youtube.com/watch?v=oKoQcJjuQWw&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=120&t=0s) - 기존 지식으로 컴퓨테이셔널을 이해하려 할 때 문제점
 
@@ -1028,7 +1032,7 @@ QnA, 플레이 리스트 인덱스 - [https://computationaldesign.tistory.com/2]
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 103 KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 103 - KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고
 
 원본: [https://youtu.be/gBiM0vFq30w](https://youtu.be/gBiM0vFq30w)
 
@@ -1082,7 +1086,7 @@ QnA, 플레이 리스트 인덱스 - [https://computationaldesign.tistory.com/2]
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 102 KICDT Small Talk, 컴퓨테이셔널 디자인 프로젝트 피드백 & 컴퓨테이셔널 디자인 사고**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 102 - KICDT Small Talk, 컴퓨테이셔널 디자인 프로젝트 피드백 & 컴퓨테이셔널 디자인 사고
 
 원본 - [https://youtu.be/3K7UtHmv2Ww](https://youtu.be/3K7UtHmv2Ww)
 
@@ -1130,7 +1134,7 @@ Lecture Video - [https://youtu.be/ioGSrgYpEm8](https://youtu.be/ioGSrgYpEm8)
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 101 KICDT 스터디 질문 & 피드백 모음 02**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 101 - KICDT 스터디 질문 & 피드백 모음 02
 
 [00:00](https://www.youtube.com/watch?v=mlAwduUqMmM&t=0s) - NJ님의 직업관 그리고 디자이너로서의 소프트웨어 엔지니어 역할, 아이덴티티, 전략
 
@@ -1144,7 +1148,7 @@ Lecture Video - [https://youtu.be/ioGSrgYpEm8](https://youtu.be/ioGSrgYpEm8)
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 100 KICDT 스터디 질문 & 피드백 / 파이썬 Class에 대해 / 그라스하퍼 스터디 / KICDT 활동**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 100 - KICDT 스터디 질문 & 피드백 / 파이썬 Class에 대해 / 그라스하퍼 스터디 / KICDT 활동
 
 [00:00](https://www.youtube.com/watch?v=-3AvhwXwCKY&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=116&t=0s) - Class에 대해서 (Python 스터디 중)
 
@@ -1178,7 +1182,7 @@ Lecture Video - [https://youtu.be/ioGSrgYpEm8](https://youtu.be/ioGSrgYpEm8)
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 99 스터디자료, 아카이빙 전략, 포트폴리오, 앞으로 요구되는 능력**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 99 - 스터디자료, 아카이빙 전략, 포트폴리오, 앞으로 요구되는 능력
 
 [00:00](https://www.youtube.com/watch?v=W9Gybb48uOI&t=0s) - 내용적, 형식적 전략, 자료를 아카이빙을 할 때
 
@@ -1200,7 +1204,7 @@ Lecture Video - [https://youtu.be/ioGSrgYpEm8](https://youtu.be/ioGSrgYpEm8)
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 98 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 98 - 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해
 
 [00:00](https://www.youtube.com/watch?v=ni2sTXgvjQo&t=0s) - 배경 설명
 
@@ -1248,7 +1252,7 @@ QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 97 처음코딩을공부하는디자이너에게**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 97 - 처음코딩을공부하는디자이너에게
 
 [00:00](https://www.youtube.com/watch?v=S2AkLPOckkA&t=0s) - 처음 코딩을 공부하는 디자이너에게
 
@@ -1286,7 +1290,7 @@ QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 96 치열하게 유지하는 방법 / 딥 팅킹 / 메타인지 / 언어와 지능**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 96 - 치열하게 유지하는 방법 / 딥 팅킹 / 메타인지 / 언어와 지능
 
 원본 비디오 - [https://youtu.be/M42GNcbw0bI](https://youtu.be/M42GNcbw0bI)
 
@@ -1310,7 +1314,7 @@ QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 95 컴퓨테이셔널 사고 / 이분법적 접근 말자 / 문제 해결 방법**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 95 - 컴퓨테이셔널 사고 / 이분법적 접근 말자 / 문제 해결 방법
 
 원본 비디오 - [https://youtu.be/M42GNcbw0bI](https://youtu.be/M42GNcbw0bI)
 
@@ -1342,7 +1346,7 @@ QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 94 맴버쉽오피스아워, 제품 디자인 학부생과 대화 그리고 컴퓨테이셔널 디자인**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 94 - 맴버쉽오피스아워, 제품 디자인 학부생과 대화 그리고 컴퓨테이셔널 디자인
 
 [00:00](https://www.youtube.com/watch?v=GrtqDvWYH30&t=0s) - 오늘의 주제
 
@@ -1396,7 +1400,7 @@ QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 93 맴버쉽오피스아워 - 데이터, 알고리즘, 학습방법, 기술과 디자인을 볼 때**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 93 - 맴버쉽오피스아워 - 데이터, 알고리즘, 학습방법, 기술과 디자인을 볼 때
 
 [00:00](https://www.youtube.com/watch?v=MPFItk90guQ&t=0s) - 질문: 데이터 확보와 시각화에 대해
 
@@ -1434,7 +1438,7 @@ Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES W
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 92 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 92 - 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략
 
 [00:00](https://www.youtube.com/watch?v=ZvdrR1UjSko&t=0s) - 오늘의 질문
 
@@ -1480,7 +1484,7 @@ Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES W
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 91 Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 91 - Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법
 
 원본 비디오 - [https://youtu.be/9TM52K8Mnlk](https://youtu.be/9TM52K8Mnlk)
 
@@ -1552,7 +1556,7 @@ QnA 90 나는 NJ 채널을 이렇게 활용한다! 컴퓨테이셔널 학습 방
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 90 나는 NJ 채널을 이렇게 활용한다! 컴퓨테이셔널 학습 방법 공유**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 90 - 나는 NJ 채널을 이렇게 활용한다! 컴퓨테이셔널 학습 방법 공유
 
 [00:00](https://www.youtube.com/watch?v=ekEfPpb1GG4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=105&t=0s) - 배경 설명 [01:53](https://www.youtube.com/watch?v=ekEfPpb1GG4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=105&t=113s) - 엔제이 채널을 사용하는 하나의 방법
 
@@ -1582,7 +1586,7 @@ PDF 자료 다운 - [https://www.dropbox.com/s/geiaey7gvn4...](https://www.dropb
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 89 엔제이채널, 비디오 관련 피드백**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 89 - 엔제이채널, 비디오 관련 피드백
 
 원본 비디오 - [https://youtu.be/ZcFP6u66DJU](https://youtu.be/ZcFP6u66DJU)
 
@@ -1608,7 +1612,7 @@ PDF 자료 다운 - [https://www.dropbox.com/s/geiaey7gvn4...](https://www.dropb
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 88 라이노(Rhino Common API) C# API 질문, 공부 방법, 범위, 지속 가능한 학습**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 88 - 라이노(Rhino Common API) C# API 질문, 공부 방법, 범위, 지속 가능한 학습
 
 원본 비디오 - [https://youtu.be/ZcFP6u66DJU](https://youtu.be/ZcFP6u66DJU)
 
@@ -1634,7 +1638,7 @@ PDF 자료 다운 - [https://www.dropbox.com/s/geiaey7gvn4...](https://www.dropb
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 87 맴버쉽오피스아워 학부생 질문, 유학, MIT, 준비 방법과 마인드 셋**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 87 - 맴버쉽오피스아워 학부생 질문, 유학, MIT, 준비 방법과 마인드 셋
 
 [00:00](https://www.youtube.com/watch?v=9TM52K8Mnlk&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=102&t=0s) - 유학 관련 질문: MIT 석사
 
@@ -1658,7 +1662,7 @@ PDF 자료 다운 - [https://www.dropbox.com/s/geiaey7gvn4...](https://www.dropb
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 86 맴버쉽오피스아워그라스하퍼, 파이썬 kicdt**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 86 - 맴버쉽오피스아워그라스하퍼, 파이썬 kicdt
 
 원본비디오 -[https://youtu.be/ZcFP6u66DJU](https://youtu.be/ZcFP6u66DJU)
 
@@ -1710,7 +1714,7 @@ Data, Geometry & Visualization: 파이선강좌Day1: [https://brunch.co.kr/@njna
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 85\. 건축학부2 컴퓨테이셔널 디자인에 대한 3가지 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 85 - 건축학부2 컴퓨테이셔널 디자인에 대한 3가지 질문
 
 [00:09](https://www.youtube.com/watch?v=WCPVviEryPU&t=9s) - 이 컨텐츠의 목적
 
@@ -1774,7 +1778,7 @@ QnA, 플레이 리스트 인덱스 [https://computationaldesign.tistory.com/2](h
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 84\. 건축학과 2학년의 질문, 컴퓨테이셔널 디자인 어떻게, 이해하고, 공부하고, 적용할까?**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 84 - 건축학과 2학년의 질문, 컴퓨테이셔널 디자인 어떻게, 이해하고, 공부하고, 적용할까?
 
 [00:00](https://www.youtube.com/watch?v=DVtI14sr9IA&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=99&t=0s) - 오늘의 비디오 주제,
 
@@ -1798,7 +1802,7 @@ QnA, 플레이 리스트 인덱스 [https://computationaldesign.tistory.com/2](h
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 83\. 데이터 시각화를 공부하려 할 때**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 83 - 데이터 시각화를 공부하려 할 때
 
 [00:09](https://www.youtube.com/watch?v=svdoqquGznk&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=98&t=9s) - 오늘의 질문
 
@@ -1844,7 +1848,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 82\. \[서울과기대 건축학전공 2022 졸업준비위원회\] 선배와의 인터뷰**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 82 - [서울과기대 건축학전공 2022 졸업준비위원회] 선배와의 인터뷰
 
 [00:00](https://www.youtube.com/watch?v=smwi906-cAs&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=95&t=0s) - 오늘의 비디오 소개
 
@@ -1876,7 +1880,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 81\. 건축 유학을 준비중인 학부 졸업생의 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 81 - 건축 유학을 준비중인 학부 졸업생의 질문
 
 [00:42](https://www.youtube.com/watch?v=1njMuOUMMho&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=94&t=42s) - 질문자의 배경
 
@@ -1924,7 +1928,7 @@ SmallTalk 12 [#함수민](https://www.youtube.com/hashtag/%ED%95%A8%EC%88%98%EB%
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 80\. 컴퓨테이셔널 디자인을 준비하는 제품 디자인 실무자의 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 80 - 컴퓨테이셔널 디자인을 준비하는 제품 디자인 실무자의 질문
 
 [00:18](https://www.youtube.com/watch?v=2dD5QwBZgjk&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=93&t=18s) - 질문 요약
 
@@ -1984,7 +1988,7 @@ SmallTalk 12 [#함수민](https://www.youtube.com/hashtag/%ED%95%A8%EC%88%98%EB%
 
 ---
 
-#### **[QnA](https://www.youtube.com/hashtag/njc_qna) 79\. 컴퓨테이셔널 디자인을 더 잘하고 싶은 건축디자인 실무자의 질문**
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 79 - 컴퓨테이셔널 디자인을 더 잘하고 싶은 건축디자인 실무자의 질문
 
 [00:00](https://www.youtube.com/watch?v=zgxmTSsMVaY&t=0s) - 오늘의 질문
 
@@ -2072,7 +2076,7 @@ QnA 인덱스 - [https://computationaldesign.tistory.c...](https://computational
 
 ---
 
-#### QnA 78. 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design - [link](https://youtu.be/S0awJ3lYJQc)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 78 - 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design - [link](https://youtu.be/S0awJ3lYJQc)
 
 [00:08](https://www.youtube.com/watch?v=S0awJ3lYJQc&t=8s) - 학생 소개
 
@@ -2130,7 +2134,7 @@ DATA & DESIGN /컴퓨테이셔널 디자인- [https://brunch.co.kr/@njnamju/64](
 
 ---
 
-#### [QnA](https://www.youtube.com/hashtag/njc_qna) 77\. Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문 - [link](https://youtu.be/_iS4cvNN_Kg)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 77 - Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문 - [link](https://youtu.be/_iS4cvNN_Kg)
 
 [00:15](https://www.youtube.com/watch?v=_iS4cvNN_Kg&t=15s) - 오늘의 질문 - 도시 데이터 전문가, 진로, 전략
 
@@ -2200,7 +2204,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### [QnA](https://www.youtube.com/hashtag/njc_qna) 76\. 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝 - [link](https://youtu.be/Zne5gCnMndY)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 76 - 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝 - [link](https://youtu.be/Zne5gCnMndY)
 
 [00:16](https://www.youtube.com/watch?v=Zne5gCnMndY&t=16s) - 오늘의 질문
 
@@ -2226,7 +2230,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### [QnA](https://www.youtube.com/hashtag/njc_qna) 75\. 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡 - [link](https://youtu.be/PPa_asf1BZ8)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 75 - 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡 - [link](https://youtu.be/PPa_asf1BZ8)
 
 [00:00](https://www.youtube.com/watch?v=PPa_asf1BZ8&t=0s) - 근황 업데이트 : 집필 진도 보고
 
@@ -2250,7 +2254,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 [13:01](https://www.youtube.com/watch?v=PPa_asf1BZ8&t=781s) - 한글 영문 번역에 대해서
 
-[13:41](https://www.youtube.com/watch?v=PPa_asf1BZ8&t=821s) - [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna) 19, SOP 작성 유의사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
+[13:41](https://www.youtube.com/watch?v=PPa_asf1BZ8&t=821s) - [#NJC\_QnA](https://www.youtube.com/hashtag/njc_qna) 19, SOP 작성 유의 사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
 
 1/3 SOP, 자기소개서 작성 팁 - 취직 및 유학 [https://youtu.be/4ovJLUPsBuU](https://youtu.be/4ovJLUPsBuU)
 
@@ -2274,7 +2278,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### QnA 74. 건축학부 유학 / 홍콩 / 싱가포르 - [link](https://youtu.be/EW_0uWDHg24)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 74 - 건축학부 유학 / 홍콩 / 싱가포르 - [link](https://youtu.be/EW_0uWDHg24)
 
 유학참조링크 : [https://brunch.co.kr/@njnamju/87](https://brunch.co.kr/@njnamju/87)
 
@@ -2298,7 +2302,7 @@ QnA 66 [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%
 
 ---
 
-#### QnA 73. 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위? - [link](https://youtu.be/DemUqEa9wy4)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 73 - 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위? - [link](https://youtu.be/DemUqEa9wy4)
 
 [00:10](https://www.youtube.com/watch?v=DemUqEa9wy4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=81&t=10s) - 질문의 배경
 
@@ -2328,7 +2332,7 @@ CAD 소프트웨어 만들기: [https://computationaldesign.tistory.c...](https:
 
 ---
 
-#### QnA 72. 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정재정 생계 - [link](https://youtu.be/uv8h9K9Bslg)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 72 - 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정재정 생계 - [link](https://youtu.be/uv8h9K9Bslg)
 
 [00:09](https://www.youtube.com/watch?v=uv8h9K9Bslg&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=80&t=9s) - 질문자의 배경
 
@@ -2360,7 +2364,7 @@ QnA 69 [#학부생의](https://www.youtube.com/hashtag/%ED%95%99%EB%B6%80%EC%83%
 
 ---
 
-#### QnA 71, 학부생 질문 건축의 보수성, 컴퓨테이셔널 디자인직업군, 그리고 10년 후 - [link](https://youtu.be/A2_zqtZ6Q-A)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 71 - 학부생 질문 건축의 보수성, 컴퓨테이셔널 디자인직업군, 그리고 10년 후 - [link](https://youtu.be/A2_zqtZ6Q-A)
 
 [00:00](https://www.youtube.com/watch?v=A2_zqtZ6Q-A&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=79&t=0s) - 비디오의 배경 - [https://youtu.be/1PdnYFzc9cQ](https://youtu.be/1PdnYFzc9cQ)
 
@@ -2404,7 +2408,7 @@ NJ의 컴퓨테이셔널 디자인 - [https://open.kakao.com/o/gpxju1nd](https:/
 
 ---
 
-#### QnA 70 #건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인 - [link](https://youtu.be/1PdnYFzc9cQ)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 70 - #건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인 - [link](https://youtu.be/1PdnYFzc9cQ)
 
 [00:08](https://www.youtube.com/watch?v=1PdnYFzc9cQ&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=78&t=8s) - 질문 배경과 질문들
 
@@ -2450,7 +2454,7 @@ C[#워크숍](https://www.youtube.com/hashtag/%EC%9B%8C%ED%81%AC%EC%88%8D): [htt
 
 ---
 
-#### QnA 69 #학부생의 질문, 공부방법, 기초의 중요성, 스튜디오베이스 수업의 주의점, 트렌드의 주의점 - [link](https://youtu.be/_13DvoZH52w)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 69 - #학부생의 질문, 공부방법, 기초의 중요성, 스튜디오베이스 수업의 주의점, 트렌드의 주의점 - [link](https://youtu.be/_13DvoZH52w)
 
 [00:21](https://www.youtube.com/watch?v=_13DvoZH52w&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=77&t=21s) - 오늘의 질문
 
@@ -2486,7 +2490,7 @@ C[#워크숍](https://www.youtube.com/hashtag/%EC%9B%8C%ED%81%AC%EC%88%8D): [htt
 
 ---
 
-#### QnA 68 사회초년생 #포폴과취직전략 - [link](https://youtu.be/XiO-3mbAs8g)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 68 - 사회초년생 #포폴과취직전략 - [link](https://youtu.be/XiO-3mbAs8g)
 
 [00:14](https://www.youtube.com/watch?v=XiO-3mbAs8g&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=76&t=14s) - 질문의 배경
 
@@ -2522,7 +2526,7 @@ C[#워크숍](https://www.youtube.com/hashtag/%EC%9B%8C%ED%81%AC%EC%88%8D): [htt
 
 ---
 
-#### QnA 67 #라이노파이선 C샵 Scripting 장단점 & 공부 방법 - [link](https://youtu.be/ZjYpiQV9X4M)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 67 - #라이노파이선 C샵 Scripting 장단점 & 공부 방법 - [link](https://youtu.be/ZjYpiQV9X4M)
 
 [00:06](https://www.youtube.com/watch?v=ZjYpiQV9X4M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=75&t=6s) - 오늘의 질문: [#라이노](https://www.youtube.com/hashtag/%EB%9D%BC%EC%9D%B4%EB%85%B8) Python 그리고 C샵의 장단점 질문!
 
@@ -2592,7 +2596,7 @@ Rhino C# 디자인 스크립팅 / Design Scripting Basic - [https://computationa
 
 ---
 
-#### QnA 66 #데이터시각화 를 준비하는 디자이너의 질문 - [link](https://youtu.be/C4v1FqfxdK4)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 66 - #데이터시각화 를 준비하는 디자이너의 질문 - [link](https://youtu.be/C4v1FqfxdK4)
 
 [00:12](https://www.youtube.com/watch?v=C4v1FqfxdK4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=74&t=12s) - 질문자의 배경
 
@@ -2648,7 +2652,7 @@ QnA 45, 지도위에 데이터 시각화, 어떤 제품으로 개발을 하면 �
 
 ---
 
-#### QnA 65 #건축유학, 학부 코넬 건축학교와 UCL 건축학교(바틀넷)? - [link](https://youtu.be/AlCEvp4-r7w)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 65 - #건축유학, 학부 코넬 건축학교와 UCL 건축학교(바틀넷)? - [link](https://youtu.be/AlCEvp4-r7w)
 
 참조링크: [https://brunch.co.kr/@njnamju/87](https://brunch.co.kr/@njnamju/87)
 
@@ -2676,7 +2680,7 @@ QnA 45, 지도위에 데이터 시각화, 어떤 제품으로 개발을 하면 �
 
 ---
 
-#### QnA 64 #API가뭐지? 코딩을 공부하는 디자이너들에게 왜 중요하지? - [link](https://youtu.be/JkWEcIvolzc)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 64 - #API가뭐지? 코딩을 공부하는 디자이너들에게 왜 중요하지? - [link](https://youtu.be/JkWEcIvolzc)
 
 [00:08](https://www.youtube.com/watch?v=JkWEcIvolzc&t=8s)​ - 오늘의 질문: API가 모죠?
 
@@ -2744,7 +2748,7 @@ Rhino API - [https://developer.rhino3d.com/api/](https://developer.rhino3d.com/a
 
 ---
 
-#### QnA 63 #건축학진로 고민 전공(복전)과 나의 비전 - [link](https://youtu.be/mypxBGFz9H4)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 63 - #건축학진로 고민 전공(복전)과 나의 비전 - [link](https://youtu.be/mypxBGFz9H4)
 
 [00:07](https://www.youtube.com/watch?v=mypxBGFz9H4&t=7s)​ - 질문
 
@@ -2822,7 +2826,7 @@ Rhino API - [https://developer.rhino3d.com/api/](https://developer.rhino3d.com/a
 
 ---
 
-#### QnA 62 #건축학과복수전공, 컴퓨터공학 복수전공 어떻게 생각하나? - [link](https://youtu.be/zzBp9_RpI6g)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 62 - #건축학과복수전공, 컴퓨터공학 복수전공 어떻게 생각하나? - [link](https://youtu.be/zzBp9_RpI6g)
 
 [00:00](https://www.youtube.com/watch?v=zzBp9_RpI6g&t=0s)​ - 질문과 배경
 
@@ -2844,7 +2848,7 @@ Rhino API - [https://developer.rhino3d.com/api/](https://developer.rhino3d.com/a
 
 ---
 
-#### QnA 61 #컴퓨테이셔널디자인교육, 코딩 교육, 누가 가르쳐야 하나? - [link](https://youtu.be/pS0N_EKjdG4)  
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 61 - #컴퓨테이셔널디자인교육, 코딩 교육, 누가 가르쳐야 하나? - [link](https://youtu.be/pS0N_EKjdG4)  
 feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.
 
 [00:07](https://www.youtube.com/watch?v=pS0N_EKjdG4&t=7s)​ - 오늘의 질문 설명
@@ -2859,7 +2863,7 @@ feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.
 
 ---
 
-#### QnA 60 #초딩코딩교육, 그리고 인공지능에 #없어질미래직업과 나의 전략? - [link](https://youtu.be/qJtlR1xRQ5o)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 60 - #초딩코딩교육, 그리고 인공지능에 #없어질미래직업과 나의 전략? - [link](https://youtu.be/qJtlR1xRQ5o)
 
 [00:00](https://www.youtube.com/watch?v=qJtlR1xRQ5o&t=0s)​ - 오늘의 주제
 
@@ -2885,7 +2889,7 @@ feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.
 
 ---
 
-#### QnA 59, 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 59 - 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들
 
 [00:00](https://www.youtube.com/watch?v=b-KqUEIWUWE&t=0s)​ - 오늘의 주제: 컴퓨테이셔널 디자인 오해들
 
@@ -2989,7 +2993,7 @@ feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.
 
 ---
 
-#### QnA 58, 디자이너가 코딩 공부를 시작하는, 가장 현실적인 방법!
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 58 - 디자이너가 코딩 공부를 시작하는, 가장 현실적인 방법!
 
 [00:00](https://www.youtube.com/watch?v=PhCfI4hHUVw&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=65&t=0s)​ - 오늘의 주제
 
@@ -3039,41 +3043,7 @@ feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.
 
 ---
 
-#### [#Grasshopper그리고CSharp​](https://www.youtube.com/hashtag/grasshopper%EA%B7%B8%EB%A6%AC%EA%B3%A0csharp)​ 구독자 질문 Q03 - Brep Boolean(Union, Difference, Intersection...) 문제?
-
-[00:00](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=0s)​ - 오늘의 질문
-
-[00:21](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=21s)​ - 질문 내용
-
-[00:38](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=38s)​ - 연결된 비디오에 댓글을 달아주면 감사하겠습니다.
-
-[01:13](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=73s)​ - Boolean operations에 대해
-
-[02:23](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=143s)​ - Boolean operations 알려진 문제점들….
-
-[06:35](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=395s)​ - 질문자의 문제는? [07:44](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=464s)​ - 솔루션 테스트? [09:25](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=565s)​ - 코드 적용
-
-[11:49](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=709s)​ - 다른 방법들은?
-
-[12:33](https://www.youtube.com/watch?v=lrAdXzUTMFU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=64&t=753s)​ - 코드 질문을 여쭈어 보실 때...
-
-라이노(Rhino) 그라스하퍼(Grasshopper)와 c[#코딩](https://www.youtube.com/hashtag/%EC%BD%94%EB%94%A9)​(coding) 동시에 공부하자
-
-그라스하퍼 그리고 코딩(C#) Design Scripting Workshop
-
-플레이리스트
-
-그라스하퍼 & 코딩(C#) Design Scripting Workshop - [http://bit.ly/2u4kH7d](http://bit.ly/2u4kH7d)​
-
-NJ's Computational Design Lecture series - [http://bit.ly/2SgBRq0](http://bit.ly/2SgBRq0)​
-
-다음 브런치
-
-디자인(Design) & 데이터(Data), 컴퓨테이셔널 디자인 - [http://bit.ly/2OCfJ8P](http://bit.ly/2OCfJ8P)​
-
----
-
-#### QnA 57, 코딩공부의 마음가짐, 워크숍파일 공유안하는 이유!?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 57 - 코딩공부의 마음가짐, 워크숍파일 공유안하는 이유!?
 
 [00:00](https://www.youtube.com/watch?v=jRgsZ8WU3Tc&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=63&t=0s)​ - 오늘의 주제
 
@@ -3115,7 +3085,7 @@ NJ's Computational Design Lecture series - [http://bit.ly/2SgBRq0](http://bit.ly
 
 ---
 
-#### QnA 56, 건축 컴퓨테이셔널 디자인 활용?, 응용범위?, 일련의 사고방식 ?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 56 - 건축 컴퓨테이셔널 디자인 활용?, 응용범위?, 일련의 사고방식 ?
 
 [00:07](https://www.youtube.com/watch?v=yqxFz75Kqbw&t=7s)​ - 질문
 
@@ -3185,9 +3155,9 @@ QnA 19, 파라매트릭 디자인 배우려면 어디서부터 어떻게 시작�
 
 ---
 
-#### QnA 55, 디자인/코딩, #저작권 과 #표절 그리고 개인적인 생각
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 55 - 디자인/코딩, #저작권 과 #표절 그리고 개인적인 생각
 
-디자인 저작권 / 참조? / 표절? 그라스하퍼 / 코딩에서의 저작권은? 오픈소스 라이선스 / 유의사항? / 그리고 개인적인 생각
+디자인 저작권 / 참조? / 표절? 그라스하퍼 / 코딩에서의 저작권은? 오픈소스 라이선스 / 유의 사항? / 그리고 개인적인 생각
 
 [00:24](https://www.youtube.com/watch?v=O-Tm04pc5ag&t=24s) - 질문: 표절
 
@@ -3229,7 +3199,7 @@ QnA 19, 파라매트릭 디자인 배우려면 어디서부터 어떻게 시작�
 
 ---
 
-#### QnA 54, 건축 랜더링 전문가를 위한 코딩 공부 방법, 테크트리 Feat. VR/AR - [link](https://youtu.be/6az4QmuLQ5c)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 54 - 건축 랜더링 전문가를 위한 코딩 공부 방법, 테크트리 Feat. VR/AR - [link](https://youtu.be/6az4QmuLQ5c)
 
 [00:13](https://www.youtube.com/watch?v=6az4QmuLQ5c&t=13s) - 질문
 
@@ -3253,7 +3223,7 @@ QnA 39 데크니컬 아티스트 공부 방법? 책? 학원?
 
 ---
 
-#### QnA 53, [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94) 공부와 연계학습질문 - [link](https://youtu.be/5UbJEdOnqgg)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 53 - [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94) 공부와 연계학습질문: [link](https://youtu.be/5UbJEdOnqgg)
 
 [00:06](https://www.youtube.com/watch?v=5UbJEdOnqgg&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=58&t=6s) - 질문
 
@@ -3289,37 +3259,37 @@ QnA 51, [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4
 
 ---
 
-#### QnA 52, [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8%EB%9D%BC%EC%8A%A4%ED%95%98%ED%8D%BC%EC%BD%94%EB%94%A9%EA%B3%B5%EB%B6%80) 어떻게 할까? - [link](https://youtu.be/l2jUsot4J88)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 52 - [#그라스하퍼코딩공부](https://www.youtube.com/hashtag/%EA%B7%B8%EB%9D%BC%EC%8A%A4%ED%95%98%ED%8D%BC%EC%BD%94%EB%94%A9%EA%B3%B5%EB%B6%80) 어떻게 할까? [link](https://youtu.be/l2jUsot4J88)
 
-[00:08](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=8s) \- 비디오를 만드는 이유
+[00:08](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=8s) - 비디오를 만드는 이유
 
-[00:33](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=33s) \- 질문
+[00:33](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=33s) - 질문
 
-[01:01](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=61s) \- 답을 하면,
+[01:01](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=61s) - 답을 하면,
 
-[01:51](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=111s) \- 플레이리스트 추천 (Python, c샵)
+[01:51](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=111s) - 플레이리스트 추천 (Python, c샵)
 
-[03:39](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=219s) \- 공부
+[03:39](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=219s) - 공부
 
-[07:37](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=457s) \- 추가 자료 - Q 코딩과 더불어 어떤 공부를? Feat.4차 산업
+[07:37](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=457s) - 추가 자료 - Q 코딩과 더불어 어떤 공부를? Feat.4차 산업
 
-[08:52](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=532s) \- 추가 자료 - 변할 것과 변하지 않을 것Feat.VR/AR/AI..
+[08:52](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=532s) - 추가 자료 - 변할 것과 변하지 않을 것Feat.VR/AR/AI..
 
-[09:45](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=585s) \- 가장 주요한 것은? 그리고 나의 경험 [11:07](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=667s) \- 요약 하면, Python과 c샵에 대한 나의 생각
+[09:45](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=585s) - 가장 주요한 것은? 그리고 나의 경험 [11:07](https://www.youtube.com/watch?v=l2jUsot4J88&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=57&t=667s) - 요약 하면, Python과 c샵에 대한 나의 생각
 
 Q: "어떤 코딩을 배워야 글래스하퍼와의 호완성(?) 혹은 효율적으로 작업을 할 수 있는지 궁금합니다. "
 
 A: Python ([http://bit.ly/3b6v1Mw](http://bit.ly/3b6v1Mw)) 과 C# ([http://bit.ly/2u4kH7d](http://bit.ly/2u4kH7d)) 을 들 수 있어요.
 
-**1) 문법을 배워야 겠죠.**
+1) 문법을 배워야 겠죠.
 
-**2) 라이노 API를 배워야겠죠**
+2) 라이노 API를 배워야겠죠
 
-**3) 지오메트리를 알면 도움이 되죠!**
+3) 지오메트리를 알면 도움이 되죠!
 
-**4) 라이노 모델링 문법도 알아야 겠죠?**
+4) 라이노 모델링 문법도 알아야 겠죠?
 
-**5) 그리고 무엇보다 나만의 디자인 프로세스가 있어야겠죠!**
+5) 그리고 무엇보다 나만의 디자인 프로세스가 있어야겠죠!
 
 추가 자료
 
@@ -3329,7 +3299,7 @@ A: Python ([http://bit.ly/3b6v1Mw](http://bit.ly/3b6v1Mw)) 과 C# ([http://bit.l
 
 ---
 
-#### QnA 51, 프로덕트 전공 학생의, Harvard Mdes 2021 지원 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 51 - 프로덕트 전공 학생의, Harvard Mdes 2021 지원 질문
 
 [00:08](https://www.youtube.com/watch?v=uM1lE3bkpD4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=53&t=8s) - 시작하면서, Harvard 하버드 건축대학원 Mdes 프로그램
 
@@ -3363,7 +3333,7 @@ Harvard GSD Technology 그리고 MIT Computation 지원준비, 프로그램 비�
 
 ---
 
-#### QnA 50, [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94), 직장에 대해 그리고 공부방법과 마음가짐
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 50 - [#데이터시각화](https://www.youtube.com/hashtag/%EB%8D%B0%EC%9D%B4%ED%84%B0%EC%8B%9C%EA%B0%81%ED%99%94), 직장에 대해 그리고 공부방법과 마음가짐
 
 QnA 42,시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할것인가? - [https://youtu.be/TLMnTZcsjo0](https://youtu.be/TLMnTZcsjo0) 위 비디오에 대한 추가 질문입니다! 감사합니다!
 
@@ -3383,7 +3353,7 @@ QnA 42,시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 �
 
 ---
 
-#### QnA 49, 조경전공 학생의 질문, 컴퓨테이셔널 디자인 공부 팁
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 49 - 조경전공 학생의 질문, 컴퓨테이셔널 디자인 공부 팁
 
 [00:13](https://www.youtube.com/watch?v=bwVtpiAPps4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=51&t=13s) - 질문
 
@@ -3403,7 +3373,7 @@ QnA 42,시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 �
 
 ---
 
-#### QnA 48, 스페샬리스트가 되기 위한 어느 학부생의 전공고민
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 48 - 스페샬리스트가 되기 위한 어느 학부생의 전공고민
 
 디자인 엔지니어링 / Design Engineering 의 질문입니다! [https://youtu.be/\_fK6MPYgHKo](https://youtu.be/_fK6MPYgHKo)
 
@@ -3425,7 +3395,7 @@ QnA 42,시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 �
 
 ---
 
-#### QnA 47, 유학? 얻는 이익이 있나?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 47 - 유학? 얻는 이익이 있나?
 
 QnA 30, 건축 유학 & 학비 그리고 개인적인 생각 - [https://youtu.be/eFtT4N80xR4](https://youtu.be/eFtT4N80xR4)
 
@@ -3453,7 +3423,7 @@ QnA 30, 건축 유학 & 학비 그리고 개인적인 생각 - [https://youtu.be
 
 ---
 
-#### 워크숍 질문, 00 Python For Designers 05 Graph - [link](https://youtu.be/TcSf2bJtZis)
+### 워크숍 질문, 00 Python For Designers 05 Graph - [link](https://youtu.be/TcSf2bJtZis)
 
 Python For Designers 05 Graph 디자이너를 위한 파이썬 05 파이썬 그래프 질문입니다.
 
@@ -3461,7 +3431,7 @@ Python For Designers 05 Graph 디자이너를 위한 파이썬 05 파이썬 그�
 
 ---
 
-#### QnA 46, AI, ML(머신러닝), GL(그래픽), CV(비전), 컴퓨테이셔널 전공을 시작하는 학생 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 46 - AI, ML(머신러닝), GL(그래픽), CV(비전), 컴퓨테이셔널 전공을 시작하는 학생 질문
 
 컴퓨테이셔널 디자인 프로그램(MDes)을 시작하는 학생의 질문을 받았습니다. 지극히 개인적인 생각을 공유합니다.
 
@@ -3485,7 +3455,7 @@ Python For Designers 05 Graph 디자이너를 위한 파이썬 05 파이썬 그�
 
 ---
 
-#### QnA 45, 지도위에 데이터 시각화, 어떤 제품으로 개발을 하면 좋을까?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 45 - 지도위에 데이터 시각화, 어떤 제품으로 개발을 하면 좋을까?
 
 얼마전, 미국에 있는친구가 물어본 질문인데요. 한국어 자료는, 영어권보다 없다 보니, 그래도 조금 도움이 되지 않을까? 개인적인 생각을 공유합니다.
 
@@ -3523,7 +3493,7 @@ CodePen [https://codepen.io/NJStudio/pen/pojXVOo](https://codepen.io/NJStudio/pe
 
 ---
 
-#### QnA 44, 컴퓨테이셔널 직장 구하기? 마음 가짐?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 44 - 컴퓨테이셔널 직장 구하기? 마음 가짐?
 
 페이스북을 통해서 질문을 받았는데요, 약간 다른 관점으로 저의 생각을 공유합니다.
 
@@ -3547,7 +3517,7 @@ CodePen [https://codepen.io/NJStudio/pen/pojXVOo](https://codepen.io/NJStudio/pe
 
 ---
 
-#### QnA 43, 네이버 카페, 그래서호퍼 챌린지 질문 / 코딩을 공부하는 자세
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 43 - 네이버 카페, 그래서호퍼 챌린지 질문 / 코딩을 공부하는 자세
 
 [00:01](https://www.youtube.com/watch?v=eyQlMSrwDQ4&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=44&t=1s) - 두번 째 질문 - 그라스하퍼 Python 에러
 
@@ -3561,7 +3531,7 @@ CodePen [https://codepen.io/NJStudio/pen/pojXVOo](https://codepen.io/NJStudio/pe
 
 ---
 
-#### QnA 42, SA 7.0 Unit 2 관련 질문 / 스스로 공부하는 방법
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 42 - SA 7.0 Unit 2 관련 질문 / 스스로 공부하는 방법
 
 [00:07](https://www.youtube.com/watch?v=jDzKqYNr5zA&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=43&t=7s) - 첫 번째 질문: SA 공부와 NNA 툴박스 다운로드
 
@@ -3587,7 +3557,7 @@ CodePen [https://codepen.io/NJStudio/pen/pojXVOo](https://codepen.io/NJStudio/pe
 
 ---
 
-#### QnA 41,시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할것인가?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 41 - 시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할것인가?
 
 질문이 생긴 비디오 - [https://youtu.be/lSEoOmAIyKM](https://youtu.be/lSEoOmAIyKM)
 
@@ -3637,7 +3607,7 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 ---
 
-#### QnA 40, 데이터를 활용한 도시 설계? 공부 전략? 그리고 엠아이티 센서블씨티(MIT SENSEable City Lab) 연구소
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 40 - 데이터를 활용한 도시 설계? 공부 전략? 그리고 엠아이티 센서블씨티(MIT SENSEable City Lab) 연구소
 
 [00:28](https://www.youtube.com/watch?v=VmeO-5FRXME&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=41&t=28s) - 질문 요약
 
@@ -3669,7 +3639,7 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 ---
 
-#### QnA 39, 건축 컴퓨테이셔널 유학 그리고 파이선 코딩 공부
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 39 - 건축 컴퓨테이셔널 유학 그리고 파이선 코딩 공부
 
 [00:08](https://www.youtube.com/watch?v=3_7mVLH-Reo&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=40&t=8s) - 질문
 
@@ -3693,7 +3663,7 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 ---
 
-#### QnA 38, 데크니컬 아티스트 공부 방법? 책? 학원?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 38 - 데크니컬 아티스트 공부 방법? 책? 학원?
 
 질문을 받았습니다. 개인적인 생각을 공유해 드립니다!
 
@@ -3711,7 +3681,7 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 ---
 
-#### QnA 37, 너는 어떤 프로그래밍 언어를 쓰니?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 37 - 너는 어떤 프로그래밍 언어를 쓰니?
 
 라이브 방송 중, 질문을 받았습니다. 개인적인 생각을 공유해 드립니다!
 
@@ -3739,7 +3709,7 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 ---
 
-#### QnA 36, 프로덕트디자인 위한 코딩 그리고 3D 소프트웨어 공부 질문, 그리고 개인적인 생각
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 36 - 프로덕트디자인 위한 코딩 그리고 3D 소프트웨어 공부 질문, 그리고 개인적인 생각
 
 제품디자인 대학원 진학을 준비하는 학생의 질문입니다. 그리고 저의 개인적인 생각을 공유합니다. 추가 링크도 첨부합니다. 파이팅!!
 
@@ -3761,13 +3731,13 @@ HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - [https://youtu.be/
 
 [16:10](https://www.youtube.com/watch?v=3ro7Wt5mGwA&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=37&t=970s) - 마무리 인사
 
-QnA 20, SOP 작성 유의사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
+QnA 20, SOP 작성 유의 사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
 
 QnA 29, 건축 & 디자인, 포트폴리오 그리고 취직, 유학 - [https://youtu.be/kiXCVXPxYhU](https://youtu.be/kiXCVXPxYhU)
 
 ---
 
-#### QnA 35, 파이썬 그리고 그래픽 툴(맥스, 마야, 라이노...)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 35 - 파이썬 그리고 그래픽 툴(맥스, 마야, 라이노...)
 
 컴퓨테이셔널 디자인 카카오톡 오픈 채팅방의 질문입니다.
 
@@ -3791,7 +3761,7 @@ QnA 29, 건축 & 디자인, 포트폴리오 그리고 취직, 유학 - [https://
 
 ---
 
-#### QnA 34, 컴퓨테이셔널 디자인 유학을 준비하는 학생의 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 34 - 컴퓨테이셔널 디자인 유학을 준비하는 학생의 질문
 
 건축학과 졸업 예정이신 분께서 지문을 주셨어요, 개인적인 생각과 링크들을 공유합니다.
 
@@ -3817,7 +3787,7 @@ QnA 29, 건축 & 디자인, 포트폴리오 그리고 취직, 유학 - [https://
 
 3/3 SOP, 자기소개서 작성 팁 - 취직 및 유학 [https://youtu.be/wb9wVD7Zjx8](https://youtu.be/wb9wVD7Zjx8)
 
-QnA 20, SOP 작성 유의사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
+QnA 20, SOP 작성 유의 사항 (취직 커버레터 / 자기소개서) - [https://youtu.be/ouczzznH7yA](https://youtu.be/ouczzznH7yA)
 
 Harvard GSD Technology 그리고 MIT Computation 지원준비, 프로그램 비교 , 및 컴퓨테이션 공부 준비 방법 - [https://youtu.be/J6P39dLR0Io](https://youtu.be/J6P39dLR0Io)
 
@@ -3833,15 +3803,13 @@ Talk 01, 신희찬, 유학에대한 개인적인 생각, 경험 , 그리고 벨�
 
 ---
 
-#### QnA 33, 유학 고민 많을 때, 실내건축학 전공자의 M.Arch 유학에 대한 고민
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 33 - 유학 고민 많을 때, 실내건축학 전공자의 M.Arch 유학에 대한 고민
 
 [00:29](https://www.youtube.com/watch?v=kr887_n-D8M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=34&t=29s) - 답변에 앞서
 
 [01:58](https://www.youtube.com/watch?v=kr887_n-D8M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=34&t=118s) - 첫 번째 질문
 
-[05:57](https://www.youtube.com/watch?v=kr887_n-D8M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=34&t=357s) - QnA 30, 유학 그리고 학비
-
-          26:41 - 사족 그러나 매우 중요한 현실!! ([https://youtu.be/eFtT4N80xR4?t=1605](https://youtu.be/eFtT4N80xR4?t=1605))
+[05:57](https://www.youtube.com/watch?v=kr887_n-D8M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=34&t=357s) - QnA 30, 유학 그리고 학비 사족 그러나 매우 중요한 현실!! ([https://youtu.be/eFtT4N80xR4?t=1605](https://youtu.be/eFtT4N80xR4?t=1605))
 
 [07:59](https://www.youtube.com/watch?v=kr887_n-D8M&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=34&t=479s) - 두 번째 질문
 
@@ -3853,7 +3821,7 @@ Talk 01, 신희찬, 유학에대한 개인적인 생각, 경험 , 그리고 벨�
 
 ---
 
-#### QnA 32, 코딩 시작 시에, 필요한 수학? 과연 뭐가 필요할까?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 32 - 코딩 시작 시에, 필요한 수학? 과연 뭐가 필요할까?
 
 건축을 전공하시는 학생분께서 코딩 공부 시작에 필요한 수학을 질문으로 주셨네요. 여러 가지 답이 존재할 수 있겠는데요, 개인적인 생각을 공유합니다. 과연 코딩 공부를 시작할 때, 무엇이 필요할까요?
 
@@ -3893,7 +3861,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 31, 건축/컴퓨테이션/뉴미디어/디자인 직업군, 어떻게 준비하면 좋을까요?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 31 - 건축/컴퓨테이션/뉴미디어/디자인 직업군, 어떻게 준비하면 좋을까요?
 
 어느 대학생의 질문, 건축/컴퓨테이션/뉴미디어/디자인 직업군, 어떻게 준비하면 좋을까요? 개인적인 생각 공유합니다.
 
@@ -3909,7 +3877,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 30. 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근 할까?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 30 - 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근 할까?
 
 어느 대학생의 질문 / 파라메트릭 디자인(Parametric Design) 어떻게 이해하고 공부할까? 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근 할까?
 
@@ -3939,7 +3907,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 29. 건축 유학 & 학비 그리고 개인적인 생각
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 29 - 건축 유학 & 학비 그리고 개인적인 생각
 
 저도 유학자금 때문에, 엄청 고생했었죠, 비슷한 질문이 있어 개인적인 생각을 공유합니다.
 
@@ -3959,7 +3927,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 28, 건축 & 디자인, 포트폴리오 그리고 취직, 유학
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 28 - 건축 & 디자인, 포트폴리오 그리고 취직, 유학
 
 건축과 학생의 질문인데요. 건축, 디자인 유학, 그리고 취직을 위한 포트폴리오. 그에 따른 생각을 나눕니다. 감사합니다. [00:10](https://www.youtube.com/watch?v=kiXCVXPxYhU&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=29&t=10s) - 질문 - 건축 유학 / 취직 포트폴리오
 
@@ -3983,7 +3951,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 27, 건축과 학생의 질문, 건축, 디자인 유학 준비 그리고 주관적 생각
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 27 - 건축과 학생의 질문, 건축, 디자인 유학 준비 그리고 주관적 생각
 
 건축, 혹은 디자인 관련 유학에 대한 질문인데요, 개인적인 생각을 드립니다!!
 
@@ -4011,7 +3979,7 @@ brunch.co.kr](https://brunch.co.kr/@njnamju/84)
 
 ---
 
-#### QnA 25, 대학원 진학, 유학에 대한 질문, 그리고 개인적인 생각, feat MIT Media Lab
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 25 - 대학원 진학, 유학에 대한 질문, 그리고 개인적인 생각, feat MIT Media Lab
 
 구독자 분께서 컴퓨테이셔널 디자인 관련 유학 준비 질문을 주셨네요. 지극히 저의 주관적인 생각을 정리해서 공유합니다.
 
@@ -4043,7 +4011,7 @@ SOP 작성법 03 - [https://youtu.be/wb9wVD7Zjx8](https://youtu.be/wb9wVD7Zjx8)
 
 ---
 
-#### QnA 24, 디자인 소프트웨어 어떻게 공부할까? - 알고리듬 공부 방법 / 그리고 브런치!
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 24 - 디자인 소프트웨어 어떻게 공부할까? - 알고리듬 공부 방법 / 그리고 브런치!
 
 꼬리에 꼬리를 무는 우리의 질문 천국 좋습니다! 내가 궁금한 것은, 다른 누군가도 궁금해 할 수 있으니까요! 다음의 비디오들의 질문들에 대한 3번째 답변입니다!
 
@@ -4063,13 +4031,13 @@ QnA 24, 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Me
 
 ---
 
-#### QnA 23, 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Mesh(Polygon) - [link](https://youtu.be/EN9b2kOQgrw)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 23 - 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Mesh(Polygon) - [link](https://youtu.be/EN9b2kOQgrw)
 
 구독자 중 한 분께서, 이 비디오를 ([https://youtu.be/ozQrLtKO1Rs](https://youtu.be/ozQrLtKO1Rs)) 보시고 질문을 주셨네요. 그에 따른 저의 생각을 공유합니다.
 
 ---
 
-#### QnA 22, 디자인 소프트웨어 어떻게 공부할까? / 그 많은 것 언제 다 해요?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 22 - 디자인 소프트웨어 어떻게 공부할까? / 그 많은 것 언제 다 해요?
 
 여러분이 이 비디오를 보시면 대부분 디자이너일 확률이 높은데요, 앞으로 평생 동안 디자인 툴을 사용하겠지요. 둘 중 하나 에요 툴을 정복할 것인지 아니면 정복당할 것인지. 저의 경험과 노하우를 공유합니다.
 
@@ -4101,7 +4069,7 @@ QnA 24, 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Me
 
 ---
 
-#### QnA 21, 내가 생각하는 그라스하퍼(Rhino Grasshopper)의 장점
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 21 - 내가 생각하는 그라스하퍼(Rhino Grasshopper)의 장점
 
 [00:15](https://www.youtube.com/watch?v=NCjL6jqesr8&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=23&t=15s) - 시각적인 방법으로 알고리즘구현이 가능하다
 
@@ -4117,13 +4085,15 @@ QnA 24, 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Me
 
 ---
 
-#### QnA 20, 5G기술과 건축산업(설계 협업 및 시각화 VR), 정말 유용 하나? - [link](https://youtu.be/nwmOpudYm8M)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 20 - 5G기술과 건축산업(설계 협업 및 시각화 VR), 정말 유용 하나? 
+
+- [link](https://youtu.be/nwmOpudYm8M)
 
 한국에서 5G관련 사업을 준비하는 형과 나눈 대화입니다. 5G의 특징과 그에 따른 이득?을 나누어 봅니다.
 
 ---
 
-#### QnA 19, SOP 작성 유의사항 (취직 커버레터 / 자기소개서)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 19 - SOP 작성 유의 사항 (취직 커버레터 / 자기소개서)
 
 진학과 취직준비 하는 후배와의 통화내용을 요약해 봤습니다. 특별히 자기소개서 부분인데요, 준비하시고 고민하시는 분들께 도움이 됐으면 좋겠습니다.
 
@@ -4149,7 +4119,7 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 18, 파라매트릭 디자인 배우려면 어디서부터 어떻게 시작해야하나요?
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 18 - 파라매트릭 디자인 배우려면 어디서부터 어떻게 시작해야하나요?
 
 파라매트릭 디자인 배우려면 어디서 부터 어떻게 시작 해야 하나요?
 
@@ -4161,31 +4131,39 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 17, 내가 생각하는 그라스하퍼(Grasshopper)의 단점과 개인적인 생각 - [link](https://youtu.be/MTESNVayT3c)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 17 - 내가 생각하는 그라스하퍼(Grasshopper)의 단점과 개인적인 생각 
+
+- [link](https://youtu.be/MTESNVayT3c)
 
 구독자께서 질문을 주셨습니다. 1) 라이노 파이썬을 활용하는 이점? 그리고 2) 오픈 데이터의 매핑에 관한 질문을 주셨습니다. 라이노 그라스하퍼(Rhino Grasshopper)의 단점을 8가지 정도로 나누어 설명해 보았습니다.
 
 ---
 
-#### QnA 16, 시각디자인 학생의 질문, 데이터시각화, 크리에이티브 코딩, 테크니컬 아티스트 - [link](https://youtu.be/WTsg7M1hU5k)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 16 - 시각디자인 학생의 질문, 데이터시각화, 크리에이티브 코딩, 테크니컬 아티스트 
+
+- [link](https://youtu.be/WTsg7M1hU5k)
 
 시각디자인 학생인 구독자께서, 컴퓨테이셔널 디자인에 관련한 질문을 주셨습니다. 개인적인 생각을 공유합니다.
 
 ---
 
-#### QnA 15, 파라메트릭(Parametric Design)과 미적분 - [link](https://youtu.be/QtM-b3GguEg)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 15 - 파라메트릭(Parametric Design)과 미적분 
+
+- [link](https://youtu.be/QtM-b3GguEg)
 
 "파라메트릭과 미적분의 연관성에 대해 구체적으로 알려주실 수 있나요? "라는 질문에 개인적인 생각을 공유합니다.
 
 ---
 
-#### QnA 14, 복셀(Voxel)과 컴퓨테이셔널 디자인 그리고 건축 디자인 - [link](https://youtu.be/826Nm8p8A6s)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 14 - 복셀(Voxel)과 컴퓨테이셔널 디자인 그리고 건축 디자인 
+
+- [link](https://youtu.be/826Nm8p8A6s)
 
 여기저기서 복셀 ,복셀, 적지 않은 분들이 이야기를 하죠, 개인적인 경험, 복셀(Voxel) 데이터와 건축 디자인에 대한 이야기를 공유합니다.
 
 ---
 
-#### QnA 13, 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 13 - 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
 
 [00:16](https://www.youtube.com/watch?v=HjwpT295dOw&list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e&index=14&t=16s) - 질문 요약
 
@@ -4215,13 +4193,15 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 12, 미국, 호주, 유학준비와 그에 따른 생각들... - [link](https://youtu.be/q31yCe-xI-U)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 12 - 미국, 호주, 유학준비와 그에 따른 생각들... 
+
+- [link](https://youtu.be/q31yCe-xI-U)
 
 20대 초반의 학생분께서 메일을 주셨는데요, 비록 저의 전공은 아니지만 개인적인 생각을 담아서 공유합니다.
 
 ---
 
-#### QnA 11, 데이터시각화가 꿈인 카이스트 학생의 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 11 - 데이터시각화가 꿈인 카이스트 학생의 질문
 
 얼마 전에 KAIST에서 토크를 하고 왔는데요, 학생 중 한 분이 질문을 보내왔습니다. "데이터 시각화 관련" 질문을 받았습니다. 개인적인 생각을 비디오로 공유합니다.
 
@@ -4251,7 +4231,7 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 10, 어떤 젊은 건축 디자이너의 질문
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 10 - 어떤 젊은 건축 디자이너의 질문
 
 어떤 젊은 건축 디자이너의 질문을 메일로 받았습니다. 공유하면 좋을 것 같아서 비디오로 올립니다.
 
@@ -4271,13 +4251,15 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 09, 직장상사가 내 미래에 도움이 안될 때, 회사를 떠나야하나? 존윅에서 배울점 - [link](https://youtu.be/jdWb5JoSmW0)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 09 - 직장상사가 내 미래에 도움이 안될 때, 회사를 떠나야하나? 존윅에서 배울점 
+
+- [link](https://youtu.be/jdWb5JoSmW0)
 
 존윅 영화를 좋아하는 후배와 나눈 대화입니다. 직장상사가 내 미래에 도움이 안 될 때… 회사를 옮겨야할까요? 존윅 같이 전투력을 기릅시다!
 
 ---
 
-#### QnA 08, 컴퓨테이션 직업군 및 준비 자세
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 08 - 컴퓨테이션 직업군 및 준비 자세
 
 메일로 받은 질문을 공유합니다. 질문 내용 아래와 같은데요,
 
@@ -4293,7 +4275,7 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 07, 데이터 시각화 도구(tools) 그리고 개인적인 생각
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 07 - 데이터 시각화 도구(tools) 그리고 개인적인 생각
 
 [01:07](https://www.youtube.com/watch?v=WxsqBfXlgvE&t=67s) - 질문요약
 
@@ -4319,31 +4301,41 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 06, 건축가의 일반적인 질문 (건축컴퓨팅실무응용) - [link](https://youtu.be/-lhfcRCiVRM)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 06 - 건축가의 일반적인 질문 (건축컴퓨팅실무응용) 
+
+- [link](https://youtu.be/-lhfcRCiVRM)
 
 구독자분 한분의 질문입니다. 사실 비슷한 질문들을 많이 받아 오고 있는데요, 간단히, 제 생각을 공유해 봅니다
 
 ---
 
-#### QnA 05, 코딩과 건축컴퓨팅에 관심이 많으신 건축가형님과의 대화 - [link](https://youtu.be/qi0BNhFGQsI)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 05 - 코딩과 건축컴퓨팅에 관심이 많으신 건축가형님과의 대화 
+
+- [link](https://youtu.be/qi0BNhFGQsI)
 
 18년 지기 친구이자, 형님이신 분과 함께 나눈 대화를 공유합니다. 건축사 취득 후, 코딩을 공부하고 싶어 하시는 일반적인 유형이신 것 같습니다.
 
 ---
 
-#### QnA 04, 건축컴퓨팅을 공부하고 싶으신 건축가형님과의 대화 - [link](https://youtu.be/jImnnKyLzz0)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 04 - 건축컴퓨팅을 공부하고 싶으신 건축가형님과의 대화 
+
+- [link](https://youtu.be/jImnnKyLzz0)
 
 건축컴퓨팅에 관심 있으신 건축가분들을 만나 이야기한 내용을 공유합니다.
 
 ---
 
-#### QnA 03, 컴퓨터 고르는 법 ( 건축3D / 크리에이티브코딩 ) - [link](https://youtu.be/AkvM3o1Qxj8)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 03 - 컴퓨터 고르는 법 ( 건축3D / 크리에이티브코딩 ) 
+
+- [link](https://youtu.be/AkvM3o1Qxj8)
 
 제가 종종 받는 질문인데요, 건축학과 학생, 혹은 실무하시는 분들이 컴퓨터 뭐 쓰냐? 무엇을 사는게 좋냐 라고 물어보시는데, 컴퓨터를 구매함에 있어 개인적인 의견을 공유합니다.
 
 ---
 
-#### QnA 02, 건축가의 일반적인 질문 2차 (건축컴퓨팅실무) - [link](https://youtu.be/Dl0G18-Oy0Q)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 02 - 건축가의 일반적인 질문 2차 (건축컴퓨팅실무) 
+
+- [link](https://youtu.be/Dl0G18-Oy0Q)
 
 앞서 "건축가의 일반적인 질문 (건축컴퓨팅실무응용)" 비디오의 추가 질문에 대한 답변입니다.
 
@@ -4351,7 +4343,9 @@ Berkeley, CED, Mdes [https://ced.berkeley.edu/events-media/news/college-of-engin
 
 ---
 
-#### QnA 01, 어느 고등학생의 질문 / 건축 파라메트릭 디자인 예제 - [link](https://youtu.be/azGuRfMs_Ww)
+#### [QnA](https://www.youtube.com/hashtag/njc_qna) 01 - 어느 고등학생의 질문 / 건축 파라메트릭 디자인 예제 
+
+- [link](https://youtu.be/azGuRfMs_Ww)
 
 어느 고등학생분의 질문인데요, 건축 파라메트릭에 대한 예를 알고싶다고 메일이 왔습니다. 기존 비디오에 대한 추가적인 요청인데요. 개인적인 생각을 담아서 공유해봅니다! 도움이 됐으면 좋겠네요 :)
 
