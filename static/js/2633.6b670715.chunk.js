@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[2633],{42633:(s,e,a)=>{a.r(e),a.d(e,{CanvasCustom:()=>n,Solution:()=>r});var t=a(55913);class r{constructor(s){this.rendererCanvas=void 0,this.rendererCanvas=new n(s)}}class n extends t.bb{constructor(s){super(s),this.start()}render(s){s.beginPath(),s.arc(.5*s.canvas.width,.5*s.canvas.height,150,0,2*Math.PI),s.closePath(),s.fillStyle="#0f0",s.fill()}mouseDown(s,e){}mouseUp(s,e){}mouseDrag(s,e){}mouseClick(s,e){}mouseMove(s,e){}keyDown(s){}}}}]);
+//# sourceMappingURL=2633.6b670715.chunk.js.map

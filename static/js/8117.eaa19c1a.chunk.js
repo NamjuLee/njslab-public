@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[8117],{58117:(t,i,s)=>{s.r(i),s.d(i,{Solution:()=>o});class o{constructor(t){this.hostDiv=void 0,this.hostDiv=t;window.open("https://medium.com/@nj-namju/introduction-to-computational-design-data-geometry-and-visualization-using-digital-media-14161fdfd22f","_blank")}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
+//# sourceMappingURL=8117.eaa19c1a.chunk.js.map
