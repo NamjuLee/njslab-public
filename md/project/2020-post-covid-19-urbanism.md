@@ -4,6 +4,9 @@ Aug 4, 2020
 
 [link](https://nj-namju.medium.com/numeric-network-analysis-post-covid-19-urbanism-6-ft-rule-de267886b028)
 
+[NNA Download](https://www.food4rhino.com/en/app/numeric-network-analysis-nna)
+
+
 SA(Social Algorithms) 2020 Computational Design Workshop
 
 INSTRUCTORS :
