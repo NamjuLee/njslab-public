@@ -6,6 +6,44 @@
 * **keywords:** Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm...  
 * **Research** An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now.
 
+#### [_Design for Design [Book]_](https://computationaldesign.tistory.com/49)
+* Korean, ~~English~~
+* **keywords:** -- 
+* **Research** --
+
+
+
+#### [_Numerical Descriptions as Design Tools_]()
+* Korean, ~~English~~
+* keywords: Computational Design, Data, Geometry, Computational Design Thinking, Design Algorithm...
+* This course is an introduction to Computational Design for designers
+
+#### [_Algorithm & Data Structure for Design & Research_]()
+* Korean, ~~English~~
+* keywords: Computational Design, Data, Data structure, Pixel, Voxel, Graph data, Computational Design Thinking, Design Algorithm...
+* This course is an introduction to data structures for spatial data.
+
+
+#### [_Data for Design(CAD, MLAD)_]()
+* Korean, ~~English~~
+* keywords: Computer-aided design, Machine learning-aided design, Computational Design, automation, optimization, machine learning, data-driven design, Graph data, Computational Design Thinking, Design Algorithm...
+* This course is an introduction to computation for design for spatial data.
+
+
+#### [_GIS for Designer, Spatial data_]()
+* Korean, ~~English~~
+* keywords: GIS, Computational Design, automation, optimization, machine learning, data-driven design, Graph data, Computational Design Thinking, Design Algorithm...
+* This course is an introduction to GIS for designers.
+
+
+#### [_Data in Design & AI for Urban Data & Visualization_]()
+* Korean, ~~English~~
+* keywords: Design data, AI, Machine Learning, Computational Design, automation, optimization, machine learning, data-driven design, Graph data, Computational Design Thinking, Design Algorithm...
+* This course is an introduction to the use of design data in design.
+
+
+
+---
 
 
 #### [_Computational Design Thinking for Designers_](https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c)
