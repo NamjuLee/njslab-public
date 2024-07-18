@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[51914],{51914:(s,e,c)=>{c.r(e),c.d(e,{MeshBase:()=>h});class h{constructor(s){this.scene=void 0,this.scene=s,this.scene.add(this)}render(){}}}}]);
+//# sourceMappingURL=51914.c70ea274.chunk.js.map

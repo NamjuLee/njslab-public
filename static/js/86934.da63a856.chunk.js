@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[86934],{86934:(s,t,i)=>{i.r(t),i.d(t,{Solution:()=>e});class e{constructor(s){this.hostDiv=void 0,this.hostDiv=s;window.open("https://senseable.mit.edu/papers/pdf/20221028_SalazarMiranda_MeasuringImpact_Cities.pdf","_blank")}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
+//# sourceMappingURL=86934.da63a856.chunk.js.map

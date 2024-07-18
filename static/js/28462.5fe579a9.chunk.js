@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[28462],{28462:(e,s,a)=>{e.exports=a.p+"static/media/UV_Grid_Lrg.35909733fe8b440ed3fb.jpg"}}]);

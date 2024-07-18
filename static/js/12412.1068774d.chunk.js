@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[12412],{12412:(s,t,c)=>{c.r(t),c.d(t,{Scene:()=>e});class e{constructor(s){this.NGL3dApp=void 0,this.triList=[],this.NGL3dApp=s}}}}]);
+//# sourceMappingURL=12412.1068774d.chunk.js.map

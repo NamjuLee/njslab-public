@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[45471],{45471:(t,s,e)=>{e.r(s),e.d(s,{Solution:()=>i});class i{constructor(t){this.hostDiv=void 0,this.hostDiv=t;const s=document.createElement("iframe");s.src="https://namjulee.github.io/njs-lab-public/njslab-legacy/?all",s.width="100%",s.height="100%",s.style.border="none",s.style.background="#fff",t.appendChild(s)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
+//# sourceMappingURL=45471.9b226d4f.chunk.js.map

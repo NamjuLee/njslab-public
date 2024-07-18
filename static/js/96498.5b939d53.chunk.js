@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[96498],{96498:(e,r,i)=>{i.r(r),i.d(r,{ViewActiveCommand:()=>s});class s{constructor(e){this.viewControllerWrapper=void 0,this.viewControllerWrapper=e}Resize(e,r){this.viewControllerWrapper.viewController.NUIWrapper.Resize(e,r)}}}}]);
+//# sourceMappingURL=96498.5b939d53.chunk.js.map

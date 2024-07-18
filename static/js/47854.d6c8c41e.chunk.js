@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[47854],{47854:(a,s,e)=>{a.exports=e.p+"static/media/smartDrawingTrainData.b8ed483ffd51329662d6.csv"}}]);

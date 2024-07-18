@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[98216],{98216:(r,t,e)=>{e.r(t),e.d(t,{Color:()=>s});class s{static rgbArray(r){if(0===r.length)return null;let t=[];for(let e,s,n=0;n<r.length;n++)r[n].length<6||(e=r[n],s="#"===e[0]?1:0,t.push(parseInt(e[s]+e[s+1],16)/255,parseInt(e[s+2]+e[s+3],16)/255,parseInt(e[s+4]+e[s+5],16)/255));return t}constructor(){}}}}]);
+//# sourceMappingURL=98216.380543fa.chunk.js.map

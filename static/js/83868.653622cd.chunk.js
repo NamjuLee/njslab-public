@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[83868],{83868:(t,s,e)=>{e.r(s),e.d(s,{Solution:()=>i});class i{constructor(t){this.hostDiv=void 0,this.hostDiv=t;const s=document.createElement("iframe");s.src="https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/",s.width="100%",s.height="100%",s.style.border="none",s.style.background="#fff",t.appendChild(s)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
+//# sourceMappingURL=83868.653622cd.chunk.js.map

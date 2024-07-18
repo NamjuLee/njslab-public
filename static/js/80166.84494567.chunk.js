@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[80166],{80166:(e,r,s)=>{s.r(r),s.d(r,{LogWrapper:()=>p});class p{constructor(e){this.modelViewCoreWrapper=void 0,this.modelViewCoreWrapper=e}}}}]);
+//# sourceMappingURL=80166.84494567.chunk.js.map

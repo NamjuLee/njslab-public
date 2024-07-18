@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[61935],{61935:(t,s,e)=>{e.r(s),e.d(s,{Solution:()=>h});class h{constructor(t){this.hostDiv=void 0,this.hostDiv=t;const s=document.createElement("iframe");s.src="https://namjulee.github.io/post-production-harvard-gsd.github.com/",s.width="100%",s.height="100%",s.style.border="none",s.style.background="#fff",t.appendChild(s)}destroy(){for(;this.hostDiv.lastElementChild;)this.hostDiv.removeChild(this.hostDiv.lastElementChild)}}}}]);
+//# sourceMappingURL=61935.096a1558.chunk.js.map

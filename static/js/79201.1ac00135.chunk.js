@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[79201],{79201:(s,e,u)=>{u.r(e),u.d(e,{Scene:()=>h});var n=u(50916);class h{constructor(){this.t=0,this.spline=void 0;const s=[],e=[];let u=new n.P(-3,-3,0);s.push(new n.u4(u)),e.push(u),u=new n.P(3,-3,0),s.push(new n.u4(u)),e.push(u),u=new n.P(3,5,5),s.push(new n.u4(u)),e.push(u),u=new n.P(-3,5,5),s.push(new n.u4(u)),e.push(u),u=new n.P(-3,-5,2),s.push(new n.u4(u)),e.push(u),this.spline=new n.gt(e)}update(){this.t+=.01}}}}]);
+//# sourceMappingURL=79201.1ac00135.chunk.js.map

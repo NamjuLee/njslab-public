@@ -1,0 +1,1 @@
+{"version":3,"file":"static/css/28902.dfe8346b.chunk.css","mappings":"AAAA,qBACI,YAAa,CACb,wBACJ","sources":["njslab/Workshop/workshop-vector-Sandbox/UI/style.module.css"],"sourcesContent":[".middle {\n    display: flex;\n    height: calc(100% - (40px + 40px));\n}"],"names":[],"sourceRoot":""}

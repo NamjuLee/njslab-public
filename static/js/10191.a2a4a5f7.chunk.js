@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[10191],{10191:(a,n,s)=>{s.r(n),s.d(n,{AppSmartDrawing:()=>t});class t{static Init(){new t(arguments.length>0&&void 0!==arguments[0]?arguments[0]:"SandBox").Dummy()}constructor(){console.log("init smart drawing...")}Dummy(){}}}}]);
+//# sourceMappingURL=10191.a2a4a5f7.chunk.js.map
