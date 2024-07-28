@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[55285],{55285:(e,s,a)=>{e.exports=a.p+"static/media/modelLogisticRegression.9c8f682c55937a0b491e"}}]);

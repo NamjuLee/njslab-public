@@ -1,0 +1,1 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[20254],{20254:(e,a,s)=>{e.exports=s.p+"static/media/modelMultiClassification.d9c318e564e707a11b2b"}}]);

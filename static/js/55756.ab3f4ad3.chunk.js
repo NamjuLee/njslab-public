@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[55756],{55756:(e,s,c)=>{c.r(s),c.d(s,{GeometryBase:()=>r});var a=c(37415);class r{constructor(){this.vec=new a.NVector3(0,0,0)}}}}]);
+//# sourceMappingURL=55756.ab3f4ad3.chunk.js.map
