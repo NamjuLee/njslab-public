@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[39926],{39926:(s,t,e)=>{e.r(t),e.d(t,{Solution:()=>o});var i=e(55913);class o extends i.bb{constructor(s){super(s),this.pt=void 0,this.pt={x:500,y:500},this.start()}render(s){s.fillStyle="#f00",s.beginPath(),s.arc(this.pt.x,this.pt.y,10,0,2*Math.PI),s.closePath(),s.fill(),this.isStatic=!0}mouseDown(s,t){}mouseUp(s,t){}mouseDrag(s,t){}mouseClick(s,t){}mouseMove(s,t){}keyDown(s){}}}}]);
+//# sourceMappingURL=39926.041726ec.chunk.js.map

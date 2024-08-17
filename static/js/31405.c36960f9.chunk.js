@@ -1,0 +1,2 @@
+"use strict";(self.webpackChunkNJS_Lab=self.webpackChunkNJS_Lab||[]).push([[31405],{31405:(s,e,o)=>{o.r(e),o.d(e,{Solution:()=>u});var t=o(55913);class u extends t.J0{constructor(s){super(s),this.polyline=void 0}initPost(){this.polyline={},this.start()}render(s){}mouseDown(s,e){}mouseUp(s,e){}mouseDrag(s,e){}mouseClick(s,e){}mouseMove(s,e){}keyDown(s){}}}}]);
+//# sourceMappingURL=31405.c36960f9.chunk.js.map

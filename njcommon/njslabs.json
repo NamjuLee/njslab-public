@@ -1,0 +1,1059 @@
+[
+  {
+    "id": "Typescript-Lab-",
+    "env": "ENV.DEFAULT",
+    "keywords": ["typescript, lab workshop lecture"],
+    "subLinks": [
+      {
+        "id": "Typescript-syntax",
+        "env": "ENV.DEFAULT",
+        "keywords": ["typescript"],
+        "load": "import('./Workshop/workshop-typescript/01_Typescript_Basics').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Condition-Loop",
+        "env": "ENV.DEFAULT",
+        "keywords": ["typescript, basic, condition, loop"],
+        "load": "import('./Workshop/workshop-typescript/02_Condition_Loop').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Data-Structure",
+        "env": "ENV.DEFAULT",
+        "keywords": ["typescript data structure"],
+        "load": "import('./Workshop/workshop-typescript/03_Data_Structure').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Function-Class",
+        "env": "ENV.DEFAULT",
+        "keywords": ["typescript function class, oop"],
+        "load": "import('./Workshop/workshop-typescript/04_Function_Class').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "TS-Exercise",
+        "env": "ENV.DEFAULT",
+        "keywords": ["typescript exercise"],
+        "load": "import('./Workshop/workshop-typescript/05_Exercise').then(({ Solution }) => { return new Solution(param.view) });"
+      }
+    ]
+  },
+  {
+    "id": "HTML-Canvas-Lab",
+    "env": "ENV.DEFAULT",
+    "keywords": ["html canvas lab 2d visualization rendering workshop lecture"],
+    "subLinks": [
+      {
+        "id": "Canvas-Point-Circle",
+        "env": "ENV.DEFAULT",
+        "keywords": ["point circle draw"],
+        "load": "import('./Workshop/workshop-canvas/01_Point_Circle').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Canvas-Line-Polyline",
+        "env": "ENV.DEFAULT",
+        "keywords": ["line polyline"],
+        "load": "import('./Workshop/workshop-canvas/02_Line_Polyline').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Canvas-Polyline-mouse-input",
+        "env": "ENV.DEFAULT",
+        "keywords": ["polyline mouse interaction"],
+        "load": "import('./Workshop/workshop-canvas/03_Polyline-Mouse-Input').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Canvas-Polygon",
+        "env": "ENV.DEFAULT",
+        "keywords": ["polygon"],
+        "load": "import('./Workshop/workshop-canvas/04_Polygon').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Canvas-N-Gon",
+        "env": "ENV.DEFAULT",
+        "keywords": ["polygon"],
+        "load": "import('./Workshop/workshop-canvas/08_NGon').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "NCanvas",
+        "env": "ENV.DEFAULT",
+        "keywords": ["rect position location optimization"],
+        "load": "import('./Workshop/workshop-canvas/NCanvas').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Grid system",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.GridOptiA) });"
+      },
+      {
+        "id": "Circle Grid",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.CircleGrid) });"
+      },
+      {
+        "id": "Circle Grid1",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.CircleGridAttractors1) });"
+      },
+      {
+        "id": "Circle Grid2",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.CircleGridAttractors2) });"
+      },
+      {
+        "id": "Custom Bin System",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.customBinSystemA) });"
+      },
+      {
+        "id": "Line-1",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.Line1) });"
+      },
+      {
+        "id": "Line-2",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.Line2) });"
+      },
+      {
+        "id": "oopp",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.OOP01) });"
+      },
+      {
+        "id": "Canvas-Circle",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Rhino Viewer 3dm geometry json"],
+        "load": "import('./Tools/CircleCanvas').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },  
+  {
+    "id": "Digital-Mapping",
+    "env": "ENV.DEFAULT",
+    "keywords": ["workshop lecture"],
+    "subLinks": [
+      {
+        "id": "template",
+        "env": "ENV.JSAPI",
+        "keywords": ["template"],
+        "load": "import('./Workshop/workshop-mapping/06_Template').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "starter",
+        "env": "ENV.JSAPI",
+        "keywords": ["starter, jsapi, arcgis, 2d mapping"],
+        "load": "import('./Workshop/workshop-mapping/07_Starter').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "CSV(TSV)",
+        "env": "ENV.JSAPI",
+        "keywords": ["csv, tsv, data, visualization"],
+        "load": "import('./Workshop/workshop-mapping/08_CSV').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "JSON",
+        "env": "ENV.JSAPI",
+        "keywords": ["json, geojson data visualization"],
+        "load": "import('./Workshop/workshop-mapping/09_JSON/index').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "JSON-Line",
+        "env": "ENV.JSAPI",
+        "keywords": ["json geojson line animation"],
+        "load": "import('./Workshop/workshop-mapping/09_JSON/MultiLineString').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "Shape",
+        "env": "ENV.JSAPI",
+        "keywords": ["Shape GIS"],
+        "load": "import('./Workshop/workshop-mapping/09_Shape').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "REST-API",
+        "env": "ENV.JSAPI",
+        "keywords": ["reset api, temperature data visualization"],
+        "load": "import('./Workshop/workshop-mapping/10_REST_API').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      "divider",
+      {
+        "id": "point-1",
+        "env": "ENV.CANVAS",
+        "keywords": ["point, vector gis, mapping, circle"],
+        "load": "import('./Workshop/workshop-mapping/11_Point').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "line-1",
+        "env": "ENV.JSAPI",
+        "keywords": ["line gis"],
+        "load": "import('./Workshop/workshop-mapping/12_Line').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "polyline-1",
+        "env": "ENV.JSAPI",
+        "keywords": ["gis polyline"],
+        "load": "import('./Workshop/workshop-mapping/13_Polyline').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "polygon-1",
+        "env": "ENV.JSAPI",
+        "keywords": ["gis polygon"],
+        "load": "import('./Workshop/workshop-mapping/14_2_PolygonGeoJSON').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "polygon-interaction",
+        "env": "ENV.JSAPI",
+        "keywords": ["gis polygon mouse interaction"],
+        "load": "import('./Workshop/workshop-mapping/14_2_PolygonGeoJSON/MouserInteraction').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "mesh",
+        "env": "ENV.THREE",
+        "keywords": ["mesh 3d geometry data visualization"],
+        "load": "import('./Workshop/workshop-mapping/15_Mesh').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      "divider",
+      {
+        "id": "point dissolve",
+        "env": "ENV.DEFAULT",
+        "keywords": ["gis polygon"],
+        "load": "import('./Workshop/workshop-mapping/30_Dissolve_Point').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Dynamic-Bins",
+        "env": "ENV.JSAPI",
+        "keywords": ["urban data, network analysis bin dynamics generalization for mapping"],
+        "load": "import('./Workshop/workshop-mapping/DynamicBins').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      "divider",
+      {
+        "id": "urban-network",
+        "env": "ENV.JSAPI",
+        "keywords": ["urban data, network analysis"],
+        "load": "import('./Workshop/workshop-mapping/UrbanNetwork/01_Interaction').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "urban-network-interaction",
+        "env": "ENV.JSAPI",
+        "keywords": ["urban data, network analysis interaction, bfs search graph"],
+        "load": "import('./Workshop/workshop-mapping/UrbanNetwork/02_Network').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "urban-network-A-Start",
+        "env": "ENV.JSAPI",
+        "keywords": ["urban data, network analysis a start graph"],
+        "load": "import('./Workshop/workshop-mapping/UrbanNetwork/03_NetworkAStart').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      "divider",
+      {
+        "id": "third-place",
+        "env": "ENV.JSAPI",
+        "keywords": ["mit, media lab third place research project network analysis urban design"],
+        "load": "import('./Project/Project_01_Third_Place').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      "divider",
+      {
+        "id": "project-flower-delivery",
+        "env": "ENV.JSAPI",
+        "keywords": ["place research project network analysis urban data visualization"],
+        "load": "import('./Project/Project_02_Flower_Delivery').then(({ Solution }) => { return new Solution(param.view) });"
+      }
+    ]
+  },
+  
+  {
+    "id": "THREE-Lab",
+    "env": "ENV.DEFAULT",
+    "keywords": ["lab, workshop lecture"],
+    "subLinks": [
+      {
+        "id": "Three-Starter",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_01_Starter-Three').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "Three-Primitive",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization Primitive"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_02_PrimitiveGeometry').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Point",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization Point"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_03_Point').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Point-index",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization Point index"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_03_PointIndex').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Line-Polyline",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization line polyline"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_04_LinePolyline').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Polygon",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization Polygon"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_05_Polygon').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Mesh-Box",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization mesh box cube"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_06_Mesh').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Mesh-Face",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization face connection"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_07_Mesh-Face').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Three-Mesh-Terrain",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization terrain mesh"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_08_Mesh-Terrain').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "Three-Mesh-Vertex-Color",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization vertex color"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_10_Mesh-Vertex-Color').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Three-Mesh-Rhino-Geo",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization rhino geometry mesh"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_11_MeshRhinoGeo').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Three-bunny",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization bunny mesh render"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_12_Bunny').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Three-Voxel",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization voxel discretization"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_13_Voxel').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      "divider",
+      {
+        "id": "[Link]-Code-Pen",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization workshop, lab"],
+        "load": "import('./External/Link-codepen-three').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement); });"
+      },
+      "divider",
+      {
+        "id": "Slow-zone-paper",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization paper research project mit"],
+        "load": "import('./External/Link-Slow-zone-paper').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement); });"
+      },
+      {
+        "id": "Slow-zone-Point",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization point"],
+        "load": "import('./Workshop/workshop-three/Slowzone_Point').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Slow-zone-Line",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization line"],
+        "load": "import('./Workshop/workshop-three/Slowzone_Line').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Slow-zone-Polyline",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization polyline"],
+        "load": "import('./Workshop/workshop-three/Slowzone_Polyline').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Slow-zone-Polygon",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization polygon"],
+        "load": "import('./Workshop/workshop-three/Slowzone_Polygon').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Slow-zone-Viz",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d gis urban data visualization research project mit"],
+        "load": "import('./External/External-Slow-zone-project').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement); });"
+      },
+      "divider",
+      {
+        "id": "Three-Starter-CSS",
+        "env": "ENV.THREE",
+        "keywords": ["three 3d visualization css renderer starter"],
+        "load": "import('./Workshop/workshop-three/LAB_Web_01_Starter-CSS').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },
+
+  {
+    "id": "WebGL & WebGPU",
+    "env": "ENV.DEFAULT",
+    "keywords": ["starter, cad, application webgpu webGL"],
+    "subLinks": [
+      {
+        "id": "NWebGPU Light",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_NJS_Sandbox_Light').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU Sandbox",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_Sandbox').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "NWebGPU",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_NJS_Sandbox').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGPU 00 Basic",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_00_Basic').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 01 Loop",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_01_Basic Loop UI').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 02 Point Line",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_03_PointLinePolyline').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 03 Tri",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_03_Triangle').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGPU 04 index buffer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_04_rect_buffer_index').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 05 single buffer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_05_rect_single_buffer').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 06 gpu buffer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_06_rect_gpu_buffer').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGPU 07 cube",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_07_cube').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 09 cube index",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_09_cube').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGPU 10 Sphere",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_10_Geometry').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGPU 11 Light",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_11_Light').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGPU 50 Light",
+        "env": "ENV.DEFAULT",
+        "keywords": ["webgpu"],
+        "load": "import('./Infrastructure/WebGPU/WebGPU_30_WGSL').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "WebGL",
+        "env": "ENV.DEFAULT",
+        "keywords": ["WebGL"],
+        "load": "import('./Infrastructure/WebGL/WebGL_NJS_Sandbox_01').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "WebGLSandbox",
+        "env": "ENV.DEFAULT",
+        "keywords": ["WebGL, Webgl2, sandbox"],
+        "load": "import('./Infrastructure/WebGL/Starter-WebGLSandbox').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },
+  {
+    "id": "Project-Module",
+    "env": "ENV.DEFAULT",
+    "keywords": [
+      "project",
+      "research",
+      "visualization",
+      "ready",
+      "data",
+      "urban"
+    ],
+    "subLinks": [
+      {
+        "id": "NJS-lab-legacy-web",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "urban njslab, old, legacy data",
+          "network",
+          "analysis",
+          "keywordVis()",
+          "keywordML()",
+          "keywordDataDesign()"
+        ],
+        "load": "import('./External/External-njs-legacy').then(({ Solution }) => { return new Solution((param.view as HTMLDivElement)) });"
+      },
+      {
+        "id": "Algorithm-Env",
+        "env": "ENV.DEFAULT",
+        "keywords": ["njs design algorithm env"],
+        "load": "import('./Env/AppAlgorithmEnv').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "NNA",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "urban nna data",
+          "network",
+          "analysis",
+          "keywordVis()",
+          "keywordML()"
+        ],
+        "load": "import('./Env/NNA').then(({ NJSViewController }) => { return new NJSViewController((param.view as HTMLDivElement).id) });"
+      },
+      {
+        "id": "NNA-network-analysis",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "urban nna data",
+          "network",
+          "analysis",
+          "keywordVis()",
+          "keywordML()"
+        ],
+        "load": "import('./Env/NNA-3').then(({ NJSViewController }) => { return new NJSViewController((param.view as HTMLDivElement).id) });"
+      },
+      {
+        "id": "Land box",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Land box"],
+        "load": "import('./Project/LandBox').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "NTerrain",
+        "env": "ENV.DEFAULT",
+        "keywords": ["N Terrain"],
+        "load": "import('./Project/NTerrain').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Globe",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Globe"],
+        "load": "import('./Env/AppThreeGlobeEnv').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "project-slow-zone-viz",
+        "env": "ENV.DEFAULT",
+        "keywords": ["project mit slow zone, three gis 3d data visualization"],
+        "load": "import('./Project/Project_03_SlowZone/03_SlowZone').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "project-slow-zone-3D",
+        "env": "ENV.DEFAULT",
+        "keywords": ["project mit slow zone, three gis 3d data visualization"],
+        "load": "import('./Project/Project_03_SlowZone/02_Three').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "sz-Point-Interaction",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "project mit slow zone, three gis 3d data visualization point interaction"
+        ],
+        "load": "import('./Project/Project_03_SlowZone/PointInteraction').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "sz-Line-Interaction",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "project mit slow zone, three gis 3d data visualization line interaction"
+        ],
+        "load": "import('./Project/Project_03_SlowZone/LineStripeInteraction').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "sz-Polygon-Interaction",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "project mit slow zone, three gis 3d data visualization polygon interaction"
+        ],
+        "load": "import('./Project/Project_03_SlowZone/PolygonInteraction').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "project-slow-zone-JSAPI",
+        "env": "ENV.JSAPI",
+        "keywords": ["project mit slow zone, jsapi gis 2d data visualization"],
+        "load": "import('./Project/Project_03_SlowZone/01_JSAPI').then(({ Solution }) => { return new Solution(param.view as MapView) });"
+      },
+      "divider",
+      {
+        "id": "Project-Doodle",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Doodle"],
+        "load": "import('./Project/Project_09_Doodle/Starter-canvas').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Ready-Funding-Inspector",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Funding ready"],
+        "load": "import('./Project/Project_15_Ready/01_ISP_inspector').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "water-inspection-01",
+        "env": "ENV.JSAPI",
+        "keywords": ["project mit"],
+        "load": "import('./Project/Project_04_Water/P-1-water').then(({ WaterHyacinth }) => { return new WaterHyacinth(param.view as MapView) });"
+      },
+      {
+        "id": "water-inspection-02",
+        "env": "ENV.DEFAULT",
+        "keywords": ["project mit"],
+        "load": "import('./Project/Project_04_Water/P-2-water').then(({ WaterHyacinth }) => { return new WaterHyacinth(param.view as HTMLDivElement) });"
+      }
+    ]
+  },
+  "divider",
+  {
+    "id": "Spatial tools",
+    "env": "ENV.DEFAULT",
+    "keywords": [
+      "design tools AABB",
+      "Bezier Curve",
+      "easing remap",
+      "raytracer",
+      "dfs",
+      "bfs",
+      "graph pixel voxel nj"
+    ],
+    "subLinks": [
+      {
+        "id": "DFS",
+        "env": "ENV.DEFAULT",
+        "keywords": ["graph search dfs"],
+        "load": "import('./Tools/Starter').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "BFS",
+        "env": "ENV.DEFAULT",
+        "keywords": ["graph search bfs"],
+        "load": "import('./Tools/Starter').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Graph",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "spacial spatial data structure graph design computation algorithm"
+        ],
+        "load": "import('./Tools/Graph').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Pixel",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "spacial spatial data structure pixel design computation algorithm"
+        ],
+        "load": "import('./Tools/PixelMap').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Voxel",
+        "env": "ENV.DEFAULT",
+        "keywords": [
+          "spacial spatial data structure voxel design computation algorithm"
+        ],
+        "load": "import('./Tools/Starter').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Algorithm DFS BFS",
+        "env": "ENV.DEFAULT",
+        "keywords": ["AlgorithmDFSBFS noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.AlgorithmDFSBFS) });"
+      },
+      "divider",
+      {
+        "id": "Quad-tree",
+        "env": "ENV.DEFAULT",
+        "keywords": ["quad-tree"],
+        "load": "import('./Tools/QuadTree').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "A-Star",
+        "env": "ENV.DEFAULT",
+        "keywords": ["graph search a star"],
+        "load": "import('./Tools/A-Star-Graph').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Dijkstras-algorithm",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Dijkstra graph search design algorithm"],
+        "load": "import('./Tools/DijkstrasAlgorithm').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "game-of-life",
+        "env": "ENV.DEFAULT",
+        "keywords": ["game of life design algorithm"],
+        "load": "import('./Tools/GameOfLife').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "FireExit",
+        "env": "ENV.DEFAULT",
+        "keywords": ["FireExit noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.FireExit) });"
+      },
+      {
+        "id": "BaconsLaw",
+        "env": "ENV.DEFAULT",
+        "keywords": ["BaconsLaw noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.BaconsLaw) });"
+      },
+      {
+        "id": "Cabbage",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Cabbage noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.Cabbage) });"
+      },
+      {
+        "id": "NumOfArea",
+        "env": "ENV.DEFAULT",
+        "keywords": ["NumOfArea noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.NumOfArea) });"
+      },
+      {
+        "id": "ComputerFinder",
+        "env": "ENV.DEFAULT",
+        "keywords": ["ComputerFinder noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.ComputerFinder) });"
+      },
+      {
+        "id": "MazeExit",
+        "env": "ENV.DEFAULT",
+        "keywords": ["MazeExit noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.MazeExit) });"
+      },
+      {
+        "id": "Koze",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Koze noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.Koze) });"
+      },
+      {
+        "id": "UnitMoving",
+        "env": "ENV.DEFAULT",
+        "keywords": ["UnitMoving noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.UnitMoving) });"
+      },
+      {
+        "id": "Tile",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Tile noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.Tile) });"
+      },
+      {
+        "id": "OKVIRI",
+        "env": "ENV.DEFAULT",
+        "keywords": ["OKVIRI noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.OKVIRI) });"
+      },
+      {
+        "id": "GaussianDistribution",
+        "env": "ENV.DEFAULT",
+        "keywords": ["GaussianDistribution noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.GaussianDistribution) });"
+      },
+      "divider",
+      {
+        "id": "Perlin Heatmap",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Perlin Heatmap noise algorithm"],
+        "load": "import('./Env/AppCanvasEnv').then(({ Solution }) => { return new Solution(param.containerID, SUBAPPS.PerlinHeatmap) });"
+      },
+      {
+        "id": "Fluid Simulation",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Fluid Simulation dynamics"],
+        "load": "import('./Tools/FluidSimulation').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Raytracer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["raytracer, design algorithm"],
+        "load": "import('./Tools/Raytracer').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Raytracer-Scene",
+        "env": "ENV.DEFAULT",
+        "keywords": ["raytracer, design algorithm"],
+        "load": "import('./Tools/RaytracerScene').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Clustering",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Clustering"],
+        "load": "import('./Tools/Clustering').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Delaunay",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Delaunay"],
+        "load": "import('./Tools/Delaunay').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "AABB",
+        "env": "ENV.DEFAULT",
+        "keywords": ["AABB collision design algorithm"],
+        "load": "import('./Tools/AABB').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Bezier-Curve",
+        "env": "ENV.DEFAULT",
+        "keywords": ["interpolation curve bezier"],
+        "load": "import('./Tools/BezierCurve').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Bezier-Interpolation",
+        "env": "ENV.DEFAULT",
+        "keywords": ["interpolation curve bezier"],
+        "load": "import('./Tools/BezierCurveInterpolation').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Bezier-Interpolation",
+        "env": "ENV.DEFAULT",
+        "keywords": ["interpolation curve bezier"],
+        "load": "import('./Tools/BezierCurveInterpolation').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Genetic-Algorithm",
+        "env": "ENV.DEFAULT",
+        "keywords": ["ga, Genetic, Algorithm"],
+        "load": "import('./Tools/GA').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Genetic-Vec",
+        "env": "ENV.DEFAULT",
+        "keywords": ["ga, Genetic, Algorithm"],
+        "load": "import('./Tools/GAvec').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Genetic-legacy",
+        "env": "ENV.DEFAULT",
+        "keywords": ["ga, Genetic, Algorithm"],
+        "load": "import('./Tools/GA-legacy-Rect-Opti').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Grid Optimizer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["grid, optimizer, Genetic, Algorithm"],
+        "load": "import('./Tools/GridOptimizer').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      "divider",
+      {
+        "id": "shape importing",
+        "env": "ENV.DEFAULT",
+        "keywords": ["gis shape"],
+        "load": "import('./Tools/ShapeImporting').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "turf",
+        "env": "ENV.DEFAULT",
+        "keywords": ["data gis turf"],
+        "load": "import('./Tools/TurfPlayground').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "mapbox polygon",
+        "env": "ENV.DEFAULT",
+        "keywords": ["data gis turf"],
+        "load": "import('./Tools/MapboxPolygon').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "mapbox DeckGL polygon",
+        "env": "ENV.DEFAULT",
+        "keywords": ["data gis turf"],
+        "load": "import('./Tools/MapboxDeckGLPolygon').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "React Map GL",
+        "env": "ENV.DEFAULT",
+        "keywords": ["data gis react map gl"],
+        "load": "import('./Tools/ReactMapGL').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "Block-game",
+        "env": "ENV.DEFAULT",
+        "keywords": ["rect position location optimization"],
+        "load": "import('./Tools/BlockGame').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },
+  {
+    "id": "Tools Util",
+    "env": "ENV.DEFAULT",
+    "keywords": [
+      "design tools AABB, Bezier Curve, easing remap, raytracer, dfs, bfs, graph pixel voxel nj"
+    ],
+    "subLinks": [
+      {
+        "id": "Easing",
+        "env": "ENV.DEFAULT",
+        "keywords": ["animation, easing interpolation"],
+        "load": "import('./Tools/Easing_Interpolation').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Remap",
+        "env": "ENV.DEFAULT",
+        "keywords": ["remap design computation algorithm"],
+        "load": "import('./Tools/Normalize_Remap').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "firebase",
+        "env": "ENV.DEFAULT",
+        "keywords": ["firebase"],
+        "load": "import('./DB/FireBase').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "3dm",
+        "env": "ENV.DEFAULT",
+        "keywords": ["3dm"],
+        "load": "import('./Tools/RhinoCommon').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+      },
+      {
+        "id": "Rhino-Viewer",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Rhino Viewer 3dm geometry json"],
+        "load": "import('./Env/RhinoViewer').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },
+  {
+    "id": "NJS-Lab-Factory",
+    "env": "ENV.DEFAULT",
+    "keywords": [],
+    "subLinks": [
+      {
+        "id": "data-lab-sandbox",
+        "env": "ENV.DEFAULT",
+        "keywords": ["lab, data"],
+        "load": "import('./Env/NJSLabSandboxData').then(({ NJSLabSandboxData }) => { return NJSLabSandboxData.init(param.view as HTMLDivElement) });"
+      },
+      "divider",
+      {
+        "id": "grid-t",
+        "env": "ENV.DEFAULT",
+        "keywords": ["grid"],
+        "load": "import('./Lab/AppGridSystem').then(({ AppGridSystem }) => { return new AppGridSystem((param.view as HTMLDivElement).id) });"
+      },
+      {
+        "id": "particle-",
+        "env": "ENV.CANVAS",
+        "keywords": ["dynamics, particle"],
+        "load": "import('./Lab/AppParticle').then(({ Solution }) => { return new Solution(param.view) });"
+      },
+      {
+        "id": "globe",
+        "env": "ENV.DEFAULT",
+        "keywords": ["globe, shader"],
+        "load": "import('./Lab/Globe').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "network-viz",
+        "env": "ENV.DEFAULT",
+        "keywords": ["dynamics, grid"],
+        "load": "import('./Lab/Network-Grid').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      "divider",
+      {
+        "id": "n-ui-",
+        "env": "ENV.DEFAULT",
+        "keywords": ["ui"],
+        "load": "import('./Env/AppNUI').then(({ Solution }) => { return new Solution(param.containerID) });"
+      },
+      {
+        "id": "Drawing block",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Drawing block"],
+        "load": "import('./Env/AppDrawingBlock').then(({ Solution }) => { return new Solution(param.containerID); });"
+      },
+      {
+        "id": "Drawing Block app",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Drawing block app"],
+        "load": "import('./Infrastructure/AppDrawingBlock/AppDrawingBlock').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement)});"
+      },
+      {
+        "id": "Tetris",
+        "env": "ENV.DEFAULT",
+        "keywords": ["Tetris Game"],
+        "load": "import('./Tools/AppTetrisGame').then(({ Solution }) => { return new Solution(param.containerID) });"
+      }
+    ]
+  },
+  {
+    "id": "playground",
+    "env": "ENV.DEFAULT",
+    "keywords": ["project mit"],
+    "load": "import('./Project/Project_99_Playground/Test_01').then(({ Solution }) => { return new Solution(param.view as HTMLDivElement) });"
+  }
+]

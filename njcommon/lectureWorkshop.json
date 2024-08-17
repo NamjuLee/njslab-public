@@ -1,0 +1,127 @@
+{
+  
+
+  "vector": {
+    "title": "GEOMETRY: Vector - analysis, generative design, optimization, simulation",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "raster": {
+    "title": "RASTER: COLOR PIXEL - analysis, generative design, optimization, simulation",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+
+  "dataStructure": {
+    "title": "GRAPH & NETWORK & PIXEL & VOXEL - Data structures for discretization, spatial data process ",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+
+
+
+  "dynamics": {
+    "title": "DYNAMICS - Particle, Simulation",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+
+
+  "ai": {
+    "title": "AI - Machine Learning, Deep Learning Aided Design",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "spatial": {
+    "title": "ALGORITHM & DESIGN - spatial data process",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "utils": {
+    "title": "UTILITIES - computation",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "module": {
+    "title": "PROJECT & MODULE - design system",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "visualization": {
+    "title": "VISUALIZATION - design & data",
+    "items": [
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": "" 
+      }
+    ]
+  },
+  "sandbox": {
+    "title": "SANDBOX for data & design & computation ",
+    "items": [
+      
+      { 
+        
+        "title": "vector",
+        "description" : "vector",
+        "keyword": ""
+        
+      }
+      
+    ]
+  },
+  "starter": {
+    "title": "CAD & AIAD & APP STARTER",
+    "items": [
+      
+      { 
+        "title": "vector",
+        "description" : "vector",
+        "keyword": ""
+        
+      }
+
+    ]
+  }
+}

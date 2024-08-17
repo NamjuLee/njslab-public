@@ -1,0 +1,42 @@
+[
+  {
+    "Geometry": [
+      {
+        "id": "PointA",
+        "path": "/lab/geometry/point",
+        "tags": ["aa", "bb"]
+      },
+
+      {
+        "id": "PointB",
+        "path": "/lab/geometry/point",
+        "tags": ["aa", "bb"]
+      },
+
+      {
+        "id": "PointC",
+        "path": "/lab/geometry/point",
+        "tags": ["aa", "bb"]
+      }
+    ],
+    "Vector": [
+      {
+        "id": "vecA",
+        "path": "/lab/geometry/vec",
+        "tags": ["aa", "bb"]
+      },
+
+      {
+        "id": "vecB",
+        "path": "/lab/geometry/vec",
+        "tags": ["aa", "bb"]
+      },
+
+      {
+        "id": "vecC",
+        "path": "/lab/geometry/vec",
+        "tags": ["aa", "bb"]
+      }
+    ]
+  }
+]

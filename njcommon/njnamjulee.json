@@ -1,0 +1,1660 @@
+{
+  "bio": {
+    "en": {
+      "title": "BIO",
+      "items": [
+        "<a href=\"mailto:nj.namju@gmail.com\">NJ Namju Lee / NJ 이남주</a>",
+        "Director and founder of <a href=\"http://www.njstudio.co.kr\" target=\"_blank\" rel=\"noopener noreferrer\">NJSTUDIO</a> & <a href=\"https://namjulee.github.io/njs-lab-public/\" target=\"_blank\" rel=\"noopener noreferrer\">‘NJS Lab’</a>",
+        "Design, Data, Computation, AI, and Visualization Specialist",
+        "MDes;Harvard, MArch;UCB, B.S;SNUST, Research Fellow; MIT",
+        "Architectural and Urban Design, Computation, Data, AI, Visualization Specialist, Director, and founder of NJSTUDIO and NJSLab.",
+        "NJ Namju Lee is an architectural and urban designer, researcher, and lecturer. He has been the principal of NJSTUDIO since 2004, specializing in architecture, computational design, and visualization. He graduated from Seoul National University of Science and Technology(B.S), later, UC Berkeley(MArch), and Harvard Graduate School of Design(MDes) with 3 Distinctions, 3 High Passes, and 1st Digital Design Prize.",
+        "He worked both at UrbanAid Lab at the University of Technology, Sydney(UTS), at SENSEable City Lab and Media Lab(Changing Places Group) at the Massachusetts Institute of Technology(MIT), and at the College of Environmental Design, UC Berkeley. He was invited to workshops and seminars as a lecturer in several universities, including Harvard, MIT, Ministry of Labor Korea, and Autodesk Korea, and he taught Digital Design Studio I and II at Sejong University, Seoul, Korea. He published ‘Computational Design’ and ‘Simulation & Visualization of Architecture’. He contributed articles and chapters for the Architectural Institute of Korea, the Korean Institute of Building Information Modeling, the Korean Physical Society, and magazines. He has participated in multi-disciplinary exhibitions, digital film, and architectural group works in Seoul and Sydney. As a visualization specialist, His collaborators include KPF, HYUNDAI, SAMSUNG, SK, and posco E&C for architectural 3D animation and simulation projects. He worked as a software engineer, researcher, and developer at ESRI and is working at Ready.net.",
+        "He works in the integrative and interdisciplinary domain of built environment and design technology, with a particular interest in the data as design materials. Central to his practice is the use of data as the primary methodology in shaping a design process by integrated computation, artificial intelligence, and visualization."
+      ]
+    },
+    "ko": {
+      "title": "BIO",
+      "items": [
+        "<a href=\"mailto:nj.namju@gmail.com\">이남주 소장 / NJ Namju Lee</a>",
+        "Design, Data, Computation, AI, and Visualization Specialist",
+        "MDes;Harvard, MArch;UCB, B.S;SNUST, Research Fellow; MIT",
+        "NJSTUDIO를 2004년에 설립하여 도시 건축 디자인, 데이터, 인공지능, 시각화, 및 컴퓨테이셔널 디자인 스페셜리스트로 활동해 오고 있다. 데이터를 활용한 디자인 프로세스를 연구, 개발, 적용, 교육을 하고 있다.",
+        "서울과학기술대학교(BS), UC Berkeley(MArch), Harvard GSD(MDes)를 1st Digital Design Prize 수상하며 졸업했다. 시드니 공과 대학(UTS)의 UrbanAid Lab, 매사추세츠 공과 대학(MIT)의 SENSEable City Lab 및 Media Lab(City Science), UC Berkeley의 환경 디자인 대학(CED)에서 연구원으로 근무했다. ESRI(Environmental Systems Research Institute)에서 시니어 소프트웨어 엔지니어와 R&D 엔지니어로 근무하고 했었다. Ready.net에서 소프트웨어 엔지니어로 근무하고 있다.",
+        "컴퓨테이셔널 디자인(Computational Design) 교육과 출판을 하고 있다. Harvard, MIT, NYIT, Autodesk Korea, DigitalFUTURES, 서울과학기술대학교, 한국 노동부 등 여러 교육기관에서 워크숍과 세미나를 진행하였다. 컴퓨테이셔널 디자인, 시각화, 데이터 프로세싱, Digital Design Studio I, II를 가르쳤다. 컴퓨테이셔널 툴링에 관련된 다수의 책을 집필했다. NJPress, “컴퓨테이셔널 디자인(디자이너를 위한 코딩)”, “건축의 시뮬레이션 및 시각화”를 출판했으며, 한국 물리학회, 한국 BIM학회, 건축 및 그래픽스 매거진 등에 기고해 오고 있다.",
+        "디자인을 위한 컴퓨테이션 솔루션을 연구와 개발하고 있다. Harvard GSD에서 Numerical Design Utility 연구, 개발하였으며, ESRI에서 XGraphics를 연구 개발했다. Graphics 도구들과, 인공지능(AI), 데이터 엔지니어링(Data engineering), 최적화(Optimization)솔루션 패키지를 연구, 개발, 적용하고 있다.",
+        "서울 도시건축 비엔날레, 서울과 시드니에서 다학제적 전시, 디지털 필름 작업, 도시 건축 그룹 작업과 전시에 참여했다. 시각화 디렉터로서 KPF, 현대, 삼성, SK 및 PoscoE&C와 함께 건축 3D 애니메이션 및 시뮬레이션 프로젝트를 진행하였다.",
+        "디자인, 컴퓨테이션, 데이터 프로세스, 시각화, 인공지능 중점으로 건축 환경 및 기술 통합을 다양한 영역에서 활동해 오고 있다. 업무의 중심은 데이터를 활용한 통합 디자인 프로세스를 연구, 개발, 적용을 포함한다."
+      ]
+    }
+  },
+  "education": {
+    "en": {
+      "title": "EDUCATION",
+      "items": [
+        {
+          "period": "2015 Sep - 2017 May",
+          "institution": "Harvard University",
+          "location": "Cambridge, MA, USA",
+          "link": "http://www.gsd.harvard.edu/",
+          "details": [
+            "Advanced Studies Program, Master in Design Studies (MDes), Graduate School of Design, 3 Distinctions and 3 High Passes out of 14 classes, Digital Design Prize, class of 2017"
+          ]
+        },
+        {
+          "period": "2015 Sep - 2017 May",
+          "institution": "Massachusetts Institute of Technology",
+          "location": "Cambridge, MA, USA",
+          "link": "https://architecture.mit.edu/computation",
+          "details": [
+            "Cross Registration for independent research and thesis in Design and Computation Group, Department of Architecture"
+          ]
+        },
+        {
+          "period": "2014 Sep - 2015 May",
+          "institution": "University of California, Berkeley",
+          "location": "CA, USA",
+          "link": "http://ced.berkeley.edu/academics/architecture/programs/studio-one-2014/",
+          "details": [
+            "Master of Architecture (M.Arch), College of Environmental Design, GPA 3.8, Thesis: Data-Driven Design, Office on street / Street in the office"
+          ]
+        },
+        {
+          "period": "1999 Mar - 2006 Aug",
+          "institution": "Seoul National University of Science and Technology",
+          "location": "Seoul, South Korea",
+          "link": "http://architecture.seoultech.ac.kr/en/",
+          "details": [
+            "Bachelor of Science in Engineering (BS), Architectural Design Course, Including 2-year sabbatical to complete mandatory military service, 2002-2004"
+          ]
+        }
+      ]
+    },
+    "ko": {
+      "title": "EDUCATION",
+      "id": "id-education",
+      "items": [
+        {
+          "period": "2015년 9월 - 2017년 5월",
+          "institution": "하버드 대학교",
+          "location": "캠브리지, MA, 미국",
+          "link": "http://www.gsd.harvard.edu/",
+          "details": [
+            "고급 학습 프로그램, 디자인 연구 석사 (MDes), 디자인 대학원 14개 과목 중 3개의 우수 학점과 3개의 높은 평가, 2017년 디지털 디자인 1등상"
+          ]
+        },
+        {
+          "period": "2015년 9월 - 2017년 5월",
+          "institution": "매사추세츠 공과대학교",
+          "location": "캠브리지, MA, 미국",
+          "link": "https://architecture.mit.edu/computation",
+          "details": [
+            "디자인 및 계산 그룹, 건축학과의 독립 연구 및 논문을 위한 교차 등록"
+          ]
+        },
+        {
+          "period": "2014년 9월 - 2015년 5월",
+          "institution": "캘리포니아 대학교, 버클리",
+          "location": "CA, 미국",
+          "link": "http://ced.berkeley.edu/academics/architecture/programs/studio-one-2014/",
+          "details": [
+            "건축학 석사 (M.Arch), 환경 디자인 대학, GPA 3.8, 논문: 데이터 기반 디자인, 사무실과 거리 / 거리와 사무실"
+          ]
+        },
+        {
+          "period": "1999년 3월 - 2006년 8월",
+          "institution": "서울과학기술대학교",
+          "location": "서울, 대한민국",
+          "link": "http://architecture.seoultech.ac.kr/en/",
+          "details": [
+            "공학 학사 (BS), 건축 디자인 과정 2년의 군 복무를 포함하여, 2002-2004년"
+          ]
+        }
+      ]
+    }
+  },
+  "demo": {
+    "title": "SELECTED DEMO REEL",
+    "description": "Selected Lecture & Research & Project & Development Demo Reel",
+    "items": {
+      "selectedResearchAndProjectReel": {
+        "title": "SELECTED RESEARCH & PROJECT REEL",
+        "description": "Thesis, Research and development project, Plugin, Addon",
+        "items": [
+          {
+            "title": "Volumetric Representations and Machine Learning",
+            "url": "https://youtu.be/dOPXHhzRbhs"
+          },
+          {
+            "title": "NGraphics, ESRI",
+            "url": "https://youtu.be/kvl2JuCd42s"
+          },
+          {
+            "title": "Smart Map Tracer, ESRI Storymaps Hackathon",
+            "url": "https://youtu.be/cUsiCNE6mJA"
+          },
+          {
+            "title": "Agent-based Simulation at Sue Bierman Park",
+            "url": "https://youtu.be/zwMg4isQjiw?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO"
+          },
+          {
+            "title": "Parkerator Phase2, Optimization",
+            "url": "https://youtu.be/4eQGtMEE46k"
+          },
+          {
+            "title": "Column Distribution Thickness, agent-based Optimization",
+            "url": "https://youtu.be/NwNsXgQOUpk"
+          },
+          {
+            "title": "Small Island, VR implementation",
+            "url": "https://youtu.be/pBFWZeBfGiA"
+          },
+          {
+            "title": "Built Environment Assessment for the Housing Value Prediction",
+            "url": "https://youtu.be/ZpAj1VmqusY?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO"
+          },
+          {
+            "title": "GIS and data visualization about homelessness in SF",
+            "url": "https://youtu.be/NZncb6gKG3U?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO"
+          },
+          {
+            "title": "Third Place Mobility, MIT Media Lab",
+            "url": "https://youtu.be/FMBxHGcWrXA"
+          },
+          {
+            "title": "Korea Traditional House , [VisualImageSeriesWork]",
+            "url": "https://youtu.be/RzQ-URQK-zA?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO"
+          },
+          {
+            "title": "Architecture Compiler, Version 0.1.5, Development",
+            "url": "https://youtu.be/_dVc2sFNQDY"
+          },
+          {
+            "title": "Geometry and Graph Utility, Development",
+            "url": "https://youtu.be/iHfYXML2lMY"
+          },
+          {
+            "title": "Dynamic Utility for Optimization, Development",
+            "url": "https://youtu.be/oE3B2JP6518"
+          },
+          {
+            "title": "Landscape Utility, Development",
+            "url": "https://youtu.be/W2OQxCaVvEo"
+          }
+        ]
+      },
+      "selectedKeyLecture": {
+        "title": "SELECTED KEY LECTURE",
+        "description": "Lectures in Conference, Research Paper, Talks",
+        "items": [
+          {
+            "title": "Design Data - Computational Design (Eng)",
+            "url": "https://youtu.be/VC-cLerlm4s",
+            "subtitle": "(Kor)",
+            "subtitleUrl": "https://youtu.be/7HwlZaJrTEI"
+          },
+          {
+            "title": "Data Design with GIS (Raster Vector data)",
+            "url": "https://youtu.be/QLesjWC443c"
+          },
+          {
+            "title": "Analyzing Third Place, Paper Presentation Panel Discussion at DigitalFUTURES World 2020",
+            "url": "https://youtu.be/rgmLUXqjGho"
+          },
+          {
+            "title": "Why designers need to CODE? Presentation QnA Discussion",
+            "url": "https://youtu.be/Wbw_jRT9uQE"
+          },
+          {
+            "title": "Snippet for The Hitchhiker’s Guide to Artificial Intelligence - The City of the Future",
+            "url": "https://youtu.be/-izGhLxmwmQ"
+          },
+          {
+            "title": "Data and Urban design",
+            "url": "https://youtu.be/D7jW9mPg8og"
+          }
+        ]
+      },
+      "selectedDemoReel": {
+        "title": "DEVELOPMENT DEMO REEL",
+        "description": "Demo for development for products, Computational design methods, Visualization, Digital Mockup",
+        "items": [
+          {
+            "title": "Stand-alone Development",
+            "url": "https://youtu.be/AoSMsqCrDks"
+          },
+          {
+            "title": "Computational Design",
+            "url": "http://www.njstudio.co.kr/main/project/2016_Demo_DevelopmentDesignComputation/2016_Demo_DevelopmentDesignComputation.html"
+          },
+          {
+            "title": "Data Driven Design",
+            "url": "http://www.njstudio.co.kr/main/project/2016_Demo_DevelopmentDataDriven/2016_Demo_DevelopmentDataDriven.html"
+          },
+          {
+            "title": "3D Visualization",
+            "url": "http://www.njstudio.co.kr/main/project/2015_Demo_Vis/2015_Demo_Vis.html"
+          },
+          {
+            "title": "Architectural Design Project (Data Driven and parametric)",
+            "url": "https://youtu.be/PGblRkq8WUs"
+          },
+          {
+            "title": "Digital Mockup",
+            "url": "https://youtu.be/8CMeaudyoQo?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO"
+          }
+        ]
+      }
+    }
+  },
+  "experience": {
+    "title": "EXPERIENCE",
+    "description": "Designer, Researcher, Lecturer, Software engineer, Full-time position",
+    "items": [
+      {
+        "date": "2004 Dec - present",
+        "description": "<a href=\"http://www.njstudio.co.kr/main/main.html\" target=\"_blank\" rel=\"noopener noreferrer\">Principal, ‘NJ DESIGN STUDIO’</a>, visualization and computational design studio (www.njstudio.co.kr), Seoul, South Korea"
+      },
+      {
+        "date": "2004 Dec - present",
+        "description": "<a href=\"https://namjulee.github.io/njs-lab-public/data-in-design\" target=\"_blank\" rel=\"noopener noreferrer\">Principal, ‘NJS Lab’</a>, for Design, Data, AI, Computation & Visualization (https://namjulee.github.io/njs-lab-public), Seoul, South Korea"
+      },
+      {
+        "date": "2023 Aug - present",
+        "description": "Software engineer at <a href=\"https://ready.net/\" target=\"_blank\" rel=\"noopener noreferrer\">Ready.net</a>"
+      },
+      {
+        "date": "2017 Sep - 2023 Feb",
+        "description": "Software Development Engineer, Product Engineer, and Research Developer at <a href=\"https://www.esri.com/en-us/home\" target=\"_blank\" rel=\"noopener noreferrer\">ESRI</a>, CA, USA"
+      },
+      {
+        "date": "2016 Aug",
+        "description": "Application Engineer (Intern), Computational Design at Flux Factor (<a href=\"http://flux.io\" target=\"_blank\" rel=\"noopener noreferrer\">flux.io</a>), SF, CA, USA"
+      },
+      {
+        "date": "2016 Jan - 2017 May",
+        "description": "Research Assistant with Prof. Martin Bechthold, Material Processes and Systems (MaPS) Group, Harvard Graduate School of Design, MA, USA"
+      },
+      {
+        "date": "2016 Jan - 2017 May",
+        "description": "Research and Teaching Assistant with Prof. Panagiotis Michalatos, TA for Introduction to Computational Design (6338) and Digital Structures and Material Distribution (6425), RA for Immersive Structural Simulation, Harvard Graduate School of Design, MA, USA"
+      },
+      {
+        "date": "2016 Jan - 2016 May",
+        "description": "Research Assistant with Prof. Kent Larson, Changing Places, MIT Media Lab, Massachusetts Institute of Technology, MA, USA"
+      },
+      {
+        "date": "2014 Sep - 2015 May",
+        "description": "Graduate Student Researcher with Prof. Kyle Steinfeld, College of Environmental Design, UC Berkeley, CA, USA"
+      },
+      {
+        "date": "2014 May - 2015 May",
+        "description": "Senior Researcher, Deconstructing the DMZ for the Imaginary by Dongsei Kim"
+      },
+      {
+        "date": "2012 Oct - 2014 Apr",
+        "description": "<a href=\"http://senseable.mit.edu/\" target=\"_blank\" rel=\"noopener noreferrer\">Research Fellow, MIT SENSEable City Lab</a>, Prof. Carlo Ratti, ‘SELF-DRIVING CAR PROJECT’, ‘CITY EYE SANTANDER’, <a href=\"http://senseable.mit.edu/parcupine/\" target=\"_blank\" rel=\"noopener noreferrer\">‘PARCUPINE</a> and more, Department of Urban Studies Planning, Massachusetts Institute of Technology, Cambridge, MA, USA"
+      },
+      {
+        "date": "2012 Aug",
+        "description": "Research Assistant for thesis ‘SYNTHETIC TUTOR’, PhD Juhong Park, Design and Computation, School of Architecture, MIT, Cambridge, MA, USA"
+      },
+      {
+        "date": "2011 Sep - 2011 Dec",
+        "description": "<a href=\"http://urbanaid.wikispaces.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Senior Design Researcher, UrbanAID Research Lab</a>, Faculty of Design, Architecture and Building, Prof. Tom Baker, UTS Digital Media Pavilion, Dr. Hank Haeusler, <a href=\"http://www.njstudio.co.kr/main/project/2011_PolymediaPixel2ndgenerationDrHankHaeuslerUTS[Media%20architecture]/2011_PolymediaPixel2ndgenerationDrHankHaeuslerUTS[Media%20architecture].html\" target=\"_blank\" rel=\"noopener noreferrer\">Polymedia Pixel</a>, Media Architecture, University of Technology, Sydney, Australia"
+      },
+      {
+        "date": "2007 May - 2010 Aug",
+        "description": "<a href=\"http://dklab.sejong.ac.kr/\" target=\"_blank\" rel=\"noopener noreferrer\">Senior Researcher, Design, 3D, and Data Visualization Specialist, DK Architectural Design Lab</a>, School of Architecture, Sejong University, Seoul, South Korea"
+      }
+    ]
+  },
+  "publicationAward": {
+    "title": "BOOK & PAPER & CHAPTER & AWARDS",
+    "description": "Contribution, Book Chapter, Prize, Award",
+    "items": [
+      {
+        "date": "2022 Oct",
+        "description": "Book Chapter, Lee, Namju: <a href=\"https://www.aik.or.kr/pages_archive/scholarly_journal.vm\" target=\"_blank\" rel=\"noopener noreferrer\">Project report: Third Place, Design, Data, and AI</a>, Architectural Institute of Korea, Vol.66 No.10, p74 ~ p79 , ISSN: 1225-1666"
+      },
+      {
+        "date": "2022 Jan",
+        "description": "Book, Lee, Namju: <a href=\"https://search.naver.com/search.naver?sm=tab_hty.top&where=nexearch&query=%EC%BB%B4%ED%93%A8%ED%85%8C%EC%9D%B4%EC%85%94%EB%84%90+%EB%94%94%EC%9E%90%EC%9D%B8+%EC%B1%85&oquery=%EC%BB%B4%ED%93%A8%ED%85%8C%EC%9D%B4%EC%85%94%EB%84%90+%EB%94%94%EC%9E%90%EC%9D%B8&tqi=idKDYlprvTVss4qw1OKssssstc0-183161\" target=\"_blank\" rel=\"noopener noreferrer\">Computational Design, Korean version</a>, p1 ~ p394 ISBN: 979-11-372-7042-8, South Korea, English version is in progress"
+      },
+      {
+        "date": "2021 Apr",
+        "description": "Book Chapter, Lee, Namju: <a href=\"https://webzine.kps.or.kr/?p=5_view&idx=16552\" target=\"_blank\" rel=\"noopener noreferrer\">Urban Physics: How do we live together? Future smart city of various cities as seen by architects</a>, KPS Vol 30, p24 ~ p28, ISSN: 1225-2336 The Korean Physical Society"
+      },
+      {
+        "date": "2021 Mar",
+        "description": "Book Chapter, Lee, Namju: <a href=\"https://kibim.or.kr/publication/publication01.asp\" target=\"_blank\" rel=\"noopener noreferrer\">Design, 4th industry, and Coding</a>, KIBIM Vol 11, p16 ~ 29, ISSN: 2288-3053, Korean Institute of Building Information Modeling"
+      },
+      {
+        "date": "2021 Jan",
+        "description": "Conference Paper, Lee, Namju: <a href=\"https://link.springer.com/chapter/10.1007/978-981-33-4400-6_11\" target=\"_blank\" rel=\"noopener noreferrer\">Understanding and Analyzing the Characteristics of the Third Place in Urban Design: A Methodology for Discrete and Continuous Data in Environmental Design</a>, Proceedings of the 2020 DigitalFUTURES, ISBN: 978-9-81-334399-3, 978-9-81-334400-6"
+      },
+      {
+        "date": "2018 May",
+        "description": "Book Chapter, Lee, Namju with Ellie, Mario, Nate, Building Performance Simulation for Design and Operation, Prof. Christoph Reinhart, Carlos, MIT, MA"
+      },
+      {
+        "date": "2017 May",
+        "description": "Prize, 1st Digital Design Prize, class of 2017, Harvard Graduate School of Design"
+      },
+      {
+        "date": "2016 May",
+        "description": "Book Chapter, Lee, Namju with 7 people, Beach Immersive Environments(VR) exhibition, 140P, Platform 10, Harvard GSD"
+      },
+      {
+        "date": "2014 Sep",
+        "description": "Award, $10K, STUDIO ONE, University of California, Berkeley, CA, USA"
+      },
+      {
+        "date": "2013 Aug",
+        "description": "Book, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2013_Tooling/2013_Tooling%20Seminar.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘Tooling in Design Computation’</a>, Content: Tooling in 3D modelling, material, lighting, rendering and Effects, 230 pp., Seoul, South Korea"
+      },
+      {
+        "date": "2012 Oct",
+        "description": "Contribution, Lee, Namju: ‘Digital Pavilion’, Sydney, in: Haeusler, M.; Tomitsch, M.; Tscherteu, G.: Media Facades - A global survey, Avedition, Ludwigsburg, Germany 2012."
+      },
+      {
+        "date": "2011 Dec",
+        "description": "Book Chapter, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2009_eVolo%20Skyscraper%20competition/2009_eVolo%20Skyscraper%20competition.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘AquaScraper’, Content: AquaScraper (Reverse Evolution), 562 ~ 565 pages, ‘eVolo Limited Edition Book’</a>, eVolo magazine publication, New York, 10034, USA"
+      },
+      {
+        "date": "2010 Jan",
+        "description": "Book, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2010_DigitalDesignI_II/2010_DigitalDesignI_II.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘Digital Design Studio I, II’, three books</a>, Content: Architectural design using Rhino3D, 3ds Max, Photoshop, After Effects, Indesign, 189 pp., Sejong University Publication, Seoul, South Korea"
+      },
+      {
+        "date": "2010 Jul",
+        "description": "Book Chapter, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2010_Korea%20Traditional%20House/2010_Korea%20Traditional%20House.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘Korea Traditional House [Architectural Collage Exhibition]’</a>, Magazine ‘Architecture Culture’, December 2010, Architecture Culture Publication, Seoul, South Korea"
+      },
+      {
+        "date": "2009 Dec",
+        "description": "Book, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2009_SIMULATION%2%20VISUALIZATION%20OF%20ARCHITECTURE/2009_SIMULATION%2%20VISUALIZATION%20OF%20ARCHITECTURE,.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘SIMULATION VISUALIZATION OF ARCHITECTURE’</a>, ISBN: 978-89-6088-045-0, Content: From basic concepts of animation to professional visualization using 3D programs, 512 pp, Digitalbooks, Seoul, South Korea"
+      },
+      {
+        "date": "2006 Oct",
+        "description": "Book Chapter, Lee, Namju: ‘Architectural animation for presentation’, Magazine ‘3D Artisan’, August 2006, Artisan Publication, Seoul, South Korea"
+      },
+      {
+        "date": "2005 May",
+        "description": "Book Chapter, Lee, Namju: <a href=\"http://www.njstudio.co.kr/main/project/2005_DAAC2/2005_DAAC2.html\" target=\"_blank\" rel=\"noopener noreferrer\">‘Architectural Animation and Simulation’, ‘D.A.A.C II’</a> (Design of Architecture-Aided Computation), Written By Prof, Jung Chul Oh, Kookmin University Publication, 2 chapters, Seoul, South Korea"
+      },
+      {
+        "date": "2005 May",
+        "description": "Prize, First Prize, <a href=\"http://www.njstudio.co.kr/main/project/2005_DA2005-National-Architects-Competition/2005_DA2005-National-Architects-Competition.html\" target=\"_blank\" rel=\"noopener noreferrer\">Polygon Culture Centre, Independent architectural design, DA2005 National Architecture Competition</a>, NJ Studio, Seoul, South Korea"
+      },
+      {
+        "date": "2004 Aug",
+        "description": "Prize, Second Prize Winner, Independent animation work ‘CG Land Competition’ Visual Work, NJ Studio, Seoul, South Korea"
+      },
+      {
+        "date": "2000 May",
+        "description": "Prize, Second Prize Winner, A Break Dancer, Dancer’s Summit"
+      },
+      {
+        "date": "2000 Aug - 2012 Jan",
+        "description": "DMC (Dance Mania Crew), Professional, Seoul, Korea"
+      }
+    ]
+  },
+  "writing": {
+    "title": "WRITING",
+    "description": "Medium & Daum Brunch, Writing",
+    "items": [
+      {
+        "date": "Sep 10, 2022",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a\" target=\"_blank\" rel=\"noopener noreferrer\">Third Place Analysis and Implementation (Design, Data, Artificial Intelligence)</a>"
+      },
+      {
+        "date": "Jun 27, 2021",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/immersive-environmental-information-visualization-technical-docs-8e10a64e83c7\" target=\"_blank\" rel=\"noopener noreferrer\">Immersive Environmental Information Visualization [Technical docs]</a>"
+      },
+      {
+        "date": "Jun 11, 2021",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/interview-2-2-by-seoultech-times-6f435d61122b\" target=\"_blank\" rel=\"noopener noreferrer\">Interview 1/2 by Seoultech Times</a>"
+      },
+      {
+        "date": "Jun 11, 2021",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/interview-1-2-by-se-29ab459c3a64\" target=\"_blank\" rel=\"noopener noreferrer\">Interview 2/2 by Seoultech Times</a>"
+      },
+      {
+        "date": "Aug 17, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/geometry-as-data-structure-and-visualization-48bcfdea3851\" target=\"_blank\" rel=\"noopener noreferrer\">Geometry as Data Structure and Visualization</a>"
+      },
+      {
+        "date": "Aug 17, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/numeric-network-analysis-tool-c2dd81faefc3\" target=\"_blank\" rel=\"noopener noreferrer\">Numeric Network Analysis Tool</a>"
+      },
+      {
+        "date": "Aug 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/numeric-network-analysis-post-covid-19-urbanism-6-ft-rule-de267886b028\" target=\"_blank\" rel=\"noopener noreferrer\">Numeric Network Analysis: Post-COVID-19 Urbanism, 6 ft rule</a>"
+      },
+      {
+        "date": "Jul 19, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81\" target=\"_blank\" rel=\"noopener noreferrer\">Discrete Urban Space and Connectivity</a>"
+      },
+      {
+        "date": "Jul 19, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c\" target=\"_blank\" rel=\"noopener noreferrer\">Computational Design Thinking for Designers</a>"
+      },
+      {
+        "date": "Jul 19, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/data-design-c21457dc8dc\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design</a>"
+      },
+
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/1-data-processing-d5111a9857bf\" target=\"_blank\" rel=\"noopener noreferrer\">1. Data Processing</a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/2-data-processing-using-python-5edaf5e5d020\" target=\"_blank\" rel=\"noopener noreferrer\">2. Data Processing using Python</a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/3-typescript-html-canvas-d1a45c48021\" target=\"_blank\" rel=\"noopener noreferrer\">3. Typescript &HTML Canvas</a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/4-computational-geometry-geometry-class-f15d342469d4\" target=\"_blank\" rel=\"noopener noreferrer\">4. Computational Geometry & Geometry Class/a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/5-pipeline-for-data-and-geometry-visualization-b2c9df7c21c7\" target=\"_blank\" rel=\"noopener noreferrer\">5. Pipeline for Data and Geometry Visualization</a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/6-digital-mapping-using-arcgis-jsapi-626e108d624b\" target=\"_blank\" rel=\"noopener noreferrer\">6 Digital Mapping using ArcGIS JSAPI</a>"
+      },
+      {
+        "date": "May 26, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/clustering-points-collision-based-dynamic-grid-graph-method-f602d0152cd2\" target=\"_blank\" rel=\"noopener noreferrer\">Clustering Points: Collision-Based Dynamic Graph method</a>"
+      },
+      {
+        "date": "Jun 4, 2020",
+        "description": "Medium, Lee, Namju: <a href=\"https://nj-namju.medium.com/introduction-to-computational-design-data-geometry-and-visualization-using-digital-media-14161fdfd22f\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Data, Geometry, and Visualization Using Digital Media</a>"
+      },
+      {
+        "date": "Dec 17, 2019",
+        "description": "Medium, Lee, Namju: <a href=\"https://medium.com/analytics-vidhya/html-canvas-optimization-of-rendering-loop-with-jsapi-for-drawing-on-map-71cb0500a213\" target=\"_blank\" rel=\"noopener noreferrer\">HTML Canvas Optimization of Rendering Loop with JSAPI for Drawing on Map</a>"
+      },
+      {
+        "date": "Sep 13, 2019",
+        "description": "Brunch, Lee, Namju: <a href=\"https://brunch.co.kr/@njnamju/2\" target=\"_blank\" rel=\"noopener noreferrer\">Parametric Design / 파라메트릭 디자인</a>"
+      },
+      {
+        "date": "Sep 13, 2019",
+        "description": "Brunch, Lee, Namju: <a href=\"https://brunch.co.kr/@njnamju/1\" target=\"_blank\" rel=\"noopener noreferrer\">Computation Design / 컴퓨테이셔널 디자인</a>"
+      }
+    ]
+  },
+  "shortColumn": {
+    "title": "SHORT COLUMN (KOR)",
+    "description": "Short column: Lectures, Workshops in Computation for Designers",
+    "items": [
+      {
+        "date": "Aug 06 2024",
+        "description": "Computation for Designers, <a href=\"https://brunch.co.kr/@njnamju/158/\" target=\"_blank\" rel=\"noopener noreferrer\">다 같은 10년을 일했지만 차이점은?</a>",
+        "lins": ["https://youtu.be/1l-RLRdvpDM"],
+        "content": [
+          "도구활용에서의",
+          "일반 디자이너    VS    컴퓨테이셔널 디자이너",
+          "누군가는,",
+          "10년 일해, 월급만을 챙기고",
+          "10년 일해, 월급과 경력을 챙기고",
+          "10년 일해, 월급과 경력과 실적을 챙기고",
+          "10년 일해, 월급과 경력과 실적 그리고 10년간 생성한 알고리즘을 챙겨",
+          "그 알고리즘으로 일을 하게 만든다.",
+          "디자인 프로세스 코드화(Library)의 중요성, 컴퓨테이션의 핵심이다.",
+          "'수기'와 '워드프로세서'처럼 큰 변화를 가져올 도구를 이해하고 활용하는 것이 현재 시대에서 경쟁력을 갖추는 데 필수적이다."
+        ]
+      },
+      {
+        "date": "Aug 05 2024",
+        "description": "Computation for Designers, <a href=\"https://brunch.co.kr/@njnamju/157/\" target=\"_blank\" rel=\"noopener noreferrer\">디자인 컴퓨테이션은 자동화(매크로)를 위한 것?</a>",
+        "lins": ["https://youtu.be/hyXnhfhC2Bs"],
+        "content": [
+          "컴퓨테이션 = 자동화",
+          "대부분의 디자이너들은 컴퓨터(데이터)의 활용을 자동화(복잡한 작업의 간단한 수행)의 수준으로 정리 / 이해하고 있다. 과연 그럴까? 그게 다 일까? 만약 그렇게 생각하고 있었다면, 여전히 피처폰의 경험으로 스마트폰을 이해하려 드는 것과 같다. 매우 가난한 이해일 것이다.",
+          "아직 스마트폰이 대중에게 알려지기 전이다. 여러분들은 어떤 선택을 할 것인가? 누군가는 스마트폰을 정확하게 이해하고 활용하여 이득을 챙기고 있을 것이다. 스마트폰의 출현이 위기로 포착되는가? 아니면 기회가 다가오고 있는가?"
+        ]
+      },
+      {
+        "date": "Aug 02 2024",
+        "description": "Computation for Designers, <a href=\"https://brunch.co.kr/@njnamju/156/\" target=\"_blank\" rel=\"noopener noreferrer\">건축 디자이너가 코딩을 배워야 하는 이유</a>",
+        "lins": ["https://youtu.be/XWTBonLhWLg"],
+        "content": [
+          "'기술에 다가가지 않으면, 그 기술이 나에게 다가온다.' 라는 말을 좋아한다.",
+          "데이터 기반 사회에서 데이터라는 '디자인 재료'를 활용하기 위해서는, 그 도구인 '코드'를 알아야 한다.",
+          "- 발췌: 컴퓨테이셔널 디자인"
+        ]
+      },
+      {
+        "date": "Aug 01 2024",
+        "description": "Computation for Designers, <a href=\"https://brunch.co.kr/@njnamju/155/\" target=\"_blank\" rel=\"noopener noreferrer\">디자인 컴퓨테이션이 저평가되는 이유</a>",
+        "lins": ["https://www.youtube.com/shorts/z_4TWxXNeZY?feature=share"],
+        "content": [
+          "컴퓨테이셔널 디자인 방법론이 저평가되고 저변 확대가 제대로 이루어지지 않는 이유 중 하나는 다음과 같습니다.",
+          "처음 스마트폰을 이해하려 할 때 익숙한 피처폰 경험으로부터 그 이해를 했던 것과 같다. 이는 마차의 수준으로 자동차를 이해하려 하고, 자동차의 경험으로 전기차를 정의하려 하는 것과 같다. 매우 피상적인 이해와 함께 수많은 오해가 생길 수밖에 없다.",
+          "스마트폰은 단순한 전화 기능을 넘어 다양한 기능을 모바일로 통합한 경험을 제공한다. 과거 피처폰과는 다른 새로운 도구라는 것에 지금은 이견은 없을 것이다.",
+          "마찬가지로, 디자인 컴퓨테이션의 내용을 단순한 자동화 도구 혹은 유행을 타는 하나의 모델링 기법으로 정리를 했다면 이해 안 될 것들이 매우 많을 것이다. 기존에 경험하지 못했던 혁신적인 잠재력을 학습하고, 이해하고, 활용될 때, 보다 나은 평가와 건강한 저변확대가 가능하다."
+        ]
+      }
+    ]
+  },
+
+  "keyLectureWorkshop": {
+    "title": "INDEX: KEY LECTURE SERIES: DATA & DESIGN & COMPUTATION ",
+    "description": "Key Lectures and Workshop Series for Design & Computation",
+    "items": [
+      {
+        "date": "",
+        "description": "Key Index, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Class A, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Long) (Short)</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Class B, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Visual Computation for Design</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Class C, Visual AI(ML) for Design",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Class D, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computation and Design [Book] link</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Class E, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Data and Design [Book]</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Course Level 1, <a href=\"https:WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Description as Design Tools</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Course Level 2, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Algorithm & Data Structure for Design & Research</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Course Level 3, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      },
+      {
+        "date": "",
+        "description": "Course Level 4, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Thesis: Design Research</a>",
+        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+      }
+    ]
+  },
+  "lectureWorkshop": {
+    "title": "LECTURE & SEMINAR & WORKSHOP & GUEST TALK & CONFERENCE",
+    "description": "Lectures, Workshops, and Talks for Design & Computation course work",
+    "items": [
+      {
+        "date": "2024 Apr",
+        "description": "Lecturer, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a>, Lecture in STUDIO 7, 8, Kongju University, Korea"
+      },
+      {
+        "date": "2023 Jan",
+        "description": "Lecturer, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data in Design & AI for Urban Data & Visualization</a>, Workshop on Data, Design Computation, Artificial Intelligence,"
+      },
+      {
+        "date": "2022 Apr",
+        "description": "Lecturer, Workshop, <a href=\"https://computationaldesign.tistory.com/29\" target=\"_blank\" rel=\"noopener noreferrer\">AI for Designers</a>"
+      },
+      {
+        "date": "2022 Mar",
+        "description": "Lecturer, <a href=\"https://youtu.be/amOThlGDE0E\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design, Data and Design</a> (Kor) at University of Seoul"
+      },
+      {
+        "date": "2022 Mar",
+        "description": "Lecturer, <a href=\"https://computationaldesign.tistory.com/48\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design, Data and Design for freshman</a> (Kor) at Seoul Women’s University"
+      },
+      {
+        "date": "2021 Oct",
+        "description": "Guest Talk, <a href=\"https://youtu.be/QLesjWC443c\" target=\"_blank\" rel=\"noopener noreferrer\">Data Design with GIS (Raster Vector data)</a>"
+      },
+      {
+        "date": "2021 Jun",
+        "description": "Guest Talk, <a href=\"https://youtu.be/Wbw_jRT9uQE\" target=\"_blank\" rel=\"noopener noreferrer\">Why designers need to CODE? Presentation QnA Discussion</a>"
+      },
+      {
+        "date": "2021 Jun",
+        "description": "Guest Talk, <a href=\"https://youtu.be/-izGhLxmwmQ\" target=\"_blank\" rel=\"noopener noreferrer\">Snippet for The Hitchhiker’s Guide to Artificial Intelligence - The City of the Future</a>"
+      },
+      {
+        "date": "2021 Mar",
+        "description": "Guest Talk, <a href=\"https://youtu.be/D7jW9mPg8og\" target=\"_blank\" rel=\"noopener noreferrer\">Data and Urban design</a>"
+      },
+      {
+        "date": "2020 Aug",
+        "description": "Instructor, <a href=\"https://www.social-algorithms.com/old-pages/2020-workshop/unit-2\" target=\"_blank\" rel=\"noopener noreferrer\">Urban Network Analysis</a>, Social Algorithms 7. https://www.social-algorithms.com/sa-archives/sa-7-0"
+      },
+      {
+        "date": "2020 Jun",
+        "description": "Instructor, Computational Design (Data and Visualization) at <a href=\"https://www.digitalfutures.world/\" target=\"_blank\" rel=\"noopener noreferrer\">DigitalFUTURES World Conference 2020</a>, <a href=\"https://medium.com/@nj.namju/introduction-to-computational-design-data-geometry-and-visualization-using-digital-media-14161fdfd22f\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design for Geometry Visualization and Data Visualization for Digital Mapping on Web</a>, <a href=\"https://www.digitalfutures.world/workshops-asia-pacific-blog/njlee-kr\" target=\"_blank\" rel=\"noopener noreferrer\">KR</a> / <a href=\"https://www.digitalfutures.world/workshops-americas-blog/njlee-en\" target=\"_blank\" rel=\"noopener noreferrer\">Eng</a>"
+      },
+      {
+        "date": "2020 Jun",
+        "description": "Lecturer, <a href=\"https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization\" target=\"_blank\" rel=\"noopener noreferrer\">VR: Imagining A DigitalFUTURES Exhibition in Participatory Immersive Environments Workshop</a> with Biayna Bogosian + Claudiu Barsan Pipu, <a href=\"https://digitalfutures.international/workshops-2020/\" target=\"_blank\" rel=\"noopener noreferrer\">DigitalFUTURES World Conference 2020</a>"
+      },
+      {
+        "date": "2019 Sep",
+        "description": "Lecturer, Design Thinking, System, and Computational design with data, Data in Design, at KAIST and SNUST, South Korea"
+      },
+      {
+        "date": "2019 Mar",
+        "description": "Guest Lecturer, Machine Learning (AI) and Visualization in design Workshops in Creative AI and Feature Visualization class with Prof. Sey Min, Sogang University, South Korea"
+      },
+      {
+        "date": "2018 Sep",
+        "description": "Guest Lecturer, Mapping and Computational design process in Design Studio with Prof. Dongsei Kim, NYIT, NY, USA"
+      },
+      {
+        "date": "2018 Aug",
+        "description": "Guest Lecturer, Workshop, Sense-map, with Prof. Kris Mun, New School of Architecture and Design, San Diego, USA"
+      },
+      {
+        "date": "2018 Jan",
+        "description": "Guest Lecturer in Critical Making: Computational Design and Material Protocol, Department of Architecture and Architectural Engineering, Seoul National University, South Korea"
+      },
+      {
+        "date": "2017 Apr",
+        "description": "Instructor, <a href=\"https://github.com/NamjuLee/IntroductionToDesignVisualization\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Design Visualization</a>, JTerm, Harvard Graduate School of Design, MA, USA, <a href=\"https://namjulee.github.io/DesignVisualization-IAP-MIT/\" target=\"_blank\" rel=\"noopener noreferrer\">Independent Activities Period (IAP)</a>, Massachusetts Institute of Technology (MIT), MA, USA"
+      },
+      {
+        "date": "2016 Sep - 2017 Apr",
+        "description": "Lecturer, <a href=\"https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Instructor, 3D Visualization and Computation</a>, 4th Semester Arch Core Studio, workshop, Harvard Graduate School of Design, MA, USA"
+      },
+      {
+        "date": "2016 Sep",
+        "description": "Lecturer, <a href=\"https://namjulee.github.io/post-production-harvard-gsd.github.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Instructor, Post-Effect in AfterEffect, Digital Media Workshop</a>, Harvard Graduate School of Design, MA, USA"
+      },
+      {
+        "date": "2016 Sep",
+        "description": "Lecturer, <a href=\"http://www.njstudio.co.kr/main/project/2015_IntroductionTo3DVisualizationWorkshopHarvard%20GSD/2015_IntroductionTo3DVisualizationWorkshopHarvard%20GSD.html\" target=\"_blank\" rel=\"noopener noreferrer\">Instructor, Architectural Visualization, Digital Media Workshop</a>, Harvard Graduate School of Design, MA, USA"
+      },
+      {
+        "date": "2015 July",
+        "description": "Lecturer, Data and design computation, “Data-driven design methodology”, Seoul National University of Science and Technology, South Korea"
+      },
+      {
+        "date": "2014 July",
+        "description": "Lecturer, “Design and computation”, Seoul National University of Science and Technology, and Hongik University (Master and PhD students), South Korea"
+      },
+      {
+        "date": "2014 Mar",
+        "description": "Conference ‘ENGAGING DATA’, Role: Research Fellow 3D Visualization Specialist, SENSEable City Lab, Department of Urban Studies Planning, MIT, Cambridge, MA, USA"
+      },
+      {
+        "date": "2013 July",
+        "description": "Lecturer, Tooling for Visualization, Content: Modelling and Representation including rendering, Workshop for Master and PhD students, Hongik University, Seoul, South Korea"
+      },
+      {
+        "date": "2013 Mar",
+        "description": "Conference ‘URBAN CODE’, Role: Research Fellow 3D Visualization Specialist, SENSEable City Lab, Department of Urban Studies Planning, MIT, Cambridge, MA, USA"
+      },
+
+      {
+        "date": "2009 Mar - 2010 Mar",
+        "description": "Full-Time Lecturer, Program: Sketchup, 3ds max, Rhino3d, Grasshopper, Photoshop After Effects, Indesign, rendering, and animation, Architectural Digital Design I, II, three semesters, Sejong University, Seoul, South Korea"
+      },
+      {
+        "date": "2008 Mar",
+        "description": "Lecturer, Design and 3D visualization process, Content: 3ds max, Photoshop After Effects, rendering, animation, Seoul Institute of the Arts (SIA), Seoul, South Korea"
+      },
+      {
+        "date": "2007 Apr",
+        "description": "Lecturer, Workshops for visualization in urban design and architecture, Content: rendering and animation, Ministry of Labor Korea, Seoul, Korea"
+      },
+      {
+        "date": "2006 Mar",
+        "description": "Tutor, Content: Parametric design using Rhino3d, Architectural design studio with Prof. Dong-Hyun Kim, Sejong University, Seoul, South Korea"
+      },
+      {
+        "date": "2006 Aug",
+        "description": "Lecturer, Seminars in visualization for Cityscape and Urban Working for the national company, ‘Autodesk Korea’, Seoul, South Korea"
+      },
+      {
+        "date": "2006 July",
+        "description": "Lecturer, Training sales department and potential buyers of the ‘Linetech’ 3ds max retailers, Seoul, South Korea"
+      },
+      {
+        "date": "2006 May",
+        "description": "Lecturer, Seminars in Seoul and Pusan Cities training work colleagues, South Korea"
+      },
+      {
+        "date": "2005 Dec",
+        "description": "Tutor, Visualization for architectural design, HanBet University, Daejeon, South Korea"
+      },
+      {
+        "date": "2005 Sep",
+        "description": "Tutor, Visualization for architectural design, Seoul National University of Technology, Seoul, South Korea"
+      },
+      {
+        "date": "2004 May",
+        "description": "Lecturer, Simulation and visualization of Architectural, Urban and Cityscape, AI Graphics School, Seoul, South Korea"
+      }
+    ]
+  },
+  "lectureWorkshopShort": {
+    "title": "SHORT LECTURE & WORKSHOP INDEX",
+    "description": "Short : Lectures, Workshops, and Talks for Design & Computation course work",
+    "items": [
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYyeesgQiGF5d-r-GCSdHBP\" target=\"_blank\" rel=\"noopener noreferrer\">#ComputationalDesignWorkshopSnippet / \uc218\uc5c5 \ubc1c\ucdcc</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYWRUCbwzeZBm0kHKsj5fau\" target=\"_blank\" rel=\"noopener noreferrer\">#ComputationalDesignLectureSnippet / \uc218\uc5c5 \ubc1c\ucdcc</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYU_P60wCNAIyaDaHu7c_oA\" target=\"_blank\" rel=\"noopener noreferrer\">Work Snippet / Computational Design</a>"
+      }
+    ]
+  },
+
+  "keyComputationDevelopment": {
+    "title": "INDEX: DESIGN ALGORITHM & DEVELOPMENT ",
+    "description": "Key development, Design Algorithms, Geometry Vector, Raster, Discretization, GIS, ML, AI, Data and Design process",
+    "items": [
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      },
+      {
+        "date": "",
+        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
+      }
+    ]
+  },
+  "computationDevelopment": {
+    "title": "DESIGN COMPUTATION & SOFTWARE DEVELOPMENT",
+    "description": "Design, Computation, Design Algorithms, Software development, Plugin, Addon",
+    "items": [
+      {
+        "date": "2020 - Present",
+        "description": "<a href=\"https://www.npmjs.com/package/njscore\" target=\"_blank\" rel=\"noopener noreferrer\">njscore package</a>, JS lib, lecture, and workshop on design and computation"
+      },
+      {
+        "date": "2023 - Present",
+        "description": "Ready, Web-based GIS product"
+      },
+      {
+        "date": "2017 - 2023",
+        "description": "NGraphics, Development of real-time interactive platform and interface for an urban data and GIS visualization, graphic lib for a product in <a href=\"https://www.esri.com/en-us/home\" target=\"_blank\" rel=\"noopener noreferrer\">ESRI</a> (Environmental Systems Research Institute, GIS Mapping Software, AI, Spatial Data Analytics Location Platform), Products(including Research): Annotation Tool, Drawing Tool 2D and 3D, Smart Drawing, Drawing Block, 2 3DVisualization tool, <a href=\"https://youtu.be/kvl2JuCd42s\" target=\"_blank\" rel=\"noopener noreferrer\">Mapticon</a>(Data Driven representation), Mapfilter, SmartCommander, NTerrain Utility, NImage Utility, NVR, NData App, NSketch App, GIS Constraint Drawing package, Geometry Analysis package, Network Analysis package, Spatial data Analysis package. Real time graphics frameworks, and API (using HTML Canvas and SVG, ThreeJS, Pure WebGL1,2)"
+      },
+      {
+        "date": "2017 Sep - 2023 Feb",
+        "description": "Development, <a href=\"https://youtu.be/tILB6fdouZ8\" target=\"_blank\" rel=\"noopener noreferrer\">Expressmap</a> for <a href=\"https://storymaps.arcgis.com/\" target=\"_blank\" rel=\"noopener noreferrer\">ESRI Storymaps</a>"
+      },
+      {
+        "date": "2018 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2018_NLU_Development/2018_NLU_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Land Utility</a>, GIS and Mapping Utilities for web platform"
+      },
+      {
+        "date": "2018 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2018_NMU_Development/2018_NMU_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Mapping Utility</a>, GIS and Mapping Utilities for web platform and Rhino Grasshopper"
+      },
+      {
+        "date": "2018 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2018_NIU_Development/2018_NIU_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Image Utility</a>, Image and Utilities for Window web and Rhino Grasshopper"
+      },
+      {
+        "date": "2017 Sep - present",
+        "description": "<a href=\"http://www.njstudio.co.kr/main/project/2016_MobilityEnergyConsumptionMITMediaLab/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Development, Numerical Urban Utility, MIT Media Lab</a>, Urban Mobility Analysis Utilities for web platform and Rhino Grasshopper"
+      },
+      {
+        "date": "2016 Sep - present",
+        "description": "<a href=\"http://www.njstudio.co.kr/main/project/2016_HarvardCS109_DataScience/index.html\" target=\"_blank\" rel=\"noopener noreferrer\">Urban analytic model</a> using sk-learn lib"
+      },
+      {
+        "date": "2016 Sep - present",
+        "description": "Development, Millipede for Unity, with Prof. Panagiotis Michalatos, Structural simulation in VR environment"
+      },
+      {
+        "date": "2016 Sep - present",
+        "description": "Development, Eabbit for Grasshopper, with Jung Min Han, Data processing and vis for Building Energy and Ventilation"
+      },
+      {
+        "date": "2016 May",
+        "description": "Architectural Exhibition, <a href=\"https://www.facebook.com/bosuk.hur/videos/955667567804156/\" target=\"_blank\" rel=\"noopener noreferrer\">Hanger Barn Campaign Video</a>, designed by <a href=\"http://www.folioarch.com/\" target=\"_blank\" rel=\"noopener noreferrer\">Folio</a>, the winner of the sixth annual City of Dreams Pavilion Competition"
+      },
+      {
+        "date": "2015 Sep - present",
+        "description": "Development, NJSOpenGL.dll, NJS.dll, Visualization and geometry library"
+      },
+      {
+        "date": "2015 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2015_MOptic/2015_SktechHand_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">SktechHand</a> stand-alone for Windows platform"
+      },
+      {
+        "date": "2015 Sep - present",
+        "description": "Development, LandBox for <a href=\"http://www.njstudio.co.kr/main/project/2015_LandBoxForDesign_Development/2015_LandBoxForDesign_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">design</a> for <a href=\"http://www.njstudio.co.kr/main/project/2015_LandBoxForGame_Development/2015_LandBoxForGame_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">game</a> for <a href=\"http://www.njstudio.co.kr/main/project/2015_LandBoxForAR_Development/2015_LandBoxForAR_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">AR</a>, stand-alone for Windows platform"
+      },
+      {
+        "date": "2014 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2015_NEU_Development/2015_NEU_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Environment Utility</a>, Geometry Utilities for Windows platform and Grasshopper"
+      },
+      {
+        "date": "2014 Sep - present",
+        "description": "Development, <a href=\"http://www.njstudio.co.kr/main/project/2015_AC_Development/2015_AC_Development.html\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Geometry Utility</a>, Geometry Utilities for Windows platform and Grasshopper"
+      },
+      {
+        "date": "2014 Sep - present",
+        "description": "<a href=\"http://www.njstudio.co.kr/main/project/2015_AC[Development]/2015_AC[Development].html\" target=\"_blank\" rel=\"noopener noreferrer\">Development, Architecture Compiler</a>, An add-on for Grasshopper for fabrication"
+      },
+      {
+        "date": "2014 Sep - present",
+        "description": "Development, Data-Driven Design Agency, Design Automation, Architecture Compiler for Fabrication add-ons for Rhino Grasshopper."
+      },
+      {
+        "date": "2015 Jan",
+        "description": "Architectural Exhibition, OUT OF PLANE, DESIGNING FLEXIBLE STRUCTURES, Asst. Prof. Simon Schleicher, CED, UC Berkeley"
+      },
+      {
+        "date": "2014 May",
+        "description": "Visualization, Deconstructing the DMZ for the Imaginary by Dongsei Kim, The Korean Peninsula at 14th International Architecture Exhibition, Venice, Italy."
+      },
+      {
+        "date": "2012 Dec - present",
+        "description": "Development, Scripted plugin, Data Visualization Tool Set for 3D visualization, for 3ds max"
+      },
+      {
+        "date": "2010 Sep - present",
+        "description": "<a href=\"http://www.njstudio.co.kr/main/project/2013_Ants[Development]/2013_Ants[Development].html\" target=\"_blank\" rel=\"noopener noreferrer\">Development, Scripted plugin, ANT for Building Animation</a>, in for 3ds max"
+      }
+    ]
+  },
+
+  "designExhibition": {
+    "title": "SELECTED DESIGN & EXHIBITION",
+    "description": "Design & Architecture & Image & Video & Hardware and Software products",
+    "items": [
+      {
+        "date": "2017 Aug",
+        "description": "Exhibition, Politics of Space and its Shadows with Dongsei Kim, Seoul Biennale of Architecture and Urbanism, Imminent Commons 2017",
+        "tags": [
+          "exhibition",
+          "politics of space",
+          "Dongsei Kim",
+          "Seoul Biennale",
+          "architecture",
+          "urbanism"
+        ]
+      },
+      {
+        "date": "2015 Apr",
+        "description": "Design, Street in office office on street, Project at UC, Berkeley, Prof. Kyle Steinfeld - SF, CA, USA",
+        "tags": [
+          "design",
+          "urban design",
+          "UC Berkeley",
+          "Kyle Steinfeld",
+          "San Francisco"
+        ]
+      },
+      {
+        "date": "2014 Sep",
+        "description": "Design, Helsinki guggenheim museum competition Collaboration: Taekyung Kim, Patricia Correa Velasquez, Daekwon Park, Hnsol Kang, Ale Romo, - Finland",
+        "tags": [
+          "design",
+          "museum",
+          "competition",
+          "Helsinki",
+          "Guggenheim",
+          "collaboration"
+        ]
+      },
+      {
+        "date": "2013 May",
+        "description": "Design, Flat Lot, Architectural competition, Collaboration with Daekwon Park, Jaegeun Lim, Dongsei Kim - MI 48502, USA",
+        "tags": [
+          "design",
+          "architectural competition",
+          "Flat Lot",
+          "collaboration"
+        ]
+      },
+      {
+        "date": "2013 Feb",
+        "description": "Design, Public art, Architectural competition - The Radcliffe Institute for Advanced Study at Harvard University, Cambridge, MA, USA Collaboration with Aurgho Jyoti, Matan Mayer, Daekwon Park",
+        "tags": [
+          "design",
+          "public art",
+          "architectural competition",
+          "Harvard University",
+          "collaboration"
+        ]
+      },
+      {
+        "date": "2012 Dec",
+        "description": "Design, Baragan's dream, Architectural competition, Role: design and visualization, with Prof. Takehiko Nagakura, MIT, Cambridge, MA, USA",
+        "tags": [
+          "design",
+          "architectural competition",
+          "Baragan",
+          "visualization",
+          "MIT"
+        ]
+      },
+      {
+        "date": "2012 Sep",
+        "description": "Design, Daegu Gosan Public Library, Architectural competition, Daegu, South Korea Collaboration with meta-territory_studio",
+        "tags": [
+          "design",
+          "public library",
+          "architectural competition",
+          "Daegu",
+          "collaboration"
+        ]
+      },
+      {
+        "date": "2012 May",
+        "description": "Design, application for iPhone and iPad, SnapShop(re-thinking grocery shopping), MIT, Cambridge, MA, USA",
+        "tags": [
+          "design",
+          "mobile application",
+          "SnapShop",
+          "grocery shopping",
+          "MIT"
+        ]
+      },
+      {
+        "date": "2012 Jan",
+        "description": "Exhibition, Visualizer, VR using iPad and prints, Homelessness, Design Research Institute RMIT, Melbourne, Australia",
+        "tags": ["exhibition", "VR", "homelessness", "RMIT", "Melbourne"]
+      },
+      {
+        "date": "2011 Aug",
+        "description": "Exhibition, Media and visualization artist, SAALAB [Visual Motion Group] 1st Group Exhibition, 'Look at the sky' for one week, Seoul, South Korea",
+        "tags": ["exhibition", "media art", "visualization", "SAALAB", "Seoul"]
+      },
+      {
+        "date": "2011 Aug",
+        "description": "Exhibition, A sculpture at Seoul City Hall, Role: Technical director, for Moon, Kyung Won, one of Korea's major artists, Seoul, South Korea",
+        "tags": ["exhibition", "sculpture", "Seoul City Hall", "Kyung Won Moon"]
+      },
+      {
+        "date": "2010 Sep",
+        "description": "Design, Atlantic Memorial Space Competition, Role: Researcher for design and presentation, with Prof. Dong-Hyun Kim at DK Studio, Seoul, South Korea",
+        "tags": [
+          "design",
+          "memorial space",
+          "competition",
+          "research",
+          "DK Studio"
+        ]
+      },
+      {
+        "date": "2010 Jul",
+        "description": "Exhibition, Media and visualization artist, Architectural Collage [AGENDA Group] for one week, Seoul, South Korea",
+        "tags": [
+          "exhibition",
+          "media art",
+          "visualization",
+          "architectural collage",
+          "AGENDA Group"
+        ]
+      },
+      {
+        "date": "2010 May",
+        "description": "Exhibition, Media and visualization artist, First NJ Private Exhibition for 10 days at MW(Mini Wide Mini Wall), www.miniwide.com, Seoul, South Korea",
+        "tags": [
+          "exhibition",
+          "media art",
+          "visualization",
+          "NJ Private Exhibition",
+          "Mini Wide"
+        ]
+      },
+      {
+        "date": "2009 Dec",
+        "description": "Design, AquaScraper (Reverse Evolution), Role: Independent architectural design work, for eVolo Skyscraper Competition 2010, New York, NY 10034, USA",
+        "tags": ["design", "skyscraper", "competition", "AquaScraper", "eVolo"]
+      },
+      {
+        "date": "2009 Sep",
+        "description": "Design, Bruce Lee Museum Idea Competition, Collaboration with Jimmy Kim, Hong Kong",
+        "tags": ["design", "museum", "competition", "Bruce Lee", "Hong Kong"]
+      },
+      {
+        "date": "2009 Aug",
+        "description": "Exhibition, Media and visualization artist, Digital Film Exhibition 'Transition', at BMH (Blindsound Media Hub) (http://www.saalab.com)",
+        "tags": [
+          "exhibition",
+          "media art",
+          "visualization",
+          "digital film",
+          "Transition"
+        ]
+      },
+      {
+        "date": "2009 May",
+        "description": "Exhibition, Visualization technical director for artist Kyung Won Moon, the National Museum of Contemporary Art Korea, Seoul, South Korea",
+        "tags": [
+          "exhibition",
+          "visualization",
+          "Kyung Won Moon",
+          "National Museum of Contemporary Art Korea"
+        ]
+      },
+      {
+        "date": "2007 Jun",
+        "description": "Design, Dongdaemon Housing Competition, Role: Researcher for design and visualization, with Prof. Dong-Hyun Kim at DK Studio, Seoul, South Korea",
+        "tags": [
+          "design",
+          "housing",
+          "competition",
+          "research",
+          "visualization",
+          "DK Studio"
+        ]
+      },
+      {
+        "date": "2006 Oct",
+        "description": "Exhibition, Architecture student, Graduation Design Exhibition, Seoul National University of Science and Technology, Seoul, South Korea",
+        "tags": [
+          "exhibition",
+          "graduation design",
+          "architecture student",
+          "Seoul National University of Science and Technology"
+        ]
+      },
+      {
+        "date": "2006 Sep",
+        "description": "Design, JuGong Residence Competition, Role: Architectural design work, NJ Studio, Seoul, South Korea",
+        "tags": ["design", "residence", "competition", "JuGong", "NJ Studio"]
+      },
+      {
+        "date": "2005 May",
+        "description": "Design, Nan Jing district in China urban redevelopment project, Role: Design researcher for planning and simulation, A joint venture between Seoul Technology University and Dong Nam University in China",
+        "tags": [
+          "design",
+          "urban redevelopment",
+          "Nan Jing",
+          "research",
+          "planning",
+          "simulation",
+          "joint venture"
+        ]
+      }
+    ]
+  },
+  "designVisualization": {
+    "title": "SELECTED DESIGN VISUALIZATION",
+    "description": "Rendering, Design & Data Visualization, Representation",
+    "items": [
+      {
+        "date": "2023 Jan",
+        "description": "Data visualization for Slow Zones, SENSEable City Lab, MIT",
+        "tags": [
+          "data visualization",
+          "slow zones",
+          "SENSEable City Lab",
+          "MIT"
+        ]
+      },
+      {
+        "date": "2018 June",
+        "description": "Animation visualization for Hsinta Ecological Power Plant, Yang Sung Goo, Ethership, Merit Award, Bronze Award at Taipei International Design Awards, Taiwan",
+        "tags": [
+          "animation visualization",
+          "ecological power plant",
+          "Yang Sung Goo",
+          "Ethership",
+          "design awards",
+          "Taiwan"
+        ]
+      },
+      {
+        "date": "2016 Sep",
+        "description": "Architectural animation for Nodeul Dream Island, Yang Sung Goo, Ethership, Distinction Award. Taipei International Design Awards, South Korea",
+        "tags": [
+          "architectural animation",
+          "Nodeul Dream Island",
+          "Yang Sung Goo",
+          "Ethership",
+          "design awards",
+          "South Korea"
+        ]
+      },
+      {
+        "date": "2016 Jan",
+        "description": "Architectural animation for HANGER BARN: FIGMENT NYC 2016 CITY OF DREAM PAVILION, design by folio, First prize, NEW YORK CITY, NY",
+        "tags": [
+          "architectural animation",
+          "HANGER BARN",
+          "FIGMENT NYC",
+          "city of dream pavilion",
+          "folio",
+          "New York City"
+        ]
+      },
+      {
+        "date": "2015 Sep",
+        "description": "Visualization, LandBox Research for VR, AR(POC) implementation, Harvard University GSD, Cambridge, MA, USA",
+        "tags": [
+          "visualization",
+          "LandBox",
+          "VR",
+          "AR",
+          "POC",
+          "Harvard University",
+          "GSD"
+        ]
+      },
+      {
+        "date": "2015 Jan",
+        "description": "Architectural animation for GRB convention center competition, Houston, with Prof. Ju-Hong Park, USA",
+        "tags": [
+          "architectural animation",
+          "convention center",
+          "competition",
+          "Houston",
+          "Ju-Hong Park"
+        ]
+      },
+      {
+        "date": "2012 Jul",
+        "description": "Visualization Badel Block Redevelopment, Role: design and visualization, Architectural competition, Ether Ship, Architect Sung-Goo Yang, Zagreb, Croatia",
+        "tags": [
+          "visualization",
+          "Badel Block",
+          "redevelopment",
+          "architectural competition",
+          "Ether Ship",
+          "Sung-Goo Yang",
+          "Zagreb"
+        ]
+      },
+      {
+        "date": "2012 Apr",
+        "description": "Animation visualization, for Potential applications of SMPS, Thesis by Daekwon Park, Harvard University GSD, Cambridge, MA, USA",
+        "tags": [
+          "animation visualization",
+          "SMPS",
+          "thesis",
+          "Daekwon Park",
+          "Harvard University",
+          "GSD"
+        ]
+      },
+      {
+        "date": "2011 Dec",
+        "description": "Architectural animation for Master plan of University of Sydney and Holme Building designed by the Monument Company, Sydney",
+        "tags": [
+          "architectural animation",
+          "master plan",
+          "University of Sydney",
+          "Holme Building",
+          "Monument Company"
+        ]
+      },
+      {
+        "date": "2011 Oct",
+        "description": "Architectural animation for construction simulation, Mi-Rae Gawan at Samyuk University, HYUNDAI Engineering Construction, Seoul",
+        "tags": [
+          "architectural animation",
+          "construction simulation",
+          "Mi-Rae Gawan",
+          "Samyuk University",
+          "HYUNDAI Engineering Construction",
+          "Seoul"
+        ]
+      },
+      {
+        "date": "2011 Aug",
+        "description": "Architectural animation for the Building of Kepco Plant Service Engineering, Korea Electric Power Corporation, South Korea",
+        "tags": [
+          "architectural animation",
+          "Kepco Plant Service Engineering",
+          "Korea Electric Power Corporation"
+        ]
+      },
+      {
+        "date": "2009 May",
+        "description": "Visualization, Role: Environment-background director for virtual city Invisible Dream (short film work), JoungA Park Ph.D, DongGuk University, Seoul, South Korea",
+        "tags": [
+          "visualization",
+          "virtual city",
+          "Invisible Dream",
+          "short film",
+          "JoungA Park",
+          "DongGuk University",
+          "Seoul"
+        ]
+      },
+      {
+        "date": "2009 May",
+        "description": "Architectural animation for Seoul Performing Arts Center Competition, SPACE GROUP, Seoul, South Korea.",
+        "tags": [
+          "architectural animation",
+          "Seoul Performing Arts Center",
+          "competition",
+          "SPACE GROUP"
+        ]
+      },
+      {
+        "date": "2009 Aug",
+        "description": "Data Visualization Visual Imagination Series, Role: Director of motion graphic works based on parametric algorithms, NJ Studio, Seoul, South Korea",
+        "tags": [
+          "data visualization",
+          "visual imagination",
+          "motion graphics",
+          "parametric algorithms",
+          "NJ Studio",
+          "Seoul"
+        ]
+      },
+      {
+        "date": "2008 May",
+        "description": "Animation, 2008 AUTODESK Launching Day, opening animation work, NJ Studio, Seoul, South Korea",
+        "tags": [
+          "animation",
+          "AUTODESK",
+          "launching day",
+          "NJ Studio",
+          "Seoul"
+        ]
+      },
+      {
+        "date": "2007 Oct",
+        "description": "Architectural animation for Campus Renovation, Ulsan National Institute of Science and Technology, Korea",
+        "tags": [
+          "architectural animation",
+          "campus renovation",
+          "Ulsan National Institute of Science and Technology"
+        ]
+      },
+      {
+        "date": "2007 Aug",
+        "description": "Architectural animation Role: Director of animation and presentation for Songdo New City, design by Kohn Pedersen Fox Associates, Incheon, South Korea",
+        "tags": [
+          "architectural animation",
+          "Songdo New City",
+          "Kohn Pedersen Fox Associates",
+          "Incheon"
+        ]
+      },
+      {
+        "date": "2006 Jun",
+        "description": "Architectural animation for King's Cross 400 project with M3 Architects, London, United Kingdom",
+        "tags": [
+          "architectural animation",
+          "King's Cross 400",
+          "M3 Architects",
+          "London"
+        ]
+      },
+      {
+        "date": "2006 Feb",
+        "description": "Architectural animation for PRUGIO Apartment, DAEWOO Engineering Construction, South Korea",
+        "tags": [
+          "architectural animation",
+          "PRUGIO Apartment",
+          "DAEWOO Engineering Construction"
+        ]
+      },
+      {
+        "date": "2006 Jan",
+        "description": "Sam-Song urban planning project, Role: Design researcher for planning and presentation, Research institute for City Humanities, Go-Hyang, South Korea",
+        "tags": [
+          "urban planning",
+          "Sam-Song",
+          "design research",
+          "City Humanities",
+          "Go-Hyang"
+        ]
+      },
+      {
+        "date": "2005 May",
+        "description": "Commercial Visualization (Animation, Simulation) Role: Director at NJ Studio, for Sky HDTV, HYUNDAI Engineering Construction etc. South Korea",
+        "tags": [
+          "commercial visualization",
+          "animation",
+          "simulation",
+          "NJ Studio",
+          "Sky HDTV",
+          "HYUNDAI Engineering Construction"
+        ]
+      }
+    ]
+  },
+  "njchannel": {
+    "title": "VIDEO INDEX: NJSTUDIO & NJCHANNEL & NJSurvivalKit",
+    "description": "Key index and playlists for the NJSTUDIO, NJCHANNEL, and NJSurvivalKit channels",
+    "items": [
+      {
+        "date": "",
+        "description": "<a href=\"https://www.youtube.com/@NJNamjuLee/playlists/\" target=\"_blank\" rel=\"noopener noreferrer\">NJSTUDIO: Code for Design (English), Playlist</a> & <a href=\"https://www.youtube.com/@CodeforDesign/playlists/\" target=\"_blank\" rel=\"noopener noreferrer\">NJChannel: Code for Design (Korean) Playlist</a> & <a href=\"https://www.youtube.com/@njlee-story/playlists/\" target=\"_blank\" rel=\"noopener noreferrer\">NJ's Story & Survival Kit, Channel (Korean) Playlist</a>"
+      },
+
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEair4NVORvdpuKM2807b7jE\" target=\"_blank\" rel=\"noopener noreferrer\">Data Structure and Algorithm for Design and Research</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYyeesgQiGF5d-r-GCSdHBP\" target=\"_blank\" rel=\"noopener noreferrer\">#ComputationalDesignWorkshopSnippet / \uc218\uc5c5 \ubc1c\ucdcc</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEY77kUw5RM1JbZ6M8sC-uuB\" target=\"_blank\" rel=\"noopener noreferrer\">Open Lectures \uc2a4\ud130\ub514</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEY1SrZdhthIVCjWeuXuBmYh\" target=\"_blank\" rel=\"noopener noreferrer\">NJ'sSurvivalKit Snippet / \ubc1c\ucdcc</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYWRUCbwzeZBm0kHKsj5fau\" target=\"_blank\" rel=\"noopener noreferrer\">#ComputationalDesignLectureSnippet / \uc218\uc5c5 \ubc1c\ucdcc</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEab7o-POcWmZFXv4-56pULT\" target=\"_blank\" rel=\"noopener noreferrer\">\uadf8\ub77c\uc2a4\ud558\ud37c(Grasshopper) \uc2a4\ud130\ub514</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYU_P60wCNAIyaDaHu7c_oA\" target=\"_blank\" rel=\"noopener noreferrer\">Work Snippet / Computational Design</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZ4xF1sQZxUx6B2yJFIn8Ut\" target=\"_blank\" rel=\"noopener noreferrer\">OfficeHours / Meeting</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63\" target=\"_blank\" rel=\"noopener noreferrer\">[\ucef4\ud4e8\ud14c\uc774\uc154\ub110 \ub514\uc790\uc778] \ucc45, \uc77d\uc73c\uba74\uc11c \uc785\ubb38\ud558\ub294 \ub514\uc790\uc774\ub108\ub97c \uc704\ud55c \ucf54\ub529</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbrQkbOc88eUD9E28PSP8zk\" target=\"_blank\" rel=\"noopener noreferrer\">KICDT</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYnUq-jyW8smfkTrnOi2ot9\" target=\"_blank\" rel=\"noopener noreferrer\">Guest talk & Presentation</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYSupf2flzpZdT8tmSL8SNo\" target=\"_blank\" rel=\"noopener noreferrer\">Unity for Design Scripting and Visualization</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEaIS3XH_XenQz1sba_143MX\" target=\"_blank\" rel=\"noopener noreferrer\">WebApp for Cad System</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZmk2X_u7ol4iAccjYtZqBB\" target=\"_blank\" rel=\"noopener noreferrer\">OpenGL for CAD System</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEa9QX6d20pkCjWrw8VRBCBU\" target=\"_blank\" rel=\"noopener noreferrer\">\ub514\uc790\uc774\ub108\ub97c\uc704\ud55c C# \uae30\ucd08\ubb38\ubc95</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYYq2L-NTEecysiTgBGq6zY\" target=\"_blank\" rel=\"noopener noreferrer\">\ub77c\uc774\ub178 \ud30c\uc774\uc36c \uadf8\ub77c\uc2a4\ud558\ud37c \ucc30\ub79c\uc9c0 / Rhino Python GH Challenge</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYZVe4K8heovCbNQiyMK2uH\" target=\"_blank\" rel=\"noopener noreferrer\">Rhino3d / \ub77c\uc774\ub1783d</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZaSsAE3rFeiHwD3xDPoguf\" target=\"_blank\" rel=\"noopener noreferrer\">#\ud615\ud615\uce60\ubc15\uc0ac\uc758\ub3c4\uc2dc\uc7ac\uc0dd\uc774\uc57c\uae30</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEb8Zyi3A4anGmbCb0c9ilL-\" target=\"_blank\" rel=\"noopener noreferrer\">\uc6cc\ud06c\uc20d \uc9c8\ubb38 / Workshop QnA</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbNCCiqpLBrf2JStsuzCEZd\" target=\"_blank\" rel=\"noopener noreferrer\">\uc2e0\ud76c\ucc2c\uc758 \uac74\ucd95/\uae30\uc220 \uc774\uc57c\uae30</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbGYBBPoKxHdMphJW245q38\" target=\"_blank\" rel=\"noopener noreferrer\">SA 7.0 Unit 2</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbnk_gn28AdkIGEgxcwfZj6\" target=\"_blank\" rel=\"noopener noreferrer\">Code For Design Group https://cafe.naver.com/codefordesign</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZZyedJi632ULMJ6allmz2s\" target=\"_blank\" rel=\"noopener noreferrer\">[\ud55c\uad6d\uc5b4 ] Digital FUTURES World Workshop Full Version</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZDimR3f7NF-9uphDRHdas7\" target=\"_blank\" rel=\"noopener noreferrer\">live</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYAuR6_tAJfb3BwYLYnhfQJ\" target=\"_blank\" rel=\"noopener noreferrer\">Workshop Sereies, Eng</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZH1KnVA3-zIvhzIrCaafTf\" target=\"_blank\" rel=\"noopener noreferrer\">#GrasshopperCSharp, Grasshopper & C# Scripting</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYBFgMC8r1TnQEB6CA877HB\" target=\"_blank\" rel=\"noopener noreferrer\">\uadf8\ub77c\uc2a4\ud558\ud37c \uadf8\ub9ac\uace0 \ucf54\ub529(C#) Design Scripting Workshop</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEb94hRD2OT4bNWhtO0Ggu_o\" target=\"_blank\" rel=\"noopener noreferrer\">\uc6cc\ud06c\uc20d / Workshop</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEaBC1VHilvQPKqeHBuQ0lH5\" target=\"_blank\" rel=\"noopener noreferrer\">\uc54c\uace0\ub9ac\uc998 & \ub514\uc790\uc778 / Algorithm & Design</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbX-p-4LUv1PEetmpzjdFOr\" target=\"_blank\" rel=\"noopener noreferrer\">\ud1a0\ud06c & \uc778\ud130\ubdf0 / Talk & Interview</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbG_CPsGL4uZV4WcXLHgzy8\" target=\"_blank\" rel=\"noopener noreferrer\">\ub514\uc790\uc778 \uc2dc\uac01\ud654 / Design Visualization</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYzuT2sezSsQCP-me-1Tb7e\" target=\"_blank\" rel=\"noopener noreferrer\">\uc9c8\ubb38&\ub2f5\ubcc0 / QnA</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZ8RfbE5szz67dlr9Q44z7b\" target=\"_blank\" rel=\"noopener noreferrer\">\ud50c\ub7ec\uadf8\uc778(Plugin) / \uc560\ub4dc\uc628(Addon) / \ub77c\uc774\ube0c\ub7ec\ub9ac(lib)</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd\" target=\"_blank\" rel=\"noopener noreferrer\">\ub514\uc790\uc774\ub108\ub97c \uc704\ud55c \ud30c\uc774\uc36c / Python for designers</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYoRlA355KsGDS5x9nkzalF\" target=\"_blank\" rel=\"noopener noreferrer\">\ub9e4\ud551 & \ub370\uc774\ud130 \uc2dc\uac01\ud654 / Mapping & Data Visualization</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYVSpbRQuzG4zHLpnfd4sUU\" target=\"_blank\" rel=\"noopener noreferrer\">\ub77c\uc774\ub178 \ud30c\uc774\uc36c / Rhino Python</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYTu_V-aOHntBBUwMfY5fdl\" target=\"_blank\" rel=\"noopener noreferrer\">Web based Digital Mapping, Data Visualization / \uc6f9 \ubca0\uc774\uc2a4 \ub514\uc9c0\ud138 \ub9e4\ud551, \ub370\uc774\ud130 \uc2dc\uac01\ud654</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbrsOunzkoDtwjfAoqd7yvJ\" target=\"_blank\" rel=\"noopener noreferrer\">Research Project</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEb-blQLOTYD3UGmKMvaW83P\" target=\"_blank\" rel=\"noopener noreferrer\">NJ's VLog</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbaEbxvSTAsrTe4pJHarnaE\" target=\"_blank\" rel=\"noopener noreferrer\">#\uc9c4\ub85c\uc0c1\ub2f4 #\ucde8\uc9c1 #\uc720\ud559 \ub514\uc790\uc778-\uac74\ucd95/\ucef4\ud4e8\ud14c\uc774\uc158</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYyX4H-Ztcscg3Wu45SX0FS\" target=\"_blank\" rel=\"noopener noreferrer\">MIT, SENSEable City Lab</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZ79PMT1DgllCbqyKJz7rgO\" target=\"_blank\" rel=\"noopener noreferrer\">Design and Computation Project</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEa-IMJCC718xjyY4tPikAjO\" target=\"_blank\" rel=\"noopener noreferrer\">\ud558\ubc84\ub4dc \uac74\ucd95\ub300\ud559\uc6d0 / Harvard GSD</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEYSluYZ2RtJRCdg_qrfQ_xF\" target=\"_blank\" rel=\"noopener noreferrer\">#NJ\uc758\uc11c\ubc14\uc774\ubc8c\ud0a4\ud2b8 - NJ's Survival Kit</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEZ61fqC9vj97e8vyC30ZYkG\" target=\"_blank\" rel=\"noopener noreferrer\">NJ \uc2a4\ud1a0\ub9ac / NJ Story / #NJStory</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEasb4RbUugM4ljH8oULTboc\" target=\"_blank\" rel=\"noopener noreferrer\">NJ\uc758 #\ucef4\ud4e8\ud14c\uc774\uc154\ub110\ub514\uc790\uc778 / \ud06c\ub9ac\uc5d0\uc774\ud2f0\ube0c \ucf54\ub529 / Computational Design / Creative Coding</a>"
+      },
+      {
+        "date": "",
+        "description": "NJCHANNEL: <a href=\"https://www.youtube.com/playlist?list=PLweNVwGgDKEbGyFdXHsJ4dw4JAs55Dd1L\" target=\"_blank\" rel=\"noopener noreferrer\">BBoy NJ</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmkuu_04k7nbOUEjtJ8FY8hC\" target=\"_blank\" rel=\"noopener noreferrer\">GSD JTerm: Data & Design & AI for Urban Data & Visualization</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmkjH74rOpTqCwQMs68-MR-S\" target=\"_blank\" rel=\"noopener noreferrer\">Immersive Environmental Information Visualization DigitalFUTURES 2021</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmlvJsxZ6WEnkPMCm6BZV7zD\" target=\"_blank\" rel=\"noopener noreferrer\">Work Snippet</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmkvVTDe3hUnK4pQG5XAbSIY\" target=\"_blank\" rel=\"noopener noreferrer\">Workshop index / Computational Design</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmlsFHB5_uD3UaR5uuHnETG-\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture index / Computational Design</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmnjpc2N0SIKKSdYfi-3tE5J\" target=\"_blank\" rel=\"noopener noreferrer\">SA 7.0 Unit 2</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmngv52XasDd0PTgqRFNauIm\" target=\"_blank\" rel=\"noopener noreferrer\">Rhino GH C# Scripting Workshop</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nml7jBro3yqZriUppDKAEDjI\" target=\"_blank\" rel=\"noopener noreferrer\">DigitalFUTURES World Workshop Short Version(Eng)</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmlXNW2GSfFVzENf_8T0P4Tc\" target=\"_blank\" rel=\"noopener noreferrer\">DigitalFUTURES World Workshop Full Version(Eng)</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmmw8ijafkC0WK8hKE7mepLy\" target=\"_blank\" rel=\"noopener noreferrer\">Workshops</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmmYi2Lo0DOAJG47OLz_ozyS\" target=\"_blank\" rel=\"noopener noreferrer\">Mapping & Data Visualization</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmnP7-zipkajjIibqTblDS88\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Utility Series</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmlE8ND5KHefV6sdEcNdQYD1\" target=\"_blank\" rel=\"noopener noreferrer\">Harvard GSD, MIT workshop</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmlzUq9YrlnF-jRyeS86TYR5\" target=\"_blank\" rel=\"noopener noreferrer\">Exhibition</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmn8G9DGZh76WEYkqEghrvok\" target=\"_blank\" rel=\"noopener noreferrer\">Visualization Project</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmmeqDu3L0TwX5G-XZsmnnuQ\" target=\"_blank\" rel=\"noopener noreferrer\">Development Project</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmkPhK0lJQP1-SM5Vgaa3o50\" target=\"_blank\" rel=\"noopener noreferrer\">Design Project</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSTUDIO: <a href=\"https://www.youtube.com/playlist?list=PLIyZNoxG7nmmyXBxm5SyWOYMICh904dUm\" target=\"_blank\" rel=\"noopener noreferrer\">BBoy NJ</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIZM2IcQI4EfUR8ecDi1yQI_\" target=\"_blank\" rel=\"noopener noreferrer\">Talk</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIb1xYAYlSZX0UM6LoZ75MuT\" target=\"_blank\" rel=\"noopener noreferrer\">\ucde8\uc9c1/\uc9c1\uc7a5</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIZNwShjVHolJN5xsTFHUCDL\" target=\"_blank\" rel=\"noopener noreferrer\">\uc720\ud559/\uc9c4\ud559</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIZ-arS3_UxhIyMrX7W0llea\" target=\"_blank\" rel=\"noopener noreferrer\">\u1109\u1165\u1107\u1161\u110b\u1175\u1107\u1165\u11af\u110f\u1175\u1110\u1173\u200b Snippet</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIbuQq-si4GNGqW7JYk7MGGQ\" target=\"_blank\" rel=\"noopener noreferrer\">\uc5d4\uc81c\uc774\uc2a4\ud1a0\ub9ac(\uadf8\ub9c8\ub77c\ud1a4\ucf54\uc2a4)</a>"
+      },
+      {
+        "date": "",
+        "description": "NJSurvival: <a href=\"https://www.youtube.com/playlist?list=PLFBNr4Mv3QIZp8FstC-L7fbJ_2NIA9f1Z\" target=\"_blank\" rel=\"noopener noreferrer\">\uc11c\ubc14\uc774\ubc8c \ud0a4\ud2b8</a>"
+      }
+    ]
+  }
+}
