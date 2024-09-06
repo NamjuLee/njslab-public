@@ -63,7 +63,7 @@
             //    after the API code downloads.
             var player;
             function onYouTubeIframeAPIReady() {
-              console.log('apiReady')
+              // console.log('apiReady')
               player = new YT.Player('player', {
                 width: '930',
                 height: '523',
@@ -76,7 +76,7 @@
             
             // 4. The API will call this function when the video player is ready.
             function onPlayerReady(event) {
-              console.log('playerReady')
+              // console.log('playerReady')
               // event.target.playVideo();
               d3.select('#superimposed')
                   .on('click', function () {
