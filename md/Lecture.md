@@ -6,7 +6,7 @@
 * **keywords:** Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm...  
 * **Research** An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now.
 
-#### [_Design for Design [Book]_](https://computationaldesign.tistory.com/49)
+#### [_Data for Design [Book]_](https://computationaldesign.tistory.com/49)
 * Korean, ~~English~~
 * **keywords:** -- 
 * **Research** --
@@ -55,7 +55,7 @@
 #### [_Data in Design_](https://nj-namju.medium.com/data-design-c21457dc8dc)
 * Korean, English
 * **keywords:** Computational Design, Data, How to code for designers, Design algorithm, Computational Thinking ...  
-* **Data** is becoming increasingly available for specialists and designers in diverse ways as a new material in the 21st century. Data's importance has led to the new age of design, making holistic design approaches in architectural, landscape, and urban design possible: Optimization, parametric design, data-driven design, and something fundamentally reliant on data. Therefore, the use of data in design is becoming much more significant than ever. Mainly, the change in our life by autonomous vehicles, IoT, blockchain, or smart cities based on 5G technology will accelerate the way of living and thinking, generating and consuming data every day. This lecture shows some snippets of How designers could surf with this new wave
+* **Data** is becoming increasingly available for specialists and designers in diverse ways as a new material in the 21st century. Data's importance has led to the new age of design, making holistic design approaches in architectural, landscape, and urban design possible: Optimization, parametric design, data-driven design, and something fundamentally reliant on data. Therefore, the use of data in design is becoming much more significant than ever. Mainly, the change in our life by autonomous vehicles, IoT, block-chain, or smart cities based on 5G technology will accelerate the way of living and thinking, generating and consuming data every day. This lecture shows some snippets of How designers could surf with this new wave
 
 
 
@@ -69,7 +69,7 @@
 #### [_GIS, Data and Design_](https://youtu.be/QLesjWC443c)
 * ~~Korean~~, English
 * **keywords:** GIS, Data, Computational design ...  
-* **This lecture** talks about data in design, showing different examples and how to manipulate spatial information in design processes. Students understand the importance of data in design and use it as a design materials
+* **This lecture** talks about data in design, showing different examples and how to manipulate spatial information in design processes. Students understand the importance of data in design and use it as design materials
 
 
 

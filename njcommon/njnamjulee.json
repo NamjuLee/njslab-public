@@ -1,4 +1,46 @@
 {
+  "TOC": [
+    {
+      "id": "nj-namju", 
+      "title": "NJ Namju Lee",
+      "children": [
+        { "id": "nj-bio", "title": "Bio" },
+        { "id": "links", "title": "Links" },
+        { "id": "demo", "title": "Selected Demo" },
+        { "id": "experience", "title": "Experience" }
+      ]
+    },
+    {
+      "id": "writingPublicationAward",
+      "title": "Publication, Award, Writing",
+      "children": [
+        { "id": "writing-publicationAward", "title": "Book, Publication, Award" },
+        { "id": "writing-writing", "title": "Writing" },
+        { "id": "writing-shortColumn", "title": "Short Column" }
+      ]
+    },
+    {
+      "id": "key-lecture",
+      "title": "Lecture & Workshop",
+      "children": [
+        { "id": "key-lecture", "title": "Key lecture" },
+        { "id": "lectureWorkshop", "title": "Lecture & Workshop" },
+        { "id": "lectureWorkshopShort", "title": "Short Lecture & Workshop" }
+      ]
+    },
+    {
+      "id": "keyComputationDevelopment",
+      "title": "Development",
+      "children": [
+        { "id": "keyComputationDevelopment", "title": "Design & Computation & Algorithm" },
+        { "id": "computationDevelopment", "title": "Software Development" }
+       ]
+    },
+    { "id": "designExhibition", "title": "Design & Exhibition" },
+    { "id": "designVisualization", "title": "Visualization" },
+    { "id": "njchannel", "title": "NJSTUDIO & NJChannel..." },
+    { "id": "education", "title": "Education" }
+  ],
   "bio": {
     "en": {
       "title": "BIO",
@@ -551,53 +593,53 @@
     "items": [
       {
         "date": "",
-        "description": "Key Index, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>KEY INDEX:</b> <a href=\"https://docs.google.com/presentation/d/1SojKNRjp6OYsPimU7JVNTgDfQL945tNs3Gqe9aDchr0/edit#slide=id.g2e783a2e437_2_6\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a> "
       },
       {
         "date": "",
-        "description": "Class A, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Long) (Short)</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>CLASS A</b>, <a href=\"https://docs.google.com/presentation/d/1tPF9KJvEuXj8FRaWMVdRszQlwWd0OPLx_yc0eCnCPb4/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Long)</a> & <a href=\"https://docs.google.com/presentation/d/1oqQAL2OdkQdUWEeowyQQ8aTtCSTRnLrk5yx_En3jeKk\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Short)</a>",
+        "subItem": "Introduction to Data & Design with keywords and examples </br> Keywords: Design & Computation / Design Data & Data Structure, </br> Lecture: Project, Research - Data for Design(CAD: Computer-Aided Design, MLAD: Machine Learning-Aided Design), Data-driven design project & research for Architecture, Landscape Architecture, Urban Design, Product Design, UI UX"
       },
       {
         "date": "",
-        "description": "Class B, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Visual Computation for Design</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>CLASS B</b>, <a href=\"https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI\" target=\"_blank\" rel=\"noopener noreferrer\">Visual Computation for Design</a>",
+        "subItem": "Introduction to Data & Design, A to Z with visual materials </br> Keywords: Visual computational design for designers </br> Lecture: Key concepts, Geometry and Data structure, Computational Thinking "
       },
       {
         "date": "",
-        "description": "Class C, Visual AI(ML) for Design",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>CLASS C</b>, <a href=\"https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computation and Design</a> <a href=\"https://computationaldesign.tistory.com/49\" target=\"_blank\" rel=\"noopener noreferrer\">[Book]</a>",
+
+        "subItem": "Introduction to Computational Design: </br> Keywords: Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm </br> Research An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now"
       },
       {
         "date": "",
-        "description": "Class D, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computation and Design [Book] link</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>CLASS D</b>, <a href=\"https://docs.google.com/presentation/d/1R83_YHvkk1vc5u0ig3eXDEfEdIjt1XJO8Wg4tPfBaOc\" target=\"_blank\" rel=\"noopener noreferrer\">Visual AI(ML) for Design, </a>",
+        "subItem": "Introduction to Data & Design, A to Z with visual materials, Visual AI-aided Design for Designers"
       },
       {
         "date": "",
-        "description": "Class E, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Data and Design [Book]</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>CLASS E</b>, <a href=\"https://docs.google.com/presentation/d/18PrUkiv0poCMrtBJ3g9ZNm4qXRP1HBnwWV9r30N0BlM\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Data for Designers</a> <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">[BOOK]</a>",
+        "subItem": "Introduction to Data & Design </br> Keywords: Design engineering, Data science for design, Data-driven design research, Data for Design(AIAD: Artificial Intelligence-Aided Design, MLAD: Machine Learning-Aided Design) </br> Lecture: Projects & Thesis, Research"
       },
       {
         "date": "",
-        "description": "Course Level 1, <a href=\"https:WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Description as Design Tools</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>COURSE LEVEL 1</b>, <a href=\"https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Description as Design Tools</a>",
+        "subItem": "Introduction to Computational Design: </br> Keywords: Python, Typescript, C#, Grasshopper, Geometry, Primitive data </br> Lecture: Programming(C#, JAVA,  Python, Typescript(Javascript)), Geometry(C# RhinoCommon, Python RhinoCommon )</a>"
       },
       {
         "date": "",
-        "description": "Course Level 2, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Algorithm & Data Structure for Design & Research</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>COURSE LEVEL 2</b>, <a href=\"https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE\" target=\"_blank\" rel=\"noopener noreferrer\">Algorithm & Data Structure for Design & Research</a>",
+        "subItem": "Introduction to Advanced Computation for Design & Research: </br> Keywords: Spatial Data and Structure, Geometry, Custom data </br> Lecture: Programming & Code for Design process, Data Structures for Design</a>"
       },
       {
         "date": "",
-        "description": "Course Level 3, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>COURSE LEVEL 3</b>, <a href=\"https://docs.google.com/presentation/d/1uM4dW0ff9jO1-FJPfij-Q3sJrhk-torNs6PebLxluJQ\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
+        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: GIS for design, Urban data, Vector data, Raster data, Geometry </br> Lecture: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C</a>"
       },
       {
         "date": "",
-        "description": "Course Level 4, <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Thesis: Design Research</a>",
-        "subItem": "<a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture A</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture B</a>, <a href=\"WWW\" target=\"_blank\" rel=\"noopener noreferrer\">Lecture C</a>"
+        "description": "<b>COURSE LEVEL 4</b>, <a href=\"https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8/\" target=\"_blank\" rel=\"noopener noreferrer\">Thesis: Design Research</a>",
+        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: Architecture, Landscape Architecture, Urban Design, Product Design, UI UX … </br> Lecture: Projects & Thesis, Research</a>"
       }
     ]
   },
@@ -775,38 +817,7 @@
     "title": "INDEX: DESIGN ALGORITHM & DEVELOPMENT ",
     "description": "Key development, Design Algorithms, Geometry Vector, Raster, Discretization, GIS, ML, AI, Data and Design process",
     "items": [
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      },
-      {
-        "date": "",
-        "description": "Update Needed: <a href=\"https://www.\" target=\"_blank\" rel=\"noopener noreferrer\">DummyLink</a>"
-      }
+      
     ]
   },
   "computationDevelopment": {
