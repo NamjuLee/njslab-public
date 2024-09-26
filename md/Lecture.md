@@ -6,11 +6,23 @@
 * **keywords:** Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm...  
 * **Research** An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now.
 
-#### [_Data for Design [Book]_](https://computationaldesign.tistory.com/49)
+* **Related lectures: _Introduction to Computation for Design_** 
+  * [Data & Design (KOR & ENG)](https://medium.com/@nj-namju/data-design-c21457dc8dc)
+
+  * [AI X DESIGN: STUDIO7,8 Kongju University](https://namjulee.github.io/njs-lab-public/work?id=2024-introductionToComputationalDesign-Kongju-uni)
+
+  * [서울시립대 건축학전공 봄 정기 강연 2022 / 컴퓨테이셔널 디자인 / 데이터 그리고 디자인](https://youtu.be/amOThlGDE0E)
+
+  * [첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 다가오는 시대, 기회, 준비전략](https://computationaldesign.tistory.com/48)
+
+  * [디자이너가 코딩을 왜 배워야 할까? (디자이너를 위한 컴퓨테이셔널 디자인 특강 2021)](https://computationaldesign.tistory.com/37)
+
+
+
+#### [_Data for Designers [Book]_](https://computationaldesign.tistory.com/49)
 * Korean, ~~English~~
 * **keywords:** -- 
 * **Research** --
-
 
 
 #### [_Numerical Descriptions as Design Tools_]()
@@ -40,7 +52,6 @@
 * Korean, ~~English~~
 * keywords: Design data, AI, Machine Learning, Computational Design, automation, optimization, machine learning, data-driven design, Graph data, Computational Design Thinking, Design Algorithm...
 * This course is an introduction to the use of design data in design.
-
 
 
 ---
