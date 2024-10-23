@@ -75,6 +75,15 @@
 * Korean, ~~English~~
 * **Keywords:** Computational Geometry, Visualization, C#, Geometry, Jupyter notebook, OOP, Graph, Visualization
 
+- Package manager & Installation : pip & Conda, MiniConda
+- Basics: Basic Syntax & Variable & data Type & Condition & Loops & Exceptions & function
+- Data Structure: List Tuple Set Dictionary
+- OOP: Classes & Inheritance & Methods
+- Advanced Python: List comprehension, Generators, Expression, Regex, Decorators, Iterators, Lamdas, Magic Method, Map, Reduce, Filter, Threading
+- DSA(Data Structures and Algorithms): Array & Linked list & Heaps / Stack / Queue & Hash table & Binary Search & Sorting algorithms & Recursion
+- Package: Numpy & Pandas & Seaborn & Matplotlib & Scikit Learn & Tensorflow & Keras & Pytouch 
+- Automation - File manipulation & Web scraping & GUI automation & Network Automation
+- Testing - Load testing & Integration Testing & Unit Testing & End-to-end Testing
 
 
 #### [_AI for Designers_](https://computationaldesign.tistory.com/29)
