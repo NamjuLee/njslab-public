@@ -2,6 +2,8 @@
 
 Research about strip based on fabrication supported by Autodesk at Pier 9 in San Francisco
 
+[Food4Rhino link](https://www.food4rhino.com/en/app/architectural-compiler-digital-fabrication)
+
 The initial input at pass A requires a Brep or surface to be modeled based on curve profiles to develop a single form. The geometry is broken into individual Brep strips as output. Pass B will analyze the formation of the strips with one another and develop tabs in the form of curves, which will be used to join the individual strips together. Pass C, analyzes the geometry and develops the nesting for the strips by unrolling and labeling for final fabrication.
 
 
