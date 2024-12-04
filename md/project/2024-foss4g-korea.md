@@ -6,7 +6,7 @@
 
 [Download Presentation material](https://namjulee.github.io/njs-lab-public/project/2024-foss4g-korea/2024-foss4g-korea.pdf)
 
-[Presentation video]()
+[Presentation video](https://youtu.be/wQ2YsPgMT1A)
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2024-foss4g-korea/2024-foss4g-korea.png)
 
