@@ -5,57 +5,52 @@
 [link](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
 
 **KEYWORD:**
-
-Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine Learning, Artificial Intelligence, Visualization, Mapping, Design Decision-Making ...
+* Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine Learning, Artificial Intelligence, Visualization, Mapping, Design Decision-Making ...
 
 **SHORT DESCRIPTION:**
+* This course contains several introductory lectures and hands-on workshops for those who want to use data as design materials to develop the design process. 
 
-This course contains several introductory lectures and hands-on workshops for those who want to use data as design materials to develop the design process. 
+* We will gently visit the basic concepts and implementations of the topics: Code, Data and processing, Geometry data, Vector, Raster, and some machine learning models and their related technologies, such examples: Regression, Classification, Pattern, Data Representation, Dimensionality Reduction, Machine Learning, Deep Learning, Implementation, Mapping, and Visualization Methodologies. 
 
-We will gently visit the basic concepts and implementations of the topics: Code, Data and processing, Geometry data, Vector, Raster, and some machine learning models and their related technologies, such examples: Regression, Classification, Pattern, Data Representation, Dimensionality Reduction, Machine Learning, Deep Learning, Implementation, Mapping, and Visualization Methodologies. 
+* From the designer's perspective, students will better understand and implement the use of data and tools, finally, gain holistic high-level concepts to expand that knowledge and technology further. Therefore, the ideas and contents you will learn in this course could become a map for those who want to learn how to use data and digital media in design.
 
-From the designer's perspective, students will better understand and implement the use of data and tools, finally, gain holistic high-level concepts to expand that knowledge and technology further. Therefore, the ideas and contents you will learn in this course could become a map for those who want to learn how to use data and digital media in design.
+* Each day, students will learn the individual topics listed below. Then, students will make a group to discuss, help, understand, and finish homework and examples. All code and examples will be online, and the instructor will be available before and after class for troubleshooting.
 
-Each day, students will learn the individual topics listed below. Then, students will make a group to discuss, help, understand, and finish homework and examples. All code and examples will be online, and the instructor will be available before and after class for troubleshooting.
-
-In addition, it is also possible for an individual or group to focus on one of the primary topics and revisit other topics after the course based on the student's ability and expectations. It is yours if you are interested in data as a design material.
+* In addition, it is also possible for an individual or group to focus on one of the primary topics and revisit other topics after the course based on the student's ability and expectations. It is yours if you are interested in data as a design material.
 
 **DELIVERABLES**:
 
-Class materials and homework
+* Class materials and homework
 
 **LOCATION:** 
 
-TBA
+* TBA
 
 **DATE:** 
 
-TUE(03), WED(04), THU(05), FRI(06), Mon(9), January 2023
+* TUE(03), WED(04), THU(05), FRI(06), Mon(9), January 2023
 
 **TIME:** 
 
-3PM ~ 5PM(EST)
-
-20% for lectures, 70% for workshops, and 10% for exercise and troubleshooting
+* 3PM ~ 5PM(EST)
+* 20% for lectures, 70% for workshops, and 10% for exercise and troubleshooting
 
 
 **TOOL**
 
-Programming Language: [Python](https://www.python.org/)([Anaconda](https://docs.anaconda.com/anaconda/install/index.html)), [Typescript](https://www.typescriptlang.org/)([Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
+* Programming Language: [Python](https://www.python.org/)([Anaconda](https://docs.anaconda.com/anaconda/install/index.html)), [Typescript](https://www.typescriptlang.org/)([Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
 
-Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)
+* Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)
 
-Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)
+* Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)
 
 
 **PARTICIPANTS**
-
-Up to 10 students
+* Up to 10 students
 
 
 **Prerequisite**
-
-Experience with one of modern programming languages(Python, Java, Javascript, Typescript, C, C++, C#, or Swift)
+* Experience with one of modern programming languages(Python, Java, Javascript, Typescript, C, C++, C#, or Swift)
 
 
 -----
@@ -68,7 +63,7 @@ Experience with one of modern programming languages(Python, Java, Javascript, Ty
 
 **LECTURE** - [Data in Design](https://medium.com/@nj-namju/data-design-c21457dc8dc)
 
-The introduction to the key topic: Data in Design, helps you understand the meaning of using data in the design process through several examples. 
+* The introduction to the key topic: Data in Design, helps you understand the meaning of using data in the design process through several examples. 
 
 ---------------------------------
 
@@ -78,9 +73,9 @@ The introduction to the key topic: Data in Design, helps you understand the mean
 
 **WORKSHOP**
 
-Data processing, Data Type, Memory, Python, Numpy, Pandas library, ...
+* Data processing, Data Type, Memory, Python, Numpy, Pandas library, ...
 
-As a first step, We will learn the basic concept of programming, dealing with logical flows and data manipulation.
+* As a first step, We will learn the basic concept of programming, dealing with logical flows and data manipulation.
 
 
 LAB 01 - Python Basic, Condition & Loop, Primitive Data Structure 
@@ -101,7 +96,7 @@ LAB 05 - Pandas basic
 
 **LECTURE** 
 
-Understanding the tool for qualification and quantification is crucial for using data as design material. We will learn basic design and how to decompose design elements as vector and raster data. In addition, it can allow us to think and set up the design process.
+* Understanding the tool for qualification and quantification is crucial for using data as design material. We will learn basic design and how to decompose design elements as vector and raster data. In addition, it can allow us to think and set up the design process.
 
 ---------------------------------
 
@@ -129,9 +124,9 @@ LAB 05 - Color, Pixel, Voxel
 
 **LECTURE**
 
-Regression, Classification, Machine Learning, Deep Learning
+* Regression, Classification, Machine Learning, Deep Learning
 
-We will gain a high-level understanding of AI in design: Supervised and Unsupervised Learning and related models. Students will go through several examples, enabling us to expand the use of models in design processes.
+* We will gain a high-level understanding of AI in design: Supervised and Unsupervised Learning and related models. Students will go through several examples, enabling us to expand the use of models in design processes.
 
 #### 6. Problem, Data(Vector & Raster), Model, Train, Validation
 
@@ -139,7 +134,7 @@ We will gain a high-level understanding of AI in design: Supervised and Unsuperv
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/digitalTexture.jpg)
 
-Tensorflow, Keras, Numpy, Pandas, and other libraries
+* Tensorflow, Keras, Numpy, Pandas, and other libraries
 
 LAB 01 - Temperature conversion
 
@@ -159,10 +154,10 @@ Examples - Map classification, GAN ...
 
 **LECTURE** : [Reading](https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a)
 
-We will take look the Third Place research([Initial work](http://www.njstudio.co.kr/main/project/2016_MobilityEnergyConsumptionMITMediaLab/index.html), [Paper](https://link.springer.com/chapter/10.1007/978-981-33-4400-6_11), [AI Model](https://lnkd.in/gdf6d8j7)), 
+* We will take look the Third Place research([Initial work](http://www.njstudio.co.kr/main/project/2016_MobilityEnergyConsumptionMITMediaLab/index.html), [Paper](https://link.springer.com/chapter/10.1007/978-981-33-4400-6_11), [AI Model](https://lnkd.in/gdf6d8j7)), 
 
 
-Network Analysis, Dimension Reduction, Cost function, Decay function ... 
+* Network Analysis, Dimension Reduction, Cost function, Decay function ... 
 
 LAB 01 - Parsing data, Google Place API
 
@@ -182,7 +177,7 @@ LAB 07 - Networks for Boston, LA, and Redlands
 
 #### 8. Third Place Prediction model and Implementation
 
-![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/thirdPlaceImple.jpg)
+![link](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/thirdPlaceImple.jpg)
 
 **WORKSHOP**
 
@@ -198,11 +193,11 @@ LAB 02 - Model implementation(Boston, LA, and Redlands)
 
 **LECTURE**
 
-Principles of Graphical Integrity, Visualization, Projection, Generalization
+* Principles of Graphical Integrity, Visualization, Projection, Generalization
 
-Pipeline for visualization, Mapping, Methodology, and Implementation
+* Pipeline for visualization, Mapping, Methodology, and Implementation
 
-Implementing digital mapping and visualization on the web environment, Understanding boilerplate code and the pipeline
+* Implementing digital mapping and visualization on the web environment, Understanding boilerplate code and the pipeline
 
 LAB 01 - Typescript Basic
 
@@ -217,10 +212,9 @@ LAB 02 - Boilerplate code and the pipeline
 
 **WORKSHOP**
 
-This part is about implementing interactive visualization with urban data and the results from Machine Learning on a web browser. We will examine practical digital mapping techniques such as Bin, Color Blending, and more.
+* This part is about implementing interactive visualization with urban data and the results from Machine Learning on a web browser. We will examine practical digital mapping techniques such as Bin, Color Blending, and more.
 
-
-ArcGIS JSAPI / MapboxGL / HTML Canvas / njsCore / Typescript ...
+* ArcGIS JSAPI / MapboxGL / HTML Canvas / njsCore / Typescript ...
 Point, Line, Polygon, Interaction, Bin, Color Computation Blending mode using HTML Canvas 
 
 
@@ -240,13 +234,13 @@ LAB 03 - Visualization analysis methods and tools
 
 **Reference:**
 
-Paper: https://www.springer.com/gp/book/9789813343993
+* Paper: https://www.springer.com/gp/book/9789813343993
                 https://link.springer.com/chapter/10.1007/978-981-33-4400-6_11
 
-Medium: https://medium.com/@nj-namju/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
+* Medium: https://medium.com/@nj-namju/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
 
-GitHub: https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
+* GitHub: https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
 
-Introduction to Computational Design: Data, Geometry, and Visualization Using Digital Media: https://nj-namju.medium.com/introduction-to-computational-design-data-geometry-and-visualization-using-digital-media-14161fdfd22f
+* Introduction to Computational Design: Data, Geometry, and Visualization Using Digital Media: https://nj-namju.medium.com/introduction-to-computational-design-data-geometry-and-visualization-using-digital-media-14161fdfd22f
 
-Computational Design Thinking for Designers: https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c
+* Computational Design Thinking for Designers: https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c

@@ -613,7 +613,10 @@
         "date": "",
         "description": "<b>CLASS C</b>, <a href=\"https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computation and Design</a> <a href=\"https://computationaldesign.tistory.com/49\" target=\"_blank\" rel=\"noopener noreferrer\">[Book]</a>",
 
-        "subItem": "Introduction to Computational Design: </br> Keywords: Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm </br> Research An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now"
+        "subItem": "Introduction to Computational Design: </br> Keywords: Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm </br> Research An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now",
+        "links" : [
+          "<a href=\"https://brunch.co.kr/@njnamju/144\" target=\"_blank\" rel=\"noopener noreferrer\">[BOOK]Computational Design</a>"
+        ]
       },
       {
         "date": "",
@@ -626,7 +629,11 @@
       {
         "date": "",
         "description": "<b>CLASS E</b>, <a href=\"https://docs.google.com/presentation/d/18PrUkiv0poCMrtBJ3g9ZNm4qXRP1HBnwWV9r30N0BlM\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Data for Designers</a> <a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">[BOOK]</a>",
-        "subItem": "Introduction to Data & Design </br> Keywords: Design engineering, Data science for design, Data-driven design research, Data for Design(AIAD: Artificial Intelligence-Aided Design, MLAD: Machine Learning-Aided Design) </br> Lecture: Projects & Thesis, Research"
+        "subItem": "Introduction to Data & Design </br> Keywords: Design engineering, Data science for design, Data-driven design research, Data for Design(AIAD: Artificial Intelligence-Aided Design, MLAD: Machine Learning-Aided Design) </br> Lecture: Projects & Thesis, Research",
+        "links" : [
+          "<a href=\"https://namjulee.github.io/njs-lab-public/code-for-design?id=VC-cLerlm4s\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design [Eng]</a>",
+          "<a href=\"https://namjulee.github.io/njs-lab-public/code-for-design?id=7HwlZaJrTEI\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design [Kor]</a>"
+        ]
       },
       {
         "date": "",
@@ -641,7 +648,10 @@
       {
         "date": "",
         "description": "<b>COURSE LEVEL 3</b>, <a href=\"https://docs.google.com/presentation/d/1uM4dW0ff9jO1-FJPfij-Q3sJrhk-torNs6PebLxluJQ\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
-        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: GIS for design, Urban data, Vector data, Raster data, Geometry </br> Lecture: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C</a>"
+        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: GIS for design, Urban data, Vector data, Raster data, Geometry </br> Lecture: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C</a>",
+        "links" : [
+          "<a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design, AI for Urban Data and Visualization, JTerm, Harvard GSD</a>"
+        ]
       },
       {
         "date": "",

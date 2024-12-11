@@ -21,7 +21,7 @@ Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS]
 
 
 
-#### 1. Introduction to Data Visualization and Digital Mapping
+##### 1. Introduction to Data Visualization and Digital Mapping
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-in-Design-AI-for-Urban-Data-and-Visualization-Harvard-GSD/main/public/reference/img/mapping.jpg)
 
@@ -35,7 +35,7 @@ This part is about implementing interactive visualization with urban data, and t
 Principles of Graphical Integrity, Color computation, Projection, Generalization
 Mapping, Methodology and Implementation of ML model for Decision Making in Design
 
-#### 2. Typescript
+##### 2. Typescript
 
 **WORKSHOP**
 
@@ -50,7 +50,7 @@ LAB 03 - Visualization Vector and Raster
 LAB 04 - Visualization analysis methods and tools
 
 
-#### 3. Starter
+##### 3. Starter
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-in-Design-AI-for-Urban-Data-and-Visualization-Harvard-GSD/main/public/reference/img/mapping2.jpg)
 
@@ -75,42 +75,37 @@ LAB 04 - THREE and HTML Canvas Stater
 
 
 
-#### 4. Basic Data Visualization
+##### 4. Basic Data Visualization
 
 **Goal:** 
-This part is about implementing interactive visualization with urban data, and the results from Machine Learning on a web browser. 
+* This part is about implementing interactive visualization with urban data, and the results from Machine Learning on a web browser. 
 
 **LECTURE**
-Pipeline for visualization on designers' perspective
+* Pipeline for visualization on designers' perspective
 Typescript basic
 
 **WORKSHOP**
-ArcGIS JSAPI / MapboxGL / HTML Canvas / njsCore / Typescript ...
-Implementing digital mapping and visualization on web environment 
-Understanding of boilerplate code and the pipeline 
+* ArcGIS JSAPI / MapboxGL / HTML Canvas / njsCore / Typescript ...
+* Implementing digital mapping and visualization on web environment 
+* Understanding of boilerplate code and the pipeline 
 
 <img src="./reference/img/mapping2.jpg" alt="Watch the video" width="600"/>
 
 **GOAL**
-We will take a look for some useful digital mapping techniques such as Bin, Color Blending, and more.
+* We will take a look for some useful digital mapping techniques such as Bin, Color Blending, and more.
 
 **LECTURE**
-Principles of Graphical Integrity, Color computation, Projection, Generalization
+* Principles of Graphical Integrity, Color computation, Projection, Generalization
 
 **WORKSHOP**
 Point, Line, Polygon, Interaction, Bin, Color Computation Blending mode using HTML Canvas 
+* LAB 01 - CSV(TSV)
+* LAB 02 - JSON
+* LAB 03 - JSON(Multi Line)
+* LAB 04 - REST API
 
 
-LAB 01 - CSV(TSV)
-
-LAB 02 - JSON
-
-LAB 03 - JSON(Multi Line)
-
-LAB 04 - REST API
-
-
-#### 3. Vector Data, Interactive Visualization on Web
+##### 5. Vector Data, Interactive Visualization on Web
 
 Point, Line, Polygon, Interaction, Bin, Color Computation Blending mode using HTML Canvas 
 
@@ -125,21 +120,19 @@ LAB 04 - Polygon
 LAB 05 - Mesh
 
 
-#### 4. Raster Data
+##### 6. Raster Data
 
 LAB 01 - Image
 
 LAB 02 - TBA
 
-####
 
-#### 5. Generalization
-
+##### 7. Generalization
 LAB 01 - Bin 1D, 2D, 3D
 
 LAB 02 - TBA
 
-#### 6. Network Analysis
+##### 8. Network Analysis
 
 Reading: https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81
 
@@ -149,12 +142,8 @@ LAB 02 - urban network interaction
 
 LAB 03 - TBA
 
-####
-
-#### 5. Third place
-
+##### 9. Third place
 LAB 01 - Data Visualization
-
 LAB 02 - TBA
 
 -----
