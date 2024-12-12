@@ -20,6 +20,7 @@
 * LAB Reference https://namjulee.github.io/njs-lab-public/lab
 
 
+
 * SNIPPET
   * Work Snippet, Computational Design, 컴퓨테이셔널 디자인 사례 - https://computationaldesign.tistory.com/41
   * Computational Design Lecture Snippet / 컴퓨테이셔널 디자인 단편 강의 인덱스 - https://computationaldesign.tistory.com/47
@@ -32,10 +33,10 @@
 
 * KEY BOOK & PUBLICATION
   * 읽으면서 입문하는, 모두의 컴퓨테이셔널 디자인 인덱스 - https://computationaldesign.tistory.com/30
-  * [book] Computational Design / 컴퓨테이셔널 디자인  - https://computationaldesign.tistory.com/49
-  * [book]architectural representation animation / 건축 영상 프레젠테이션  - https://computationaldesign.tistory.com/32
+  * [book] Computational Design / 컴퓨테이셔널 디자인 - https://computationaldesign.tistory.com/49
+  * [book] Architectural representation animation / 건축 영상 프레젠테이션 - https://computationaldesign.tistory.com/32
   * Media & Publications / 미디어 & 출판 - https://computationaldesign.tistory.com/33
-  * 이남주 소장 인터뷰, KR: https://brunch.co.kr/@njnamju/140 / Eng: https://nj-namju.medium.com/interview-1-2-by-se-29ab459c3a64
+  * 이남주 소장 인터뷰, KR: https://brunch.co.kr/@njnamju/140 / ENG: https://nj-namju.medium.com/interview-1-2-by-se-29ab459c3a64
 
 
 
@@ -74,6 +75,7 @@
 * 건축 / 도시 / 조경 / 디자이너를 위한 프로그래밍 테크트리 https://youtu.be/sGvRUFeLV_M
 * 궁극의 테크트리! 컴퓨테이셔널디자이너로 살아 남기!! - https://youtu.be/1_sfn7sOqA8
 
+#### 코딩학습
 * 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유 - https://youtu.be/2ENeopVvp88
 * 컴퓨테이셔널디자인을 바라보는 시각과 오해 - https://youtu.be/98oJSha3WBg
 * 코딩공부 어떻게? (잔소리포함) / 제발 타이핑해보자!! - https://youtu.be/cuBjue-lYQw
@@ -97,7 +99,7 @@
 ### Computational thinking:
 * 컴퓨테이셔널 디자인: https://youtu.be/ggBVX5W-28c
 * 파라메트릭: https://youtu.be/LVybPm_VUhs
-* 컴퓨테이셔널 사고: https://youtu.be/6WIK_mNbI5g
+* 컴퓨테이셔널 사고: https://youtu.be/B7MaKoxpH8Q
 
 * 언어와 사고의 도약: https://youtu.be/KbUSU8DVfpQ
 * Computational Design Thinking for Designers - https://computationaldesign.tistory.com/51
@@ -113,8 +115,8 @@
 ---
 # Geometry
 ### LAB: Vector & Point: Discrete Design Data
-* Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure - https://computationaldesign.tistory.com/23
 * Vector - https://computationaldesign.tistory.com/39
+* Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure - https://computationaldesign.tistory.com/23
 * Geometry For Design - https://computationaldesign.tistory.com/61
 
 
@@ -216,11 +218,11 @@ OpenTK For Standalone CAD Software - https://computationaldesign.tistory.com/40
 * 02. OpenTK Starter 2: NOpenGL Platform, Winform UI, MouseEvent, ActiveController, GeoCommon, RhinoCommon - https://youtu.be/3dQJBIvN3UQ
 
 
-
 Web App For Standalone CAD Software - https://computationaldesign.tistory.com/40
 * 01. Web App Starter: ThreeJS, TensorflowJS, Typescript Starter - https://youtu.be/jwLXqjb7SUY
 * 02. Web App Starter: WebGL2, GLSL, TensorflowJS, Typescript Starter - https://youtu.be/gQtQbzviC14
 * 03. Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System - https://youtu.be/vcV3mgyQXeQ
+
 
 * Web App For Standalone CAD Software - https://computationaldesign.tistory.com/40
 * Desktop App Starter: Electron, HTML Canvas, TensorflowJS, Typescript for CAD and Design System - https://youtu.be/CO4rcb3d4lY
@@ -239,6 +241,9 @@ Web App For Standalone CAD Software - https://computationaldesign.tistory.com/40
 * Harvard GSD / 하버드 디자인 대학원 - https://computationaldesign.tistory.com/5
 
 * MIT, SENSEable City Lab - https://computationaldesign.tistory.com/7
+
+
+
 
 
 # INTERVIEW
@@ -1062,18 +1067,14 @@ NGraphicsV3 x Mapping, Drawing, Visualizing, Esri
 
 ### Work Snippet , Computational Design, 컴퓨테이셔널 디자인 사례
 
-[##_Image|kage@bkhGlm/btre5btkhJ4/oWSWak9lNdDoE7EVw4Zr6K/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/41","isLinkNewWindow":true}_##]
-
-link - [https://computationaldesign.tistory.com/41](https://computationaldesign.tistory.com/41)  
+link - https://computationaldesign.tistory.com/41
 추후 추가...
 
 ---
 
 ### Research
 
-[##_Image|kage@ADioF/btre43vfwfR/uPQK78nvnikPW9W2v9LFN1/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":202,"link":"https://computationaldesign.tistory.com/10","isLinkNewWindow":true}_##]
-
-link: [https://computationaldesign.tistory.com/10](https://computationaldesign.tistory.com/10)  
+link: https://computationaldesign.tistory.com/10 
   
 ResearchProject 03. 물리학회 기고글: 도시 네트워크 & 기술과 4차 산업  
 Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES World 2020  
@@ -1128,10 +1129,7 @@ Small Environment \[Immersive Landscape\], Harvard GSD
 ---
 
 ### MIT, SENSEable City Lab / MIT 센서블 시티 랩
-
-[##_Image|kage@bOgL2s/btreZ0GngLq/rRI26ceRWkQYTeAwB7mkN1/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/7","isLinkNewWindow":true}_##]
-
-link: [https://computationaldesign.tistory.com/7](https://computationaldesign.tistory.com/7)  
+link: https://computationaldesign.tistory.com/7 
   
 HubCab Project  
 Tweet Bursts Project  
@@ -1139,10 +1137,7 @@ Drinking Data Project
 추후 추가...
 
 ## **CODE FOR DESIGN GROUP**
-
-[##_Image|kage@SmqQT/btre34hczc3/4hz1lqJ5OIenq7wKx4EB81/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"link":"https://computationaldesign.tistory.com/12","isLinkNewWindow":true}_##]
-
-link : [https://computationaldesign.tistory.com/12](https://computationaldesign.tistory.com/12)  
+link : https://computationaldesign.tistory.com/12 
   
 NJChannel 프로젝트를 하면서, 모인 **학생, 실무자 교육자 분들과 함께 진행한 미팅**을 모아놓은 챕터예요.  
   
@@ -1315,8 +1310,6 @@ Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨�
 
 
 
-
-
 ---
 
 ### QnA / 질의 응답
@@ -1465,7 +1458,6 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 07, 데이터 시각화 도구(tools) 그리고 개인적인 생각  
 11, 데이터 시각화가 꿈인 카이스트 학생의 질문  
 13, 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
-
   
 41, 시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할 것인가?  
 45, 지도 위에 데이터 시각화, 어떤 제품으로 개발을 하면 좋을까?  
@@ -1476,10 +1468,8 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 66 데이터 시각화를 준비하는 디자이너의 질문
 
 76. 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝
-
-77. Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문
-
-83. 데이터 시각화를 공부하려 할 때
+77. Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문  
+83. 데이터 시각화를 공부하려 할 때  
 
 108. 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...
 
@@ -1509,22 +1499,16 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 72\. 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정 재정 생계  
 74\. 건축학부 유학 / 홍콩 / 싱가포르
 
-75. 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡
-
-81. 건축 유학을 준비중인 학부 졸업생의 질문
-
+75. 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡  
+81. 건축 유학을 준비중인 학부 졸업생의 질문  
 82. \[서울과기대 건축학전공 2022 졸업준비위원회\] 선배와의 인터뷰
 
-91. Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법
+91. Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법  
+92\. 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략   
+111. 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직  
 
-92\. 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략
-
-111. 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직
-
-116. A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)
-
-117. A - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문
-
+116. A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)  
+117. A - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문  
 109. 영국 건축학교(AA School & Bartlett ) 유학 관련 질문과 생각들...  
   
 추후 추가 ...
@@ -1566,7 +1550,286 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 
 
+-----
+# [BOOK] Computational Design
+link: https://brunch.co.kr/@njnamju/144
+### CHAPTER 1 재료, 도구, 디자인 Material & Tool & Design - [link](https://youtu.be/Sq1jF7Chd_s)
 
+**1 재료, 도구 그리고 디자인** Material & Tool & Design - [link](https://youtu.be/Sq1jF7Chd_s?t=57)  
+    1.1 도구와 기술의 발달 Tool & Technology - [link](https://youtu.be/Sq1jF7Chd_s?t=61)  
+    1.2 재료와 도구 그리고 디자인 Materials & Tool & Design - [link](https://youtu.be/Sq1jF7Chd_s?t=296)  
+    1.3 데이터 Data as Materials - [link](https://youtu.be/Sq1jF7Chd_s?t=420)  
+    1.4 데이터: 현상의 압축 & 통찰의 향연 - [link](https://youtu.be/Sq1jF7Chd_s?t=538)  
+! 4차 산업, 디자인, 코딩 - [link](https://youtu.be/Sq1jF7Chd_s?t=768)  
+! 데이터를 위한 코딩 - [link](https://youtu.be/Sq1jF7Chd_s?t=877)  
+! 고 수준: 하이 레벨 High-level & 저 수준: 로우 레벨 Low-level - [link](https://youtu.be/Sq1jF7Chd_s?t=1012)  
+
+**2 도구 : 컴퓨터 & 소프트웨어 Tool: Software** \- [link](https://youtu.be/dhDJXLLzPaA)  
+    2.1 속도 Performance - [link](https://youtu.be/dhDJXLLzPaA?t=69)  
+    2.2 지식과 기술의 합, 소프트웨어 Knowledge + Technology : Software - [link](https://youtu.be/dhDJXLLzPaA?t=353)  
+    2.3 실제 도구에서 가상 도구 Physical Tool to Digital media - [link](https://youtu.be/dhDJXLLzPaA?t=707)  
+    2.4 현상에서 시스템 Phenomenon to System - [link](https://youtu.be/dhDJXLLzPaA?t=795)  
+    2.5 애플리케이션에서 퍼스널라이제이션 Application to Personalization - [link](https://youtu.be/dhDJXLLzPaA?t=936)  
+    2.6 소프트웨어에서 커스터마이제이션 Software to Customization - [link](https://youtu.be/dhDJXLLzPaA?t=1077)  
+! [지식의 빈익빈 부익부](https://brunch.co.kr/@njnamju/63)  - [link](https://youtu.be/dhDJXLLzPaA?t=1360)  
+! GUI: 볼 수 있는 것은(것만) 조작할 수 있다. - [link](https://youtu.be/dhDJXLLzPaA?t=1480)
+
+---
+### CHAPTER 2 디자이너에게 코딩이란 Coding for Designers - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+**3 디자이너가 왜 코딩을 해야 할까?** \- [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=45)  
+    3.1 창의성의 도구? Code for Creativity - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=48)  
+    3.2 자동화의 도구? Code for Automation - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=171)  
+    3.3 최적화의 도구? Code for Optimization - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=305)  
+    3.4 데이터 때문에? Code for Data - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=457)  
+    3.5 디자인 방법론 때문에? Code for Design Methodologies - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=614)  
+! 컴퓨터를 사용하는 것은 창의적이지 못하다? - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=859)  
+! 쉽고 간단한 소프트웨어의 함정 & 공부 방법 - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=999)  
+
+**4 디자이너가 코딩을 해야 하는 이유** - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+    4.1 일 할 수 있는 일꾼을 만든다 Code for Automation - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=51)  
+    4.2 균일한 품질 유지를 도와준다 Code for Quality Assurance - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=232)  
+    4.3 실험적 작업 Code for Experimentations - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=297)  
+    4.4 문제로서의 디자인 Code for Design Issues - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=451)  
+    4.5 솔루션으로서의 디자인 Code for Design Solution - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=572)  
+    4.6 데이터로의 디자인 Data-Driven Design Process - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=732)  
+    4.7 다양한 커리어 패스를 만들 수 있다 - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=897)  
+    4.8 진입 장벽을 높여준다 - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1058)  
+    4.9 경쟁력을 준다 - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1187)  
+    4.10 컴퓨테이셔널 사고 Computational Thinking - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1415)  
+! 실력 그리고 경쟁력이란? - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1617)  
+! [미래를 예측할  때, 펀더멘탈(fundamental)의 이해 / 변할 것과 변하지 않을 것](https://brunch.co.kr/@njnamju/108) - [link](https://youtu.be/M5CqJzxxrOk?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1831)
+
+---
+### CHAPTER 3 코딩 & 컴퓨테이셔널 디자인 활용 - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+**5 큰 스케일에서** - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=50)  
+    5.1 지리정보 데이터 Geographic Information System - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=52)  
+    5.2 빅 데이터: 제3의 공간 Third Place Analysis - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=177)  
+    5.3 네트워크 분석 Network Analysis - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=279)  
+    5.4 공간정보의 보간 Interpolation - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=381)  
+    5.5 이미지 프로세싱 & 리모트 센싱 Raster Data & Remote Sensing - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=544)  
+    5.6 궁극의 디자인 옵션 The Best One - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=758)  
+    5.7 최적의 디자인들 Optimal Options - [link](https://youtu.be/KpwoyUMkjkQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=909)  
+
+**6 작은 스케일에서** - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    6.1 시각화 도구로의 기하학 Geometry - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=55)  
+    6.2 분석도구로의 기하학 Geometry - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=149)  
+    6.3 재료 Material 와 디자인 - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=263)  
+    6.4 패널의 패턴 - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=429)  
+    6.5 모듈의 배치 - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=540)  
+    6.6 디지털 패브리케이션 & 로봇틱스 Digital Fabrication Robotics - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=597)  
+! 전공 용어를 쓰는 이유  - [link](https://youtu.be/dk2UvGWrAY4?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=884)
+
+**7 시뮬레이션 영역에서** - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    7.1 건축 구조 & 에너지 시뮬레이션 - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=145)  
+    7.2 이산화: 공간 단위 분할 Dense - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=253)  
+    7.3 이산화: 점 Particle 단위로 분할 Sparse - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=342)  
+    7.4 시뮬레이션 도구로 기하학 Geometry - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=452)  
+    7.5 환경, 조경, 시뮬레이션 - [link](https://youtu.be/B1jMvU9G8sc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=580)  
+
+**8 가상 영역에서** - [link](https://youtu.be/OMhgRmuFp7A?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    8.1 웹사이트 Web Design & Coding - [link](https://youtu.be/OMhgRmuFp7A?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=2)  
+    8.2 가상현실 & 증강현실 VR AR - [link](https://youtu.be/OMhgRmuFp7A?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=121)  
+    8.3 메타버스 Metaverse - [link](https://youtu.be/OMhgRmuFp7A?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=360)
+
+**9 시각화 영역에서** - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    9.1 시각디자인 & 모션 그래픽 - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=26)  
+    9.2 디자인 시각화 Design Visualization - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=144)  
+    9.3 테크니컬 아트 Technical Art - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=221)  
+    9.4 미디어 아트 & 크리에이티브 코딩 Creative Coding - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=341)  
+    9.5 데이터 시각화 Data Visualization - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=440)  
+    9.6 트레이싱 & 매핑 Tracing & Mapping - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=557)  
+    9.7 클러스터링 Geo processing & Clustering - [link](https://youtu.be/J0U11xb_vsc?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=719)  
+
+**10 인공지능 영역에서** - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    10.1 이미지: Image & Raster Data - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=346)  
+    10.2 머신 러닝, 숫자Numeric 데이터, 시각 Perception 데이터 - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=476)  
+    10.3 데이터: 스마트 드로잉 & 커맨더 - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=550)  
+    10.4 복셀과 머신 러닝 Volumetric Representations & Machine Learning - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=688)  
+! 인공지능에 대한 하나의 단상 - [link](https://youtu.be/rkwKuU9I6eM?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=833)
+
+**11 더 다양한 영역으로** - [link](https://youtu.be/8b_3sfZ_ZLs?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    11.1 데이터 기반 사회와 산업의 변화 - [link](https://youtu.be/8b_3sfZ_ZLs?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=98)  
+! 그 많은 것 언제 다하나?1: 기초의 중요성 - [link](https://youtu.be/8b_3sfZ_ZLs?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=191)  
+! 컴퓨테이셔널 디자인의 현재와 미래 - [link](https://youtu.be/8b_3sfZ_ZLs?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=436)
+
+---
+### CHAPTER 4  코딩 & 디자인 Coding & Design - [link](https://youtu.be/8euqwKpqRXg?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+
+**12 디자인 & 코딩 & 프로그래밍 - [link](https://youtu.be/8euqwKpqRXg?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=20)**  
+    12.1 코딩을 통한 디자인 - [link](https://youtu.be/8euqwKpqRXg?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=106)  
+    12.2 코딩이란 Coding \- [link](https://youtu.be/8euqwKpqRXg?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=222)  
+    12.3 프로그래밍이란 Programming - [link](https://youtu.be/8euqwKpqRXg?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=319)
+
+**13 디자인 & 컴퓨테이션 Design & Computation** - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    13.1 컴퓨테이셔널 디자인 Computation - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=38)  
+    13.2 형태 Shape - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=138)  
+    13.3 좌표계 Coordinate System - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=479)  
+    13.4 색 Color - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=709)  
+    13.5 디자인 데이터 & 정보 Information - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=928)  
+    13.6 알고리즘 Algorithm - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1250)  
+    13.7 애플리케이션 프로그래밍 인터페이스 API - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1509)  
+    13.8 프로그래밍 Programming - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1903)  
+! 비트맵 VS 벡터 그래픽스 - [link](https://youtu.be/0kjjADvaU60?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=2144)
+
+**14 프로그래밍 패러다임 & 디자인을 위한 코딩** - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    14.1 프로그래밍 패러다임 Programming Paradigms - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=58)  
+    14.2 절차지향 & 룰 베이스 디자인 Procedural design & Rule based design - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=525)  
+    14.3 파라메트릭 디자인 Parametric Design - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=635)  
+    14.4 알고리즈믹 & 제너레이티브 디자인 Algorithmic & Generative design - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=914)  
+    14.5 에이전트 베이스 디자인 Agent-based design - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1029)  
+    14.6 그 밖에 적용... - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1174)  
+! 컴퓨테이셔널 디자인(디자이너)의 보편적 인식과 오해 - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1214)  
+! 컴퓨테이션Computation으로 만들어진 건축물? - [link](https://youtu.be/lRDiuoA8hIQ?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1470)
+
+---
+### CHAPTER 5 컴퓨테이셔널 사고 Computational Thinking - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+
+**15 컴퓨테이셔널 사고** - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=55)  
+    15.1 컴퓨테이셔널 사고 주요 개념 Computational Thinking: Key concepts - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=88)  
+    15.2 암묵에서 명시로 From Implicit to Explicit  - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=295)  
+! 메타인지Metacognition와, 컴퓨테이셔널 사고, 디자인 - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=471)
+
+**16 컴퓨테이셔널 디자인 사고 Computational Thinking for Design** - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    16.1 분해와 패턴: 디자인 방법들 - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=12)  
+    16.2 명시적 기술: 알고리즘 - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=214)  
+    15.3 명시적 기술: 변수 & 파라미터 Variables & Parameters - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=581)  
+    16.4 알고리즘의 특징이 무엇 일까요? - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1354)  
+    16.5 디자인 & 도구로서의 코딩 - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1735)  
+! 디자인 전공생의 걱정, 선택, 그리고 미래 - [link](https://youtu.be/mOfDATW7dA8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=2110)
+
+**17 컴퓨테이셔널 디자인 적용 & 방법론** - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    17.1 가설, 상상, 질문하기 Question & Imagination & Hypothesis - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=24)  
+    17.2 방법론 & 접근법 The Methodology & Approach - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=161)  
+    17.3 정책 The Manifesto & Policy - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=270)  
+    17.4 구현 Implementation - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=490)  
+    17.5 공간 정보 Spatial Data Manipulation - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=651)  
+    17.6 도구 & 원칙 The Tool & The Principle - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=794)  
+    17.7 요약 Summary - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=878)
+
+! 알고리즘 학습 방법 - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=937)  
+! 왜 컴퓨테이셔널 디자인에 배타적일까? - [link](https://youtu.be/fWefsa0nwUA?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63&t=1170)
+
+**18 수학, 가장 엄밀한 언어 Numerical Description as Design Tools**  - [link](https://youtu.be/G65jRPhNTb8?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
+    18.1 엄밀함  - [link](https://youtu.be/G65jRPhNTb8?t=68)  
+    18.2 수 체계 - [link](https://youtu.be/G65jRPhNTb8?t=152)  
+    18.3 수학의 추상화 - [link](https://youtu.be/G65jRPhNTb8?t=261)  
+    18.4 상상의 도구 수학 - [link](https://youtu.be/G65jRPhNTb8?t=367)  
+    18.5 수학과 공간정보 - [link](https://youtu.be/G65jRPhNTb8?t=487)  
+    18.6 코딩 공부에 필요한 능력? 수학력? - [link](https://youtu.be/G65jRPhNTb8?t=579)
+
+! 난수Random에 대한 단상 - [link](https://youtu.be/G65jRPhNTb8?t=1048)  
+! 언어와 사고의 도약 - [link](https://youtu.be/G65jRPhNTb8?t=1294)
+
+---
+### CHAPTER 6 코딩Coding 무엇을 기술하나? - [link](https://youtu.be/H6bpeBdBVZY)
+
+**19 코딩, 무엇을 어떻게 기술Description하나?** - [link](https://youtu.be/H6bpeBdBVZY?t=26)  
+    19.1 디자이너에게 필요한 언어 - [link](https://youtu.be/H6bpeBdBVZY?t=31)  
+    19.2 그래서, 어떤 언어를 써야 해?  - [link](https://youtu.be/H6bpeBdBVZY?t=239)  
+    19.3 계산 그리고 ‘=’ 의 의미와 중요성 - [link](https://youtu.be/H6bpeBdBVZY?t=638)  
+    19.4 상태와 메모리 State and Memory - [link](https://youtu.be/H6bpeBdBVZY?t=796)  
+    19.5 비교와 반복 Conditional Statement & Loop - [link](https://youtu.be/H6bpeBdBVZY?t=1481)  
+    19.6 논리 덩어리, 함수Function - [link](https://youtu.be/H6bpeBdBVZY?t=1828)  
+    19.7 흔한 실수 - [link](https://youtu.be/H6bpeBdBVZY?t=2053)  
+
+! 파이썬 Python 언어 공부 방법 - [link](https://youtu.be/H6bpeBdBVZY?t=2185)  
+! 디자이너를 위한 C# 공부 자료 - [link](https://youtu.be/H6bpeBdBVZY?t=2265)
+
+**20 코딩: 정보와 행위의 정의** - [link](https://youtu.be/Vo13VZ0FI7M)  
+    20.1 프로그래밍의 본질 - [link](https://youtu.be/Vo13VZ0FI7M?t=3)  
+    20.2 객체 Object - [link](https://youtu.be/Vo13VZ0FI7M?t=149)  
+    20.3 디자인 객체 Object - [link](https://youtu.be/Vo13VZ0FI7M?t=534)  
+    20.4 벡터 데이터 & 행위 Vector  - [link](https://youtu.be/Vo13VZ0FI7M?t=647)  
+    20.5 데이터 구조로서의 지오메트리 Geometry as Data Structure - [link](https://youtu.be/Vo13VZ0FI7M?t=942)  
+
+! 속도와 메모리 관리 - [link](https://youtu.be/Vo13VZ0FI7M?t=1342)
+
+**21 코딩: 공간정보 & 파이프라인** - [link](https://youtu.be/H_rkglamu4U)  
+    21.1 자료구조: 선형 & 비선형 구조 Data Structure - [link](https://youtu.be/H_rkglamu4U?t=3)  
+    21.2 공간정보 그리고 이산화 Discretization  - [link](https://youtu.be/H_rkglamu4U?t=432)  
+    21.3 그래프 데이터 구조: 위상 정보 Topology - [link](https://youtu.be/H_rkglamu4U?t=701)  
+    21.4 픽셀 데이터 구조: 연속 정보  - [link](https://youtu.be/H_rkglamu4U?t=780)  
+    21.5 공간 나누기 Partition  - [link](https://youtu.be/H_rkglamu4U?t=939)  
+    21.6 소프트웨어 아키텍처: 데이터 파이프라인 - [link](https://youtu.be/H_rkglamu4U?t=1012)
+
+**22 버그와 디버그 Bug & Debug - [link](https://youtu.be/fKNmO8et3c0)**  
+    22.1 버그의 분류 Types of software bugs and errors - [link](https://youtu.be/fKNmO8et3c0?t=88)  
+    22.2 디버깅의 자세 - [link](https://youtu.be/fKNmO8et3c0?t=305)  
+    22.3 고무 오리 디버깅 Rubber Duck Debugging - [link](https://youtu.be/fKNmO8et3c0?t=604)  
+    22.4 코딩 학습 요약 그리고 나아갈 방향 - [link](https://youtu.be/fKNmO8et3c0?t=746)
+
+! 브루트 포스 Brute Force & 모테카를로 Monte Carlo 방법론 - [link](https://youtu.be/fKNmO8et3c0?t=901)
+
+---
+### CHAPTER 7  학습 방향 Study Plans - [link](https://youtu.be/e06v3-o_uLg)
+
+**23 코딩 학습 방법** - [link](https://youtu.be/e06v3-o_uLg?t=33)  
+    23.1 가장 익숙한 도구/ 환경에서부터 시작하자 - [link](https://youtu.be/e06v3-o_uLg?t=226)  
+    23.2 추천되지 않는 학습 방법  - [link](https://youtu.be/e06v3-o_uLg?t=483)  
+    23.3 디자이너로서, 컴퓨테이셔널 디자인을 어떻게 공부할까? - [link](https://youtu.be/e06v3-o_uLg?t=658)
+
+! 그 많은 것 언제 다 하나 2: 학습전략 - [link](https://youtu.be/e06v3-o_uLg?t=1257)  
+! 컴퓨테이셔널 디자인 수업 방식: 스튜디오 형식 VS 강의 형식 - [link](https://youtu.be/e06v3-o_uLg?t=1420)
+
+**24 컴퓨테이셔널 디자인 테크트리** - [link](https://youtu.be/A8AssIEwl0Q)  
+    24.1 더 높은 수준의 컴퓨테이셔널 디자인 학습 스텝 - [link](https://youtu.be/A8AssIEwl0Q?t=18)  
+    24.2 컴퓨테이셔널 디자인 스페셜리스트 Computational Design Specialist - [link](https://youtu.be/A8AssIEwl0Q?t=475)  
+    24.3 디자인 엔지니어링 Design Engineering - [link](https://youtu.be/A8AssIEwl0Q?t=606)  
+    24.4 소프트웨어 엔지니어링 Software Engineering - [link](https://youtu.be/A8AssIEwl0Q?t=768)  
+    24.5 소프트웨어 엔지니어링 VS 소프트웨어 디벨롭먼트 - [link](https://youtu.be/A8AssIEwl0Q?t=1070)
+
+! 생각의 점유율과 Deep Thinking  - [link](https://youtu.be/A8AssIEwl0Q?t=1323)  
+! 컴퓨테이셔널 디자인 이론에 대한 단상 - [link](https://youtu.be/A8AssIEwl0Q?t=1600)
+
+**25 데이터** - [link](https://youtu.be/MbXVMvwkkwk)  
+    25.1 DIKW 피라미드 다이어그램 Data, Information, Knowledge, Wisdom - [link](https://youtu.be/MbXVMvwkkwk?t=206)  
+    25.2 데이터로의 인식 Qualitative Data & Quantitative Data - [link](https://youtu.be/MbXVMvwkkwk?t=447)  
+    25.3 데이터의 분류 - [link](https://youtu.be/MbXVMvwkkwk?t=725)  
+    25.4 데이터로의 기록 & 가공  - [link](https://youtu.be/MbXVMvwkkwk?t=847)  
+    25.5 전공지식과 경험 Domain Knowledge & Experiences - [link](https://youtu.be/MbXVMvwkkwk?t=1048)
+
+! 창작, 미적 영역도 데이터화가 가능할까? - [link](https://youtu.be/MbXVMvwkkwk?t=1548)
+
+---
+### CHAPTER 8 학습 자료 Study Materials & References - [link](https://youtu.be/DsnbTXIGDlo)
+
+**26 강의와 워크숍을 대하는 자세** - [link](https://youtu.be/DsnbTXIGDlo?t=48)  
+    26.1 시작하는 단계 - [link](https://youtu.be/DsnbTXIGDlo?t=101)  
+    26.2 중급 - [link](https://youtu.be/DsnbTXIGDlo?t=299)  
+    26.3 고급 - [link](https://youtu.be/DsnbTXIGDlo?t=387)
+
+**27 강의 자료** - [link](https://youtu.be/eBUKLVIkzkI)  
+    27.1 컴퓨테이셔널 디자인 수업 Computational Design & Creative Coding - [link](https://youtu.be/eBUKLVIkzkI?t=72)  
+    27.2 질의응답 시리즈 QnA - [link](https://youtu.be/eBUKLVIkzkI?t=336)
+
+**28 워크숍 참조 자료 Workshop Materials** - [link](https://youtu.be/8LcNgEi842g)  
+    28.1 디자이너를 위한 파이썬 워크숍 Python for Design Scripting - [link](https://youtu.be/8LcNgEi842g?t=113)  
+    28.2 디자이너를 위한 C# 디자인 스크립팅 C# for Design Scripting - [link](https://youtu.be/8LcNgEi842g?t=366)  
+    28.3 유니티를 디자인 스크립팅 & 시각화 Unity for Design Script & Viz - [link](https://youtu.be/8LcNgEi842g?t=678)  
+    28.4 웹 환경에서의 디자인 스크립팅 Design Scripting on Web  - [link](https://youtu.be/8LcNgEi842g?t=893)  
+    28.5 디자인 데이터 Design Data  - [link](https://youtu.be/8LcNgEi842g?t=999)  
+    28.6 디자인을 위한 인공지능, 머신 러닝, 데이터 AI, ML, Data for Design - [link](https://youtu.be/8LcNgEi842g?t=1192)  
+    28.7 컴퓨테이셔널 디자인 워크숍 Computational Design Workshop - [link](https://youtu.be/8LcNgEi842g?t=1310)  
+     28.8 CAD 디자인 소프트웨어 구축 Stand-alone CAD Software development - [link](https://youtu.be/8LcNgEi842g?t=1566)  
+    28.9 디자인 시각화 & 소프트웨어 활용 Design Visualization & CAD Software - [link](https://youtu.be/8LcNgEi842g?t=1683)  
+    28.10 디자인 시각화 Design Visualization - [link](https://youtu.be/8LcNgEi842g?t=1867)  
+
+**29 컴퓨테이셔널 디자인 프로젝트 예제** - [link](https://youtu.be/4s8xhkEwRy8)  
+    29.1 디자인 & 컴퓨테이션 프로젝트 Design & Computational Project - [link](https://youtu.be/4s8xhkEwRy8?t=3)  
+    29.2 컴퓨테이셔널 디자인 알고리즘 Computational Design Works, Work Snippet - [link](https://youtu.be/4s8xhkEwRy8?t=118)  
+    29.3 연구, 기고 글 Research & Publication - [link](https://youtu.be/4s8xhkEwRy8?t=150)  
+    29.4 하버드, MIT 연구 작업 Studies & Research & Lab - [link](https://youtu.be/4s8xhkEwRy8?t=199)
+
+**30 토크 & 토크 인터뷰 Talk & Interview** - [link](https://youtu.be/hWxxQcPvukE)  
+    30.1 디자인 그리고 컴퓨테이션 Design and Computation - [link](https://youtu.be/hWxxQcPvukE?t=23)  
+    30.2 빔 그리고 벨류 엔지니어링 BIM & Value Engineering - [link](https://youtu.be/hWxxQcPvukE?t=149)
+
+**31 참조 프로젝트 링크** - [link](https://youtu.be/qw4qpJHD-yQ)  
+    31.1 엔제이 프로젝트 시리즈  - [link](https://youtu.be/qw4qpJHD-yQ?t=2)  
+    31.2 KICDT 학회 Korean Institute of Computation, Design and Technology - [link](https://youtu.be/qw4qpJHD-yQ?t=175)  
+    31.3 엔제이의 컴퓨테이셔널 디자인 시리즈  - [link](https://youtu.be/qw4qpJHD-yQ?t=196)
+
+[**\[컴퓨테이셔널 디자인\] 읽으면서 입문하는 디자이너를 위한 코딩 / Playlist**](https://www.youtube.com/playlist?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
 
 
 ---
@@ -1618,6 +1881,8 @@ SmallTalk 02, 신희찬, 구독자 피드백
 2020/06/19 신희찬 03 - link  
 2020/03/22 Live #신희찬  
 추후 추가...
+
+
 
 
 
@@ -1702,3 +1967,19 @@ SmallTalk 02, 신희찬, 구독자 피드백
 
 * 추후 추가...
 
+
+----
+
+이남주 / NJ Namju Lee / nj.namju@gmail.com
+
+MDes;Harvard, MArch;UCB, B.S;SNUST, Research Fellow; MIT
+
+Architecture design, Computation, Visualization specialist
+
+Director and founder of [NJ Design Lab](http://www.njstudio.co.kr/)  / [NJSLab](http://njslab.com/) / [NJSLabSandbox](http://www.njslab.com/NJSLabCore/)
+
+[Facebook](https://www.facebook.com/NJ.namju.lee?ref=bookmarks) / [Instagram](https://www.instagram.com/nj_namju_lee/?hl=en) / [Linkedin](https://www.linkedin.com/in/nj-namju-lee-926b3252/)  
+  
+[NaverBlog](http://blog.naver.com/designju/)  / [DaumBrunch](https://brunch.co.kr/@njnamju) / [Youtube(kr)](https://www.youtube.com/channel/UC3Z42uoe9C7Et39h5cLK1dw?view_as=subscriber)
+  
+[GitHub](https://github.com/NamjuLee) / [CodePen](https://codepen.io/dashboard?type=VIEW&opts_itemType=COLLECTION&opts_searchTerm=null&opts_order=RELEVANCE&opts_depth=EVERYTHING&opts_showForks=false&opts_filter=all&opts_orderBy=ID&opts_orderDirection=0&opts_tag=null&displayType=LIST&previewType=IFRAME&activeType=COLLECTION) / [Medium](https://medium.com/@nj.namju) / [Youtube(eng)](https://www.youtube.com/channel/UCP4q3a4ogJN1-SbJclJR3Ww?view_as=subscriber)

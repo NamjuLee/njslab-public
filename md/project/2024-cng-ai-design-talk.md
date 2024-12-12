@@ -2,8 +2,7 @@
 # 인공지능시대의 디자인 도구
 - 데이터 기반 사회에서 디자이너의 준비와 기회
 
-
-[Site Link](https://foss4g.osgeo.kr/conference)
+[Site Link](https://www.cadgraphics.co.kr/newsview.php?pages=tv&sub=tv01&catecode=&num=592)
 
 [Download Presentation material](https://namjulee.github.io/njs-lab-public/project/2024-cng-ai-design-talk/2024-cng-ai-design-talk.pdf)
 
