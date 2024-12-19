@@ -1,13 +1,13 @@
 # INSTALLATION: Software & Development environment
 
-##### Instructor : NJ Namju Lee / nj.namju@gmail.com  
+###### Instructor : NJ Namju Lee / nj.namju@gmail.com  
 ###### * Lab - https://namjulee.github.io/njs-lab-public/nj-namju-lee
 ###### * Linkedin - https://www.linkedin.com/in/nj-namju-lee-926b3252/    * Git - https://github.com/NamjuLee  
 ###### * Video(English) - https://www.youtube.com/c/njnamjulee            * Writing(English) - https://medium.com/@nj-namju  
 ###### * Video(Korean) - https://www.youtube.com/c/CodeforDesign          * Writing(Korean) - https://brunch.co.kr/@njnamju  
 -----
 
-## 1. DESIGN SOFTWARE
+# 1. DESIGN SOFTWARE
 
 * Rhino 8 - https://www.rhino3d.com/download/
     * numerical utilities https://www.food4rhino.com/en/browse?searchText=designju
@@ -22,7 +22,7 @@
 * Design Visualization Reference: https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/
 
 ---
-## 2. IDE & Git
+# 2. IDE & Git
 * Git - https://git-scm.com/downloads
 * Giuhub desktop - https://desktop.github.com/download/
 * Visual Studio Code - https://code.visualstudio.com/
@@ -30,7 +30,7 @@
 * Docker - https://www.docker.com/products/docker-desktop/
 
 ---
-## 3. Node env
+# 3. Node env
 * NodeJS - https://nodejs.org/en/download/prebuilt-installer
 
 ```shell
@@ -61,12 +61,12 @@ nvm ls
 nvm use 18
 ```
 ---
-## 4. CUDA for Windows
+# 4. CUDA for Windows
     • nvidia-smi
     • https://developer.nvidia.com/cuda-toolkit-archive
 
 ---
-## 5. Miniconda env
+# 5. Miniconda env
     • Miniconda - https://docs.anaconda.com/miniconda/
     • Repo - https://repo.anaconda.com/miniconda/
     • Edit the system environment variables - 
@@ -80,8 +80,8 @@ nvm use 18
 
 
 ---
-## 6. Python Packages
-* AI for Designer reference - https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
+# 6. Python Packages
+
 
 ### Tensorflow
 * https://www.tensorflow.org/install/
@@ -112,7 +112,7 @@ conda install numpy=1.21
   * https://medium.com/mlearning-ai/install-tensorflow-on-mac-m1-m2-with-gpu-support-c404c6cfb580
 
 ```shell
-# M2 TF
+// M2 TF
 conda create -n tf-metal-2024 
 conda activate tf-metal-2024 
 
@@ -133,8 +133,6 @@ https://www.geeksforgeeks.org/how-to-install-opencv-4-on-macos/
 
 conda install -c anaconda seaborn
 ```
-
-
 
 * Testing
 ```python
@@ -164,7 +162,7 @@ conda install pytorch==2.5.0 torchvision==0.20.0 torchaudio==2.5.0  pytorch-cuda
   * https://towardsdatascience.com/installing-pytorch-on-apple-m1-chip-with-gpu-acceleration-3351dc44d67c
   
 ```shell
-# M2 Torch
+// M2 Torch
 $ conda create -n torch-2023 python=3.9
 $ conda activate torch
 

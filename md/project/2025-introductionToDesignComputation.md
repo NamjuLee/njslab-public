@@ -1,10 +1,10 @@
 # Data in Design I & II
 
-
+[Github](https://github.com/NamjuLee/data-in-design)
 
 Data in Design: 0 Syllabus
 
-————————————————————————————————————————
+---
 
 DATA in DESIGN
 
@@ -89,24 +89,14 @@ Lab 1 hour
 ---
 **TOOL & SOFTWARE**
 
-* Programming Language: [Python](https://www.python.org/)([Anaconda](https://docs.anaconda.com/anaconda/install/index.html)), [Typescript](https://www.typescriptlang.org/)([Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))
-
-* Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)
-
-* Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)
-
+* Programming Language: [Python](https://www.python.org/)([Anaconda](https://docs.anaconda.com/anaconda/install/index.html)), [Typescript](https://www.typescriptlang.org/)([Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))  
+* Library: [NJSCore](https://www.npmjs.com/package/njscore), [Numpy](https://numpy.org/), [Pandas](https://pandas.pydata.org/), [Tensorflow](https://www.tensorflow.org/), [TensorflowJS](https://www.tensorflow.org/js)  
+* Software: [Visual Studio Code](https://code.visualstudio.com/Download), [NodeJS](https://nodejs.org/en/), [Github Desktop](https://desktop.github.com/)  
 * Installation: https://namjulee.github.io/njs-lab-public/installation
-
 
 **Prerequisite**
 * Experience with one of modern programming languages(Python, Java, Javascript, Typescript, C, C++, C#, or Swift)
 
-
-
-
-
-
-————————————————————————————————————————
 
 
 
@@ -124,14 +114,16 @@ Introduction to Computation for Design 1 & 2
 * Data as Materials for design
 * Software as tool  https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30
 * Code for design
-
+---
 ### SEMINAR:
-* [Book] Computational Design, Chapter: 1 - 2 
-  * link: https://brunch.co.kr/@njnamju/144
-
+* [Book] Computational Design - https://brunch.co.kr/@njnamju/144  
+Chapter 1 :  
+Chapter 2 :  
+ 
+---
 ### LAB:
-* Software Installation: https://namjulee.github.io/njs-lab-public/installation
-    * Rhino 8 / Giuhub desktop  
+* Software Installation: https://namjulee.github.io/njs-lab-public/installation  
+    *  Rhino 8 / Github desktop  
     Miniconda env  
     Visual Studio Code / Visual Studio Community 2022  
 	
@@ -140,34 +132,54 @@ Introduction to Computation for Design 1 & 2
     * Basic Syntax, Execution, Variable   
 	Data Type & Condition & Loops & Exceptions & function  
     Data Structure: List, Tuple, Set, Dictionary
-	* Python basics: https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl
-	* basic Data processing: https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO
+	* [Python basics](https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl) / 
+	[basic Data processing](https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO)
 
-
+---
 ### Reference:
-* **LECTURE**  
-  * [Data in Design](https://medium.com/@nj-namju/data-design-c21457dc8dc)
-    * The introduction to the key topic: Data in Design, helps you understand the meaning of using data in the design process through several examples. 
+Lecture
+* The introduction to the key topic: Data in Design, helps you understand the meaning of using data in the design process through several examples. 
+  [Data in Design](https://medium.com/@nj-namju/data-design-c21457dc8dc)  
 
-  * Computational Design: https://youtu.be/ggBVX5W-28c  
-    Parametric Design: https://youtu.be/LVybPm_VUhs  
-    Computational Thinking: https://youtu.be/B7MaKoxpH8Q  
+* Computational Design: https://youtu.be/ggBVX5W-28c  
+  Parametric Design: https://youtu.be/LVybPm_VUhs   
+  Computational Thinking: https://youtu.be/B7MaKoxpH8Q  
+
+Workshop
+* Computational Design: https://youtu.be/ggBVX5W-28c  
+  Parametric Design: https://youtu.be/LVybPm_VUhs  
+
+---
+# 2. Programming and data processing
+
+![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
+
+**WORKSHOP**
+
+* Data processing, Data Type, Memory, Python, Numpy, Pandas library, ...
+
+* As a first step, We will learn the basic concept of programming, dealing with logical flows and data manipulation.
+
+
+LAB 01 - Python Basic, Condition & Loop, Primitive Data Structure 
+
+LAB 02 - File format, Data Structure, object(class)
+
+LAB 04 - Matrix, Numpy basic
+
+LAB 05 - Pandas basic
 
 
 
-
-# 2. Programming & Vector Raster Data for Design
-
-
-Python & C# & Javascript(Typescript)
+* Python & C# & Javascript(Typescript)
 Computational design fundamental  / Grasshopper
 State and memory
 		Variables
 Type of data
 Int / double / string
-Execution / flow
-		Statements
-	Looping / condition
+* Execution / flow
+  * Statements
+  * Looping / condition
 	Visual programming
 
  
@@ -182,43 +194,41 @@ intro array
 
 
 
-LECTURE:
-* Data in Design at Scale https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_46
-
+### LECTURE:
+* Data in Design at Scale https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_46  
 * Raster & Vector 
 * Type of data 
 
-SEMINAR:
+
+### SEMINAR:
 	* Computational Design, Chapter: 1 - 2
 
 
 
-
-
-LAB:
-* Python Programming 
-    * functions
-
+### LAB:  
+- Python basic Syntax - https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl  
+    * Python Programming 
+        * functions
+- Python basic Data Processing - https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO  
+    * Domain / Series / Remap / Random / 
 
 * Rhino Ecosystem
     * Rhino Basic and Concept: https://computationaldesign.tistory.com/35
         * Video: https://youtu.be/kDE--Ai1ZJU
         * PDF https://www.dropbox.com/scl/fi/hxlezsbbnfm3on7gpryev/Rhino3D_Print-Version_Reexport.pdf?rlkey=5hrqrksco1ixpkh9zz3k7q460&dl=0
-    * Rhiho Geometry concept & C#: https://computationaldesign.tistory.com/14
+    * Rhino Geometry concept & C#: https://computationaldesign.tistory.com/14
         * Video: https://youtu.be/NlRDyHMUkvc
 
-
 * signal from noise
-————————————————————————————————————————
+
+### Reference:
+Lecture: 
+
+Workshop
+* C# Basics - https://computationaldesign.tistory.com/38
 
 
-
-
-
-
-
-
-
+---
 # 3. Geometry and Visualization
 
 
@@ -411,9 +421,19 @@ LAB:
 
 # 4. OOP Programming
 
-LECTURE:
 
-LAB:
+
+### LECTURE:
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+
+---
+### Reference:
 
 
 
@@ -543,45 +563,32 @@ Video
 
 
 ————————————————————————————————————————
-
-
-
 # 5. Vector Data and Data Structure
-LECTURE:
 
-LAB:
 
-* Numerical Geometry Utility
+### LECTURE:
 
-* Digital Fabrication: Architecture Compiler, unfold and slice 
-
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* Numerical Geometry Utility  
+* Digital Fabrication: Architecture Compiler, unfold and slice   
 * Robot: 
+* ML model  
 
-
-* ML model
-
-
-
-
-
-
-
-# 6. Graph Data strcture 
-
-LECTURE:
-
-
-
-LAB:
-
-* Numerical Network Analysis 
-
-* NNA2
+---
+### Reference:
 
 
 
 
+# 6. Graph Data structure 
  
+
+
+### LECTURE:
 Data Manipulation / Grasshopper Python
 Type of data
 GeoJSON / JSON / CSV / XML
@@ -590,8 +597,17 @@ parsing/sorting / data binning / statistical
 Visualization
 Node / Edge / Area
 Mapping with Data
- 
- 
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* Numerical Network Analysis 
+* NNA2
+
+---
+### Reference:
 
 
 
@@ -601,26 +617,39 @@ Mapping with Data
 
 # 7. Raster Data and Data Structure
 
-LECTURE:
 
-LAB:
 
-* OpenCV
+### LECTURE:
 
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* OpenCV  
 * Numerical Image Utility
+
+---
+### Reference:
 
 
 
 # 8. Pixel and Voxel Map Data Structure 
 
-LECTURE:
 
-LAB:
+### LECTURE:
 
-* DEM to terrain
-
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* DEM to terrain  
 * Numerical landscape Utility
 
+
+---
+### Reference:
 
 
 ————————————————————————————————————————
@@ -629,12 +658,17 @@ LAB:
 
 # 9. Color Computation
 
-LECTURE:
+### LECTURE:
 
-LAB:
-
+---
+### SEMINAR:
+ 
+---
+### LAB:
 * Color space and Blending mode
 
+---
+### Reference:
 
 
 
@@ -642,9 +676,19 @@ LAB:
 
 # 10. XXXXXX
 
-LECTURE:
 
-LAB:
+
+### LECTURE:
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+
+---
+### Reference:
 
 
 
@@ -652,9 +696,20 @@ LAB:
 
 # 11. Digital Mapping
 
-LECTURE:
 
-LAB:
+
+### LECTURE:
+
+---
+### SEMINAR:
+
+---
+### LAB:
+
+
+---
+### Reference:
+
 
 
 
@@ -662,38 +717,60 @@ LAB:
 
 # 12. App Development
 
-LECTURE:
+### LECTURE:
 
-LAB:
 
-* iPhone / Mac / Windows
+---
+### SEMINAR:
+ 
 
+---
+### LAB:  
+* iPhone / Mac / Windows  
 * Web Cad app
-
 * Plugin & Addon development
 
+---
+### Reference:
 
-————————————————————————————————————————
 
 
+
+---
 # 13. Project I 
 
-LECTURE:
-
-LAB:
 
 
+### LECTURE:
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+
+---
+### Reference:
 
 
 
+---
 # 14. Project II
 
-LECTURE:
-
-LAB:
 
 
+### LECTURE:
 
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+
+---
+### Reference:
 
 
 
@@ -728,24 +805,7 @@ LAB:
 
 ---------------------------------
 
-#### 2. Programming and data processing
 
-![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
-
-**WORKSHOP**
-
-* Data processing, Data Type, Memory, Python, Numpy, Pandas library, ...
-
-* As a first step, We will learn the basic concept of programming, dealing with logical flows and data manipulation.
-
-
-LAB 01 - Python Basic, Condition & Loop, Primitive Data Structure 
-
-LAB 02 - File format, Data Structure, object(class)
-
-LAB 04 - Matrix, Numpy basic
-
-LAB 05 - Pandas basic
 
 
 

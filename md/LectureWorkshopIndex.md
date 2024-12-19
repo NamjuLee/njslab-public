@@ -43,7 +43,7 @@ link: https://computationaldesign.tistory.com/49
 
 
 # Data In Design
-CAD: Computer-aided design, MLAD: Machine Learning-Aided Design
+#### CAD: Computer-aided design, MLAD: Machine Learning-Aided Design
 
 link: https://github.com/NamjuLee/data-in-design
 
@@ -107,7 +107,7 @@ link: under the construction
 
 
 # Data in Design & AI for Urban Data & Visualization
-* Data, Design Computation, Artificial Intelligence, Visualization, Harvard GSD J Term 2023 
+#### Data, Design Computation, Artificial Intelligence, Visualization, Harvard GSD J Term 2023 
 * Site: https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
 * Github: https://github.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
 * link: https://namjulee.github.io/njs-lab-public/work?id=2023-harvard-gsd-jterm
@@ -152,7 +152,7 @@ link: https://youtu.be/QLesjWC443c
 * **This lecture** talks about data in design, showing different examples and how to manipulate spatial information in design processes. Students understand the importance of data in design and use it as design materials
 
 
-# Discrete Urban Spaces and Connectivity / 이산 도시공간과 연결성
+# Discrete Urban Spaces and Connectivity
 Level: ★★★★☆
 Length: 2.5 Hours
 Type: Lecture & Workshop

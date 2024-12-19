@@ -120,17 +120,17 @@
 * Geometry For Design - https://computationaldesign.tistory.com/61
 
 
-# **GEOMETRY**
+# GEOMETRY
 
 언어, 환경, 도구를 떠나서 **기본기는 항상 중요**하죠. 왜냐면 기본기의 내용이 잘 갖추어져 있다면, 적용하는 환경에 맞춰서 그 형식만 바꾸어 주면 되는 것이죠. 디자이너들은 무언가를 그리고 만드는 것이 핵심이기 때문에, 그 핵심을 잘 이해하고 있다면, 그것을 그냥 코딩으로 바꾸어 주면 되기 때문이죠. 따라서 다음의 수업은 **디자이너들에게 코딩을 시작하기 전에 알아야 할 이론에 관한 워크숍**이에요.
 
-#### 1\. Vector / 벡터
+#### 1. Vector / 벡터
 link - https://computationaldesign.tistory.com/39
 
-#### 2\. Line / Curve / Mesh
+#### 2. Line / Curve / Mesh
 link: https://computationaldesign.tistory.com/23 
   
-#### 3\. Color / 색
+#### 3. Color / 색
 link: https://computationaldesign.tistory.com/17
   
 
@@ -292,7 +292,7 @@ Code for Design: Design & Computation
 
 디자이너를 위한 코딩(Coding), 크리에이티브 코딩(Creative Coding), 혹은 컴퓨테이셔널 디자인(Computational Design) 관련, 국내외에서 강연, 컨설팅, 워크숍, 연구 개발 등의 활동을 하면서, 여러 채널을 통해 학생 혹은 실무자에게 교육 자료를 공유해 오고 있어요. 특별히 디자이너가 코딩을 한다는 것이 아직까지는 보편화가 안 됐기 때문에 매우 생소한 영역이죠. 해외도 마찬가지지만, 특히, 우리말로 된 학습 자료가 많지 않은 상황에, 조금이나마 도움이 되지 않을까 하는 생각들로 공유를 해오고 있어요. 수업은 완료된 것들도 있고, 계속 업데이트 중인 것들도 있고, 추후 올라갈 수업들도 포함되어 있어요.
 
-## **CODE FOR DESIGN**
+## CODE FOR DESIGN
 
 [##_Image|kage@qGkXN/btreOMno1qD/EvvjNjzmpLQru2ymoMfLL1/img.jpg|CDM|1.3|{"originWidth":7852,"originHeight":2119,"style":"alignCenter","link":"https://www.youtube.com/c/CodeforDesign","isLinkNewWindow":true,"caption":"Project NJChannel"}_##]
 
@@ -331,11 +331,11 @@ NJ’s Lecture series 2004 ~ 2024
 
 ### [Introduction to Computational Design](https://discord.gg/GgMsjgjac8) 
 
-1\. Programming:
+1. Programming:
 
         Rhino(Python) / Rhino(C#) / Web(Typescript)
 
-2\. Basic Geometry Data and Visualization:
+2. Basic Geometry Data and Visualization:
 
         Python: RhinoScriptSyntax: Point, Line Circle, Polyline Polygon …
 
@@ -345,7 +345,7 @@ NJ’s Lecture series 2004 ~ 2024
 
         Typescript: CanvasAPI and ThreeJS
 
-3\. Data Structure and Implementation 
+3. Data Structure and Implementation 
 
         Vector Data Structure
 
@@ -353,7 +353,7 @@ NJ’s Lecture series 2004 ~ 2024
 
         Graph, Grid,  Voxel
 
-4\. Implementation 
+4. Implementation 
 
         Projects
 
@@ -366,25 +366,25 @@ Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine�
 
 **Programming:**
 
-1\. Data & Design: Code for Design  
-2\. Programming and data processing
+1. Data & Design: Code for Design  
+2. Programming and data processing
 
 **Data Structure and Implementation:**  
-3\. Vector and Raster as design data  
-4\. Geometry Data
+3. Vector and Raster as design data  
+4. Geometry Data
 
 **Data and Machine Learning**  
-5\. Introduction to AI models and Implementations  
-6\. Problem, Data(Vector & Raster), Model, Train, Validation
+5. Introduction to AI models and Implementations  
+6. Problem, Data(Vector & Raster), Model, Train, Validation
 
 **Implementation**  
-7\. Introduction to Third Place Prediction Research  
-8\. Third Place Prediction Model and Implementation
+7. Introduction to Third Place Prediction Research  
+8. Third Place Prediction Model and Implementation
 
 **Visualization**  
-9\. Introduction to Data Visualization and Digital Mapping  
-10\. Interactive Visualization on Web  
-11\. 3D Visualization for GIS on Web
+9. Introduction to Data Visualization and Digital Mapping  
+10. Interactive Visualization on Web  
+11. 3D Visualization for GIS on Web
 
 ## **NJ CHANNEL: Membership Level 2, 1 study guide** 
 
@@ -412,7 +412,7 @@ link : [https://computationaldesign.tistory.com/3](https://computationaldesign.t
 
 ---
 
-#### 1\. Python For Designers / 디자이너를 위한 파이썬
+#### 1. Python For Designers / 디자이너를 위한 파이썬
 
 [##_Image|kage@WXXVU/btre34uJ2Zy/jjvk1jmJgZIJalklUsFHD1/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/20","isLinkNewWindow":true}_##]
 
@@ -435,7 +435,7 @@ link : [https://computationaldesign.tistory.com/20](https://computationaldesign.
 
 ---
 
-#### 2\. Rhino Python / 라이노 파이썬
+#### 2. Rhino Python / 라이노 파이썬
 
 [##_Image|kage@bK915t/btre6C475aw/rnFFQ69ixNKpMsdkUcluU0/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"height":201,"link":"https://computationaldesign.tistory.com/21","isLinkNewWindow":true}_##]
 
@@ -443,21 +443,21 @@ link : [https://computationaldesign.tistory.com/21](https://computationaldesign.
   
 다음의 워크숍은, Rhino의 Python scripting에 관한 수업이에요. 만약 Python 문법에 익숙해졌다면, **Rhino API****를 통해서 어떻게** **Rhino****의 명령어들을 제어**하고 원하는 도형을 형성할 수 있을지에 대한 내용을 담았어요. 모든 도형의 기본이 되는 포인트의 생성부터 1D 2D 함수를 통한 선의 형성,, 그리고 Rhino API의 사용뿐 아니라, 간단한 수학을 이용하여 생성하는 방법도 배울 수 있어요.  
   
-1\. 라이노 파이선 워크숍 / Rhino Python, Rhinoscriptsyntax workshop  
-2\. Point Grid Basic (rhinoscriptsyntax)  
-3\. help File & Tutorials / 헬프 파일 & 온라인 튜토리얼  
-4\. Function 1D / 라이노 파이썬 04 1차원 함수 2/2  
-5\. Point Grid 2D / 2D포인트 그리드  
+1. 라이노 파이선 워크숍 / Rhino Python, Rhinoscriptsyntax workshop  
+2. Point Grid Basic (rhinoscriptsyntax)  
+3. help File & Tutorials / 헬프 파일 & 온라인 튜토리얼  
+4. Function 1D / 라이노 파이썬 04 1차원 함수 2/2  
+5. Point Grid 2D / 2D포인트 그리드  
   
 Q1 RhinoPython AddLine / 라이노 파이썬 질문 1 AddLine 함수 에러  
-6\. Point Grid Pattern / 2D, 3D 포인트 그리드 패턴  
-7\. Point Cloud - Random / 포인트 클라우드 - 랜덤  
-8\. Point Cloud - Random Normal Distribution/ 포인트 클라우드- 정규분포  
-9\. Point Cloud - Linear Regression / 포인트 클라우드- 선형 회기
+6. Point Grid Pattern / 2D, 3D 포인트 그리드 패턴  
+7. Point Cloud - Random / 포인트 클라우드 - 랜덤  
+8. Point Cloud - Random Normal Distribution/ 포인트 클라우드- 정규분포  
+9. Point Cloud - Linear Regression / 포인트 클라우드- 선형 회기
 
   
-10\. Point, Line, Polyline / 포인트, 라인, 폴리 라인  
-11\. Line, Intersection, Length / 라인, 라인 교차, 라인의 길이
+10. Point, Line, Polyline / 포인트, 라인, 폴리 라인  
+11. Line, Intersection, Length / 라인, 라인 교차, 라인의 길이
 
 12 Line Data, Start, end mid-point
 
@@ -505,7 +505,7 @@ Q1 RhinoPython AddLine / 라이노 파이썬 질문 1 AddLine 함수 에러
 
 ---
 
-#### 3\. 그라스호퍼 컴포넌트 챌린지 & 코딩(Python Version) (입문자용)
+#### 3. 그라스호퍼 컴포넌트 챌린지 & 코딩(Python Version) (입문자용)
 
 [##_Image|kage@w2AXS/btreZZ1Ocsn/2ul9GEkMaIKEkHQjQDqicK/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"height":201,"link":"https://computationaldesign.tistory.com/25","isLinkNewWindow":true}_##]
 
@@ -586,40 +586,37 @@ link: https://computationaldesign.tistory.com/67
 
 ---
 
-### 1\. 디자인 스크립팅을 위한 C# 기초 문법
-
-[##_Image|kage@lNpa5/btre5ceKznk/HKLoOa6C1lQk2ibjVaYk70/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":202,"height":202,"link":"https://computationaldesign.tistory.com/38","isLinkNewWindow":true}_##]
-
-link : [https://computationaldesign.tistory.com/38](https://computationaldesign.tistory.com/38)  
+### 1. 디자인 스크립팅을 위한 C# 기초 문법
+link : https://computationaldesign.tistory.com/38  
   
 다음의 강좌는 C#기초 문법에 대한 수업이에요. 앞서 이야기 나눈 것처럼, **C#****언어는 다양하게 쓰일 수 있으므로****,** **문법을 익혀두면**, 여러 환경에서 다양하게 적용할 수 있어요. 뒤에 Rhino Design Scirpting C# A와 B 그리고 Unity C# scripting **수업의 선수 과목**이기도 해요. 이 수업의 내용을 잘 이해하면, Java, Python 혹은 웹(Web) 환경의 Typescript 혹은 Javascript도 쉽게 이해할 수 있어요.
 
-00\. 디자이너를 위한 C# 기초 문법 워크숍 소개  
-01\. Operators Variable Arithmetic / 연산자, 변수, 4칙 연산  
-02\. Type of Variable / 변수의 종류들  
-03\. Cast / 자료형 변환  
-04\. Scope & Comment / 변수의 범위와 코멘트  
+00. 디자이너를 위한 C# 기초 문법 워크숍 소개  
+01. Operators Variable Arithmetic / 연산자, 변수, 4칙 연산  
+02. Type of Variable / 변수의 종류들  
+03. Cast / 자료형 변환  
+04. Scope & Comment / 변수의 범위와 코멘트  
   
-05\. If 조건문  
-06\. loop / 반복문  
-07\. array / 어레이(배열)  
-08\. List / 리스트  
-09\. String / 문자열  
-10\. Dictionary & Hashtable / 딕션 어리 & 해쉬 테이블  
+05. If 조건문  
+06. loop / 반복문  
+07. array / 어레이(배열)  
+08. List / 리스트  
+09. String / 문자열  
+10. Dictionary & Hashtable / 딕션 어리 & 해쉬 테이블  
   
-11\. Method / 매소드 함수  
-12\. Class & Grasshopper C# Component / 클래스 GH C# 컴포넌트  
-13\. OOP 그리고 Class와 Object  
-14\. Class Members / Access Modifiers / get set 함수  
-15\. Class Inheritance Polymorphism / 상속 다형성  
+11. Method / 매소드 함수  
+12. Class & Grasshopper C# Component / 클래스 GH C# 컴포넌트  
+13. OOP 그리고 Class와 Object  
+14. Class Members / Access Modifiers / get set 함수  
+15. Class Inheritance Polymorphism / 상속 다형성  
   
-16\. 디자이너를 위한 C# 기본 문법 3분 요약  
-17\. 디자이너를 위한 C# 이후의 공부자료들  
+16. 디자이너를 위한 C# 기본 문법 3분 요약  
+17. 디자이너를 위한 C# 이후의 공부자료들  
 완료
 
 ---
 
-#### 2\. Grasshopper CSharp Workshop, Design Scripting Episode A
+#### 2. Grasshopper CSharp Workshop, Design Scripting Episode A
 
 [##_Image|kage@cq5vw8/btreZZ1OcEc/IuACkhGKUPWdTan7UiokpK/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/14","isLinkNewWindow":true}_##]
 
@@ -627,27 +624,27 @@ link : [https://computationaldesign.tistory.com/14](https://computationaldesign.
   
 다음의 수업은, **Design Scripting****에 대해서 공부**하고 싶으신 분들을 위한 수업이에요. Rhino Common API를 사용하지만, Computational Geometry의 관점에서는 Vector와 Point가 어떻게 Line, Curve 혹은 Surface로 환산되고, Brep과 Mesh Geometry로 데이터들이 변환되고 수정될 수 있는지에 관한 수업 시리즈예요.. 기초적인 내용이지만, **반드시 알아두어야 하는 필수 수업**이에요. 만약, 다음의 수업을 다 마친 후, 관심사를 정해서 **전문 분야를 공부를 할 때****,** **필요로 되는 기초 개념**을 잡아 줄 수 있는 워크숍 시리즈죠.  
   
-01\. 워크숍을 시작하면서 #그라스 하퍼 코딩  
-02\. 라이노의 문법 그리고 그라스 하퍼  
-03\. 그라스 하퍼 공부자료 & 레퍼런스  
-04\. Point & Line 그리고 Data  
-05\. Point 그리고 Data  
+01. 워크숍을 시작하면서 #그라스 하퍼 코딩  
+02. 라이노의 문법 그리고 그라스 하퍼  
+03. 그라스 하퍼 공부자료 & 레퍼런스  
+04. Point & Line 그리고 Data  
+05. Point 그리고 Data  
   
-06\. Point List 그리고 Curve  
-07\. Point Grid & Surface  
-08\. Point, Curve 그리고 Brep(Closed Extrusion)  
-09\. Point, Curve 그리고 Brep(Loft) - Optimization & Design Space  
-10\. Point 그리고 Solid Brep - Primitive, Box, Cylinder, Cone  
+06. Point List 그리고 Curve  
+07. Point Grid & Surface  
+08. Point, Curve 그리고 Brep(Closed Extrusion)  
+09. Point, Curve 그리고 Brep(Loft) - Optimization & Design Space  
+10. Point 그리고 Solid Brep - Primitive, Box, Cylinder, Cone  
   
-11\. Point 그리고 Solid Brep - Primitive, Sphere, Indexing, Connectivity  
-12\. Point, 그리고, Tri Mesh - Vertices, Faces, Colors, Barycentric coordinate  
-13\. Point 그리고 Mesh Sphere  
-14\. 에피소드 A 종료 - 요약 그리고 이런저런 생각  
+11. Point 그리고 Solid Brep - Primitive, Sphere, Indexing, Connectivity  
+12. Point, 그리고, Tri Mesh - Vertices, Faces, Colors, Barycentric coordinate  
+13. Point 그리고 Mesh Sphere  
+14. 에피소드 A 종료 - 요약 그리고 이런저런 생각  
 완료
 
 ---
 
-#### 3\. Grasshopper CSharp Workshop, Design Scripting Episode B
+#### 3. Grasshopper CSharp Workshop, Design Scripting Episode B
 
 [##_Image|kage@NnPsM/btre0938TCN/LCi14XhKkkkRDfcnDmik6K/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":203,"height":203,"link":"https://computationaldesign.tistory.com/15","isLinkNewWindow":true}_##]
 
@@ -655,10 +652,10 @@ link : [https://computationaldesign.tistory.com/15](https://computationaldesign.
   
 다음의 수업은, 앞의 **Design Scripting A** **수업의 연장선**으로, 질문, 혹은 예제를 바탕으로, **디자이너들에게 코딩을 활용한 다양한 디자인 방법론들을 학습하고 경험**할 수 있는 수업이에요.  
   
-01\. Episode B, 워크숍을 시작하면서, 그리고 몇 가지 생각  
-02\. Surface, Paneling A - Normal Vector, Points, Lines  
-03\. Surface, Paneling - Curvature, Project, Split  
-04\. Tree Data 구조, 데이터 추출과 Tree data 만들기  
+01. Episode B, 워크숍을 시작하면서, 그리고 몇 가지 생각  
+02. Surface, Paneling A - Normal Vector, Points, Lines  
+03. Surface, Paneling - Curvature, Project, Split  
+04. Tree Data 구조, 데이터 추출과 Tree data 만들기  
   
 구독자 질문 Q01 - "( )"는 뭐지? 또 new는 뭐지?  
 구독자 질문 Q02 - C# 컴포넌트, 저 아이콘은 뭐지??  
@@ -674,7 +671,7 @@ link : [https://computationaldesign.tistory.com/15](https://computationaldesign.
 
 ---
 
-### 1\. Design Scripting and Visualization, Web App
+### 1. Design Scripting and Visualization, Web App
 
 [##_Image|kage@tTkN0/btre349msfe/8zTe91CXFFqmytl8Yq8eu1/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":202,"height":202,"link":"https://computationaldesign.tistory.com/42","isLinkNewWindow":true}_##]
 
@@ -695,7 +692,7 @@ Typescript Basic (Javascript)
 
 ---
 
-#### 1\. Unity Basic / C#
+#### 1. Unity Basic / C#
 
 [##_Image|kage@uyLXL/btre1aotyIu/YNgu7zRkXIt67hYzHYOn7K/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"height":201,"link":"https://computationaldesign.tistory.com/27","isLinkNewWindow":true}_##]
 
@@ -703,53 +700,53 @@ link : [https://computationaldesign.tistory.com/27](https://computationaldesign.
   
 다음의 수업은, Unity의 기본 사용법에 대한 수업이에요. **Unity****의 생태계와** **C#** **코딩**을 통해서 어떻게 GameObject를 만들고 제어할 수 있는지에 대한 강좌예요. **메타버스****(Metaverse)** **환경에서의 인터액티브 한 디자인**을 공부하시거나, **VR / AR** **혹은 실시간 그래픽 앱**을 만들고 싶으신 분들에게, 유용한 기초를 다질 수 있는 워크숍 시리즈예요..  
   
-01\. Unity 소개 / Design Scripting & Visualization  
-02\. Unity 작업물 소개  
-03\. Unity 실행 & Interface 소개  
-04\. Unity GameObject Components & properties  
-05\. Unity GameObject & Attach Component  
+01. Unity 소개 / Design Scripting & Visualization  
+02. Unity 작업물 소개  
+03. Unity 실행 & Interface 소개  
+04. Unity GameObject Components & properties  
+05. Unity GameObject & Attach Component  
   
-06\. GameObject & Transform (Position, Scale, Rotation), GameObject lifecycle  
-07\. GameObject & Instantiate & Destroy & Object Pulling  
-08\. Unity SendMessage & Pipeline & Computational Design  
-09\. Unity GameObject & Attach Component  
-10\. MouseEvent  
+06. GameObject & Transform (Position, Scale, Rotation), GameObject lifecycle  
+07. GameObject & Instantiate & Destroy & Object Pulling  
+08. Unity SendMessage & Pipeline & Computational Design  
+09. Unity GameObject & Attach Component  
+10. MouseEvent  
   
-11\. Raycast  
-12\. Picking Rigidbody  
-13\. Collision  
-14\. Keyboard event  
-15\. Keyboard and Collision  
+11. Raycast  
+12. Picking Rigidbody  
+13. Collision  
+14. Keyboard event  
+15. Keyboard and Collision  
   
-16\. UI Basic  
-17\. UI Event  
-18\. UI Image  
-19\. CSV / import file  
-20\. CSV / URL  
+16. UI Basic  
+17. UI Event  
+18. UI Image  
+19. CSV / import file  
+20. CSV / URL  
   
-21\. JSON / URL  
-22\. RestAPI  
-23\. OBJ  
-24\. Image  
-25\. Video / Cam  
+21. JSON / URL  
+22. RestAPI  
+23. OBJ  
+24. Image  
+25. Video / Cam  
   
-26\. Procedual Cube  
-27\. Procedual Cube Mesh  
-28\. Mesh Bunny  
+26. Procedual Cube  
+27. Procedual Cube Mesh  
+28. Mesh Bunny  
 완료
 
 ---
 
 ####   
-2\. Design Scripting and Visualization Examples
+2. Design Scripting and Visualization Examples
 
 다음의 수업은, Unity를 활용한 다양한 프로젝트와 예제를 다루는 워크숍이에요. 디자이너들에게 **Unity****를 활용하는 다양한 방법론과 시각들을 줄 수 있는 수업**이에요. 만약 앞서 Unity기초 수업을 들었다면, 이 워크숍을 통해서 실시간 그래픽 도구와 스스로의 디자인, 디자인 도구를 만들어 낼 수 있는 능력을 높일 수 있는 워크숍 시리즈예요.  
   
-01\. US Map / GeoJSON  
-02\. World Temperature  
-03\. World Globe  
-04\. Solar Simulation  
-05\. Regression / Regression Vis / Cannon example / data collection / Prediction  
+01. US Map / GeoJSON  
+02. World Temperature  
+03. World Globe  
+04. Solar Simulation  
+05. Regression / Regression Vis / Cannon example / data collection / Prediction  
 추후 추가...
 
 ---
@@ -780,7 +777,7 @@ GAN
 ---
 
 ####   
-1\. 소샬 알고리즘 SA 7.0 Unit 2 \[한국어\]
+1. 소샬 알고리즘 SA 7.0 Unit 2 \[한국어\]
 
 #### Numeric Network Analysis
 
@@ -815,7 +812,7 @@ SA 7.0 Unit 2 NJ & Woo / Question Python 2 / 한국어
 
 ---
 
-#### 2\. Digital FUTURES World Workshop Full Version \[한국어\]
+#### 2. Digital FUTURES World Workshop Full Version \[한국어\]
 
 #### Introduction to Computational Design: Data, Geometry, and Visualization Using Digital Media
 
@@ -840,7 +837,7 @@ Day 6: Digital Mapping using ArcGIS JSAPI
 
 ---
 
-### 3\. Digital Mapping Workshop, Rhino Grasshopper & Python
+### 3. Digital Mapping Workshop, Rhino Grasshopper & Python
 
 [##_Image|kage@cStYTP/btre5OknYzY/kDkqUXm5FyOVUKFWb9dPo0/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":199,"height":199,"link":"https://computationaldesign.tistory.com/18","isLinkNewWindow":true}_##]
 
@@ -848,17 +845,17 @@ link : [https://computationaldesign.tistory.com/18](https://computationaldesign.
   
 다음의 수업은, **뉴욕 공과대학(NYIT) 건축학과에서 진행한 디지털 매핑****(Digital Mapping)** **수업**에 관한 워크숍이에요. Rhino Grasshopper과 Python을 활용하여, 데이터를 시각화시키고, 매핑(Mapping)시키는 수업 시리즈예요..  
   
-01\. Basic Syntax / 라이노 파이썬 매핑 01 파이썬 기초  
-02\. Data Manipulation CSV / 라이로 파이썬 매핑 02 CSV 데이터  
-03\. Data Manipulation JSON, GeoJSON / 라이노 파이썬 매핑 03 JSON, GeoJSON 데이터  
-04\. Data Manipulation OSM, Shapefile / 라이노 파이썬 매핑 04 OSM, Shapefile데이터  
-05\. Data Manipulation DEM / 라이노 파이썬 매핑 05 DEM데이터  
-06\. Image Processing / 라이노 파이썬 매핑 06 이미지 프로세싱  
+01. Basic Syntax / 라이노 파이썬 매핑 01 파이썬 기초  
+02. Data Manipulation CSV / 라이로 파이썬 매핑 02 CSV 데이터  
+03. Data Manipulation JSON, GeoJSON / 라이노 파이썬 매핑 03 JSON, GeoJSON 데이터  
+04. Data Manipulation OSM, Shapefile / 라이노 파이썬 매핑 04 OSM, Shapefile데이터  
+05. Data Manipulation DEM / 라이노 파이썬 매핑 05 DEM데이터  
+06. Image Processing / 라이노 파이썬 매핑 06 이미지 프로세싱  
 완료
 
 ---
 
-### 4\. Digital Mapping Workshop, JSAPI
+### 4. Digital Mapping Workshop, JSAPI
 
 [##_Image|kage@XJJca/btre5bNGRFU/mMeyA1USAdcZIS2OXkWcG0/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/31","isLinkNewWindow":true}_##]
 
@@ -895,16 +892,16 @@ link : [https://computationaldesign.tistory.com/40](https://computationaldesign.
 다음의 수업은 윈도즈 플랫폼 혹은 웹 플랫폼에서 Stand-alone 소프트웨어를 개발하고 싶으신 분들에게 도움이 되는 수업 시리즈예요..  
   
 **OpenTK For Standalone CAD Software**  
-01\. OpenTK For Standalone CAD Software  
-02\. OpenTK Starter 2: NOpenGL Platform, Winform UI, MouseEvent, ActiveController, GeoCommon, RhinoCommon  
+01. OpenTK For Standalone CAD Software  
+02. OpenTK Starter 2: NOpenGL Platform, Winform UI, MouseEvent, ActiveController, GeoCommon, RhinoCommon  
   
 **Web App For Standalone CAD Software**  
-01\. Web App Starter: ThreeJS, TensorflowJS, Typescript Starter  
-02\. Web App Starter: WebGL2, GLSL, TensorflowJS, Typescript Starter  
-03\. Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System  
+01. Web App Starter: ThreeJS, TensorflowJS, Typescript Starter  
+02. Web App Starter: WebGL2, GLSL, TensorflowJS, Typescript Starter  
+03. Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System  
   
 **Web App For Standalone CAD Software**  
-01\. Desktop App Starter: Electron, HTML Canvas, TensorflowJS, Typescript for CAD and Design System  
+01. Desktop App Starter: Electron, HTML Canvas, TensorflowJS, Typescript for CAD and Design System  
 추후 추가...
 
 ---
@@ -918,10 +915,10 @@ link : [https://computationaldesign.tistory.com/36](https://computationaldesign.
   
 다음의 워크숍은, 상용 소프트웨어의 **플러그인****(Plugin)** 혹은 **애드온****(Addon)** 그리고 **알고리듬 라이브러리****(library)를** **구축**하는 내용을 담은 수업 시리즈예요.  
   
-1\. 래빗(Revit) 다이나모(Dynamo) c# 디자인 스크립팅, 어떻게 플러그인을 만들까?  
-2\. 어떻게 라이노의 기능을 유니티(Unity)에서 활용할 수 있을까?  
-3\. 라이노 플러그인 어떻게 만들까?  
-4\. 라이노 그라스 하퍼 애드온 어떻게 만들까?
+1. 래빗(Revit) 다이나모(Dynamo) c# 디자인 스크립팅, 어떻게 플러그인을 만들까?  
+2. 어떻게 라이노의 기능을 유니티(Unity)에서 활용할 수 있을까?  
+3. 라이노 플러그인 어떻게 만들까?  
+4. 라이노 그라스 하퍼 애드온 어떻게 만들까?
 
 추후 추가...  
   
@@ -934,7 +931,7 @@ link : [https://computationaldesign.tistory.com/36](https://computationaldesign.
 
 ---
 
-### 1\. Rhino3d 기초 / 개념 이해
+### 1. Rhino3d 기초 / 개념 이해
 
 [##_Image|kage@JBZNb/btreZ1ecbWc/4ISlJ8b2zYTkhUk8FuE6Ak/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"height":201,"link":"https://computationaldesign.tistory.com/35","isLinkNewWindow":true}_##]
 
@@ -942,20 +939,20 @@ link : [https://computationaldesign.tistory.com/35](https://computationaldesign.
   
 다음 수업은, **Rhino** **소프트웨어의 문법** 그리고 **명령어의 사용법**에 대한 기초적인 내용을 배울 수 있어요. 그리고 Rhino Grassohpper의 소개도 포함되어 있어요.  
   
-1\. 라이노(Rhino3d) 기초 워크숍 / 소개 영상  
-2\. 라이노 개념 잡기  
-3\. 시작하기 그리고 Curve / 커브  
-4\. Curve Tool / 커브 수정하기  
-5\. Surface / 서피스 만들기  
+1. 라이노(Rhino3d) 기초 워크숍 / 소개 영상  
+2. 라이노 개념 잡기  
+3. 시작하기 그리고 Curve / 커브  
+4. Curve Tool / 커브 수정하기  
+5. Surface / 서피스 만들기  
   
-6\. Surface tool / 서피스 수정하기  
-7\. Curve from Object Tool 오브젝트에서의 커브  
-8\. 그라스 하퍼(GH) 시작하기 / 개념 이해  
+6. Surface tool / 서피스 수정하기  
+7. Curve from Object Tool 오브젝트에서의 커브  
+8. 그라스 하퍼(GH) 시작하기 / 개념 이해  
 완료
 
 ---
 
-### 2\. 건축 애니메이션 (3ds max & AfterEffect), architectural-animation-visualization
+### 2. 건축 애니메이션 (3ds max & AfterEffect), architectural-animation-visualization
 
 [##_Image|kage@GWsQd/btreY4I1MtN/b9tRvrlkObkxNEF4JTCVbK/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":200,"height":200,"link":"https://computationaldesign.tistory.com/34","isLinkNewWindow":true}_##]
 
@@ -965,16 +962,16 @@ link : [https://computationaldesign.tistory.com/34](https://computationaldesign.
   
 1 건축 애니메이션 (3ds max, AfterEffect) 워크숍 설명  
 2 건축 애니메이션 장면 관리 팁 / Scene Layer Image  
-3\. 3ds max 애니메이션 그리고 예제 / key animation  
-4\. 파티클 애니메이션 / Particle Animation using 3ds max  
+3. 3ds max 애니메이션 그리고 예제 / key animation  
+4. 파티클 애니메이션 / Particle Animation using 3ds max  
   
-5\. 조경(환경) 만들기 - 3ds max plugin  
-6\. 애프터 이펙트 동영상 편집, 건축 애니메이션  
+5. 조경(환경) 만들기 - 3ds max plugin  
+6. 애프터 이펙트 동영상 편집, 건축 애니메이션  
 완료
 
 ---
 
-### 3\. \[Book & Workshop\] architectural representation animation / 건축 영상 프레젠테이션
+### 3. \[Book & Workshop\] architectural representation animation / 건축 영상 프레젠테이션
 
 [##_Image|kage@b5VY1o/btre2dE9tDs/4E1oA2Ips62qmgEssQdTN1/img.png|CDM|1.3|{"originWidth":450,"originHeight":450,"style":"alignLeft","width":201,"height":201,"link":"https://computationaldesign.tistory.com/32","isLinkNewWindow":true}_##]
 
@@ -1103,7 +1100,7 @@ Master Plan for University of Sydney
 카메라 트래킹 / 디자인 시각화 / Digital Mockup / Design Visualization  
 추후 추가...
 
-# **RESEARCH & STUDIES & LAB**
+# RESEARCH & STUDIES & LAB
 
 이번 챕터에서는 필자가, Harvard와 MIT에서의 **진행한 수업(Lecture/Workshop)**과, **연구(Research)**, 그리고 **프로젝트(Project)**를 볼 수 있는 챕터예요.
 
@@ -1177,90 +1174,90 @@ Code For Design Group 2 이수민, 코딩 공부를 위한 노션 사용법 그�
 
 
 
-21\. 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data
+21. 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data
 
-#### 1\. 디자이너를 위한 코딩 개론 / Code for Design & Computational Deisgn
+#### 1. 디자이너를 위한 코딩 개론 / Code for Design & Computational Deisgn
 
-00\. 데이터(Data) 그리고 디자인(Design)에 대한 소개입니다. 컴퓨테이셔널 디자인(Computational Design)  
+00. 데이터(Data) 그리고 디자인(Design)에 대한 소개입니다. 컴퓨테이셔널 디자인(Computational Design)  
 
 NJ의서 바이 벌 키트 11 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유  
   
-01\. 컴퓨테이셔널 디자인? / Computational Design  
-02\. 파라메트릭 디자인? / Parametric Design  
-03\. 컴퓨테이셔널 사고 (띵킹) / Computational Thinking  
+01. 컴퓨테이셔널 디자인? / Computational Design  
+02. 파라메트릭 디자인? / Parametric Design  
+03. 컴퓨테이셔널 사고 (띵킹) / Computational Thinking  
 
-04\. 건축 도시 디자이너를 위한 프로그래밍 테크트리  
-05\. VR / AR 꼭 해야 할까? 2019 버전  
-09\. 데이터 시각화 / Data Visualization  
+04. 건축 도시 디자이너를 위한 프로그래밍 테크트리  
+05. VR / AR 꼭 해야 할까? 2019 버전  
+09. 데이터 시각화 / Data Visualization  
 
-10\. 건축 시각화 / Architectural Visualization  
-17\. 도시, 건축 렌더링 팁 / Architectural & Urban Rendering tips / 건축 시각화  
-18\. 매핑 (건축, 도시) / Mapping for Urban and Architecture  
+10. 건축 시각화 / Architectural Visualization  
+17. 도시, 건축 렌더링 팁 / Architectural & Urban Rendering tips / 건축 시각화  
+18. 매핑 (건축, 도시) / Mapping for Urban and Architecture  
 
-19\. 건축 3D 랜더링에 관한, 어느 건축가의 질문들…/ 건축 시각화  
+19. 건축 3D 랜더링에 관한, 어느 건축가의 질문들…/ 건축 시각화  
   
 추후 추가...
 
 ---
 
-#### 2\. 컴퓨테이셔널 사고 / Computational Design Thinking & Programming
+#### 2. 컴퓨테이셔널 사고 / Computational Design Thinking & Programming
 
-15\. Active Command - 액티브 커멘드, CAD System - 캐드 시스템  
-16\. Mouse Event / 마우스 이벤트, CAD System - 캐드 시스템  
+15. Active Command - 액티브 커멘드, CAD System - 캐드 시스템  
+16. Mouse Event / 마우스 이벤트, CAD System - 캐드 시스템  
   
-13\. 자료구조, 그래프 / Data Structure for design , Graph 1/2  
-13\. 자료구조, 픽셀, 복셀 / Data Structure for design , pixel and voxel data structure 2/2  
-23\. 프로젝션 & 리맵 / Projection & Remap  
-24\. 정규화 & 보간 & 이상치 / normalization & interpolation & outlier  
+13. 자료구조, 그래프 / Data Structure for design , Graph 1/2  
+13. 자료구조, 픽셀, 복셀 / Data Structure for design , pixel and voxel data structure 2/2  
+23. 프로젝션 & 리맵 / Projection & Remap  
+24. 정규화 & 보간 & 이상치 / normalization & interpolation & outlier  
   
-26\. 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩  
-33\. 디자인 엔지니어링 / Design Engineering  
-35\. 함수 호출 By Reference, By Value  
+26. 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩  
+33. 디자인 엔지니어링 / Design Engineering  
+35. 함수 호출 By Reference, By Value  
   
-37\. 우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약  
-39\. 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전)  
-40\. 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전)
+37. 우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약  
+39. 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전)  
+40. 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전)
 
-42\. 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼)
+42. 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼)
 
 추후 추가...
 
 ---
 
-#### 3\. 디자인 /  데이터 / 인공지능
+#### 3. 디자인 /  데이터 / 인공지능
 
-45\. 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML
+45. 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML
 
-46\. 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰
+46. 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰
 
-47\. 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰
+47. 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰
 
-49\. 인공지능을 디자인에 적용하기 위한 학습 전략
+49. 인공지능을 디자인에 적용하기 위한 학습 전략
 
-50\. 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세
+50. 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세
 
-51\. 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까?
+51. 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까?
 
-52\. 데이터를 이용한 실제 디자인 적용의 한계? 문제점?
+52. 데이터를 이용한 실제 디자인 적용의 한계? 문제점?
 
 추후 추가...
 
 ---
 
-#### 4\. 기술 / Technology
+#### 4. 기술 / Technology
 
-07\. 파이썬 (Python) 배워야 할까? 장단점을 알아보자!  
-12\. 라이노 파이썬 / Rhino Python, 공부법  
-06\. 쉽게 이해하는 클래스(Class)  
-08\. 디자이너를 위한 프로그래밍 언어 1/2 - C#  
-08\. 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript)  
-11\. HTML Canvas, 데이터 시각화, 크리에이티브 코딩  
-41\. 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오...  
+07. 파이썬 (Python) 배워야 할까? 장단점을 알아보자!  
+12. 라이노 파이썬 / Rhino Python, 공부법  
+06. 쉽게 이해하는 클래스(Class)  
+08. 디자이너를 위한 프로그래밍 언어 1/2 - C#  
+08. 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript)  
+11. HTML Canvas, 데이터 시각화, 크리에이티브 코딩  
+41. 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오...  
 추후 추가...
 
 ---
 
-#### 5\. 건축 디자이너를 위한 컴퓨테이셔널 디자인 특강
+#### 5. 건축 디자이너를 위한 컴퓨테이셔널 디자인 특강
 
 Level: ★☆☆☆☆
 
@@ -1269,13 +1266,13 @@ Length: 2.5 Hours
 Type: Lecture
 
 link: [https://computationaldesign.tistory.com/37](https://computationaldesign.tistory.com/37)  
-38\. 컴퓨테이셔널 디자인 소개 / 디자이너를 위한 컴퓨테이셔널 디자인 특강 2021  
-38\. 컴퓨테이셔널 디자인 소개 1/6 디자이너가 코딩을 왜 배워야 할까?  
-38\. 컴퓨테이셔널 디자인 소개 2/6 코딩을 왜 배워야 하는 이유  
-38\. 컴퓨테이셔널 디자인 소개 3/6 컴퓨테이셔널 디자인 사례  
-38\. 컴퓨테이셔널 디자인 소개 4/6 학습 내용과 방향  
-38\. 컴퓨테이셔널 디자인 소개 5/6 학습 자료  
-38\. 컴퓨테이셔널 디자인 소개 6/6 QnA 시간  
+38. 컴퓨테이셔널 디자인 소개 / 디자이너를 위한 컴퓨테이셔널 디자인 특강 2021  
+38. 컴퓨테이셔널 디자인 소개 1/6 디자이너가 코딩을 왜 배워야 할까?  
+38. 컴퓨테이셔널 디자인 소개 2/6 코딩을 왜 배워야 하는 이유  
+38. 컴퓨테이셔널 디자인 소개 3/6 컴퓨테이셔널 디자인 사례  
+38. 컴퓨테이셔널 디자인 소개 4/6 학습 내용과 방향  
+38. 컴퓨테이셔널 디자인 소개 5/6 학습 자료  
+38. 컴퓨테이셔널 디자인 소개 6/6 QnA 시간  
 완료
 
 2022 / 05 - 디자인 대학교 1학년을 위한 / 디자인과 데이터 그리고 컴퓨테이셔널 디자인 특강 / 다가오는 시대,기회,준비, 공부전략,동기부여,멘탈리티
@@ -1286,20 +1283,20 @@ link: [https://computationaldesign.tistory.com/37](https://computationaldesign.t
 
 ---
 
-#### 6\. 그 밖의 강의
+#### 6. 그 밖의 강의
 
-14\. Harvard GSD Technology 그리고 MIT Computation 지원 준비, 프로그램 비교 , 및 컴퓨테이션 공부 준비 방법  
-20\. 컴퓨테이셔널 디자인을 바라보는 시각과 오해  
-21\. 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data  
+14. Harvard GSD Technology 그리고 MIT Computation 지원 준비, 프로그램 비교 , 및 컴퓨테이션 공부 준비 방법  
+20. 컴퓨테이셔널 디자인을 바라보는 시각과 오해  
+21. 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data  
 
-22\. 코딩 공부 어떻게? (잔소리 포함) / 제발 타이핑해보자!!  
-25\. 힙합 문화로 보는 새로운 패러다임 그리고 컴퓨테이셔널 디자인의 운명  
+22. 코딩 공부 어떻게? (잔소리 포함) / 제발 타이핑해보자!!  
+25. 힙합 문화로 보는 새로운 패러다임 그리고 컴퓨테이셔널 디자인의 운명  
 Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨테이셔널 디자인 - [link](https://youtu.be/yr9rLRzlNlg)  
   
-34\. 소프트웨어 어떻게 공부할까? 변할 것 변하지 않을 것, Feat VR AR AI  
-36\. 코딩 공부와 수학 그리고 공부할 것 Feat. 4차 산업혁명 그리고 디자인
+34. 소프트웨어 어떻게 공부할까? 변할 것 변하지 않을 것, Feat VR AR AI  
+36. 코딩 공부와 수학 그리고 공부할 것 Feat. 4차 산업혁명 그리고 디자인
 
-48\. 컴퓨테이셔널 디자인 공모 소개
+48. 컴퓨테이셔널 디자인 공모 소개
   
 추후 추가...
 
@@ -1312,9 +1309,9 @@ Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨�
 
 ---
 
-### QnA / 질의 응답
+# QnA
 
-link : [https://computationaldesign.tistory.com/2](https://computationaldesign.tistory.com/2)  
+link : https://computationaldesign.tistory.com/2
   
 NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요. 이메일 혹은 SNSSNS 등등의 채널을 통해서 질문을 주시는데, **질문 중 함께 공유하면 좋을 것 같은 것들을 비디오로 공유**한 만들어 놓았어요. 질문에 대한 개인적인 경험과 생각들을 나누면서, 다양한 관점과 다른 경험들을 생각해 볼 수 있었던 것 같아요. 특별히, 학생, 교육자 혹은 실무자의 **현실적인 질문**과, **학습하면서 느꼈던 현장감 있는 좌절과 고민** 등을 공유하며, 다른 누군가가 미리 격은 고민을 내가 생각해 볼 수 있고, 더 나아가, 코딩 혹은 유학을 준비 **디자이너들에게 의미 있는 학습 자료**가 될 수 있다고 생각해요.  
   
@@ -1323,7 +1320,7 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
 
 ---
 
-#### 1\. 코딩 그리고 디자인 관련
+#### 1. 코딩 그리고 디자인 관련
 
 01, 어느 고등학생의 질문 / 건축 파라메트릭 디자인 예제  
 02, 건축가의 일반적인 질문 2차 (건축 컴퓨팅 실무)  
@@ -1339,7 +1336,7 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
 
 18, 파라메트릭 디자인 배우려면 어디서부터 어떻게 시작해야 하나요?  
 20, 5G 기술과 건축산업(설계 협업 및 시각화 VR), 정말 유용 하나?  
-30\. 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근할까?  
+30. 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근할까?  
 
 48, 스페셜리스트가 되기 위한 어느 학부생의 전공 고민  
 49, 조경전공 학생의 질문, 컴퓨테이셔널 디자인 공부 팁  
@@ -1351,19 +1348,19 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
   
 58, 디자이너가 코딩 공부를 시작하는, 가장 현실적인 방법!  
 59, 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들  
-60\. 초등학생 코딩 교육, 그리고 인공지능에 없어질 미래 직업과 나의 전략?  
+60. 초등학생 코딩 교육, 그리고 인공지능에 없어질 미래 직업과 나의 전략?  
 
-61\. 컴퓨테이셔널 디자인 교육, 코딩 교육, 누가 가르쳐야 하나? feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.  
-62\. 건축학과 복수전공, 컴퓨터공학 복수전공 어떻게 생각하나?  
-63\. 건축학 진로 고민 전공(복전)과 나의 비전  
+61. 컴퓨테이셔널 디자인 교육, 코딩 교육, 누가 가르쳐야 하나? feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.  
+62. 건축학과 복수전공, 컴퓨터공학 복수전공 어떻게 생각하나?  
+63. 건축학 진로 고민 전공(복전)과 나의 비전  
 
-69\. 학부생의 질문, 공부방법, 기초의 중요성, 스튜디오 베이스 수업의 주의점, 트렌드의 주의점  
-70\. 건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인  
+69. 학부생의 질문, 공부방법, 기초의 중요성, 스튜디오 베이스 수업의 주의점, 트렌드의 주의점  
+70. 건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인  
 71, 학부생 질문 건축의 보수성, 컴퓨테이셔널 디자인 직업군, 그리고 10년 후  
 
-73\. 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위?
+73. 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위?
 
-78\. 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design
+78. 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design
 
 79. 컴퓨테이셔널 디자인을 더 잘하고 싶은 건축디자인 실무자의 질문
 
@@ -1387,7 +1384,7 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
 
 96. 치열하게 유지하는 방법 / 딥 팅킹 / 메타인지 / 언어와 지능  
 97. 처음코딩을공부하는디자이너에게  
-98\. 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해  
+98. 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해  
 
 99. 스터디자료, 아카이빙 전략, 포트폴리오, 앞으로 요구되는 능력
 
@@ -1397,7 +1394,7 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
 
 102. KICDT Small Talk, 컴퓨테이셔널 디자인 프로젝트 피드백 & 컴퓨테이셔널 디자인 사고
 
-103\. KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고
+103. KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고
 
 104. 컴퓨테이셔널 디자인, 이해가 안될 때, 완벽한 해결책?!
 
@@ -1417,17 +1414,17 @@ NJChannel 프로젝트를 하면서, 당연히 다양한 질문도 받았어요.
 
 118 프로덕트 디자이너의 컴퓨테이셔널 디자인 학습 질문
 
-119\. RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문
+119. RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문
 
-120\. 인테리어 디자이너의 컴퓨테이셔널 디자인 질문
+120. 인테리어 디자이너의 컴퓨테이셔널 디자인 질문
 
-122\. 디자이너를 위한 데이터사이언스 학습 / 적용 전략
+122. 디자이너를 위한 데이터사이언스 학습 / 적용 전략
 
 추후 추가 ...
 
 ---
 
-#### 2\. 프로그래밍, 디자인 소프트웨어 관련
+#### 2. 프로그래밍, 디자인 소프트웨어 관련
 
 17, 내가 생각하는 그라스 하퍼(Grasshopper)의 단점과 개인적인 생각  
 21, 내가 생각하는 그라스 하퍼(Rhino Grasshopper)의 장점  
@@ -1453,7 +1450,7 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 ---
 
-#### 3\. 인공지능, 데이터, 시각화
+#### 3. 인공지능, 데이터, 시각화
 
 07, 데이터 시각화 도구(tools) 그리고 개인적인 생각  
 11, 데이터 시각화가 꿈인 카이스트 학생의 질문  
@@ -1477,14 +1474,14 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 ---
 
-#### 4\. 포트폴리오, 진학, 유학 관련
+#### 4. 포트폴리오, 진학, 유학 관련
 
 12, 미국, 호주, 유학 준비와 그에 따른 생각들...  
 19, SOP 작성 유의사항 (취직 커버레터 / 자기소개서)  
 27, 건축과 학생의 질문, 건축, 디자인 유학 준비 그리고 주관적 생각  
 
 28, 건축 & 디자인, 포트폴리오 그리고 취직, 유학  
-29\. 건축 유학 & 학비 그리고 개인적인 생각  
+29. 건축 유학 & 학비 그리고 개인적인 생각  
 25, 대학원 진학, 유학에 대한 질문, 그리고 개인적인 생각, feat MIT Media Lab  
 
 33, 유학 고민 많을 때, 실내건축학 전공자의 M.Arch 유학에 대한 고민  
@@ -1496,15 +1493,15 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 51, 프로덕트 전공 학생의, Harvard Mdes 2021 지원 질문  
 
 65, 건축 유학, 학부 코넬 건축학교와 UCL 건축학교(바틀 넷)?  
-72\. 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정 재정 생계  
-74\. 건축학부 유학 / 홍콩 / 싱가포르
+72. 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정 재정 생계  
+74. 건축학부 유학 / 홍콩 / 싱가포르
 
 75. 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡  
 81. 건축 유학을 준비중인 학부 졸업생의 질문  
 82. \[서울과기대 건축학전공 2022 졸업준비위원회\] 선배와의 인터뷰
 
 91. Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법  
-92\. 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략   
+92. 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략   
 111. 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직  
 
 116. A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)  
@@ -1515,7 +1512,7 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 ---
 
-#### 5\. 취직 관련
+#### 5. 취직 관련
 
 * 08, 컴퓨테이션 직업군 및 준비 자세  
 09, 직장상사가 내 미래에 도움이 안 될 때, 회사를 떠나야 하나? 존 윅에서 배울 점  
@@ -1528,7 +1525,7 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 ---
 
-#### 6\. 그밖의 질문
+#### 6. 그밖의 질문
 
 * 03, 컴퓨터 고르는 법 ( 건축 3D / 크리에이티브 코딩 )  
 26, 질문 그리고 유의사항!!!  
@@ -1834,7 +1831,7 @@ link: https://brunch.co.kr/@njnamju/144
 
 ---
 
-# **TALK & INTERVIEW / 토크 인터뷰**
+# TALK & INTERVIEW
 link: https://computationaldesign.tistory.com/22
   
 **학생분들과 실무자 분들에게 유익한 디자인 이야기 혹은, 디자인에서 코딩을 활용**하여, 디자인하는 다양한 사례와 컴퓨테이셔널 디자인 사고에 대해서 배울 수 있는 다양한 **인터뷰를 모아놓은 챕터**예요.  
@@ -1897,43 +1894,43 @@ SmallTalk 02, 신희찬, 구독자 피드백
 ### NJ의서 바이 벌 키트 - NJ's Survival Kit 플레이리스트 인덱스
 * link - https://computationaldesign.tistory.com/6
   
-* 01\. 스펙, 앞으로의 시대는? 난 뭘 해야 하지?  
-02\. 그게 네 꿈 맞니? 네 인생을 살고 있니?  
-03\. 주변이 네 미래다! / 10년 선배를 따르라!  
-04\. 유학생활, 경험 공유, 생활비 절약 팁  
-05\. SOP, 자기소개서 작성 팁 - 취직 및 유학  
+* 01. 스펙, 앞으로의 시대는? 난 뭘 해야 하지?  
+02. 그게 네 꿈 맞니? 네 인생을 살고 있니?  
+03. 주변이 네 미래다! / 10년 선배를 따르라!  
+04. 유학생활, 경험 공유, 생활비 절약 팁  
+05. SOP, 자기소개서 작성 팁 - 취직 및 유학  
   
-* 06\. 10개월에 연봉 두배 올린 방법  
-07\. 30대도 늦지 않았다?  
-08\. 정말 하기 싫을 때, 내가 했던 방법!  
-09\. 너 왜 영어 쓰냐? 한국말 못 해? / 전공 영어  
-10\. 선택보다 중요한 것?  
+* 06. 10개월에 연봉 두배 올린 방법  
+07. 30대도 늦지 않았다?  
+08. 정말 하기 싫을 때, 내가 했던 방법!  
+09. 너 왜 영어 쓰냐? 한국말 못 해? / 전공 영어  
+10. 선택보다 중요한 것?  
   
-* 11\. 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유  
-12\. 주변 사람이 나의 미래다! / 부정적인 환경에서...  
-13\. 공무원 목표, 취직 / 공무원이 꿈 인 나라  
-14\. 두 부류의 사람 / 10년 후 느낀 점  
-15\. 누구와 어떻게 경쟁을 할 것인가? feat 선배의 조언이 항상 맞을까?  
+* 11. 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유  
+12. 주변 사람이 나의 미래다! / 부정적인 환경에서...  
+13. 공무원 목표, 취직 / 공무원이 꿈 인 나라  
+14. 두 부류의 사람 / 10년 후 느낀 점  
+15. 누구와 어떻게 경쟁을 할 것인가? feat 선배의 조언이 항상 맞을까?  
   
-* 16\. 새로운 일을 시작한다고? 파랑새가 찾아 질까?  
-17\. 지식의 빈익빈 부익부 / 지식의 재테크  
-18\. 중력, 나의 별의 중력은? 그 상황에 잠이 오냐?  
-19\. 커리어 패스, 무엇이 약이고 무엇이 독일까??  
-20\. 직장이 내 꿈을 이루어 줄까? 나의 미래를 책임져 줄까?  
+* 16. 새로운 일을 시작한다고? 파랑새가 찾아 질까?  
+17. 지식의 빈익빈 부익부 / 지식의 재테크  
+18. 중력, 나의 별의 중력은? 그 상황에 잠이 오냐?  
+19. 커리어 패스, 무엇이 약이고 무엇이 독일까??  
+20. 직장이 내 꿈을 이루어 줄까? 나의 미래를 책임져 줄까?  
   
-* 21\. 회사를 망하게 하는 방법 - 직장생활 전략  
-22\. 텔레비전을 안 보는 이유, 인생이 바뀐다  
-23\. 인생은 말도 안 되게 불 공평하다. 21세기 계급사회  
-24\. 인생의 공갈빵을 조심해라 - 뿌듯할 때 조심, 뭐가 한 것 같지!?!  
-25\. 나의 슬럼프(번아웃/현타) 일 하기 싫을 때, 대처 방법 101  
+* 21. 회사를 망하게 하는 방법 - 직장생활 전략  
+22. 텔레비전을 안 보는 이유, 인생이 바뀐다  
+23. 인생은 말도 안 되게 불 공평하다. 21세기 계급사회  
+24. 인생의 공갈빵을 조심해라 - 뿌듯할 때 조심, 뭐가 한 것 같지!?!  
+25. 나의 슬럼프(번아웃/현타) 일 하기 싫을 때, 대처 방법 101  
   
-* 26\. 남들이 우르르 몰려갈 때, 생각 좀 해보자, Feat. 아기를 낳을 것인가?  
-27\. 우르르 몰려갈 때, 워라벨 / 소확행을 어떻게 할 것인가?  
-28\. 우르르 몰려갈 때, 내 인생은 꼰대 때문에??!!  
-29\. 학교, 직장, 우리 인생에 관심 없다. 우리는 스스로 살아남아야 한다.  
-30\. 사회는, 우리 인생에 관심 없다! 우리는 스스로 살아남아야 한다!  
+* 26. 남들이 우르르 몰려갈 때, 생각 좀 해보자, Feat. 아기를 낳을 것인가?  
+27. 우르르 몰려갈 때, 워라벨 / 소확행을 어떻게 할 것인가?  
+28. 우르르 몰려갈 때, 내 인생은 꼰대 때문에??!!  
+29. 학교, 직장, 우리 인생에 관심 없다. 우리는 스스로 살아남아야 한다.  
+30. 사회는, 우리 인생에 관심 없다! 우리는 스스로 살아남아야 한다!  
   
-* 31\. 딜의 중요성! 나의 회사는 우리의 미래에 관심 없다!! 우리는 스스로 살아남아야 한다!!!  
+* 31. 딜의 중요성! 나의 회사는 우리의 미래에 관심 없다!! 우리는 스스로 살아남아야 한다!!!  
 추후 추가...
 
 ---
