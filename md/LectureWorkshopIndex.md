@@ -312,6 +312,7 @@ link: https://computationaldesign.tistory.com/21
 # Python Scripting for Designers
 link: https://computationaldesign.tistory.com/20
 * Korean, ~~English~~
+* git - https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook
 * **Keywords:** Computational Geometry, Visualization, C#, Geometry, Jupyter notebook, OOP, Graph, Visualization
 
 - Package manager & Installation : pip & Conda, MiniConda
@@ -333,6 +334,12 @@ link: https://computationaldesign.tistory.com/29
 
 
 
+* Third-Place-Prediction-Report-V2022 
+  * review(writing) 
+    * Kor - https://brunch.co.kr/@njnamju/148 
+    * Eng - https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
+  * review(video) - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o
+  * git(code) - https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
 
 
 

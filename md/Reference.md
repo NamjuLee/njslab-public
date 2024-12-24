@@ -6,6 +6,9 @@
 # Data & Design & Computation: DESIGN SYSTEM
 ## Design System, Computer-Aided, AI-Aided, ML-Aided Design lab, Design Engineer, Agent-Based Design, Parametric System
 
+
+* Insta - https://www.instagram.com/computation_lecture_snippet/
+
 * Open Lectures: NJ Channel 컨텐츠 & 학습 자료 인덱스 - https://computationaldesign.tistory.com/43
   * Brunch index - https://brunch.co.kr/@njnamju/64
   * Key Lectures for Data & Design & Computation - https://computationaldesign.tistory.com/68
@@ -27,8 +30,10 @@
 
 
 * SPECIAL LECTURE FOR DESIGNERS
-  * [특강 2022] 첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 코딩 소개, 다가오는 시대, 기회, 준비전략, 동기부여 그리고 멘탈리티 - https://computationaldesign.tistory.com/48
-  * [특강] 디자이너를 위한 컴퓨테이셔널 디자인, 2021 - https://computationaldesign.tistory.com/37
+  * 2024 buildSMART Conference - https://youtu.be/K0Y20rPuoJs  
+  * 2024 GIS Data & Design, FOSS4G Conference - https://youtu.be/wQ2YsPgMT1A  
+  * 2022 첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 코딩 소개, 다가오는 시대, 기회, 준비전략, 동기부여 그리고 멘탈리티 - https://computationaldesign.tistory.com/48
+  * 2021 디자이너를 위한 컴퓨테이셔널 디자인 - https://computationaldesign.tistory.com/37
   * 진로상담/취직/유학-디자인-건축/컴퓨테이션 - https://computationaldesign.tistory.com/45
 
 * KEY BOOK & PUBLICATION
@@ -331,31 +336,19 @@ NJ’s Lecture series 2004 ~ 2024
 
 ### [Introduction to Computational Design](https://discord.gg/GgMsjgjac8) 
 
-1. Programming:
-
-        Rhino(Python) / Rhino(C#) / Web(Typescript)
-
-2. Basic Geometry Data and Visualization:
-
-        Python: RhinoScriptSyntax: Point, Line Circle, Polyline Polygon …
-
-        Python: RhinoCommon
-
-        C#: RhinoCommon
-
-        Typescript: CanvasAPI and ThreeJS
-
+1. Programming:  
+        Rhino(Python) / Rhino(C#) / Web(Typescript)  
+2. Basic Geometry Data and Visualization:  
+        Python: RhinoScriptSyntax: Point, Line Circle, Polyline Polygon …  
+        Python: RhinoCommon  
+        C#: RhinoCommon  
+        Typescript: CanvasAPI and ThreeJS  
 3. Data Structure and Implementation 
-
-        Vector Data Structure
-
-        Raster Data Structure
-
-        Graph, Grid,  Voxel
-
+        Vector Data Structure  
+        Raster Data Structure  
+        Graph, Grid, Voxel  
 4. Implementation 
-
-        Projects
+        Projects  
 
 ### [Data in Design & AI for Design Data & Visualization](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
 
@@ -458,47 +451,26 @@ Q1 RhinoPython AddLine / 라이노 파이썬 질문 1 AddLine 함수 에러
   
 10. Point, Line, Polyline / 포인트, 라인, 폴리 라인  
 11. Line, Intersection, Length / 라인, 라인 교차, 라인의 길이
-
 12 Line Data, Start, end mid-point
-
 13 Polyline, Curve, Interpolation Data: start, end, mid, closest point
-
 14 Bézier, Sigmid, Circle, Arc, Helix, Gear Curve
-
 15 Cone, Sphere, Projection
-
 16 Circle & Data
-
 17 Circle Packing Implementation
-
 18 Rectangle & Plane & Point
-
 19 Rectangle and Optimization
-
 20 Arc, Basic Move, Rotate Object
-
 21 Arc, Data, Rotation Based on Axis
-
 22 Ellipse, Data, QuadPoints Tower Example
-
 23 Decompose Line & Data
-
 24 Decompose Polyline & Data
-
 25 Divide line and polyline segment
-
 26 Curve, SplitCurve, DivideCurve, DivideCurveLength
-
 27 Curve, SplitCurve, CopyObject & Debugging
-
 28 N-Gon, Closed Polyline, Star shape
-
 29 Fillet, Arc, Line Vector
-
 30 Fillet Example, Polyline & fillet, GetDirection
-
 31 Fillet Example, Polyline & Trim, Arc
-
 ...
 
 추후 추가...
@@ -1164,15 +1136,12 @@ Code For Design Group 2 이수민, 코딩 공부를 위한 노션 사용법 그�
 
 
 
+#컴퓨테이셔널디자인 59 buildSMART Conference 2024 - https://youtu.be/K0Y20rPuoJs  
+#컴퓨테이셔널디자인 60 GIS Data & Design, FOSS4G Conference - https://youtu.be/wQ2YsPgMT1A
 
 
 
-
-
-
-
-
-
+# NJC Lecture
 
 21. 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data
 

@@ -1,6 +1,8 @@
-COURSEWORKS & MODULES
+## COURSEWORKS & MODULES
 
-Data in Design I & II
+## Data in Design I & II
+* *Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
+
 
 [web](https://namjulee.github.io/data-in-design/)
 [Github](https://github.com/NamjuLee/data-in-design)
@@ -176,6 +178,12 @@ Lecture:
 
 * Python class - https://brunch.co.kr/@njnamju/90
 
+* NJC QnA 147 디자이너로서 코딩 공부 어떻게? - https://youtu.be/Z6_zJFZU2iE
+
+
+* Python Scripting for Designers - link: https://computationaldesign.tistory.com/20  
+  * git - https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook
+
 ---
 # Module 03. Vector: Data structure & Geometry & Visualization
 
@@ -184,11 +192,18 @@ Lecture:
 **WORKSHOP**
 
 
+* Vector 
+
+* Interpolation - https://easings.net/
+  * https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/easing
+  * https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/bezier-curve
+  * https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/bezier-curve-control
+  * https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/bezier-interpolation  
 
 
-LAB 04 - Raster Data, Image, Matrix, 
-LAB 05 - Color, Pixel, Voxel
+* Mathematical Curves 
 
+* Parametric Curves
 
 #### Vector and Raster as design data
 
@@ -201,10 +216,8 @@ LAB 05 - Color, Pixel, Voxel
 ---
 ### SEMINAR:
 * [Book] Computational Design - https://brunch.co.kr/@njnamju/144  
-  - CHAPTER 6 코딩 Coding 무엇을 기술하나? - [link](https://youtu.be/H6bpeBdBVZY) 
-  - CHAPTER 7 학습 방향 Study Plans - [link](https://youtu.be/e06v3-o_uLg) 
-  - CHAPTER 8 학습 자료 Study Materials & References - [link](https://youtu.be/DsnbTXIGDlo)
-
+  - CHAPTER 
+ 
 
 ### Transformations
 Transformation
@@ -310,6 +323,16 @@ LAB 03 - Mesh,
 
 ---
 ### REFERENCE:
+
+* git
+  * NJS - https://github.com/NamjuLee/NJS  
+  * DesignComputation - https://github.com/NamjuLee/designComputation
+
+
+* Raytracer
+  * https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/raytracer?ui=0  
+  * https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/raytracer-scene?ui=0  
+
 
 
 ---
@@ -539,7 +562,7 @@ Keyword: graph, directed graphs, Associative geometry
 
 
 ### LECTURE:
-* Discrete Urban Space and Connectivity - https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81
+* Discrete Urban Space and Connectivity - https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81, [njslab-link](https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity)
 
 Data Manipulation / Grasshopper Python
 Type of data
@@ -553,9 +576,6 @@ Mapping with Data
 
 topological operators
 
-* Graph algorithms
-shortest path
-travelling salesman
 
 The city as a graph
 	centrality and space syntax
@@ -567,9 +587,67 @@ Representing structural information
 The structure of space  
 	implicit partitions
 
+
+1. Traversal Algorithms  
+  * DFS (Depth-First Search) - Explores as far as possible along one path before backtracking. It uses recursion or a stack for implementation.
+  * BFS (Breadth-First Search) - Explores all neighbors of a node before moving to the next level. Implemented using a queue and commonly used for finding the shortest path in an unweighted graph.
+
+2. Shortest Path Algorithms
+https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-path-finding  
+  * Dijkstra, 
+  * A*
+  * Bellman-Ford,
+  * Floyd-Warshall, 
+
+Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab/project-module-selected-works/nna
+
+3. Minimum Spanning Tree Algorithms  
+  * Kruskal's Algorithm, 
+  * Prim's Algorithm - Starts from a single node and grows the tree by adding the smallest connecting edge.
+    * https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-system
+
+
+4. Topological Sorting
+  * Used for directed acyclic graphs (DAGs) to order nodes linearly, often applied in task scheduling problems.
+
+5. Connectivity Algorithms
+* Union-Find (Disjoint Set) - Identifies connected components in a graph and checks if two nodes are in the same component.
+* Tarjan's Algorithm - Finds strongly connected components (SCCs) in a graph.
+
+6. Maximum Flow Algorithms
+* Ford-Fulkerson Algorithm -Calculates the maximum flow in a flow network.
+* Edmonds-Karp Algorithm - An optimized version of Ford-Fulkerson using BFS.
+* Dinic's Algorithm - Uses level graphs to improve efficiency when calculating maximum flow.
+
+
+7. Other Notable Algorithms
+* Pagerank - Measures the importance of nodes in a network; famously used in Google’s early search engine.
+* Centrality Measures - Identifies important nodes in a network, e.g., Degree Centrality, Closeness Centrality, Betweenness Centrality.
+* Graph Coloring -Assigns colors to nodes such that no two adjacent nodes share the same color, often used in scheduling problems.
+
+
+* Network analysis:
+  * Centrality Analysis - Degree, Betweenness, Closeness, Eigenvector(위에서 설명).
+  * Accessibility Analysis - Distance, Gravity Model, Huff Model
+
+
 ---
 ### SEMINAR:
- 
+
+* Node: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node?ui=1
+* Node Interaction: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node-interaction?ui=1
+* Edge: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node-edge?ui=1
+* Graph: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-wrapper?ui=1
+* Edge Connection: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-edge-connection?ui=1
+* Edge Split: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-edge-split?ui=1
+* Graph modifying: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-modify?ui=1
+* Node merging: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-merge-node?ui=1
+* Graph exporting: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-exporting?ui=1
+
+* Graph System: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-system?ui=1
+* Graph search: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-search?ui=1
+* Graph Path Finding: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-path-finding?ui=1
+* Graph on map: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-map?ui=1
 
 
 
@@ -646,17 +724,18 @@ Raster: Color Computation & Bitmap
 * Numerical landscape Utility
 
 
+* [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
+  * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
+  * A* algorithm: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star
+
 ---
 ### REFERENCE:
 
 * Pixel & Voxel - https://youtu.be/GmwvGd1HZ78
 
+* [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
+
 ---
-
-
-
-
-
 # Module 10. Computer Vision: Image & Video 
 
 ### LECTURE:
@@ -707,6 +786,8 @@ Task 12: tensile structure
 ---
 ### REFERENCE:
 
+* 컴퓨테이셔널디자인 58 컴퓨테이션은 자동화 매크로를 위한것? - https://youtu.be/hyXnhfhC2Bs
+
 * [boid](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boid) / [boid system](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystem01) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander0) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander1)
 
 * [mesh-network](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-network ) /  [mesh-grid-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-grid-dynamics)
@@ -720,7 +801,7 @@ Task 12: tensile structure
 * [circle-packing-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics)
 
 
-
+* [Genetic Algorithm]https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm
 
 ---
 # Module 12. Digital Fabrication & Material & Robotics & Printing
@@ -836,8 +917,12 @@ This course provides an introduction to the field of physical computing, where s
 ### REFERENCE:
 * AI and Data for design - https://computationaldesign.tistory.com/29
 
+* Data, Design Computation, Artificial Intelligence, Visualization, Harvard GSD J Term 2023 - https://github.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public
 
 
+
+* NJC QnA 143 인공지능 어떻게 생각 하나요? AI 인공지능으로 우리의 직업이 대체될 것인가? - https://youtu.be/E7fJJdx3fHQ
+* QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나? - https://youtu.be/8N18SM9IkL4
 
 
 #### 5. Introduction to AI models and Implementations
@@ -859,6 +944,16 @@ This course provides an introduction to the field of physical computing, where s
   * LAB 03 - Smart Drawing  
   * LAB 04 - Digital Texture prediction,  
   * Examples - Map classification, GAN ...  
+
+* Third-Place-Prediction-Report-V2022 
+  * review(writing) 
+    * Kor - https://brunch.co.kr/@njnamju/148 
+    * Eng - https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
+  * review(video) - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o
+  * git(code) - https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
+
+
+
 
 ---------------------------------
 
@@ -955,6 +1050,17 @@ Deep Learning
   * git - https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization
 
 
+* [git] 
+  * [Harvard-GSD-Workshop] - https://github.com/NamjuLee/Harvard-GSD-Workshop  
+  * [SmallEnvironment] - https://github.com/NamjuLee/SmallEnvironment  
+  * [NJSUnityUtility] - https://github.com/NamjuLee/NJSUnityUtility
+  * [Introduction to Design Visualization] - https://github.com/NamjuLee/IntroductionToDesignVisualization  
+  * [3D-Visualization] - https://github.com/NamjuLee/3D-Visualization  
+  * [Ant-For-Building-Animation_Alpah_0.1.0] - https://github.com/NamjuLee/Ant-For-Building-Animation_Alpah_0.1.0   
+  * [post-production-harvard-gsd.github.com] - https://github.com/NamjuLee/post-production-harvard-gsd.github.com  
+  * [Code-And-Design-CoreStudio-Workshop-Harvard-GSD] - https://github.com/NamjuLee/Code-And-Design-CoreStudio-Workshop-Harvard-GSD  
+
+
 
 ---
 # Module 18. Data Visualization & Digital Mapping
@@ -1017,9 +1123,10 @@ LAB 03 - Visualization analysis methods and tools
 
 
 
-
-
-
+* git
+  * [Data Visualization] - https://github.com/NamjuLee/Data-Visualization
+  * [Data Pre Processing] - https://github.com/NamjuLee/Data-Pre-Processing  
+  * 
 
 
 
@@ -1039,6 +1146,36 @@ LAB 03 - Visualization analysis methods and tools
  
 ---
 ### LAB:
+
+* Delaunay  
+  * 2D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay
+  * 3D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay3
+
+* alpha-shape: https://en.wikipedia.org/wiki/Alpha_shape  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/alpha-shape
+
+
+
+* Six Degrees of Kevin Bacon - https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon 
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/baconslaw  
+  * https://www.acmicpc.net/problem/1389  
+
+
+* Wolf, goat and cabbage problem
+  * https://www.acmicpc.net/problem/1012  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/cabbage  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/numofarea  
+
+* Maze exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/mazeexit  
+* Fire exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/fireexit  
+* Unit Moving https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/  
+
+
+* tile: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/tile  
+
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/okviri  
+
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/koze  
 
 
 ---
@@ -1095,6 +1232,7 @@ LAB 03 - Visualization analysis methods and tools
 ---
 ### REFERENCE:
 
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/grid-optimizer
 
 
 
@@ -1130,12 +1268,13 @@ CAD System & development
 
   * Web App For Standalone CAD Software - https://computationaldesign.tistory.com/40  
     * Web App Starter: ThreeJS, TensorflowJS, Typescript Starter - https://youtu.be/jwLXqjb7SUY  
-    * Web App Starter: WebGL2, GLSL, TensorflowJS, Typescript Starter - https://youtu.be/gQtQbzviC14  
+    * Web App Starter: WebGL2, WebGPU, GLSL, TensorflowJS, Typescript Starter - https://youtu.be/gQtQbzviC14  
     * Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System - https://youtu.be/vcV3mgyQXeQ  
     * Desktop App Starter: Electron, HTML Canvas, TensorflowJS, Typescript for CAD and Design System - https://youtu.be/CO4rcb3d4lY  
 
 Plugin / Addon - https://computationaldesign.tistory.com/36  
 
+* Rhino Web Viewer - https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/rhino-viewer?ui=0
 
 
 

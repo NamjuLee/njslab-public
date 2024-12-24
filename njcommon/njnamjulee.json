@@ -597,6 +597,29 @@
       },
       {
         "date": "",
+        "description": "<b>COURSE LEVEL 1</b>, <a href=\"https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Description as Design Tools</a>",
+        "subItem": "Introduction to Computational Design: </br> Keywords: Python, Typescript, C#, Grasshopper, Geometry, Primitive data </br> Lecture: Programming(C#, JAVA,  Python, Typescript(Javascript)), Geometry(C# RhinoCommon, Python RhinoCommon )</a>"
+      },
+      {
+        "date": "",
+        "description": "<b>COURSE LEVEL 2</b>, <a href=\"https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE\" target=\"_blank\" rel=\"noopener noreferrer\">Algorithm & Data Structure for Design & Research</a>",
+        "subItem": "Introduction to Advanced Computation for Design & Research: </br> Keywords: Spatial Data and Structure, Geometry, Custom data </br> Lecture: Programming & Code for Design process, Data Structures for Design</a>"
+      },
+      {
+        "date": "",
+        "description": "<b>COURSE LEVEL 3</b>, <a href=\"https://docs.google.com/presentation/d/1uM4dW0ff9jO1-FJPfij-Q3sJrhk-torNs6PebLxluJQ\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
+        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: GIS for design, Urban data, Vector data, Raster data, Geometry </br> Lecture: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C</a>",
+        "links" : [
+          "<a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design, AI for Urban Data and Visualization, JTerm, Harvard GSD</a>"
+        ]
+      },
+      {
+        "date": "",
+        "description": "<b>COURSE LEVEL 4</b>, <a href=\"https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8/\" target=\"_blank\" rel=\"noopener noreferrer\">Thesis: Design Research</a>",
+        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: Architecture, Landscape Architecture, Urban Design, Product Design, UI UX … </br> Lecture: Projects & Thesis, Research</a>"
+      },
+      {
+        "date": "",
         "description": "<b>CLASS A</b>, <a href=\"https://docs.google.com/presentation/d/1tPF9KJvEuXj8FRaWMVdRszQlwWd0OPLx_yc0eCnCPb4/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Long)</a> & <a href=\"https://docs.google.com/presentation/d/1oqQAL2OdkQdUWEeowyQQ8aTtCSTRnLrk5yx_En3jeKk\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design(Short)</a>",
         "subItem": "Introduction to Data & Design with keywords and examples </br> Keywords: Design & Computation / Design Data & Data Structure, </br> Lecture: Project, Research - Data for Design(CAD: Computer-Aided Design, MLAD: Machine Learning-Aided Design), Data-driven design project & research for Architecture, Landscape Architecture, Urban Design, Product Design, UI UX",
         "links" : [
@@ -634,29 +657,6 @@
           "<a href=\"https://namjulee.github.io/njs-lab-public/code-for-design?id=VC-cLerlm4s\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design [Eng]</a>",
           "<a href=\"https://namjulee.github.io/njs-lab-public/code-for-design?id=7HwlZaJrTEI\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design [Kor]</a>"
         ]
-      },
-      {
-        "date": "",
-        "description": "<b>COURSE LEVEL 1</b>, <a href=\"https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0\" target=\"_blank\" rel=\"noopener noreferrer\">Numerical Description as Design Tools</a>",
-        "subItem": "Introduction to Computational Design: </br> Keywords: Python, Typescript, C#, Grasshopper, Geometry, Primitive data </br> Lecture: Programming(C#, JAVA,  Python, Typescript(Javascript)), Geometry(C# RhinoCommon, Python RhinoCommon )</a>"
-      },
-      {
-        "date": "",
-        "description": "<b>COURSE LEVEL 2</b>, <a href=\"https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE\" target=\"_blank\" rel=\"noopener noreferrer\">Algorithm & Data Structure for Design & Research</a>",
-        "subItem": "Introduction to Advanced Computation for Design & Research: </br> Keywords: Spatial Data and Structure, Geometry, Custom data </br> Lecture: Programming & Code for Design process, Data Structures for Design</a>"
-      },
-      {
-        "date": "",
-        "description": "<b>COURSE LEVEL 3</b>, <a href=\"https://docs.google.com/presentation/d/1uM4dW0ff9jO1-FJPfij-Q3sJrhk-torNs6PebLxluJQ\" target=\"_blank\" rel=\"noopener noreferrer\">Data(AI) & Design(Research)</a>",
-        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: GIS for design, Urban data, Vector data, Raster data, Geometry </br> Lecture: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C</a>",
-        "links" : [
-          "<a href=\"https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/\" target=\"_blank\" rel=\"noopener noreferrer\">Data & Design, AI for Urban Data and Visualization, JTerm, Harvard GSD</a>"
-        ]
-      },
-      {
-        "date": "",
-        "description": "<b>COURSE LEVEL 4</b>, <a href=\"https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8/\" target=\"_blank\" rel=\"noopener noreferrer\">Thesis: Design Research</a>",
-        "subItem": "Data-driven design research, Data for Design(CAD, MLAD): </br> Keywords: Architecture, Landscape Architecture, Urban Design, Product Design, UI UX … </br> Lecture: Projects & Thesis, Research</a>"
       }
     ]
   },
@@ -665,8 +665,24 @@
     "description": "Lectures, Workshops, and Talks for Design & Computation course work",
     "items": [
       {
+        "date": "2025 Mar",
+        "description": "Lectures, <a href=\"https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Data & Design </a>, Department of Architecture, Kyung Hee University, Korea"
+      },
+      {
+        "date": "2024 Dec",
+        "description": "Guest Talk, <a href=\"https://namjulee.github.io/njs-lab-public/work?id=2024-cng-ai-design-talk\" target=\"_blank\" rel=\"noopener noreferrer\">AI & DATA & Code, Architectural Technology in the Age of Artificial Intelligence</a>, Cad & Graphics, Korea"
+      },
+      {
+        "date": "2024 Nov",
+        "description": "Guest Talk, <a href=\"https://namjulee.github.io/njs-lab-public/work?id=2024-foss4g-korea\" target=\"_blank\" rel=\"noopener noreferrer\">Design & GIS Data(Vector & Raster)</a>, OSGeo Korean Chapter, Korea"
+      },
+      {
+        "date": "2024 Nov",
+        "description": "Guest Talk, <a href=\"https://namjulee.github.io/njs-lab-public/work?id=2024-buildsmart-conference\" target=\"_blank\" rel=\"noopener noreferrer\">Use of Data in Design: Design & Data(AI)</a>, buildSMART Conference 2024"
+      },
+      {
         "date": "2024 Apr",
-        "description": "Lecturer, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a>, Lecture in STUDIO 7, 8, Kongju University, Korea"
+        "description": "Guest Talk, <a href=\"https://youtu.be/wjp2l5chVeU\" target=\"_blank\" rel=\"noopener noreferrer\">Introduction to Computational Design: Design & Data(AI)</a>, Lecture in STUDIO 7, 8, Kongju University, Korea"
       },
       {
         "date": "2023 Jan",

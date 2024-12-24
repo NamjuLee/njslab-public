@@ -1,59 +1,91 @@
-## Immersive Environmental Information Visualization, DigitalFUTURES 2021
-
-
-[github](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization)
-
-[doc](https://nj-namju.medium.com/immersive-environmental-information-visualization-technical-docs-8e10a64e83c7)
+## Immersive Environmental Information Visualization DigitalFUTURES 2021 [Technical docs]
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2021-immersive-environmental-information-visualization/2021-immersive-environmental-information-visualization.jpg)
 
-Description:
+[DigitalFUTURES](https://www.digitalfutures.world/workshops/18.html) / [Git](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization)
 
-Date : Jun/28/2021— Jun/29/2021
+[Medium](https://nj-namju.medium.com/immersive-environmental-information-visualization-technical-docs-8e10a64e83c7)
 
-Key Words: Data Visualization, Unity, C#, Real-time data
 
-Required Skills: Some coding experience(C# or Python) is preferred.
+#### Description:
+This workshop introduces the fundamentals of data visualization strategies in the Unity game engine. Through a combination of lectures and hands-on exercises, attendees will learn how to import weather data from an open-source API and visualize it interactively on a map. Participants will explore a variety of immersive visualization techniques to effectively display the acquired data.
 
-Required Software: Unity(LTS Release 2020.3.12f1), Visual Studio or Visual Studio Code
+**Date**: Jun/28/2021— Jun/29/2021
+**Keywords**: Data Visualization, Unity, C#, Real-time data
 
-Required Hardware: Windows Laptop preferred
+**Required Skills**: Some coding experience(C# or Python) is preferred.
 
-Maximum number of participating students: 15
+**Required Software**: [Unity(LTS Release 2020.3.12f1)](https://unity3d.com/unity/qa/lts-releases?version=2020.3&fbclid=IwAR12EF0jA8un6c3K8SSoHDaEABRa_zWN5Wq9-SWNtTnrHU0l2_pofoAute0 "https://unity3d.com/unity/qa/lts-releases?version=2020.3&fbclid=IwAR12EF0jA8un6c3K8SSoHDaEABRa_zWN5Wq9-SWNtTnrHU0l2_pofoAute0"), Visual Studio or [Visual Studio Code](https://code.visualstudio.com/ "https://code.visualstudio.com/")
+
+**Required Hardware**: Windows Laptop preferred
+
+**Maximum number of participating students**: 15
 
 This workshop will introduce the fundamentals of data visualization strategies in the Unity game engine. Through lectures and hands-on exercises, the attendees will learn how to import weather data from an open-source API and display the acquired data over an interactive map using a number of immersive visualization strategies.
 
-1 Interface: 
-UI
-View Control
+**C# Material :**
 
-2 Component: 
-Parameter
-AttachComponent
-Transform
-Instantiate & Destroy
-Debug & Gizmo & Visualization
+*   [Video: Learn C# BASICS in 10 MINUTES!](https://www.youtube.com/watch?v=CPkO1Gek8XQ)
+*   [Video: C# Tutorial — Full Course for Beginners](https://www.youtube.com/watch?v=GhQdlIFylQ8)
+*   [C# Tutorial](https://www.w3schools.com/cs/index.php)
 
-3 Interaction: 
-Mouse event
-Raycast
-Picking & Rigidbody
-Collision
-Keyboard Event
-Keyboard and Collision
 
-4 Data: 
-Import CSV file
-Import CSV by URL
-Import JSON by URL
-Rest API
-Import OBJ
-Import Image
 
-5 Mesh: 
-Mesh Basic
-Mesh(Bunny) from OBJ
-Grid(Field) System and Interpolating data
+-------
+## Day 1
 
-6 Examples: 
-GeoJson and Visualization(with OpenWeather Rest API)
+**0 Introduction**
+
+**1 Interface**  
+* UI
+* View Control
+
+[2 Component](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/2_Component)
+
+**Introduction to Component Based Architecture in Games —** [**link**](https://www.raywenderlich.com/2806-introduction-to-component-based-architecture-in-games#toc-anchor-001)
+
+*   Parameter -Diagram
+*   AttachComponent
+*   Transform
+*   Instantiate & Destroy
+*   Debug & Gizmo & Visualization
+
+[3 Interaction](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction)
+
+*   Mouse event — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/1_MouseEvent)
+*   Raycast — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/2_Raycast)
+*   Picking & Regidbody — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/3_PickingRigidbody)
+*   Collision — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/4_Collision)
+*   Keyboard Event — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/5_KeyboardEvent)
+*   Keyboard and Collision — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction/6_KeyboardAndCollision)
+
+[4 U](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/3_Interaction)I
+
+*   UIBasic — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/4_UI/UIBasic)
+*   UIEvent— [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/4_UI/UIEvent)
+*   UIImage— [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/4_UI/UIImage)
+
+[5 Data](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/4_Data)
+_Data Format and structure:_
+Difference between Structured, Semi-structured and Unstructured data — [link](https://www.geeksforgeeks.org/difference-between-structured-semi-structured-and-unstructured-data/)  
+Unstructured data  
+Structured data- [CSV](https://en.wikipedia.org/wiki/Comma-separated_values)  
+Semi-structured data- [JSON](https://en.wikipedia.org/wiki/JSON), [GeoJSON](https://en.wikipedia.org/wiki/GeoJSON)  
+Image: [Remote Sensing](https://en.wikipedia.org/wiki/Remote_sensing), [DEM](https://en.wikipedia.org/wiki/Digital_elevation_model),
+
+*   Import CSV file — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/1_ImportCSVFile)
+*   Import CSV by URL — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/2_ImportCSVURL)
+*   Import JSON by URL — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/3_ImportJSONURL)
+*   Rest API — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/4_RestAPI)
+*   Import OBJ — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/5_ImportOBJ)
+*   Import Image — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/5_Data/6_ImportImg)
+
+[7 Mesh](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/blob/main)
+
+*   Mesh Basic — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/7_Mesh/Sc_01_ProcedualCube)
+*   [ProcedualCubeMesh](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/7_Mesh/Sc_02_ProcedualCubeMesh "Sc_02_ProcedualCubeMesh") — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/7_Mesh/Sc_02_ProcedualCubeMesh)
+*   Mesh(Bunny) from OBJ— [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/7_Mesh/Sc_03_MeshBunny)
+
+[8 Scene Examples](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/blob/main)
+
+*   GeoJson and Visualization — [link](https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization/tree/main/Introduction%20to%20Unity/Assets/8_Scene/Scene_01_US_GeoJson)
