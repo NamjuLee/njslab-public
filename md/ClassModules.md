@@ -7,7 +7,6 @@
 [web](https://namjulee.github.io/data-in-design/)
 [Github](https://github.com/NamjuLee/data-in-design)
 
-
 ---
 ## **[COURSEWORKS](https://namjulee.github.io/njs-lab-public/course)**
 - ### COURSE LEVEL 1, Numerical Description as Design Tools  
@@ -16,11 +15,13 @@
   * **Lecture**: Programming(C#, JAVA, Python, Typescript(Javascript)), Geometry(C# RhinoCommon, Python RhinoCommon)  
   * **Module**: 1-01, 1-02, 1-03, 1-04, 
 
+
 - ### COURSE LEVEL 2, Algorithm & Data Structure for Design & Research  
   Introduction to Advanced Computation for Design & Research:
   * **Keywords**: Spatial Data and Structure, Geometry, Custom data
   * **Lecture**: Programming & Code for Design process, Data Structures for Design  
   * **Module**: 2-02, 2-03, 2-04, 1-05
+
 
 - ### COURSE LEVEL 3, Data(AI) & Design(Research)  
   Data-driven design research, Data for Design(CAD, MLAD):  
@@ -28,11 +29,13 @@
   * **Lecture**: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C  
   * **Module**: 3-02, 1-14, 1-15
 
+
 - ### COURSE LEVEL 4, Thesis: Design Research & Development
   Data-driven design research, Data for Design(CAD, MLAD):  
   * **Keywords**: Architecture, Landscape Architecture, Urban Design, Product Design, UI UX …  
   * **Lecture**: Projects & Thesis, Research
   * **Module**: 1-20, 1-21
+
 
 ### Each module can
 Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advanced levels.
@@ -42,16 +45,16 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 
 ---
 
-# Module 01. Data & Design: Code for Design
+# Class 01. Data & Design: Code for Design
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/dataDesignSequence.jpg)
 
+[Book, PPT] [Computational Design Software as tool](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30)  
 
 Overview: Introduction to Computation for Design I & II
 
 ### LECTURE:
 * Introduction Computation for Design
 * Data as Materials for design
-* [Book, PPT] [Computational Design Software as tool](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30)
 * Code for design
 ---
 ### SEMINAR:
@@ -92,11 +95,16 @@ The introduction to the key topic: Data in Design, helps you understand the mean
   * Computational Design: https://youtu.be/ggBVX5W-28c  
   * Parametric Design: https://youtu.be/LVybPm_VUhs  
 
+* w3schools: Python, JAVA, Javascript, Typescript ...
+  * https://www.w3schools.com/
+
+
 ---
-# Module 02. Programming and Data Processing
+# Class 02. Programming and Data Processing
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
 
+Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54  
 
 ### LECTURE:
 * Data in Design at Scale https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_46  
@@ -180,14 +188,21 @@ Lecture:
 
 * NJC QnA 147 디자이너로서 코딩 공부 어떻게? - https://youtu.be/Z6_zJFZU2iE
 
+* LAB: Typescript Lab: Computational Thinking & Numerical Design Description  
+  * Typescript Lab: https://namjulee.github.io/njs-lab-public/lab/lab-computational-thinking-typescript
 
 * Python Scripting for Designers - link: https://computationaldesign.tistory.com/20  
   * git - https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook
 
 ---
-# Module 03. Vector: Data structure & Geometry & Visualization
+# ..........................................................................................
+# Class 03. Vector: Data structure & Geometry & Visualization
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vector.jpg)
+
+Vector: https://namjulee.github.io/njs-lab-public/lab/lab-vector-&-point-discrete-design-data/vector  
+Vector: https://computationaldesign.tistory.com/39  
+
 
 **WORKSHOP**
 
@@ -336,9 +351,10 @@ LAB 03 - Mesh,
 
 
 ---
-# Module 04. Vector: Curve & Surface & Brep
+# Class 04. Vector: Curve & Surface & Brep
 
 
+https://computationaldesign.tistory.com/23  
 
 
 
@@ -467,10 +483,14 @@ LAB 03 - Mesh,
 * [CGAL](http://www.cgal.org/): The Computational Geometry Algorithms Library (CGAL) is developed through an international collaboration of researchers. While it heavily relies on C++ templates, which can make programming cumbersome, it offers considerable flexibility.
 
 * [Siggraph](http://www.siggraph.org/): Siggraph is one of the largest conferences on computer graphics, including design tools. It features an extensive archive of papers covering a wide range of technical topics and difficulty levels.
+
 ---
-# Module 05. OOP & Data Structure & Design Pattern
 
+# ..........................................................................................
 
+# Class 05. OOP & Data Structure & Design Pattern
+
+https://computationaldesign.tistory.com/23  
 
 ### LECTURE:
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
@@ -490,9 +510,10 @@ LAB 03 - Mesh,
 
 
 ---
-# Module 06. Discretization: Spatial Information 
+# Class 06. Discretization: Spatial Information 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
+
 
 
 ### LECTURE:
@@ -549,12 +570,16 @@ tetrahedralization
 ---
 ### REFERENCE:
 
+[Data Structure and Algorithm for Design and Research]
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
 
 ---
-# Module 07. Graph & Data Structures
+# Class 07. Graph & Data Structures
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)
+
+https://computationaldesign.tistory.com/56
 
 Graph & Tree & Network
 Keyword: graph, directed graphs, Associative geometry
@@ -661,7 +686,6 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 ### REFERENCE:
 * [graph-dynamics-demo](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/graph-dynamics-demo)
 
-
 * Lecture  
   * Graph - https://youtu.be/cUEQmPh57MU
   * Graph / 디자이너를 위한 파이썬 05 파이썬 그래프 - https://www.youtube.com/watch?v=Ux75z8sAnv4&list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd  
@@ -674,12 +698,18 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 
 * Numeric Network Analysis: Post-COVID-19 Urbanism, 6 ft rule - [link](https://nj-namju.medium.com/numeric-network-analysis-post-covid-19-urbanism-6-ft-rule-de267886b028)
 
+[Data Structure and Algorithm for Design and Research]
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
 ---
-# Module 08. Raster & Data Structure
 
+# ..........................................................................................
+
+# Class 08. Raster & Data Structure
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
+
+Color as design data - https://computationaldesign.tistory.com/17
 
 Raster: Color Computation & Bitmap
 
@@ -710,7 +740,7 @@ Raster: Color Computation & Bitmap
 
 
 
-# Module 09. Pixel and Voxel Map & Data Structure 
+# Class 09. Pixel and Voxel Map & Data Structure 
 
 
 ### LECTURE:
@@ -736,7 +766,7 @@ Raster: Color Computation & Bitmap
 * [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
 
 ---
-# Module 10. Computer Vision: Image & Video 
+# Class 10. Computer Vision: Image & Video 
 
 ### LECTURE:
 
@@ -750,9 +780,15 @@ Raster: Color Computation & Bitmap
 ---
 ### REFERENCE:
 
+[Data Structure and Algorithm for Design and Research]
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
 
-# Module 11. Dynamics & Optimization
+---
+
+# ..........................................................................................
+
+# Class 11. Dynamics & Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
 
@@ -804,7 +840,7 @@ Task 12: tensile structure
 * [Genetic Algorithm]https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm
 
 ---
-# Module 12. Digital Fabrication & Material & Robotics & Printing
+# Class 12. Digital Fabrication & Material & Robotics & Printing
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
 
@@ -823,7 +859,7 @@ Task 12: tensile structure
 ### LAB:
 
 
-# Module 13. Sound Signals
+# Class 13. Sound Signals
 https://computationaldesign.tistory.com/40
 
 
@@ -838,16 +874,13 @@ https://computationaldesign.tistory.com/40
 
 
 ---
-# Module 14. Introduction to Physical Computing
+# ..........................................................................................
+
+# Class 14. Introduction to Physical Computing
 This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
 
 	
 ### LECTURE:
-
----
-### SEMINAR:
- 
-
 
 ---
 ### LAB:
@@ -855,13 +888,11 @@ This course provides an introduction to the field of physical computing, where s
 
 ---
 ### REFERENCE :
-
 * Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
 
 
-
 ---
-# Module 15. Analytical model: Machine Learning 
+# Class 15. Analytical model: Machine Learning 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
@@ -990,8 +1021,12 @@ This course provides an introduction to the field of physical computing, where s
 * Module 3-02 
 
 
+* w3schools: AI - https://www.w3schools.com/ai/default.asp
+* Kaggle - https://www.kaggle.com/
+* Huggingface - https://huggingface.co/
+
 ---
-# Module 16. Generative model:  
+# Class 16. Generative model:  
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
@@ -1013,7 +1048,9 @@ Deep Learning
 
 
 ---
-# Module 17. Design Visualization & VR, AR, MR Development
+# ..........................................................................................
+
+# Class 17. Design Visualization & VR, AR, MR Development
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
 
 ### LECTURE:
@@ -1060,10 +1097,11 @@ Deep Learning
   * [post-production-harvard-gsd.github.com] - https://github.com/NamjuLee/post-production-harvard-gsd.github.com  
   * [Code-And-Design-CoreStudio-Workshop-Harvard-GSD] - https://github.com/NamjuLee/Code-And-Design-CoreStudio-Workshop-Harvard-GSD  
 
-
+* Kaggle - https://www.kaggle.com/
+* Huggingface - https://huggingface.co/
 
 ---
-# Module 18. Data Visualization & Digital Mapping
+# Class 18. Data Visualization & Digital Mapping
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/06_1500.gif)
 
@@ -1133,7 +1171,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Module 19. Design Algorithm & implementation
+# Class 19. Design Algorithm & implementation
 
 
 
@@ -1179,7 +1217,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Module 20. Environmental Data & Building Energy
+# Class 20. Environmental Data & Building Energy
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
 
@@ -1202,23 +1240,9 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Module 21. Digital Structure and Optimization
+# Class 21. Digital Structure and Optimization
 
-
-### LECTURE:
-
----
-### SEMINAR:
- 
----
-### LAB:
-
-
----
-### REFERENCE:
-
-
-# Module 22. GIS for Design
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/08_1500.gif)
 
 ### LECTURE:
 
@@ -1231,27 +1255,62 @@ LAB 03 - Visualization analysis methods and tools
 
 ---
 ### REFERENCE:
-
 * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/grid-optimizer
 
 
-
 ---
-# Module 23. CAD Application & Development
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)
+# Class 22. GIS for Design
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
 
 ### LECTURE:
-
 
 ---
 ### SEMINAR:
  
+---
+### LAB:
+
+
+---
+### REFERENCE:
+* https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
+* https://namjulee.github.io/njs-lab-public/lab/lab-digital-mapping
+
+
+
+
+---
+# ..........................................................................................
+
+# Class 23. CAD System Application & Development
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
+
+For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program.
+
+**Software Development - https://computationaldesign.tistory.com/40**  
+**Plugins / Addons - https://computationaldesign.tistory.com/36** 
+
+
+* LAB: CAD System & development
+* CAD STARTER Index: NJSLab Web Sandbox
+* PROJECT MODULE: selected works
+
+### LECTURE:
+* Pipeline: data / interaction
+* Graphics: 2D / 3D renderer, Windows, IOS, or Web environments
+
+---
+### SEMINAR:
+* Why we need to separate the pipeline?
+* Quality and Performance?
+
 
 ---
 ### LAB:  
 * iPhone / Mac / Windows  
 * Web Cad app
 * Plugin & Addon development
+* Rhino Web Viewer - https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/rhino-viewer?ui=0
 
 ---
 ### REFERENCE:
@@ -1263,58 +1322,38 @@ CAD System & development
   * User Interaction, CAD System - https://youtu.be/i4Tj93MZ0RA  
 
   * OpenTK For Standalone CAD Software - https://computationaldesign.tistory.com/40  
-    * 01. OpenTK For CAD Software 1: OpenTK Starter, Camera, Update, Render, Grid, Cube, Shader examples - https://youtu.be/qJspa10fSfs  
-    * 02. OpenTK Starter 2: NOpenGL Platform, Winform UI, MouseEvent, ActiveController, GeoCommon, RhinoCommon - https://youtu.be/3dQJBIvN3UQ  
+    * 01 OpenTK For CAD Software 1: OpenTK Starter, Camera, Update, Render, Grid, Cube, Shader examples - https://youtu.be/qJspa10fSfs  
+    * 02 OpenTK Starter 2: NOpenGL Platform, Winform UI, MouseEvent, ActiveController, GeoCommon, RhinoCommon - https://youtu.be/3dQJBIvN3UQ  
 
   * Web App For Standalone CAD Software - https://computationaldesign.tistory.com/40  
-    * Web App Starter: ThreeJS, TensorflowJS, Typescript Starter - https://youtu.be/jwLXqjb7SUY  
-    * Web App Starter: WebGL2, WebGPU, GLSL, TensorflowJS, Typescript Starter - https://youtu.be/gQtQbzviC14  
-    * Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System - https://youtu.be/vcV3mgyQXeQ  
+    * 01 Web App Starter: ThreeJS, TensorflowJS, Typescript Starter - https://youtu.be/jwLXqjb7SUY  
+    * 02 Web App Starter: WebGL2, WebGPU, GLSL, TensorflowJS, Typescript Starter - https://youtu.be/gQtQbzviC14  
+    * 03 Web App Starter: HTML Canvas, TensorflowJS, Typescript Starter for CAD and Design System - https://youtu.be/vcV3mgyQXeQ  
     * Desktop App Starter: Electron, HTML Canvas, TensorflowJS, Typescript for CAD and Design System - https://youtu.be/CO4rcb3d4lY  
 
-Plugin / Addon - https://computationaldesign.tistory.com/36  
+ * https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index
 
-* Rhino Web Viewer - https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/rhino-viewer?ui=0
 
+* Active Command - 엑티브 커멘드, CAD System - 캐드시스템 - https://youtu.be/36CfJdPngME
+* 마우스 이벤트, CAD System - 캐드시스템  - https://youtu.be/i4Tj93MZ0RA
 
 
 ---
-# Module 24. Project I
+# Class 24. Project I
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
+### WORKS:
+ 
 
-### LECTURE:
+
 
 
 ---
-### SEMINAR:
+# Class 25. Project II
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/15_1500.gif)
 
-
----
-### LAB:
-
-
----
-### REFERENCE:
-
-
-
----
-# Module 25. Project II
-
-
-### LECTURE:
-
----
-### SEMINAR:
+### WORKS:
  
----
-### LAB:
-
-
----
-### REFERENCE:
 
 
 
