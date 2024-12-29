@@ -236,16 +236,16 @@ Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Differen
 
 
 
-QnA 148 라이브 질의응답? 코드리뷰 esri 기획 구현 초보 파이썬
-QnA 147 디자이너로서 코딩 공부 어떻게?
+QnA 148 라이브 질의응답? 코드리뷰 esri 기획 구현 초보 파이썬  
+QnA 147 디자이너로서 코딩 공부 어떻게?  
 QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나?
 QnA 145 데이터 기반사회에서의 생산 수단, 시스템으로 일을 해야 한다, 나의 정신 무장과 마인드셋
 QnA 144 디자이너가 코딩 학습 중 번아웃이 올 때, 실력이 안 오를 때
-``
+
 QnA 142 건축사 질문 - 경쟁력, 지식의 복리, 가능성의 우주를 열자, 채널 시작 이유
 QnA 141 건축사로서 코딩학습범위 - 기성세대가 새로운 기술을 접할 때
 QnA 140 코딩 Coding 공부, 첫 달 무엇을 어떻게 할까? 이렇게 해보자!
-``
+
 
 QnA 137 50대 중반 건축사의 코딩 도전기, 컴퓨테이션이 이해되어 가는 과정 
 
@@ -502,34 +502,35 @@ Geometry For Design - https://computationaldesign.tistory.com/61
 
 ---
 # AI & ML for designers
-* LAb: https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-design
+Slides - https://docs.google.com/presentation/d/1R83_YHvkk1vc5u0ig3eXDEfEdIjt1XJO8Wg4tPfBaOc
+AI for designers - https://computationaldesign.tistory.com/55
+AI and Data for designer - https://computationaldesign.tistory.com/29
+LAb: https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-design  
 
-QnA 143 인공지능 어떻게 생각 하나요? AI인공지능으로 우리의 직업이 대체될 것인가?
-QnA 139 MBTI의 연역적 & 귀납적 설명 feat. 데이터, 머신러닝, AI, 소프트웨어 2.0 적인 사고
-QnA 138 Computational Thinking, Software 1.0 VS AI, Data-driven Thinking, Software 2.0
-QnA 135 소프트웨어 1.0적 사고 VS 소프트웨어 2.0적 사고, AI & Data for Design
-QnA 136 디자이너가 AI (데이터)를 바라볼 때
+* CD 54 도시 데이터 디자인에 적용하기 위한 도구에 대한 생각들 - https://youtu.be/8zQPY87OaVE  
+CD 53 도시 데이터 디자인에 적용하기 위한 전략에 대한 생각들 - https://youtu.be/WN6Ow0v-Nu8  
+CD 45 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML  
+CD 46 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o  
+CD 47 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=WSVEg2DMsYk  
 
-CD 54 도시 데이터 디자인에 적용하기 위한 도구에 대한 생각들 - https://youtu.be/8zQPY87OaVE
-CD 53 도시 데이터 디자인에 적용하기 위한 전략에 대한 생각들 - https://youtu.be/WN6Ow0v-Nu8
+* CD 49 인공지능을 디자인에 적용하기 위한 학습 전략  
+CD 50 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세  
+CD 51 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까?  
+CD 52 데이터를 이용한 실제 디자인 적용의 한계? 문제점? - https://youtu.be/EllPW61esoc  
 
+* QnA 143 인공지능 어떻게 생각 하나요? AI인공지능으로 우리의 직업이 대체될 것인가?  
+QnA 139 MBTI의 연역적 & 귀납적 설명 feat. 데이터, 머신러닝, AI, 소프트웨어 2.0 적인 사고  
+QnA 138 Computational Thinking, Software 1.0 VS AI, Data-driven Thinking, Software 2.0  
+QnA 135 소프트웨어 1.0적 사고 VS 소프트웨어 2.0적 사고, AI & Data for Design  
+
+* QnA 136 디자이너가 AI (데이터)를 바라볼 때  
+QnA 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...
 QnA 13 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
 QnA 46 AI, ML(머신러닝), GL(그래픽), CV(비전), 컴퓨테이셔널 전공을 시작하는 학생 질문 - https://youtu.be/xXai3P25CZA
 
-QnA 76 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝
+* QnA 76 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝
 QnA 77 Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문  
 
-QnA 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...
-
-CD 45 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML
-CD 46 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o
-CD 47 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=WSVEg2DMsYk
-
-CD 49 인공지능을 디자인에 적용하기 위한 학습 전략
-CD 50 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세
-CD 51 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까?
-
-CD 52 데이터를 이용한 실제 디자인 적용의 한계? 문제점? - https://youtu.be/EllPW61esoc
 
 ...
 
@@ -1098,7 +1099,11 @@ link: https://computationaldesign.tistory.com/4
 
 
 * Data & Design - https://computationaldesign.tistory.com/50
-* Computational Design Book - https://computationaldesign.tistory.com/49  
+* Level 1 Computational Design Book - https://computationaldesign.tistory.com/49  
+  * Level 2 - https://brunch.co.kr/@njnamju/110  
+  * Level 3 - https://brunch.co.kr/@njnamju/142  
+  * Level 4 - https://brunch.co.kr/@njnamju/64
+
 * 읽으면서 입문하는, 모두의 컴퓨테이셔널 디자인 인덱스 - https://computationaldesign.tistory.com/30
 * 2022 첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 코딩 소개, 다가오는 시대, 기회, 준비전략, 동기부여 그리고 멘탈리티 - https://computationaldesign.tistory.com/48
 * 2021 Introduction to Computational design - https://computationaldesign.tistory.com/37
@@ -1149,6 +1154,7 @@ link: https://computationaldesign.tistory.com/4
 * Rhino Grasshopper - https://computationaldesign.tistory.com/46  
 * Rhino Grasshopper Python Challenge https://computationaldesign.tistory.com/25
 * Rhino Python - https://computationaldesign.tistory.com/21
+* Rhino Python Playlist - https://www.youtube.com/playlist?list=PLweNVwGgDKEYVSpbRQuzG4zHLpnfd4sUU
 
 * Mapping & Data Visualization - http://bit.ly/2RTs1LG
 * Digital Mapping Workshop, Rhino Grasshopper & Python - https://computationaldesign.tistory.com/18
@@ -1177,7 +1183,6 @@ link: https://computationaldesign.tistory.com/4
 
 * Harvard GSD - https://computationaldesign.tistory.com/5 & http://bit.ly/392Ubtz  
 * MIT, SENSEable City Lab - https://computationaldesign.tistory.com/7 & http://bit.ly/393rpsW  
-
 
 
 ## Talk 

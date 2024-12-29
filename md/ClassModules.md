@@ -69,7 +69,7 @@ Overview: Introduction to Computation for Design I & II
     * Rhino 8 / Github Desktop  
     * Miniconda env  
     * Visual Studio Code / Visual Studio Community 2022  
-	
+	  * 2020 installation video: https://youtu.be/SKdtoNXHXlM?list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd
 
 * Python Programming
 	* Module 1-01 [Python basics](https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl)  
@@ -196,7 +196,7 @@ Lecture:
 
 ---
 # ..........................................................................................
-# Class 03. Vector: Data structure & Geometry & Visualization
+# Class 03. Vector: Vector & Point Data structure & Geometry
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vector.jpg)
 
@@ -348,10 +348,10 @@ LAB 03 - Mesh,
   * https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/raytracer?ui=0  
   * https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/raytracer-scene?ui=0  
 
-
+* Rhino Python Playlist - https://www.youtube.com/playlist?list=PLweNVwGgDKEYVSpbRQuzG4zHLpnfd4sUU
 
 ---
-# Class 04. Vector: Curve & Surface & Brep
+# Class 04. Vector: Line & Polyline & Curve & Surface & Brep
 
 
 https://computationaldesign.tistory.com/23  
@@ -473,6 +473,7 @@ LAB 03 - Mesh,
 
 
 
+
 ---
 ### REFERENCE:
 
@@ -490,7 +491,7 @@ LAB 03 - Mesh,
 
 # Class 05. OOP & Data Structure & Design Pattern
 
-https://computationaldesign.tistory.com/23  
+
 
 ### LECTURE:
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
@@ -501,16 +502,20 @@ https://computationaldesign.tistory.com/23
 ---
 ### LAB:
 
-
-
+* Python For Designers 04 Class 
+  * https://youtu.be/dy575QbFtFg  
+  * https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook/blob/master/Workshop_02_PythonClass.ipynb  
+  * https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook/blob/master/Workshop_03_PythonClassAdvanced.ipynb  
 ---
 ### REFERENCE:
 
+* Stack: https://github.com/NamjuLee/designComputation/blob/master/Stack.py  
+* Queue: https://github.com/NamjuLee/designComputation/blob/master/Queue.py  
 
-
+* NSolar: https://github.com/NamjuLee/designComputation/blob/master/NSolar.py  
 
 ---
-# Class 06. Discretization: Spatial Information 
+# Class 06. Discretization: Mesh & Partitions & Spatial Information 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
 
@@ -519,6 +524,7 @@ https://computationaldesign.tistory.com/23
 ### LECTURE:
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
 
+* Procedural Modeling 
 
 
 ### Meshes
@@ -574,9 +580,104 @@ tetrahedralization
 * Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
 
----
-# Class 07. Graph & Data Structures
+Voxel
+* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure.gh
+* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure%20.py
 
+
+Python For Designers 11 Json to SRT: https://youtu.be/op8OQzLTz20
+
+
+# ..........................................................................................
+
+# Class 07. Raster & Data Structure
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
+
+Color as design data - https://computationaldesign.tistory.com/17
+
+Raster: Color Computation & Bitmap
+
+### LECTURE:
+
+* Color spaces - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/color-space
+
+* NDVI(Normalized Difference Vegetation Index)
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* OpenCV  
+* Numerical Image Utility
+* Color space and Blending mode
+---
+### REFERENCE:
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+# Class 08. Pixel and Voxel Map & Data Structure 
+
+
+### LECTURE:
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* DEM to terrain  
+* Numerical landscape Utility
+
+
+* [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
+  * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
+  * A* algorithm: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star
+
+---
+### REFERENCE:
+
+* Pixel & Voxel - https://youtu.be/GmwvGd1HZ78
+
+* [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
+
+---
+# Class 09. Computer Vision: Image & Video 
+
+### LECTURE:
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+* Color space and Blending mode
+
+---
+### REFERENCE:
+
+[Data Structure and Algorithm for Design and Research]
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+
+
+
+
+# ..........................................................................................
+---
+# Class 10. Graph & Data Structures
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)
 
 https://computationaldesign.tistory.com/56
@@ -682,6 +783,7 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 * NNA2
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/04_1500.gif)
+
 ---
 ### REFERENCE:
 * [graph-dynamics-demo](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/graph-dynamics-demo)
@@ -693,6 +795,11 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
   * Graph to JSON/ 디자이너를 위한 파이썬 07 파이썬 그래프 JSON - https://www.youtube.com/watch?v=qs-N7wF6Pig&list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd  
   * Graph to CSV / 디자이너를 위한 파이썬 08 파이썬 그래프 CSV - https://www.youtube.com/watch?v=792H2-Ninug&list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd  
 
+
+Python Class & Graph  
+* Git: https://github.com/NamjuLee/Introduction-to-computational-design-python-notebook  
+* Youtube link: https://www.youtube.com/playlist?list=PLweNVwGgDKEYw_lL0Roe04kPhsUT9sSQd  
+
 * NNA: Numeric Network Analysis Tool — [link/download](https://www.food4rhino.com/en/app/numeric-network-analysis-nna)
 
 
@@ -701,93 +808,8 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 [Data Structure and Algorithm for Design and Research]
 * Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
----
-
-# ..........................................................................................
-
-# Class 08. Raster & Data Structure
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
-
-Color as design data - https://computationaldesign.tistory.com/17
-
-Raster: Color Computation & Bitmap
-
-### LECTURE:
 
 ---
-### SEMINAR:
- 
----
-### LAB:
-* OpenCV  
-* Numerical Image Utility
-* Color space and Blending mode
----
-### REFERENCE:
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Class 09. Pixel and Voxel Map & Data Structure 
-
-
-### LECTURE:
-
----
-### SEMINAR:
- 
----
-### LAB:
-* DEM to terrain  
-* Numerical landscape Utility
-
-
-* [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
-  * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
-  * A* algorithm: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star
-
----
-### REFERENCE:
-
-* Pixel & Voxel - https://youtu.be/GmwvGd1HZ78
-
-* [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
-
----
-# Class 10. Computer Vision: Image & Video 
-
-### LECTURE:
-
----
-### SEMINAR:
- 
----
-### LAB:
-* Color space and Blending mode
-
----
-### REFERENCE:
-
-[Data Structure and Algorithm for Design and Research]
-* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
-
-
----
-
-# ..........................................................................................
-
 # Class 11. Dynamics & Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
@@ -839,7 +861,10 @@ Task 12: tensile structure
 
 * [Genetic Algorithm]https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm
 
+
 ---
+
+# ..........................................................................................
 # Class 12. Digital Fabrication & Material & Robotics & Printing
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
@@ -859,13 +884,24 @@ Task 12: tensile structure
 ### LAB:
 
 
-# Class 13. Sound Signals
-https://computationaldesign.tistory.com/40
+---
+# Class 13. Introduction to Physical Computing
+This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
+	
+### LECTURE:
 
-
+---
 ### LAB:
 
+---
+### REFERENCE :
+* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
 
+
+# Class 14. Sound Signals
+https://computationaldesign.tistory.com/40
+
+### LAB:
 
 ### REFERENCE:
   - Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API  
@@ -875,24 +911,7 @@ https://computationaldesign.tistory.com/40
 
 ---
 # ..........................................................................................
-
-# Class 14. Introduction to Physical Computing
-This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
-
-	
-### LECTURE:
-
----
-### LAB:
-
-
----
-### REFERENCE :
-* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
-
-
----
-# Class 15. Analytical model: Machine Learning 
+# Class 15. Analytical model: Machine Learning ...
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
@@ -904,16 +923,10 @@ This course provides an introduction to the field of physical computing, where s
   * Classification -  
 
 
-
-
-
 - T-SNE visualization - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/storymaps-tsne-viz
-
-
 
 ---
 ### SEMINAR:
-
 
 * Linear Regression - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/js-linear-regression
 
@@ -1026,7 +1039,7 @@ This course provides an introduction to the field of physical computing, where s
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 16. Generative model:  
+# Class 16. Generative model: GAN, LLM ...
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
@@ -1170,10 +1183,9 @@ LAB 03 - Visualization analysis methods and tools
 
 
 
+# ..........................................................................................
 ---
 # Class 19. Design Algorithm & implementation
-
-
 
 
 ### LECTURE:

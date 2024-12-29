@@ -156,10 +156,13 @@ Workshop
 
 **WORKSHOP**
 
+Notebook  
+* Workshop_1_Python Basic.ipynb - https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl  
+* Workshop_2_Python Basic Data processing.ipynb - https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO  
+
 * Data processing, Data Type, Memory, Python, Numpy, Pandas library, ...
 
 * As a first step, We will learn the basic concept of programming, dealing with logical flows and data manipulation.
-
 
 LAB 01 - Python Basic, Condition & Loop, Primitive Data Structure 
 
