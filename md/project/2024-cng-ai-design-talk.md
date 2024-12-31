@@ -6,7 +6,13 @@
 
 [Download Presentation material](https://namjulee.github.io/njs-lab-public/project/2024-cng-ai-design-talk/2024-cng-ai-design-talk.pdf)
 
-[Presentation video]()
+
+[1. CNG TV 다시보기](https://www.cadgraphics.co.kr/newsview.php?pages=tv&sub=tv02&catecode=&num=656)
+[2. 유튜브 링크](https://youtu.be/0pBAAKY9zT4?si=tZRwZgy5py5OCjMI)
+[3. Q&A 방송 중 Q&A는 해당 링크에서 확인 가능합니다.](https://talkit.tv/Event/3124)
+[4. 관련 기사 링크](https://www.cadgraphics.co.kr/newsview.php?pages=news&sub=news01&catecode=2&num=75854)
+
+[Presentation video](https://youtu.be/0pBAAKY9zT4)
 
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2024-cng-ai-design-talk/2024-cng-ai-design-talk-1.jpg)
 ![Data in Design](https://namjulee.github.io/njs-lab-public/project/2024-cng-ai-design-talk/2024-cng-ai-design-talk-2.jpg)

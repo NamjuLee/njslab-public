@@ -10,31 +10,39 @@
 ---
 ## **[COURSEWORKS](https://namjulee.github.io/njs-lab-public/course)**
 - ### COURSE LEVEL 1, Numerical Description as Design Tools  
+  [Numerical Descriptions as Design Tools slides](https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0)  
   Introduction to Computational Design:  
   * **Keywords:** Python, Typescript, C#, Grasshopper, Geometry, Primitive data  
   * **Lecture**: Programming(C#, JAVA, Python, Typescript(Javascript)), Geometry(C# RhinoCommon, Python RhinoCommon)  
   * **Module**: 1-01, 1-02, 1-03, 1-04, 
 
 
+
 - ### COURSE LEVEL 2, Algorithm & Data Structure for Design & Research  
+  [Data Structure and Algorithm for Design and Research Slides](https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE)  
   Introduction to Advanced Computation for Design & Research:
   * **Keywords**: Spatial Data and Structure, Geometry, Custom data
   * **Lecture**: Programming & Code for Design process, Data Structures for Design  
   * **Module**: 2-02, 2-03, 2-04, 1-05
 
 
+
 - ### COURSE LEVEL 3, Data(AI) & Design(Research)  
+  [Data(AI) & Design(Research)](https://docs.google.com/presentation/d/1uM4dW0ff9jO1-FJPfij-Q3sJrhk-torNs6PebLxluJQ)  
   Data-driven design research, Data for Design(CAD, MLAD):  
   * **Keywords**: GIS for design, Urban data, Vector data, Raster data, Geometry
   * **Lecture**: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C  
   * **Module**: 3-02, 1-14, 1-15
 
 
+
 - ### COURSE LEVEL 4, Thesis: Design Research & Development
+  [Design & Research slides](https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8)  
   Data-driven design research, Data for Design(CAD, MLAD):  
   * **Keywords**: Architecture, Landscape Architecture, Urban Design, Product Design, UI UX …  
   * **Lecture**: Projects & Thesis, Research
   * **Module**: 1-20, 1-21
+
 
 
 ### Each module can
@@ -196,7 +204,7 @@ Lecture:
 
 ---
 # ..........................................................................................
-# Class 03. Vector: Vector & Point Data structure & Geometry
+# Class 03. Vector: Vector & Point Data structure
 
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vector.jpg)
 
@@ -353,19 +361,17 @@ LAB 03 - Mesh,
 ---
 # Class 04. Vector: Line & Polyline & Curve & Surface & Brep
 
-
 https://computationaldesign.tistory.com/23  
 
 
-
 ### CURVE
-Mathematics of curves
-Curves as graphs of functions: y=f(x)
-Numerical representations
-The discrete derivative
-Implicitly defined curves / contours
-Contours - marching cubes
-Recursive curves
+* Mathematics of curves
+* Curves as graphs of functions: y=f(x)
+* Numerical representations
+* The discrete derivative
+* Implicitly defined curves / contours
+* Contours - marching cubes
+* Recursive curves
  
 Dimension
 Integral curves
@@ -375,7 +381,6 @@ Curvature lines
 Tensor patterns app
 skeletonization
  
-
 
 Explicit curves: parametric representation
 The straight line
@@ -406,14 +411,15 @@ Intersections / overlaps
  
 
 ### Surface
-Mathematics of surfaces
+Mathematics of surfaces  
  
 Surfaces as graphs of functions of two variables:
-z=f(x,y)
-implicitly defined surfaces / onion skin contours
-Exponentially decaying fields
+* z=f(x,y)
+* implicitly defined surfaces / onion skin contours
+* Exponentially decaying fields
 
-Explicit surfaces: [parametric representation]
+
+* Explicit surfaces: [parametric representation]
 	the plane
 	the sphere
 	the cylinder
@@ -460,7 +466,8 @@ Explicit surfaces: [parametric representation]
 
 ---
 ### LECTURE: 
-
+* CD 1 Numerical Descriptions  as Design Tools 
+  * slides: https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0
 
 
 LAB 01 - Vector Data, Vector Point, 
@@ -476,6 +483,8 @@ LAB 03 - Mesh,
 
 ---
 ### REFERENCE:
+
+
 
 * [circle-packing-randomizing](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics) / [circle-packing-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics)
 
@@ -590,13 +599,21 @@ Python For Designers 11 Json to SRT: https://youtu.be/op8OQzLTz20
 
 # ..........................................................................................
 
-# Class 07. Raster & Data Structure
+# Class 07. Raster: Pixel & Color Data Structure & CV (Image & Video) 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
 Color as design data - https://computationaldesign.tistory.com/17
 
 Raster: Color Computation & Bitmap
+
+* Color Space: RGB, LAB, HSL ...
+* Blending mode
+* Color selection 
+* Indexing Remote Sensing
+
+
+
 
 ### LECTURE:
 
@@ -615,6 +632,9 @@ Raster: Color Computation & Bitmap
 ---
 ### REFERENCE:
 
+[Data Structure and Algorithm for Design and Research]  
+* Slides https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE  
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
 
 
@@ -629,7 +649,7 @@ Raster: Color Computation & Bitmap
 
 
 
-# Class 08. Pixel and Voxel Map & Data Structure 
+# Class 08. Raster: Pixel and Voxel Map & Data Structure 
 
 
 ### LECTURE:
@@ -654,30 +674,12 @@ Raster: Color Computation & Bitmap
 
 * [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
 
----
-# Class 09. Computer Vision: Image & Video 
-
-### LECTURE:
-
----
-### SEMINAR:
- 
----
-### LAB:
-* Color space and Blending mode
-
----
-### REFERENCE:
-
-[Data Structure and Algorithm for Design and Research]
-* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
-
 
 
 
 # ..........................................................................................
 ---
-# Class 10. Graph & Data Structures
+# Class 09. Graph & Data Structures
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)
 
 https://computationaldesign.tistory.com/56
@@ -686,9 +688,11 @@ Graph & Tree & Network
 Keyword: graph, directed graphs, Associative geometry
 
 
-
 ### LECTURE:
-* Discrete Urban Space and Connectivity - https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81, [njslab-link](https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity)
+* Discrete Urban Space and Connectivity - https://nj-namju.medium.com/discrete-urban-space-and-connectivity-492b3dbd0a81, 
+* [njslab-link](https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity)
+
+* https://brunch.co.kr/@njnamju/91
 
 Data Manipulation / Grasshopper Python
 Type of data
@@ -717,6 +721,7 @@ The structure of space
 1. Traversal Algorithms  
   * DFS (Depth-First Search) - Explores as far as possible along one path before backtracking. It uses recursion or a stack for implementation.
   * BFS (Breadth-First Search) - Explores all neighbors of a node before moving to the next level. Implemented using a queue and commonly used for finding the shortest path in an unweighted graph.
+  * https://codepen.io/NJStudio/pen/bGdozYY
 
 2. Shortest Path Algorithms
 https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-path-finding  
@@ -810,7 +815,7 @@ Python Class & Graph
 
 
 ---
-# Class 11. Dynamics & Optimization
+# Class 10. Dynamics & Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
 
@@ -865,7 +870,7 @@ Task 12: tensile structure
 ---
 
 # ..........................................................................................
-# Class 12. Digital Fabrication & Material & Robotics & Printing
+# Class 11. Digital Fabrication & Material & Robotics & Printing
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
 
@@ -885,25 +890,17 @@ Task 12: tensile structure
 
 
 ---
-# Class 13. Introduction to Physical Computing
+# Class 12. Introduction to Physical Computing (Sound Signals)
 This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
 	
 ### LECTURE:
 
 ---
-### LAB:
-
----
-### REFERENCE :
-* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
-
-
-# Class 14. Sound Signals
-https://computationaldesign.tistory.com/40
 
 ### LAB:
 
 ### REFERENCE:
+* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
   - Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API  
   - Pydub (Python Audio Library): https://pydub.com/
 
@@ -911,7 +908,7 @@ https://computationaldesign.tistory.com/40
 
 ---
 # ..........................................................................................
-# Class 15. Analytical model: Machine Learning ...
+# Class 13. Analytical model: Machine Learning ...
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
@@ -1039,21 +1036,25 @@ https://computationaldesign.tistory.com/40
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 16. Generative model: GAN, LLM ...
+# Class 14. Generative model: AE, GAN, Transformers ...
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
 ### LECTURE:
+* Autoencoder (AE)  
+* Generative Adversarial Networks (GAN)  
+* Diffusion Models  
+* Transformers (Generative Pretrained Models)  
 
 ---
 ### SEMINAR:
  
 ---
 ### LAB:
+* AE(Autoencoders)
 * GAN(Generative Adversarial Networks)
-* Autoencoders
 * Diffusion Models
-* Transformer
+* Transformer (Generative Pretrained Models) 
 
 ---
 ### REFERENCE:
@@ -1063,7 +1064,7 @@ Deep Learning
 ---
 # ..........................................................................................
 
-# Class 17. Design Visualization & VR, AR, MR Development
+# Class 15. Design Visualization & VR, AR, MR Development
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
 
 ### LECTURE:
@@ -1114,7 +1115,7 @@ Deep Learning
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 18. Data Visualization & Digital Mapping
+# Class 16. Data Visualization & Digital Mapping
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/06_1500.gif)
 
@@ -1185,7 +1186,7 @@ LAB 03 - Visualization analysis methods and tools
 
 # ..........................................................................................
 ---
-# Class 19. Design Algorithm & implementation
+# Class 17. Design Algorithm & implementation
 
 
 ### LECTURE:
@@ -1229,7 +1230,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Class 20. Environmental Data & Building Energy
+# Class 18. Environmental Data & Building Energy
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
 
@@ -1252,18 +1253,23 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Class 21. Digital Structure and Optimization
+# Class 19. Digital Structure and Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/08_1500.gif)
 
 ### LECTURE:
-
 ---
 ### SEMINAR:
  
 ---
 ### LAB:
+* Millipede - https://www.grasshopper3d.com/group/millipede  
 
+Millipede is a structural analysis and optimization component for grasshopper. It allows for very fast linear elastic analysis of frame and shell elements in 3d, 2d plate elements for in plane forces, and 3d volumetric elements. All systems can be optimized using built in topology optimization methods and have their results extracted and visualized in a variety of ways.  
+
+In addition millipede implements a few basic geometric features [extraction of iso surface meshes from volumetric scalar fields or and extraction of curved contours over any mesh] and a few numerical analysis tools [Fast fourier transforms in 1 and 2 dimensions, sparse linear system solver and eigenvalue calculation for large matrices using functionality from the intel math kernel library]  
+
+The new version of millipede includes the surface reparameterization module that enables the generation of vector field aligned patterns over any mesh. This functionality is particularly useful for the creation of principal stress aligned grid shells and reinforcement patterns.  
 
 ---
 ### REFERENCE:
@@ -1271,7 +1277,7 @@ LAB 03 - Visualization analysis methods and tools
 
 
 ---
-# Class 22. GIS for Design
+# Class 20. GIS for Design
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
 
 ### LECTURE:
@@ -1294,7 +1300,7 @@ LAB 03 - Visualization analysis methods and tools
 ---
 # ..........................................................................................
 
-# Class 23. CAD System Application & Development
+# Class 21. CAD System Application & Development
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program.
@@ -1351,8 +1357,10 @@ CAD System & development
 
 
 ---
-# Class 24. Project I
+# Class 22. Project I: Design & Research Project
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
+
+* Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
 ### WORKS:
  
@@ -1361,8 +1369,10 @@ CAD System & development
 
 
 ---
-# Class 25. Project II
+# Class 23. Project II: Thesis Project
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/15_1500.gif)
+
+* Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
 ### WORKS:
  
