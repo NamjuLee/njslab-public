@@ -99,6 +99,8 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 
 [Book, PPT] [Computational Design Software as tool](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30)  
 
+Data & Design - https://computationaldesign.tistory.com/50
+
 Overview: Introduction to Computation for Design I & II
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DesignScience.png)
@@ -124,10 +126,6 @@ Overview: Introduction to Computation for Design I & II
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/diagramDataType.png)
 
 
-
-
-
-
 ---
 ### LAB:
 * Software Installation: https://namjulee.github.io/njs-lab-public/installation  
@@ -151,6 +149,7 @@ Overview: Introduction to Computation for Design I & II
 ### REFERENCE:
 * Lecture  
 The introduction to the key topic: Data in Design, helps you understand the meaning of using data in the design process through several examples. 
+  * NJ's lecture series - https://computationaldesign.tistory.com/3
   * [Data in Design](https://medium.com/@nj-namju/data-design-c21457dc8dc)  
   * Computational Design: https://youtu.be/ggBVX5W-28c  
   * Parametric Design: https://youtu.be/LVybPm_VUhs   
@@ -361,8 +360,9 @@ Vector: https://computationaldesign.tistory.com/39
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/curveInterpolation.png)
 
-https://computationaldesign.tistory.com/23  
 
+
+Vector: Curve - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/line-curve 
 
 ### CURVE
 * Mathematics of curves / Curves as graphs of functions: y=f(x) / Numerical representations / The discrete derivative / Implicitly defined curves / contours / Contours - marching cubes / Recursive curves
@@ -508,6 +508,7 @@ LAB 03 - Mesh,
 ### LECTURE:
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
 
+* Vector: Surface & Brep - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/surface-brep
 
 ---
 ### SEMINAR:
@@ -526,12 +527,15 @@ LAB 03 - Mesh,
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-data-example.png)
 
+* Object-Oriented Programming & Data Structure and Processing - https://computationaldesign.tistory.com/71
+
 ### LECTURE:
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/OOP-data-small.gif)  
 
 
+Geometry class - https://computationaldesign.tistory.com/23  
 
 ---
 ### SEMINAR:
@@ -558,6 +562,7 @@ LAB 03 - Mesh,
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
 
+* Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh
 
 ### LECTURE:
 
@@ -606,7 +611,9 @@ LAB 03 - Mesh,
 # Class 08. Vector: Graph & Data Structures
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
-https://computationaldesign.tistory.com/56  
+Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
+
+* Discrete Urban Space and Connectivity - https://computationaldesign.tistory.com/56  
 
 Graph & Tree & Network  
 Keyword: graph, directed graphs, Associative geometry  

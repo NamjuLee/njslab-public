@@ -15,8 +15,10 @@ Numerical descriptions as Design tools
 * web: https://namjulee.github.io/njs-lab-public/work?id=2025-introductionToDesignComputation
 * git: https://github.com/NamjuLee/data-in-design
 
+
 **KEYWORD:**
 * Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine Learning, Artificial Intelligence, Visualization, Mapping, Design Decision-Making ...
+
 
 **SHORT DESCRIPTION:**
 * This course contains several introductory lectures and hands-on workshops for those who want to use data as design materials to develop and code the design process. 
@@ -30,9 +32,9 @@ Numerical descriptions as Design tools
 * In addition, it is also possible for an individual or group to focus on one of the primary topics and revisit other topics after the course based on the student's ability and expectations. It is yours if you are interested in data as a design material.
 
 
-
 **Course Overview / 수업개요**  
 * 4차 산업혁명은 데이터 기반 사회로의 본격적이고 명시적인 진입을 의미합니다. 이에 따라 디자이너에게 데이터에 대한 이해는 핵심적인 역량으로 자리 잡고 있습니다. '데이터와 디자인' 수업에서는 디자이너들이 데이터를 디자인의 재료로 이해하고 가공하는 방법을 학습하며, 이를 통해 디자인 프로세스를 코드화하는 개념을 익히게 됩니다. 특히 공간(디자인) 데이터를 다루고 가공하는 능력을 통해 데이터의 피상적 활용을 넘어, 보다 근본적이고 창의적인 데이터 활용을 목표로 합니다.
+
 
 **Course Objectives / 수업목표**  
 1. 컴퓨테이셔널 사고의 이해  
@@ -59,6 +61,7 @@ Numerical descriptions as Design tools
 8. 디자인 및 연구를 위한 CAD 도구와 알고리즘 개발  
   디자인 알고리즘을 개발하고, 디자인 연구와 프로젝트를 위한 맞춤형 도구를 설계 및 구현.
 
+
 **수업방법**
 * Lecture: 25~40%  
 * Seminar: 5~15%  
@@ -75,6 +78,7 @@ Numerical descriptions as Design tools
   1. 수업 태도와 과제 이행  
   2. 토론수업에서의 참여도와 이해도  
   3. 최종 프로젝트(디자인/글/알고리즘)  
+
 
 **Assignment / 과제**
 1. 요약  
@@ -122,7 +126,7 @@ Numerical descriptions as Design tools
 * Up to 10 students
 
 
----
+----
 **TOOL & SOFTWARE**
 
 * Programming Language: [Python](https://www.python.org/)([Anaconda](https://docs.anaconda.com/anaconda/install/index.html)), [Typescript](https://www.typescriptlang.org/)([Javascript](https://developer.mozilla.org/en-US/docs/Web/JavaScript))  
@@ -217,7 +221,7 @@ Introduction to Computation for Design 1 & 2
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/dataDesignSequence.jpg)
 
 1.1 수업
-	수업 - http://www.xxxxxx 
+    Data & Design - https://computationaldesign.tistory.com/50
   	컴퓨테이션 도구의 가능성과 한계 이해
   	컴퓨테이셔널 사고와 디자인 씽킹
   	파라메트릭, 제너레이티브, 에이전트, 인공지능(머신러닝) 기반 디자인
@@ -251,7 +255,7 @@ Introduction to Computation for Design 1 & 2
 
  	우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약 - https://namjulee.github.io/njs-lab-public/lecture?id=KbUSU8DVfpQ 
 
-
+  NJ's lecture series - https://computationaldesign.tistory.com/3 
 
 
 
@@ -312,7 +316,7 @@ Workshop
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
 
 2.1 수업
-	수업 - http://www.xxxxxx 
+	  Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54 
   	파이썬 프로그래밍
   	데이터 구조 이해
   	문제 정의와 해결
@@ -422,7 +426,7 @@ Workshop
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vector.jpg)
 
 3.1 수업
-	수업 - https://namjulee.github.io/njs-lab-public/lab/lab-vector-&-point-discrete-design-data/vector 
+	  Vector & Point - https://namjulee.github.io/njs-lab-public/lab/lab-vector-&-point-discrete-design-data/vector 
   	3-1. 벡터 계산
   	3-2. 분석적 기하학과 문제 해결
   	3-3. 포인트와 그리드 구조
@@ -563,7 +567,7 @@ Mesh
  
 
 ---
-# 4. Curve & Surface / 
+# 4. Vector: Line & Polyline & Curve & Surface
 ## 4. 커브 & 면
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/curve-data-1.gif)
 
@@ -574,7 +578,7 @@ Mesh
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-surface-02.gif)
 
 4.1 수업
-	수업 - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/line-curve 
+	  Vector: Curve - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/line-curve 
   	4-1. 라인, 폴리라인, 커브
   	4-2. 커브의 디자인 데이터
   	4-3. 원, 호 등의 기하학 생성과 수정
@@ -652,7 +656,7 @@ Intersections / overlaps
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
 
 5.1 수업
-	수업 - http://www.xxxxxx 
+	Vector: Surface & Brep - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/surface-brep
 	5-1. 면 생성 및 수정
 	5-2. 면과 비랩의 디자인 데이터 활용
 
@@ -741,7 +745,7 @@ LAB:
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/OOP-data-small.gif)  
 
 6.1 수업
-	수업 - http://www.xxxxxx 
+	Object-Oriented Programming & Data Structure and Processing - https://computationaldesign.tistory.com/71 
 	6-1. 객체지향 프로그래밍 이해와 구현, 디자인 패턴
 	6-2. 디자인 문제와 데이터 구조 설계
 
@@ -914,7 +918,7 @@ Video
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
 
 7.1 수업
-	수업 - http://www.xxxxxx 
+  Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh 
 	7-1. 공간 분할과 파티셔닝
 	7-2. 매쉬 오브젝트와 디자인 데이터
 	
@@ -956,7 +960,7 @@ Video
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
 8.1 과제
-	수업 - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity 
+	Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
 	8-1. 그래프 구조의 이해와 구현
 	8-2. 공간 정보의 그래프 표현과 공간 데이터 프로세스
 
@@ -971,7 +975,7 @@ Video
 8.5 참조
 	Graph: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node 
 
-
+  * https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity 
 
 ### LECTURE:
 Data Manipulation / Grasshopper Python
@@ -1004,7 +1008,9 @@ Mapping with Data
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
 9.1 수업
-	수업 - http://www.xxxxxx 
+	Raster: - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/raster 
+  [Data Structure and Algorithm for Design and Research] * Pixel & Voxel & Graph - https://namjulee.github.io/njs-lab-public/lab/lab-pixel-&-voxel-map-continuous-design-data/raster-pixel-voxel
+
 	9-1. 컬러, 이미지 데이터, 컴퓨터 비전
 	9-2. 픽셀과 복셀 구현 및 공간 데이터 프로세스
 
@@ -1062,9 +1068,15 @@ Vector and Raster as design data
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
 10.1 수업
-	링크 - https://computationaldesign.tistory.com/55 
+	AI for Designers - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-designers 
 	10-1. 귀납적 사고와 머신러닝
 	10-2. 문제 정의, 데이터 활용, 인공지능 모델 이해
+
+
+  
+
+* AI for designers - https://computationaldesign.tistory.com/55 
+* AI and Data for design - https://computationaldesign.tistory.com/29
 
 10.2 토론
 	인공지능과 디자인
@@ -1270,9 +1282,11 @@ LAB 02 - Boilerplate code and the pipeline
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 13.1 수업
-	수업 - http://www.xxxxxx 
+	수업 - https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index/cad-app-starter 
 	14-1. 디자인 소프트웨어의 이해
 	14-2. 연구 및 디자인 도구 개발
+
+
 
 13.2 토론
 
@@ -1302,7 +1316,6 @@ LAB 02 - Boilerplate code and the pipeline
 
 ---
 # 14. Project I 
-
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
 
@@ -1316,8 +1329,6 @@ Review works(Design / Writing / Algorithm)
 
 최종 프로젝트 발표 및 리뷰
 Present works(Design / Writing / Algorithm)
-
-
 
 
 

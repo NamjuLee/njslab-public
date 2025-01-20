@@ -1144,11 +1144,22 @@ link: https://computationaldesign.tistory.com/4
 * 알고리즘 & 디자인 / Algorithm & Design http://bit.ly/38W9GU2
 
 
-* Vector - https://computationaldesign.tistory.com/39  
-* Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure - https://computationaldesign.tistory.com/23  
+* Vector & Point - https://computationaldesign.tistory.com/39  
+* Vector: Line, Curve, Polyline - https://computationaldesign.tistory.com/64
+* Vector: Surface, Brep - https://computationaldesign.tistory.com/65
+* Vector: Discretization, Partitions, Mesh - https://computationaldesign.tistory.com/66
+* Vector: Graph - https://computationaldesign.tistory.com/72
+
+
 * Raster - https://computationaldesign.tistory.com/53
-* Color as design data - https://computationaldesign.tistory.com/17  
+* Color as design data - https://computationaldesign.tistory.com/17 
+
+
+* Object-Oriented Programming & Data Structure and Processing - https://computationaldesign.tistory.com/71
 * Geometry For Design - https://computationaldesign.tistory.com/61
+
+
+* Class Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure - https://computationaldesign.tistory.com/23  
 * Data Structure and Algorithm for Design and Research - https://computationaldesign.tistory.com/67
 
 
