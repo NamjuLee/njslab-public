@@ -1,14 +1,53 @@
-## COURSEWORKS & MODULES
-
-## Data in Design I & II
-* *Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
+# INDEX: KEY LECTURE SERIES: DATA & DESIGN & COMPUTATION
+[NJ Lecture Series slides](https://docs.google.com/presentation/d/1SojKNRjp6OYsPimU7JVNTgDfQL945tNs3Gqe9aDchr0)
 
 
-[web](https://namjulee.github.io/data-in-design/)
-[Github](https://github.com/NamjuLee/data-in-design)
+## COURSEWORKS & CLASS MODULES
+* CLASS MODULES: [Short slides](https://docs.google.com/presentation/d/1DGemUWP9oljep46wFKZi4WtDtfMIn-tTF0NpkqrftjQ) / [Long slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI)  
+* Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
+* [Chart](https://lucid.app/lucidspark/a5b884d3-1462-4b5d-b88a-fe1adad8753e/edit?viewport_loc=-1668%2C-268%2C2094%2C1202%2C0_0&invitationId=inv_24152cfa-a793-4ddc-b20e-1782df7d55f2)
+
+
+
 
 ---
-## **[COURSEWORKS](https://namjulee.github.io/njs-lab-public/course)**
+# CLASS LEVELS
+
+- ### CLASS A, Data & Design
+  Introduction to Data & Design with keywords and examples  
+  [Long](https://docs.google.com/presentation/d/1tPF9KJvEuXj8FRaWMVdRszQlwWd0OPLx_yc0eCnCPb4), [Short](https://docs.google.com/presentation/d/1oqQAL2OdkQdUWEeowyQQ8aTtCSTRnLrk5yx_En3jeKk)  
+  * **Keywords**: Design & Computation / Design Data & Data Structure,  
+  * **Lecture**: Project, Research - Data for Design(CAD: Computer-Aided Design, MLAD: Machine Learning-Aided Design), Data-driven design project & research for Architecture, Landscape Architecture, Urban Design, Product Design, UI UX
+  * Data & Design [Eng](https://namjulee.github.io/njs-lab-public/lecture?id=VC-cLerlm4s)
+  * Data & Design [Kor](https://namjulee.github.io/njs-lab-public/lecture?id=7HwlZaJrTEI)
+
+- ### CLASS B, Visual Computation for Design
+  Introduction to Data & Design, from A to Z with visual materials  
+  [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit)  
+  * **Keywords**: Visual computational design for designers  
+  * **Lecture**: Key concepts, Geometry and Data structure, Computational Thinking  
+
+- ### CLASS C, Introduction to Computation and Design 
+   Introduction to Computational Design:  
+  [Slides](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ)  
+   * **Keywords**: Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm  
+   Research An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now.  
+  * [BOOK]Computational Design [linkA](https://brunch.co.kr/@njnamju/144), [inkB](https://computationaldesign.tistory.com/49)
+
+- ### CLASS D, Visual AI(ML) for Design,
+  Introduction to Data & Design, Visual AI-aided Design for Designers  
+  [Slides](https://docs.google.com/presentation/d/1R83_YHvkk1vc5u0ig3eXDEfEdIjt1XJO8Wg4tPfBaOc)  
+
+- ### CLASS E, Introduction to Data for Designers
+  Introduction to Data & Design  
+  [Slides](https://docs.google.com/presentation/d/18PrUkiv0poCMrtBJ3g9ZNm4qXRP1HBnwWV9r30N0BlM)  
+  * **Keywords**: Design engineering, Data science for design, Data-driven design research, Data for Design(AIAD: Artificial Intelligence-Aided Design, MLAD: Machine Learning-Aided Design)
+  * **Lecture**: Projects & Thesis, Research
+  * [Link](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
+
+
+
+# COURSE LEVEL
 - ### COURSE LEVEL 1, Numerical Description as Design Tools  
   [Numerical Descriptions as Design Tools slides](https://docs.google.com/presentation/d/12Fvr7xqVUvritQkrvpQOypxDYMGndN2tek1JjYTRtx0)  
   Introduction to Computational Design:  
@@ -34,7 +73,7 @@
   * **Lecture**: DATA IN DESIGN & AI FOR URBAN DATA & VISUALIZATION C  
   * **Module**: 3-02, 1-14, 1-15
 
-
+- [Data & Design, AI for Urban Data and Visualization, JTerm, Harvard GSD](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
 
 - ### COURSE LEVEL 4, Thesis: Design Research & Development
   [Design & Research slides](https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8)  
@@ -45,14 +84,16 @@
 
 
 
-### Each module can
+---
+### Each module
 Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advanced levels.
 * 1-01: Beginner level
 * 2-01: Intermediate level
 * 3-01: Advanced level
 
----
 
+# ..........................................................................................
+---
 # Class 01. Data & Design: Code for Design
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/dataDesignSequence.jpg)
 
@@ -60,16 +101,32 @@ Each module can be tailored to suit: 1) beginner, 2) intermediate, or 3) advance
 
 Overview: Introduction to Computation for Design I & II
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DesignScience.png)
+
 ### LECTURE:
 * Introduction Computation for Design
 * Data as Materials for design
 * Code for design
 ---
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/computationalThinking.png)
+
 ### SEMINAR:
 * [Book] Computational Design - https://brunch.co.kr/@njnamju/144  
   - CHAPTER 1 재료, 도구, 디자인 Material & Tool & Design - [link](https://youtu.be/Sq1jF7Chd_s)  
   - CHAPTER 2 디자이너에게 코딩이란 Coding for Designers - [link](https://youtu.be/RcZcLn2Wqjw?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
   - CHAPTER 3 코딩 & 컴퓨테이셔널 디자인 활용 - [link](https://www.youtube.com/watch?v=KpwoyUMkjkQ&list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)
+
+* Procedural Modeling / Parametric Modeling / Generative Modeling
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/diagramDataType.png)
+
+
+
+
+
 
 ---
 ### LAB:
@@ -113,6 +170,9 @@ The introduction to the key topic: Data in Design, helps you understand the mean
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/programming.jpg)
 
 Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54  
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/programmingParadigm.png)
 
 ### LECTURE:
 * Data in Design at Scale https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_46  
@@ -212,6 +272,7 @@ Vector: https://namjulee.github.io/njs-lab-public/lab/lab-vector-&-point-discret
 Vector: https://computationaldesign.tistory.com/39  
 
 
+---
 **WORKSHOP**
 
 
@@ -224,125 +285,61 @@ Vector: https://computationaldesign.tistory.com/39
   * https://namjulee.github.io/njs-lab-public/lab/njs-lab-factory-tools-&-utils/bezier-interpolation  
 
 
-* Mathematical Curves 
+* Coordinate System
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/coordinateSystem.png)
 
-* Parametric Curves
+* Transform
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/transformMat.png)
 
-#### Vector and Raster as design data
+* Distance
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/distanceMeasures.png)
 
-![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vectorRaster-1.jpg)
 
-**LECTURE** 
 
-* Understanding the tool for qualification and quantification is crucial for using data as design material. We will learn basic design and how to decompose design elements as vector and raster data. In addition, it can allow us to think and set up the design process.
+
 
 ---
 ### SEMINAR:
 * [Book] Computational Design - https://brunch.co.kr/@njnamju/144  
   - CHAPTER 
  
+##### Vector and Raster as design data
 
-### Transformations
-Transformation
-Move , rotate, scale : a language
+![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vectorRaster-1.jpg)
 
-Geometric invariants
-Translation
-Rotation
-Isotropic Scaling
-Anisotropic scaling
-Shear transformations
-Perspective distortion
-Topology preserving non-linear transformations
-General non-linear transformations
-Non geometric transformations
-Linear transformations
-Affine Transformations
-Non-Linear Transformations
+**LECTURE** 
+* Understanding the tool for qualification and quantification is crucial for using data as design material. We will learn basic design and how to decompose design elements as vector and raster data. In addition, it can allow us to think and set up the design process.  
+
+* Analytical Geometry
+  * keyword: From geometric constructions to algebraic expressions / Distance - proximity, metric / Coordinate systems
+    Points and vectors / Numerical representation of vectors / Length / Multiplication by a number(scalar) / Unit Vectors / Addition of vectors / The dot product / The cross product / Vectors as differences of points  
+
+* Common geometry problems  
+  Distance between two points / Angle between vectors / Angle of triangle / Area of triangles / Triangle unit normal / Projection of point of line / Projection of point to plane / Point at a distance d along line between 2 points / Mid-point / Linear interpolation between two points / Center of triangle / Center of point cloud
+  Barycentric coordinates / Homogeneous coordinates  
  
-Inverse transformations
- 
-Active / passive transformations
- 
-The shape of transformations , Iterated function systems
- 
-
-Nested transformations and hierarchies [inverse
-kinematics and robotics]
-
-Math and RhinoCommon Specific
-
-### Analytical Geometry
-From geometric constructions to algebraic expressions
-Distance / proximity , metric
-Coordinate systems
-Points and vectors
-Points
-Vectors
-Numerical representation of vectors
-Length
-Multiplication by a number[scalar]
-Unit Vectors
-Addition of vectors
-The dot product
-The cross product
-Vectors as differences of points
-Common geometry problems
-Distance between two points
-Angle between vectors
-Angle of triangle
-Area of triangles
-Triangle unit normal
-Projection of point of line
-Projection of point to plane
-Point at a distance d along line between 2 points
-Mid-point
-Linear interpolation between two points
-Center of triangle
-Center of point cloud
-General notes
-Barycentric coordinates
-Homogeneous coordinates
- 
-
-Geometry Manipulation / Grasshopper
-Vector
- 
-1d
-Curve / R1 space projection
-2d
-Surface / R2 space projection
-3d
-Brep / Decompose
-Mesh
+  1D / Curve / R1 space projection  
+  2D / Surface / R2 space projection  
+  3D / Brep / Decompose / Mesh  
 
 
-
-----
-
- 
+* Transformations: Move, rotate, scale
+  * keyword: Geometric invariants / Translation / Rotation / Isotropic Scaling / Anisotropic scaling / Shear transformations / Perspective distortion / Topology preserving non-linear transformations / General non-linear transformations / Non geometric transformations / Linear transformations / Affine Transformations / Non-Linear Transformations / Inverse transformations / Active / passive transformations / the shape of transformations / Iterated function systems / Nested transformations and hierarchies [inverse kinematics and robotics]
 
 
 ---
 ### LECTURE: 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-1D.gif)
 * Geometry data
     * Vector / Line / Polyline / Curve
 
-
-
-LAB 01 - Vector Data, Vector Point, 
-LAB 02 - Line, Polyline, Polygon, 
-LAB 03 - Mesh, 
-
-
-
-
-
 ---
 ### LAB: 
-* Vector /
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-2D-grid.gif)
+* Vector
+  Addition / Dot product / Cross Product
 
-
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-2D.png)
 
 ---
 ### REFERENCE:
@@ -358,57 +355,58 @@ LAB 03 - Mesh,
 
 * Rhino Python Playlist - https://www.youtube.com/playlist?list=PLweNVwGgDKEYVSpbRQuzG4zHLpnfd4sUU
 
+
 ---
-# Class 04. Vector: Line & Polyline & Curve & Surface & Brep
+# Class 04. Vector: Line & Polyline & Curve
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/curveInterpolation.png)
 
 https://computationaldesign.tistory.com/23  
 
 
 ### CURVE
-* Mathematics of curves
-* Curves as graphs of functions: y=f(x)
-* Numerical representations
-* The discrete derivative
-* Implicitly defined curves / contours
-* Contours - marching cubes
-* Recursive curves
- 
-Dimension
-Integral curves
-Gradient curves
-Stress lines
-Curvature lines
-Tensor patterns app
-skeletonization
- 
+* Mathematics of curves / Curves as graphs of functions: y=f(x) / Numerical representations / The discrete derivative / Implicitly defined curves / contours / Contours - marching cubes / Recursive curves
 
-Explicit curves: parametric representation
-The straight line
-The circle
-The helix
-Drawing parameterized curves
-Parameterization
-Evaluation of curve in Rhino common
-Closest point query [inversion]
-Tangent
-Length
-Osculation plane and the binormal
-Osculation circle
-Principal normal
-Curvature
-Moving frame
-Torsion
+  ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/curve-data-1.gif)
+
  
-Natural equations
+* Dimension / Integral curves / Gradient curves / Stress lines / Curvature lines / Tensor patterns app / skeletonization
+
+* Mathematical Curves 
+
+* Parametric Curves
+
+* Explicit curves: parametric representation
+  * The straight line
+  * The circle
+  * The helix
+
+* Drawing parameterized curves  
+* Parameterization  
+  ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/curve-data-2.gif)
+
+
+* Evaluation of curve in Rhino common
+  * Closest point query [inversion]
+  Tangent
+  Length
+  Osculation plane and the binormal
+  Osculation circle
+  Principal normal
+  Curvature
+  Moving frame
+  Torsion
  
-Fitting curves
-Interplation curves
-Nurbbs Bexier and splines
-NURBS
-Descrete curves [the polyline]
+* Natural equations
  
-Intersections / overlaps
- 
+* Fitting curves
+* Interplation curves
+* Nurbbs Bexier and splines
+* NURBS
+* Descrete curves [the polyline]
+* Intersections / overlaps
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-surface-01.gif)   
 
 ### Surface
 Mathematics of surfaces  
@@ -456,12 +454,14 @@ Surfaces as graphs of functions of two variables:
 	nurbs surfaces
 
 
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-surface-02.gif)
+
 #### Vector Data and Data Structure
 * Numerical Geometry Utility  
 * Digital Fabrication: Architecture Compiler, unfold and slice   
 * Robot: 
 * ML model  
-
 
 
 ---
@@ -475,35 +475,63 @@ LAB 02 - Line, Polyline, Polygon,
 LAB 03 - Mesh, 
 
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-1D.png)
+
+
+
+
+
+
 ---
 ### LAB: 
-
-
+  * Parametric Curve , t value, end point, start point, domain, interval, Tangent, Length, Principal normal, Curvature
 
 
 ---
 ### REFERENCE:
 
 
-
 * [circle-packing-randomizing](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics) / [circle-packing-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics)
-
-
 
 * [CGAL](http://www.cgal.org/): The Computational Geometry Algorithms Library (CGAL) is developed through an international collaboration of researchers. While it heavily relies on C++ templates, which can make programming cumbersome, it offers considerable flexibility.
 
 * [Siggraph](http://www.siggraph.org/): Siggraph is one of the largest conferences on computer graphics, including design tools. It features an extensive archive of papers covering a wide range of technical topics and difficulty levels.
 
+
+
 ---
+# Class 05. Surface & Brep
 
-# ..........................................................................................
-
-# Class 05. OOP & Data Structure & Design Pattern
-
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-01.gif)  
 
 
 ### LECTURE:
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
+
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+### REFERENCE:
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-2D.png)  
+
+# ..........................................................................................
+
+# Class 06. OOP & Data Structure & Design Pattern
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-component-centric.png)
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-data-example.png)
+
+### LECTURE:
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/OOP-data-small.gif)  
+
+
 
 ---
 ### SEMINAR:
@@ -523,50 +551,29 @@ LAB 03 - Mesh,
 
 * NSolar: https://github.com/NamjuLee/designComputation/blob/master/NSolar.py  
 
+
+# ..........................................................................................
 ---
-# Class 06. Discretization: Mesh & Partitions & Spatial Information 
+# Class 07. Discretization: Mesh & Partitions & Spatial Information 
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
 
 
-
 ### LECTURE:
-* 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
 
-* Procedural Modeling 
+* Meshes
+  Faces and Vertices / Edges / Topological properties / Euler Characteristic / Meshes as approximations of surfaces / normals / CW and CCW / discrete curvature / Non Manifold meshes / Meshes as spatial information storage schemes
 
+* Some algorithms involving meshes
+  flattening / smoothing / Laplacian, iterative relaxation schemes / offset / The distance map / interpolation
+* Lighting / Normal colour map / Paint on mesh / Half edge data structure
 
-### Meshes
+* Brep: Boundary representation
+  Trimming boundaries / Offset / meshing and discretization
 
-Faces and Vertices
-Edges
-Topological properties
-Euler Characteristic
-Meshes as approximations of surfaces
-normals
-CW and CCW
-discrete curvature
-Non Manifold meshes
-Meshes as spatial information storage schemes
+* Tetrahedralization
 
-Some algorithms involving meshes
-flattening
-	smoothing / Laplacian, iterative relaxation schemes
-	offset
-	The distance map
-	interpolation
-	Lighting
-	Normal colour map
-	Paint on mesh
-Half edge data structure
-
-
-Boundary representations Breps
-Trimming boundaries
-Offset
-meshing and discretization
-
-tetrahedralization
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/partition.png)
 
 * Partitions
 	* quad and octrees
@@ -575,117 +582,34 @@ tetrahedralization
 
 
 ---
-### SEMINAR:
- 
----
 ### LAB:
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/mehs-01.gif)
 
 
 
 ---
 ### REFERENCE:
 
-[Data Structure and Algorithm for Design and Research]
-* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay
 
-
-Voxel
-* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure.gh
-* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure%20.py
-
-
-Python For Designers 11 Json to SRT: https://youtu.be/op8OQzLTz20
-
-
-# ..........................................................................................
-
-# Class 07. Raster: Pixel & Color Data Structure & CV (Image & Video) 
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
-
-Color as design data - https://computationaldesign.tistory.com/17
-
-Raster: Color Computation & Bitmap
-
-* Color Space: RGB, LAB, HSL ...
-* Blending mode
-* Color selection 
-* Indexing Remote Sensing
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay3
 
 
 
 
-### LECTURE:
 
-* Color spaces - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/color-space
 
-* NDVI(Normalized Difference Vegetation Index)
+* Python For Designers 11 Json to SRT: https://youtu.be/op8OQzLTz20
+
 
 ---
-### SEMINAR:
- 
----
-### LAB:
-* OpenCV  
-* Numerical Image Utility
-* Color space and Blending mode
----
-### REFERENCE:
+# Class 08. Vector: Graph & Data Structures
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
-[Data Structure and Algorithm for Design and Research]  
-* Slides https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE  
-* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+https://computationaldesign.tistory.com/56  
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-# Class 08. Raster: Pixel and Voxel Map & Data Structure 
-
-
-### LECTURE:
-
----
-### SEMINAR:
- 
----
-### LAB:
-* DEM to terrain  
-* Numerical landscape Utility
-
-
-* [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
-  * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
-  * A* algorithm: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star
-
----
-### REFERENCE:
-
-* Pixel & Voxel - https://youtu.be/GmwvGd1HZ78
-
-* [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life
-
-
-
-
-# ..........................................................................................
----
-# Class 09. Graph & Data Structures
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)
-
-https://computationaldesign.tistory.com/56
-
-Graph & Tree & Network
-Keyword: graph, directed graphs, Associative geometry
+Graph & Tree & Network  
+Keyword: graph, directed graphs, Associative geometry  
 
 
 ### LECTURE:
@@ -693,29 +617,6 @@ Keyword: graph, directed graphs, Associative geometry
 * [njslab-link](https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity)
 
 * https://brunch.co.kr/@njnamju/91
-
-Data Manipulation / Grasshopper Python
-Type of data
-GeoJSON / JSON / CSV / XML
-Processing
-parsing/sorting / data binning / statistical
-Visualization
-Node / Edge / Area
-Mapping with Data
-
-
-topological operators
-
-
-The city as a graph
-	centrality and space syntax
-
-Representing structural information
-
-
-
-The structure of space  
-	implicit partitions
 
 
 1. Traversal Algorithms  
@@ -754,8 +655,7 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 7. Other Notable Algorithms
 * Pagerank - Measures the importance of nodes in a network; famously used in Google’s early search engine.
 * Centrality Measures - Identifies important nodes in a network, e.g., Degree Centrality, Closeness Centrality, Betweenness Centrality.
-* Graph Coloring -Assigns colors to nodes such that no two adjacent nodes share the same color, often used in scheduling problems.
-
+* Graph Coloring -Assigns colors to nodes such that no two adjacent nodes share the same color, often used in scheduling problems.  
 
 * Network analysis:
   * Centrality Analysis - Degree, Betweenness, Closeness, Eigenvector(위에서 설명).
@@ -764,6 +664,7 @@ Traveling Salesman Problem (TSP) - https://namjulee.github.io/njs-lab-public/lab
 
 ---
 ### SEMINAR:
+* 워크숍 질문, 00 Python For Designers 05 Graph - https://youtu.be/TcSf2bJtZis  
 
 * Node: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node?ui=1
 * Node Interaction: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node-interaction?ui=1
@@ -813,102 +714,91 @@ Python Class & Graph
 [Data Structure and Algorithm for Design and Research]
 * Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
 
-
----
-# Class 10. Dynamics & Optimization
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
-
-Dynamics
-	
-### LECTURE:
+* Geeks for geeks: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/
 
 
----
-### SEMINAR:
- 
----
-### LAB:
-
-Task 1: particle [the node class]
-Task 2: particle group [the graph class]
-Task 3: gravity
-Task 4: boundary collision
-Task 5: trajectories
-Task 6: edges
-Task 7: spring forces
-Task 8: boundary conditions
-Task 9: grid
-Task 10: fabric
-Task 11: curtain
-Task 12: tensile structure
-
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/09_1500.gif)
-
----
-### REFERENCE:
-
-* 컴퓨테이셔널디자인 58 컴퓨테이션은 자동화 매크로를 위한것? - https://youtu.be/hyXnhfhC2Bs
-
-* [boid](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boid) / [boid system](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystem01) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander0) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander1)
-
-* [mesh-network](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-network ) /  [mesh-grid-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-grid-dynamics)
-
-
-* [truss-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/truss-structure) / [grid-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/grid-structure) / [network-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/network-structure) / [tensile-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/tensile-structure) / [curtain-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/curtain-structure) / [thread-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/thread-structure) / [particle-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/particle-structure)
-
-* [rect-pos-opti](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/rect-pos-opti) / [rect-pos-graph](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/rect-pos-graph)
-
-
-* [circle-packing-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics)
-
-
-* [Genetic Algorithm]https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm
-
-
----
 
 # ..........................................................................................
-# Class 11. Digital Fabrication & Material & Robotics & Printing
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
+# Class 09. Raster: Pixel & Color Data Structure & CV(Computer Vision) for Image Video
 
-	
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
+
+Color as design data - https://computationaldesign.tistory.com/17
+
+Raster: Color Computation & Bitmap
+
+* Color Space: RGB, LAB, HSL ...
+* Blending mode
+* Color selection 
+* Indexing Remote Sensing
+
+
+
+
 ### LECTURE:
 
+* Color spaces - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/color-space
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/11_1500.gif)
-
----
-### SEMINAR:
- 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/13_1500.gif)
+* NDVI(Normalized Difference Vegetation Index)
 
 ---
 ### LAB:
-
-
+* OpenCV  
+* Numerical Image Utility
+* Color space and Blending mode
 ---
-# Class 12. Introduction to Physical Computing (Sound Signals)
-This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
-	
-### LECTURE:
-
----
-
-### LAB:
-
 ### REFERENCE:
-* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
-  - Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API  
-  - Pydub (Python Audio Library): https://pydub.com/
+
+[Data Structure and Algorithm for Design and Research]  
+* Slides https://docs.google.com/presentation/d/1U8xiRZOFEHYvtTBsPODQvpDHl6OuwFYA4dgPSeUVCLE  
+* Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+
+
+
+
+---
+# Class 10. Raster: Pixel and Voxel Map & Data Structure 
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/raster-Pixel-Voxel.gif)
+
+
+### LECTURE:
+* [Data Structure and Algorithm for Design and Research]
+  Pixel & Voxel & Graph - https://computationaldesign.tistory.com/67
+
+
+ 
+---
+### LAB:
+* DEM to terrain  
+* Numerical landscape Utility
+
+
+* [Path-finding](https://en.wikipedia.org/wiki/Pathfinding#:~:text=Pathfinding%20or%20pathing%20is%20the,path%20on%20a%20weighted%20graph.)
+  * Dijkstra: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/dijkstras-algorithm
+  * A* algorithm: https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star
+
+---
+### REFERENCE:
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/raster-pixelMap.gif)
+
+* Pixel & Voxel - https://youtu.be/GmwvGd1HZ78  
+
+* [Game of Life](https://en.wikipedia.org/wiki/Conway%27s_Game_of_Life): https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/game-of-life  
+
+* Geeks for geeks: https://www.geeksforgeeks.org/graph-data-structure-and-algorithms/  
+
+Voxel
+* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure.gh
+* https://github.com/NamjuLee/designComputation/blob/master/VoxelDataStructure%20.py
 
 
 
 ---
 # ..........................................................................................
-# Class 13. Analytical model: Machine Learning ...
+# Class 11. Analytical model: Machine Learning ...
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
@@ -965,6 +855,8 @@ This course provides an introduction to the field of physical computing, where s
 * NJC QnA 143 인공지능 어떻게 생각 하나요? AI 인공지능으로 우리의 직업이 대체될 것인가? - https://youtu.be/E7fJJdx3fHQ
 * QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나? - https://youtu.be/8N18SM9IkL4
 
+* Kaggle - https://www.kaggle.com/
+* Huggingface - https://huggingface.co/
 
 #### 5. Introduction to AI models and Implementations
 
@@ -1036,7 +928,7 @@ This course provides an introduction to the field of physical computing, where s
 * Huggingface - https://huggingface.co/
 
 ---
-# Class 14. Generative model: AE, GAN, Transformers ...
+# Class 12. Generative model: AE, GAN, Transformers ...
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/05_1500.gif)
 
 Deep Learning
@@ -1063,59 +955,111 @@ Deep Learning
 
 ---
 # ..........................................................................................
+# Class 13. Design Algorithm & implementation
 
-# Class 15. Design Visualization & VR, AR, MR Development
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DataStructure.png)
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/StackQueue.png)
+
+### LECTURE:
+* Geometry Algorithm for design and process
+* Environmental Data & Building Energy
+
+---
+### SEMINAR:
+ 
+---
+### LAB:
+
+* Delaunay  
+  * 2D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay
+  * 3D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay3
+
+* alpha-shape: https://en.wikipedia.org/wiki/Alpha_shape  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/alpha-shape
+
+
+
+* Six Degrees of Kevin Bacon - https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon 
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/baconslaw  
+  * https://www.acmicpc.net/problem/1389  
+
+
+* Wolf, goat and cabbage problem
+  * https://www.acmicpc.net/problem/1012  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/cabbage  
+  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/numofarea  
+
+* Maze exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/mazeexit  
+* Fire exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/fireexit  
+* Unit Moving https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/  
+
+
+* tile: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/tile  
+
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/okviri  
+
+* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/koze  
+
+
+---
+
+
+---
+# Class 14. Dynamics & Optimization
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
+
+Dynamics
+	
 ### LECTURE:
 
 
 ---
 ### SEMINAR:
  
-
 ---
-### LAB:  
-* Unity & ~~Unreal~~: Real time graphics, pipeline, GLSL shader ...
-  * 1 Interface: UI, View Control
-  * 2 Component: Parameter, AttachComponent, Transform, Instantiate & Destroy, Debug & Gizmo & Visualization
-  * 3 Interaction: Mouse event, Raycast, Picking & Rigidbody, Collision, Keyboard Event, Keyboard and Collision
-  * 4 Data: Import CSV file, Import CSV by URL, Import JSON by URL, Rest API, Import OBJ, Import Image
-  * 5 Mesh: Mesh Basic, Mesh(Bunny) from OBJ, Grid(Field) System and Interpolating data
-  * 6 Examples: GeoJson and Visualization(with OpenWeather Rest API)
+### LAB:
 
-* 3D Rendering, Animation, Editing and Effecting for image and video
-  * 3D Studio Max, Rhino, AfterEffect
-  * 3d modeling, lighting, animation, rendering... 
+* Task 1: particle [the node class]
+  Task 2: particle group [the graph class]
+  Task 3: gravity
+  Task 4: boundary collision
+  Task 5: trajectories
+  Task 6: edges
+  Task 7: spring forces
+  Task 8: boundary conditions
+  Task 9: grid
+  Task 10: fabric
+  Task 11: curtain
+  Task 12: tensile structure
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/09_1500.gif)
 
 ---
 ### REFERENCE:
 
-* [Demo] Design Visualization - https://computationaldesign.tistory.com/11
+* 컴퓨테이셔널디자인 58 컴퓨테이션은 자동화 매크로를 위한것? - https://youtu.be/hyXnhfhC2Bs
 
-* Introduction to Design Visualization [video](https://youtu.be/3VeLfmt2N-0)  
-  * 3D, Rendering, Animation - https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/  
-  * Post-production - https://namjulee.github.io/post-production-harvard-gsd.github.com/  
+* [boid](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boid) / [boid system](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystem01) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander0) / [boid system wander](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boidsystemwander1)
 
-* Immersive Environmental Information Visualization  
-  * git - https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization
+* [mesh-network](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-network ) /  [mesh-grid-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/mesh-grid-dynamics)
 
 
-* [git] 
-  * [Harvard-GSD-Workshop] - https://github.com/NamjuLee/Harvard-GSD-Workshop  
-  * [SmallEnvironment] - https://github.com/NamjuLee/SmallEnvironment  
-  * [NJSUnityUtility] - https://github.com/NamjuLee/NJSUnityUtility
-  * [Introduction to Design Visualization] - https://github.com/NamjuLee/IntroductionToDesignVisualization  
-  * [3D-Visualization] - https://github.com/NamjuLee/3D-Visualization  
-  * [Ant-For-Building-Animation_Alpah_0.1.0] - https://github.com/NamjuLee/Ant-For-Building-Animation_Alpah_0.1.0   
-  * [post-production-harvard-gsd.github.com] - https://github.com/NamjuLee/post-production-harvard-gsd.github.com  
-  * [Code-And-Design-CoreStudio-Workshop-Harvard-GSD] - https://github.com/NamjuLee/Code-And-Design-CoreStudio-Workshop-Harvard-GSD  
+* [truss-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/truss-structure) / [grid-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/grid-structure) / [network-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/network-structure) / [tensile-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/tensile-structure) / [curtain-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/curtain-structure) / [thread-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/thread-structure) / [particle-structure](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/particle-structure)
 
-* Kaggle - https://www.kaggle.com/
-* Huggingface - https://huggingface.co/
+* [rect-pos-opti](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/rect-pos-opti) / [rect-pos-graph](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/rect-pos-graph)
+
+
+* [circle-packing-dynamics](https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/circle-packing-dynamics)
+
+
+* [Genetic Algorithm]https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm
 
 ---
-# Class 16. Data Visualization & Digital Mapping
+# ..........................................................................................
+# Class 15. 3D & Data Visualization & Digital Mapping
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/06_1500.gif)
 
@@ -1173,96 +1117,93 @@ LAB 03 - Visualization analysis methods and tools
 
 
 
-
-
 * git
   * [Data Visualization] - https://github.com/NamjuLee/Data-Visualization
   * [Data Pre Processing] - https://github.com/NamjuLee/Data-Pre-Processing  
   * 
 
+# Class 16. Immersive experience & design visualization: VR, AR, MR Development
 
-
-
-
-# ..........................................................................................
 ---
-# Class 17. Design Algorithm & implementation
+### LAB:  
+* Unity & ~~Unreal~~: Real time graphics, pipeline, GLSL shader ...
+  * 1 Interface: UI, View Control
+  * 2 Component: Parameter, AttachComponent, Transform, Instantiate & Destroy, Debug & Gizmo & Visualization
+  * 3 Interaction: Mouse event, Raycast, Picking & Rigidbody, Collision, Keyboard Event, Keyboard and Collision
+  * 4 Data: Import CSV file, Import CSV by URL, Import JSON by URL, Rest API, Import OBJ, Import Image
+  * 5 Mesh: Mesh Basic, Mesh(Bunny) from OBJ, Grid(Field) System and Interpolating data
+  * 6 Examples: GeoJson and Visualization(with OpenWeather Rest API)
 
+
+### REFERENCE:  
+* Immersive Environmental Information Visualization  
+  * git - https://github.com/NamjuLee/DigitalFUTURES-Immersive-Environmental-Information-Visualization
+
+---
+
+# Class 17. Design Visualization & Animation
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/14_1500.gif)
 
 ### LECTURE:
-* Geometry Algorithm for design and process
+
 
 ---
 ### SEMINAR:
  
----
-### LAB:
-
-* Delaunay  
-  * 2D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay
-  * 3D: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/delaunay3
-
-* alpha-shape: https://en.wikipedia.org/wiki/Alpha_shape  
-  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/alpha-shape
-
-
-
-* Six Degrees of Kevin Bacon - https://en.wikipedia.org/wiki/Six_Degrees_of_Kevin_Bacon 
-  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/baconslaw  
-  * https://www.acmicpc.net/problem/1389  
-
-
-* Wolf, goat and cabbage problem
-  * https://www.acmicpc.net/problem/1012  
-  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/cabbage  
-  * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/numofarea  
-
-* Maze exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/mazeexit  
-* Fire exit: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/fireexit  
-* Unit Moving https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/  
-
-
-* tile: https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/tile  
-
-* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/okviri  
-
-* https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/koze  
-
 
 ---
-# Class 18. Environmental Data & Building Energy
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
-
-
-
-### LECTURE:
-
-
----
-### SEMINAR:
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/15_1500.gif)
-
-
----
-### LAB:
-
+### LAB:  
+* 3D Rendering, Animation, Editing and Effecting for image and video
+  * 3D Studio Max, Rhino, AfterEffect
+  * 3d modeling, lighting, animation, rendering... 
 
 ---
 ### REFERENCE:
 
+* [Demo] Design Visualization - https://computationaldesign.tistory.com/11
+
+* Introduction to Design Visualization [video](https://youtu.be/3VeLfmt2N-0)  
+  * 3D, Rendering, Animation - https://namjulee.github.io/3d-visualization-harvard-gsd.github.com/  
+  * Post-production - https://namjulee.github.io/post-production-harvard-gsd.github.com/  
+
+* [git] 
+  * [Harvard-GSD-Workshop] - https://github.com/NamjuLee/Harvard-GSD-Workshop  
+  * [SmallEnvironment] - https://github.com/NamjuLee/SmallEnvironment  
+  * [NJSUnityUtility] - https://github.com/NamjuLee/NJSUnityUtility
+  * [Introduction to Design Visualization] - https://github.com/NamjuLee/IntroductionToDesignVisualization  
+  * [3D-Visualization] - https://github.com/NamjuLee/3D-Visualization  
+  * [Ant-For-Building-Animation_Alpah_0.1.0] - https://github.com/NamjuLee/Ant-For-Building-Animation_Alpah_0.1.0   
+  * [post-production-harvard-gsd.github.com] - https://github.com/NamjuLee/post-production-harvard-gsd.github.com  
+  * [Code-And-Design-CoreStudio-Workshop-Harvard-GSD] - https://github.com/NamjuLee/Code-And-Design-CoreStudio-Workshop-Harvard-GSD  
+
+---
+# ..........................................................................................
+# Class 18. Introduction to GIS for Design
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
+
+
+### REFERENCE:
+* https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
+* https://namjulee.github.io/njs-lab-public/lab/lab-digital-mapping
+
 
 
 ---
-# Class 19. Digital Structure and Optimization
+# Class 19. Digital Fabrication & Material & Robotics & Printing
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/10_1500.gif)
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/11_1500.gif)
+ 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/13_1500.gif)
+
+
+
+---
+# Class 20. Digital Structure and Optimization
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/08_1500.gif)
 
-### LECTURE:
----
-### SEMINAR:
- 
----
-### LAB:
 * Millipede - https://www.grasshopper3d.com/group/millipede  
 
 Millipede is a structural analysis and optimization component for grasshopper. It allows for very fast linear elastic analysis of frame and shell elements in 3d, 2d plate elements for in plane forces, and 3d volumetric elements. All systems can be optimized using built in topology optimization methods and have their results extracted and visualized in a variety of ways.  
@@ -1271,28 +1212,19 @@ In addition millipede implements a few basic geometric features [extraction of i
 
 The new version of millipede includes the surface reparameterization module that enables the generation of vector field aligned patterns over any mesh. This functionality is particularly useful for the creation of principal stress aligned grid shells and reinforcement patterns.  
 
----
+
 ### REFERENCE:
 * https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/grid-optimizer
 
-
 ---
-# Class 20. GIS for Design
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png) 
+# Class 21. Introduction to Physical Computing (Sound Signals)
 
-### LECTURE:
+This course provides an introduction to the field of physical computing, where students learn how to interface with the physical world using sensors, actuators, and microcontrollers. Through practical, hands-on projects, students will develop foundational skills in electronics, programming, and system design, creating interactive systems that bridge the gap between the digital and physical worlds.
 
----
-### SEMINAR:
- 
----
-### LAB:
-
-
----
 ### REFERENCE:
-* https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/
-* https://namjulee.github.io/njs-lab-public/lab/lab-digital-mapping
+* Arduino Tutorials - https://www.arduino.cc/en/Tutorial/HomePage
+  - Web Audio API: https://developer.mozilla.org/en-US/docs/Web/API/Web_Audio_API  
+  - Pydub (Python Audio Library): https://pydub.com/
 
 
 
@@ -1300,7 +1232,7 @@ The new version of millipede includes the surface reparameterization module that
 ---
 # ..........................................................................................
 
-# Class 21. CAD System Application & Development
+# Class 22. Research & Design Tools: CAD System Application & Development
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 For those who aspire to become professional computational designers and wish to develop design solutions or software, create plugins or add-ons, or turn design algorithms into libraries—this workshop chapter is highly recommended. It’s also perfect for anyone looking to go beyond existing commercial software environments and develop their own design program.
@@ -1321,6 +1253,10 @@ For those who aspire to become professional computational designers and wish to 
 ### SEMINAR:
 * Why we need to separate the pipeline?
 * Quality and Performance?
+
+* CD 39 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://youtu.be/D9Gi7X6jaIk  
+  CD 40 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전) - https://youtu.be/wLnUSKaQksM  
+  CD 42 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼) - https://youtu.be/1oxR8G51TjQ  
 
 
 ---
@@ -1351,37 +1287,33 @@ CAD System & development
 
  * https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index
 
-
 * Active Command - 엑티브 커멘드, CAD System - 캐드시스템 - https://youtu.be/36CfJdPngME
 * 마우스 이벤트, CAD System - 캐드시스템  - https://youtu.be/i4Tj93MZ0RA
 
 
+
 ---
-# Class 22. Project I: Design & Research Project
+# Class 23. Project I: Design & Research Project
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
 
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
-### WORKS:
+### REFERENCE:
  
-
-
+* 조경, 컴퓨테이션, 그리고 논문 준비(전체 버전) - https://youtu.be/jRh7kzbxRRI
+* QnA 115 연구를 위한 알고리즘 구현과 시각화 소프트웨어 활용 - https://youtu.be/F-e8ulEnLNA 
 
 
 ---
-# Class 23. Project II: Thesis Project
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/15_1500.gif)
-
+# Class 24. Project II: Thesis Project
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
 
-### WORKS:
+* Design Project:  
+* Research Project:  
+* Writing:  
+* Design Algorithm  
+...
  
-
-
-
-
-
-
 
 
 
@@ -1426,5 +1358,5 @@ QnA: Design and Computation - https://computationaldesign.tistory.com/2
 
 
 ---
-
+* w3schools - https://www.w3schools.com/
 * Baekjoon - https://www.acmicpc.net/

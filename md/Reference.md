@@ -4,8 +4,12 @@ link: [https://www.youtube.com/c/CodeforDesign](https://www.youtube.com/c/Codefo
 
 * This is a project aimed at educating and introducing coding to designers. While coding may seem unfamiliar to many designers, it is undoubtedly a part of the inevitable future. By preparing for this future, designers can gain more diverse experiences, enhance their competitiveness, and contribute to elevating the standards of the coding and design industries as a whole. This project has been ongoing since 2018, driven by the vision of a more integrated and forward-thinking design landscape.
 
-* C21 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data - https://youtu.be/bNv4GwQOmpg  
+* CD 21 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data - https://youtu.be/bNv4GwQOmpg  
 
+
+## Key index
+  * Key Lectures for Data & Design & Computation - https://computationaldesign.tistory.com/68
+  * QnA - https://computationaldesign.tistory.com/2
 
 ---
 
@@ -14,15 +18,13 @@ link: [https://www.youtube.com/c/CodeforDesign](https://www.youtube.com/c/Codefo
 
 * Insta - https://www.instagram.com/computation_lecture_snippet/
 
+
+
 * Open Lectures: NJ Channel 컨텐츠 & 학습 자료 인덱스 - https://computationaldesign.tistory.com/43
   * Brunch index - https://brunch.co.kr/@njnamju/64
-  * Key Lectures for Data & Design & Computation - https://computationaldesign.tistory.com/68
-
   * Data & Design - https://computationaldesign.tistory.com/50
   * Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54
   * Computational Design / Creative Coding / 컴퓨테이셔널 디자인 강의 인덱스 - https://computationaldesign.tistory.com/3
-
-  * QnA - https://computationaldesign.tistory.com/2
   * Research - https://computationaldesign.tistory.com/10
   * LAB Reference https://namjulee.github.io/njs-lab-public/lab
 
@@ -64,14 +66,14 @@ link: [https://www.youtube.com/c/CodeforDesign](https://www.youtube.com/c/Codefo
 
 
 # Code for Design Group
-Code for Design: Design & Computation  
+Code for Design: Design & Computation:  
+I have been actively involved in lectures, consulting, workshops, and research and development in areas such as Coding for Designers, Creative Coding, and Computational Design, both domestically and internationally. Through various channels, I have been sharing educational resources with students and professionals alike. Coding for designers remains a relatively unfamiliar and uncharted territory, not only in Korea but also globally. This is especially true for Korean-language learning materials, which are still scarce. With the hope of making even a small contribution, I have been dedicated to sharing these resources. The courses I offer include ones that are already complete, some that are being continuously updated, and others that are planned for future release.
 * Kakao group - https://open.kakao.com/o/g9lXR2hb
 * Slack - https://join.slack.com/t/codefordesign-dht5990/shared_invite/zt-14jqa3nur-bg1ogu0ePYS0ewmWzU8zaA
 * Discord - https://discord.gg/fVPs9Vcf
 * Naver Cafe - https://cafe.naver.com/codefordesign
 * Code For Design Group Meeting - https://computationaldesign.tistory.com/12
 
-I have been actively involved in lectures, consulting, workshops, and research and development in areas such as Coding for Designers, Creative Coding, and Computational Design, both domestically and internationally. Through various channels, I have been sharing educational resources with students and professionals alike. Coding for designers remains a relatively unfamiliar and uncharted territory, not only in Korea but also globally. This is especially true for Korean-language learning materials, which are still scarce. With the hope of making even a small contribution, I have been dedicated to sharing these resources. The courses I offer include ones that are already complete, some that are being continuously updated, and others that are planned for future release.
 
 
 # QnA
@@ -86,113 +88,114 @@ link : https://computationaldesign.tistory.com/2
 # ..........................................................................................
 # Data & Design 
 
-* CD 00 데이터 & 디자인 / Data & Design / Computational Design 한국어 강의
+* CD 00 데이터 & 디자인 / Data & Design / Computational Design 한국어 강의 - https://youtu.be/7HwlZaJrTEI 
 * CD 59 buildSMART Conference 2024 - https://youtu.be/K0Y20rPuoJs  
-* CD 60 GIS Data & Design, FOSS4G Conference - https://youtu.be/wQ2YsPgMT1A
+* CD 60 GIS Data & Design, FOSS4G Conference - https://youtu.be/wQ2YsPgMT1A  
 
-* CD 57 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 3/3 - https://youtu.be/BQw14LAewGQ
-* CD 56 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 2/3 - https://youtu.be/v_ojQIBqkEc
-* CD 55 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 1/3 - https://youtu.be/wjp2l5chVeU
+* CD 57 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 3/3 - https://youtu.be/BQw14LAewGQ  
+* CD 56 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 2/3 - https://youtu.be/v_ojQIBqkEc  
+* CD 55 STUDIO7,8 공주대학교 건축학부 4학년 건축 컴퓨팅 특강 1/3 - https://youtu.be/wjp2l5chVeU  
 
-
+* CD 27 SA 7.0 Lecture 1. Data & Design - https://youtu.be/573kuU1kt-w   
+* CD 28 SA 7.0 Lecture 2. Computational Thinking For Designer - https://youtu.be/fuz4NLiK0i0
+* CD 29 SA 7.0 Lecture 3. CAD data pipeline - https://youtu.be/n7qvjYWHyRs 
+* CD 30 SA 7.0 Lecture 4. Discrete Urban Space and Connectivity (Graph) - https://youtu.be/BctlL6jQU64 
+* CD 31 SA 7.0 Lecture 5. Geometry as data and Visualization - https://youtu.be/h4fOgldMuNs 
 
 ---
 
 # Coding & Design
+* QnA 90 나는 NJ 채널을 이렇게 활용한다! 컴퓨테이셔널 학습 방법 공유 - https://youtu.be/ekEfPpb1GG4  
 
-QnA 01 어느 고등학생의 질문 / 건축 파라메트릭 디자인 예제  
-QnA 02 건축가의 일반적인 질문 2차 (건축 컴퓨팅 실무)  
-QnA 04 건축 컴퓨팅을 공부하고 싶으신 건축가 형님과의 대화  
+* QnA 01 어느 고등학생의 질문 / 건축 파라메트릭 디자인 예제 - https://youtu.be/azGuRfMs_Ww  
+QnA 02 건축가의 일반적인 질문 2차 (건축 컴퓨팅 실무) - https://youtu.be/Dl0G18-Oy0Q  
+QnA 04 건축 컴퓨팅을 공부하고 싶으신 건축가 형님과의 대화 - https://youtu.be/jImnnKyLzz0  
 
-QnA 05 코딩과 건축 컴퓨팅에 관심이 많으신 건축가 형님과의 대화  
-QnA 06 건축가의 일반적인 질문 (건축 컴퓨팅 실무응용)  
-QnA 10 어떤 젊은 건축 디자이너의 질문  
+* QnA 05 코딩과 건축 컴퓨팅에 관심이 많으신 건축가 형님과의 대화 - https://youtu.be/qi0BNhFGQsI  
+QnA 06 건축가의 일반적인 질문 (건축 컴퓨팅 실무응용) - https://youtu.be/-lhfcRCiVRM  
+QnA 10 어떤 젊은 건축 디자이너의 질문 - https://youtu.be/-ojbiCZ4K6Q  
 
-QnA   
-QnA 14 복셀(Voxel)과 컴퓨테이셔널 디자인 그리고 건축 디자인  
-QnA 15 파라메트릭(Parametric Design)과 미적분  
-QnA 16 시각디자인 학생의 질문, 데이터 시각화, 크리에이티브 코딩, 테크니컬 아티스트  
+* QnA 14 복셀(Voxel)과 컴퓨테이셔널 디자인 그리고 건축 디자인 - https://youtu.be/XWTBonLhWLg  
+QnA 15 파라메트릭(Parametric Design)과 미적분 - https://youtu.be/QtM-b3GguEg  
+QnA 16 시각디자인 학생의 질문, 데이터 시각화, 크리에이티브 코딩, 테크니컬 아티스트 - https://youtu.be/WTsg7M1hU5k  
 
-QnA 18 파라메트릭 디자인 배우려면 어디서부터 어떻게 시작해야 하나요?  
-QnA 20 5G 기술과 건축산업(설계 협업 및 시각화 VR), 정말 유용 하나?  
-QnA 30 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근할까?  
+* QnA 18 파라메트릭 디자인 배우려면 어디서부터 어떻게 시작해야 하나요? - https://youtu.be/YJGgB8IdRY0  
+QnA 20 5G 기술과 건축산업(설계 협업 및 시각화 VR), 정말 유용 하나? - https://youtu.be/nwmOpudYm8M  
+QnA 30 대학생의 질문, 대학교, 대학원, 파라메트릭 디자인 스튜디오 어떻게 접근할까? - https://youtu.be/nv38UUQleiI  
 
-QnA 48 스페셜리스트가 되기 위한 어느 학부생의 전공 고민  
-QnA 49 조경전공 학생의 질문, 컴퓨테이셔널 디자인 공부 팁  
-QnA 54 건축 랜더링 전문가를 위한 코딩 공부 방법, 테크트리 Feat. VR/AR  
+* QnA 48 스페셜리스트가 되기 위한 어느 학부생의 전공 고민 - https://youtu.be/sVbgMLF--7U  
+QnA 49 조경전공 학생의 질문, 컴퓨테이셔널 디자인 공부 팁 - https://youtu.be/bwVtpiAPps4  
+QnA 54 건축 랜더링 전문가를 위한 코딩 공부 방법, 테크트리 Feat. VR/AR - https://youtu.be/6az4QmuLQ5c  
 
-QnA 55 디자인/코딩, 저작권과 표절 그리고 개인적인 생각  
-QnA 56 건축 컴퓨테이셔널 디자인 활용?, 응용범위?, 일련의 사고방식?  
-QnA 57 코딩 공부의 마음가짐, 워크숍 파일 공유 안 하는 이유!? 
+* QnA 55 디자인/코딩, 저작권과 표절 그리고 개인적인 생각 - https://youtu.be/O-Tm04pc5ag  
+QnA 56 건축 컴퓨테이셔널 디자인 활용?, 응용범위?, 일련의 사고방식? - https://youtu.be/yqxFz75Kqbw  
+QnA 57 코딩 공부의 마음가짐, 워크숍 파일 공유 안 하는 이유!? - https://youtu.be/jRgsZ8WU3Tc   
 
-QnA   
-QnA 58 디자이너가 코딩 공부를 시작하는, 가장 현실적인 방법!  
-QnA 59 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들  
-QnA 60 초등학생 코딩 교육, 그리고 인공지능에 없어질 미래 직업과 나의 전략?  
+* QnA 58 디자이너가 코딩 공부를 시작하는, 가장 현실적인 방법! - https://youtu.be/PhCfI4hHUVw  
+QnA 59 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들 - https://youtu.be/b-KqUEIWUWE  
 
-QnA 61 컴퓨테이셔널 디자인 교육, 코딩 교육, 누가 가르쳐야 하나? feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함.  
-QnA 62 건축학과 복수전공, 컴퓨터공학 복수전공 어떻게 생각하나?  
-QnA 63 건축학 진로 고민 전공(복전)과 나의 비전  
+* QnA 60 초등학생 코딩 교육, 그리고 인공지능에 없어질 미래 직업과 나의 전략? - https://youtu.be/pS0N_EKjdG4  
 
-QnA 69 학부생의 질문, 공부방법, 기초의 중요성, 스튜디오 베이스 수업의 주의점, 트렌드의 주의점  
-QnA 70 건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인  
-QnA 71 학부생 질문 건축의 보수성, 컴퓨테이셔널 디자인 직업군, 그리고 10년 후  
+* QnA 61 컴퓨테이셔널 디자인 교육, 코딩 교육, 누가 가르쳐야 하나? feat. 데이터 스트럭쳐를 만들 수 있는 자에 한함. - https://youtu.be/  
+* QnA 62 건축학과 복수전공, 컴퓨터공학 복수전공 어떻게 생각하나? - https://youtu.be/zzBp9_RpI6g  
+* QnA 63 건축학 진로 고민 전공(복전)과 나의 비전 - https://youtu.be/mypxBGFz9H4  
 
-QnA 73 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위?  
-QnA 78 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design  
-QnA 79 컴퓨테이셔널 디자인을 더 잘하고 싶은 건축디자인 실무자의 질문  
+* QnA 69 학부생의 질문, 공부방법, 기초의 중요성, 스튜디오 베이스 수업의 주의점, 트렌드의 주의점 - https://youtu.be/_13DvoZH52w  
+* QnA 70 건축학과 2학년의 질문, 건축 디자인, 자퇴, 전과, 컴공, 그리고 컴퓨테이셔널 디자인 - https://youtu.be/1PdnYFzc9cQ  
+* QnA 71 학부생 질문 건축의 보수성, 컴퓨테이셔널 디자인 직업군, 그리고 10년 후 - https://youtu.be/A2_zqtZ6Q  
 
-QnA 80 컴퓨테이셔널 디자인을 준비하는 제품 디자인 실무자의 질문 - https://youtu.be/2dD5QwBZgjk  
-QnA 84 건축학과 2학년의 질문, 컴퓨테이셔널 디자인 어떻게, 이해하고, 공부하고, 적용할까?  
-QnA 85 건축학부2 컴퓨테이셔널 디자인에 대한 3가지 질문  
+* QnA 73 컴퓨테이셔널 디자인, 코딩의 영역은? 데이터베이스? 서버? 개발의 전반적인 부분? 우선순위? - https://youtu.be/DemUqEa9wy4  
+QnA 78 석사 유학생의 질문(논문)과 개인적인 생각 feat. Gamification, Voxel, Computational Design - https://youtu.be/S0awJ3lYJQc  
+QnA 79 컴퓨테이셔널 디자인을 더 잘하고 싶은 건축디자인 실무자의 질문 - https://youtu.be/zgxmTSsMVaY  
 
-QnA 86 맴버쉽오피스아워그라스하퍼, 파이썬 kicdt  
-QnA 87 맴버쉽오피스아워 학부생 질문, 유학, MIT, 준비 방법과 마인드 셋  
-QnA 88 라이노(Rhino Common API) C# API 질문, 공부 방법, 범위, 지속 가능한 학습  
+* QnA 80 컴퓨테이셔널 디자인을 준비하는 제품 디자인 실무자의 질문 - https://youtu.be/2dD5QwBZgjk
+QnA 84 건축학과 2학년의 질문, 컴퓨테이셔널 디자인 어떻게, 이해하고, 공부하고, 적용할까? - https://youtu.be/DVtI14sr9IA  
+QnA 85 건축학부2 컴퓨테이셔널 디자인에 대한 3가지 질문 - https://youtu.be/WCPVviEryPU  
 
-QnA 93 맴버쉽오피스아워 - 데이터, 알고리즘, 학습방법, 기술과 디자인을 볼 때  
-QnA 94 맴버쉽오피스아워, 제품 디자인 학부생과 대화 그리고 컴퓨테이셔널 디자인  
-QnA 95 컴퓨테이셔널 사고 / 이분법적 접근 말자 / 문제 해결 방법  
+* QnA 86 맴버쉽오피스아워그라스하퍼, 파이썬 kicdt - https://youtu.be/yaFLnlcLWg8  
+QnA 87 맴버쉽오피스아워 학부생 질문, 유학, MIT, 준비 방법과 마인드 셋 - https://youtu.be/9TM52K8Mnlk   
+QnA 88 라이노(Rhino Common API) C# API 질문, 공부 방법, 범위, 지속 가능한 학습 - https://youtu.be/137m3xmdJmM   
 
-QnA 96 치열하게 유지하는 방법 / 딥 팅킹 / 메타인지 / 언어와 지능  
-QnA 97 처음코딩을공부하는디자이너에게  
-QnA 98 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해  
+* QnA 93 맴버쉽오피스아워 - 데이터, 알고리즘, 학습방법, 기술과 디자인을 볼 때 - https://youtu.be/MPFItk90guQ  
+QnA 94 맴버쉽오피스아워, 제품 디자인 학부생과 대화 그리고 컴퓨테이셔널 디자인 - https://youtu.be/GrtqDvWYH30  
+QnA 95 컴퓨테이셔널 사고 / 이분법적 접근 말자 / 문제 해결 방법 - https://youtu.be/TIvR7jlDxsA  
 
-QnA 99 스터디자료, 아카이빙 전략, 포트폴리오, 앞으로 요구되는 능력  
+* QnA 96 치열하게 유지하는 방법 / 딥 팅킹 / 메타인지 / 언어와 지능 - https://youtu.be/f4nCrKPx6DI    
+QnA 97 처음코딩을공부하는 디자이너에게 - https://youtu.be/S2AkLPOckkA  
+QnA 98 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해 - https://youtu.be/ni2sTXgvjQo    
 
-QnA 100 KICDT 스터디 질문 & 피드백 / 파이썬 Class에 대해 / 그라스하퍼 스터디 / KICDT 활동  
-QnA 101 KICDT 스터디 질문 & 피드백 모음 02  
-QnA 102 KICDT Small Talk, 컴퓨테이셔널 디자인 프로젝트 피드백 & 컴퓨테이셔널 디자인 사고  
-QnA 103 KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고  
+* QnA 99 스터디자료, 아카이빙 전략, 포트폴리오, 앞으로 요구되는 능력 - https://youtu.be/W9Gybb48uOI    
 
-QnA 104 컴퓨테이셔널 디자인, 이해가 안될 때, 완벽한 해결책?!  
-
-QnA 105 KICDT 건설산업(AEC)에서 컴퓨테이션 디자인 도입이 왜 늦어지는가? 디자인 기술 / 기성과 신진세대 / 컴퓨테이션의 정의  
-
-QnA 106 컴퓨테이셔널 디자인에 정의? 에 답을 해 보자!  
-
-QnA 107 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 / 하드웨어 기술 / 창의성에 대해  
-
-QnA 110 44살, 학습 전략과 몇몇의 생각, 라이노와 파이썬 / Python  
-
-QnA 112 회계일을 하는 미래 디자이너의 질문들, 컴퓨테이셔널 디자이너 준비 방법  
-
-QnA 114 TA(테크니컬 아티스트)를 준비하는 컴퓨터 공학 학생의 질문  
-
-QnA 115 연구를 위한 알고리즘 구현과 시각화 소프트웨어 활용  
-
-QnA 118 프로덕트 디자이너의 컴퓨테이셔널 디자인 학습 질문  
-
-QnA 119 RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문  
-
-QnA 120 인테리어 디자이너의 컴퓨테이셔널 디자인 질문  
-
-QnA 122 디자이너를 위한 데이터사이언스 학습 / 적용 전략  
+* QnA 100 KICDT 스터디 질문 & 피드백 / 파이썬 Class에 대해 / 그라스하퍼 스터디 / KICDT 활동 - https://youtu.be/-3AvhwXwCKY    
+QnA 101 KICDT 스터디 질문 & 피드백 모음 02 - https://youtu.be/mlAwduUqMmM    
+QnA 102 KICDT Small Talk, 컴퓨테이셔널 디자인 프로젝트 피드백 & 컴퓨테이셔널 디자인 사고 - https://youtu.be/XzOawzBW1hc  
+QnA 103 KICDT’s small talk 매스스터디 방법 & 컴퓨테이셔널 사고 - https://youtu.be/yJFKmE3L0fE  
 
 
-CD 58 컴퓨테이션은 자동화 매크로를 위한것?
 
 
+
+* QnA 106 컴퓨테이셔널 디자인에 정의? 에 답을 해 보자! - https://youtu.be/GKufzU2nnaQ  
+QnA 110 44살, 학습 전략과 몇몇의 생각, 라이노와 파이썬 / Python - https://youtu.be/sXjteY4Sv-o  
+
+
+
+* QnA 112 회계일을 하는 미래 디자이너의 질문들, 컴퓨테이셔널 디자이너 준비 방법 - https://youtu.be/r5zjdtClzF8   
+QnA 113 Low Code, No Code / 코드를 적게, 코드 없이 프로그래밍? 앞으로의 미래, Feat 비판적 사고 75 % 매운맛 버전 - https://youtu.be/htzXjgYTO0M
+QnA 114 TA(테크니컬 아티스트)를 준비하는 컴퓨터 공학 학생의 질문 - https://youtu.be/3UieOImmbds  
+QnA 115 연구를 위한 알고리즘 구현과 시각화 소프트웨어 활용 - https://youtu.be/F-e8ulEnLNA 
+
+
+
+
+* QnA 118 프로덕트 디자이너의 컴퓨테이셔널 디자인 학습 질문 - https://youtu.be/AxOuZG6_3ME  
+QnA 119 RISD 건축 디자인학과 학생컴퓨테이셔널 디자인 질문 - https://youtu.be/4N9pEG6h5aM  
+QnA 120 인테리어 디자이너의 컴퓨테이셔널 디자인 질문 - https://youtu.be/9hhOb7BkiFo  
+QnA 121 자료관리와 백업 & 파일관리와 폴더구조 - https://youtu.be/wrdal2XN-hA  
+QnA 122 디자이너를 위한 데이터사이언스 학습 / 적용 전략 - https://youtu.be/0oJqBTQWDZg  
+
+
+* 조경, 컴퓨테이션, 그리고 논문 준비(전체 버전) - https://youtu.be/jRh7kzbxRRI
 ...
 
 
@@ -200,79 +203,87 @@ CD 58 컴퓨테이션은 자동화 매
 
 # Technology
 
-C07 파이썬 (Python) 배워야 할까? 장단점을 알아보자!  
-C12 라이노 파이썬 / Rhino Python, 공부법  
-C06 쉽게 이해하는 클래스(Class)  
-C08 디자이너를 위한 프로그래밍 언어 1/2 - C#  
-C08 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript)  
-C11 HTML Canvas, 데이터 시각화, 크리에이티브 코딩  
-C41 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오...  
+* CD 41 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오... - https://youtu.be/KOKB1T2C8ws 
+CD 58 컴퓨테이션은 자동화 매크로를 위한것? - https://youtu.be/hyXnhfhC2Bs
+
+* QnA 105 KICDT 건설산업(AEC)에서 컴퓨테이션 디자인 도입이 왜 늦어지는가? 디자인 기술 / 기성과 신진세대 / 컴퓨테이션의 정의 - https://youtu.be/hXtUT2Bjruo  
+* QnA 107 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 / 하드웨어 기술 / 창의성에 대해 - https://youtu.be/yLLbuBYdue0  
+
+* CD 07 파이썬 (Python) 배워야 할까? 장단점을 알아보자! - https://youtu.be/EwhopA00f2M  
+CD 12 라이노 파이썬 / Rhino Python, 공부법 - https://youtu.be/lEW3xReb3FM  
+CD 06 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU  
+* CD 08 디자이너를 위한 프로그래밍 언어 1/2 - C# - https://youtu.be/o2FpVWV2AF4
+* CD 08 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript) - https://youtu.be/HSMPTghLPcc
+
+* CD 11 HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - https://youtu.be/JIbFOgSmnhc  
+
 ...
 
 
 
 # Programming, Design Software
 
-17 내가 생각하는 그라스 하퍼(Grasshopper)의 단점과 개인적인 생각  
-21 내가 생각하는 그라스 하퍼(Rhino Grasshopper)의 장점  
-22 디자인 소프트웨어 어떻게 공부할까? / 그 많은 것 언제 다 해요?  
+* 건축학부생 컴퓨테이셔널 학습 전략 그리고 유학 준비(전체 버전) - https://youtu.be/rRm9eKe6rNI  
 
-23 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Mesh(Polygon)  
-24 디자인 소프트웨어 어떻게 공부할까? - 알고리듬 공부 방법 / 그리고 브런치!  
-32 코딩 시작 시에, 필요한 수학? 과연 뭐가 필요할까?  
+* QnA 104 컴퓨테이셔널 디자인, 이해가 안될 때, 완벽한 해결책?! - https://youtu.be/oKoQcJjuQWw   
 
-35 파이썬 그리고 그래픽 툴(맥스, 마야, 라이노...)  
-36 프로덕트 디자인 위한 코딩 그리고 3D 소프트웨어 공부 질문, 그리고 개인적인 생각  
-37 너는 어떤 프로그래밍 언어를 쓰니?  
+* QnA 22 디자인 소프트웨어 어떻게 공부할까? / 그 많은 것 언제 다 해요? - https://youtu.be/ozQrLtKO1Rs  
 
-38 테크니컬 아티스트 공부 방법? 책? 학원?  
-52 그라스 하퍼 코딩 공부 어떻게 할까?  
-64 API가 뭐지? 코딩을 공부하는 디자이너들에게 왜 중요하지?  
+* QnA 17 내가 생각하는 그라스 하퍼(Grasshopper)의 단점과 개인적인 생각 - https://youtu.be/MTESNVayT3c  
+QnA 21 내가 생각하는 그라스 하퍼(Rhino Grasshopper)의 장점 - https://youtu.be/NCjL6jqesr8  
+QnA 52 그라스하퍼 코딩 공부 어떻게 할까? - https://youtu.be/l2jUsot4J88  
 
-67 라이노 파이선 C샵 Scripting 장단점 & 공부 방법  
-Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Difference, Intersection...) 문제?  
-워크숍 질문, 00 Python For Designers 05 Graph  
+* QnA 23 디자인 소프트웨어 어떻게 공부할까? 두 번째, NURBS , Mesh(Polygon) - https://youtu.be/EN9b2kOQgrw  
+QnA 24 디자인 소프트웨어 어떻게 공부할까? - 알고리듬 공부 방법 / 그리고 브런치! - https://youtu.be/d982FnEwtAI  
+QnA 32 코딩 시작 시에, 필요한 수학? 과연 뭐가 필요할까? - https://youtu.be/qJUcjUbJUks  
+
+* QnA 35 파이썬 그리고 그래픽 툴(맥스, 마야, 라이노...) - https://youtu.be/M9HpY4Elk2o  
+QnA 36 프로덕트 디자인 위한 코딩 그리고 3D 소프트웨어 공부 질문, 그리고 개인적인 생각 - https://youtu.be/3ro7Wt5mGwA  
+QnA 37 너는 어떤 프로그래밍 언어를 쓰니? - https://youtu.be/bW9c05Ke7CQ  
+
+* QnA 38 테크니컬 아티스트 공부 방법? 책? 학원? - https://youtu.be/Nz_rU1e6KHQ  
+QnA 64 API가 뭐지? 코딩을 공부하는 디자이너들에게 왜 중요하지? - https://youtu.be/JkWEcIvolzc  
+QnA 67 라이노 파이선 C샵 Scripting 장단점 & 공부 방법 - https://youtu.be/ZjYpiQV9X4M  
+
+
+* Grasshopper 그리고 CSharp 구독자 질문 Q03 - Brep Boolean(Union, Difference, Intersection...) 문제?  
+
+* 워크숍 질문, 00 Python For Designers 05 Graph - https://youtu.be/TcSf2bJtZis  
 ...
 
 
-
-QnA 148 라이브 질의응답? 코드리뷰 esri 기획 구현 초보 파이썬  
-QnA 147 디자이너로서 코딩 공부 어떻게?  
-QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나?
-QnA 145 데이터 기반사회에서의 생산 수단, 시스템으로 일을 해야 한다, 나의 정신 무장과 마인드셋
-QnA 144 디자이너가 코딩 학습 중 번아웃이 올 때, 실력이 안 오를 때
-
-QnA 142 건축사 질문 - 경쟁력, 지식의 복리, 가능성의 우주를 열자, 채널 시작 이유
-QnA 141 건축사로서 코딩학습범위 - 기성세대가 새로운 기술을 접할 때
-QnA 140 코딩 Coding 공부, 첫 달 무엇을 어떻게 할까? 이렇게 해보자!
+* QnA 148 라이브 질의응답? 코드리뷰 esri 기획 구현 초보 파이썬 - https://youtu.be/M-OKcEgoeU8   
 
 
-QnA 137 50대 중반 건축사의 코딩 도전기, 컴퓨테이션이 이해되어 가는 과정 
+
+* QnA 145 데이터 기반사회에서의 생산 수단, 시스템으로 일을 해야 한다, 나의 정신 무장과 마인드셋 - https://youtu.be/eYKsdhKt5Ts  
+QnA 144 디자이너가 코딩 학습 중 번아웃이 올 때, 실력이 안 오를 때 - https://youtu.be/uUYm1WwLwUo  
+
+* QnA 142 건축사 질문 - 경쟁력, 지식의 복리, 가능성의 우주를 열자, 채널 시작 이유 - https://youtu.be/tRiOCY6ofJ4    
+QnA 141 건축사로서 코딩학습범위 - 기성세대가 새로운 기술을 접할 때 - https://youtu.be/XWTBonLhWLg  
+QnA 140 코딩 Coding 공부, 첫 달 무엇을 어떻게 할까? 이렇게 해보자! - https://youtu.be/RfFcnXLpsaQ  
 
 
-    
+* QnA 137 50대 중반 건축사의 코딩 도전기, 컴퓨테이션이 이해되어 가는 과정 - https://youtu.be/1w2puzhYZBk
 
-QnA 134 개발쪽으로 이직하는 디자이너의 질문들, BIM건축회사 VS 소프트웨어 개발회사
 
-QnA 133 이미지(Raster) 데이터와 인공지능, 데이터 기반사회에서의 기회와 문맹, Feat. 건축 랜더링
-QnA 132 - 20대 도전해야 하는 이유 / 해외 취직 / 실무 VS 국내외 대학원
-QnA 131 ChatGPT와 학습코딩, 디자인소프트웨어와 코딩, 변화하지 않는 사회에서 코딩 접목
+* QnA 134 개발쪽으로 이직하는 디자이너의 질문들, BIM 건축회사 VS 소프트웨어 개발회사 - https://youtu.be/eaUVx2IBfXc  
 
-QnA 130 유학 준비 : 추천서 받기
+* QnA 133 이미지(Raster) 데이터와 인공지능, 데이터 기반사회에서의 기회와 문맹, Feat. 건축 랜더링 - https://youtu.be/J7DvUoMkozM  
+QnA 132 - 20대 도전해야 하는 이유 / 해외 취직 / 실무 VS 국내외 대학원 - https://youtu.be/b_L6ugFlQRc  
+QnA 131 ChatGPT와 학습코딩, 디자인소프트웨어와 코딩, 변화하지 않는 사회에서 코딩 접목 - https://youtu.be/dTCm4GnS2T0  
 
-QnA 129 디자이너가 코딩을 학습하면서, 성장하면서, 바뀌는 세계관 [컴퓨테이셔널 사고의 이해와 적용]
 
-QnA 128 NJ채널 맴버십 활용 그리고 전략들
 
-QnA 127 코딩을 공부하려는/하는 건축과 학생에게
+* QnA 129 디자이너가 코딩을 학습하면서, 성장하면서, 바뀌는 세계관 [컴퓨테이셔널 사고의 이해와 적용] - https://youtu.be/b9wUnHYZe-w  
 
-QnA 126 프로덕트디자이너의 질문 / 커리어 / 코딩 / 진학
+* QnA 128 NJ채널 맴버십 활용 그리고 전략들 - https://youtu.be/WQi-bk6VNxA  
 
-QnA 125 재무학 배경을 가진 도시 디자이너의 질문, 데이터와 컴퓨테이션
+* QnA 127 코딩을 공부하려는/하는 건축과 학생에게 - https://youtu.be/D8pxIbMnHUA  
 
-QnA 124 Columbia, CMU, Stuttgart 대학원 선택 질문
+* QnA 126 프로덕트디자이너의 질문 / 커리어 / 코딩 / 진학 - https://youtu.be/-P0LJXQnjAQ  
 
-QnA 123 Chat GPT, 컴퓨테이셔널 디자인 그리고 학습 활용
+* QnA 125 재무학 배경을 가진 도시 디자이너의 질문, 데이터와 컴퓨테이션 - https://youtu.be/loNtqvM70Oo  
 
 
 
@@ -281,53 +292,55 @@ QnA 123 Chat GPT, 컴퓨테이셔널 디자이�
 # Design & Computation & Computational Thinking 
 Computational Thinking & Numerical Design Description
 
-# Programming for Designers
-* 파이썬 (Python) 배워야 할까? 장단점을 알아보자! - https://youtu.be/EwhopA00f2M
-* 디자이너를 위한 프로그래밍 언어 1/2 - C# - https://youtu.be/o2FpVWV2AF4
-* 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript) - https://youtu.be/HSMPTghLPcc
+* QnA 147 디자이너로서 코딩 공부 어떻게? - https://youtu.be/Z6_zJFZU2iE  
 
-* 라이노 파이썬 / Rhino Python, 공부법 - https://youtu.be/lEW3xReb3FM
-* 건축 / 도시 / 조경 / 디자이너를 위한 프로그래밍 테크트리 https://youtu.be/sGvRUFeLV_M
-* 궁극의 테크트리! 컴퓨테이셔널디자이너로 살아 남기!! - https://youtu.be/1_sfn7sOqA8
+# Programming for Designers
+* CD 07 파이썬 (Python) 배워야 할까? 장단점을 알아보자! - https://youtu.be/EwhopA00f2M
+* CD 08 디자이너를 위한 프로그래밍 언어 1/2 - C# - https://youtu.be/o2FpVWV2AF4
+* CD 08 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript) - https://youtu.be/HSMPTghLPcc
+
+* CD 12 라이노 파이썬 / Rhino Python, 공부법 - https://youtu.be/lEW3xReb3FM
+* CD 04 건축 / 도시 / 조경 / 디자이너를 위한 프로그래밍 테크트리 https://youtu.be/sGvRUFeLV_M
+* CD 32 궁극의 테크트리! 컴퓨테이셔널디자이너로 살아 남기!! - https://youtu.be/1_sfn7sOqA8
 
 
 # Why & How to code for Designers
-* 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유 - https://youtu.be/2ENeopVvp88
-* 컴퓨테이셔널디자인을 바라보는 시각과 오해 - https://youtu.be/98oJSha3WBg
-* 코딩공부 어떻게? (잔소리포함) / 제발 타이핑해보자!! - https://youtu.be/cuBjue-lYQw
-* 힙합문화로 보는 새로운 패러다임 그리고 컴퓨테이셔널 디자인의 운명 - https://youtu.be/rpnh0NgI7gk
+* SK 11 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유 - https://youtu.be/2ENeopVvp88
+* CD 20 컴퓨테이셔널디자인을 바라보는 시각과 오해 - https://youtu.be/98oJSha3WBg
+* CD 22 코딩공부 어떻게? (잔소리포함) / 제발 타이핑해보자!! - https://youtu.be/cuBjue-lYQw
+* CD 25 힙합문화로 보는 새로운 패러다임 그리고 컴퓨테이셔널 디자인의 운명 - https://youtu.be/rpnh0NgI7gk
 
-* 소프트웨어 어떻게 공부할까? 변할것 변하지 않을것, Feat. VR AR AI - https://youtu.be/I18Hpx8fi9U
-* 코딩공부와 수학 그리고 공부할것 Feat. 4차 산업혁명 그리고 디자인 - https://youtu.be/lNX2gz4DGQc
+* CD 34 소프트웨어 어떻게 공부할까? 변할것 변하지 않을것, Feat. VR AR AI - https://youtu.be/I18Hpx8fi9U
+* CD 36 코딩공부와 수학 그리고 공부할것 Feat. 4차 산업혁명 그리고 디자인 - https://youtu.be/lNX2gz4DGQc
 
-* 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩 - https://youtu.be/h5YphJY54nI
+* CD 26 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩 - https://youtu.be/h5YphJY54nI
 
-* 프로젝션 & 리맵 / Projection & Remap - https://youtu.be/2ukw9fy5rrI
-* 정규화 & 보간 & 이상치 / normalization & interpolation & outlier - https://youtu.be/fQpBnxkz-vw
-* 함수호출 By Reference, By Value - https://youtu.be/YrZBw02K9Kw
+* CD 23 프로젝션 & 리맵 / Projection & Remap - https://youtu.be/2ukw9fy5rrI
+* CD 24 정규화 & 보간 & 이상치 / normalization & interpolation & outlier - https://youtu.be/fQpBnxkz-vw
+* CD 35 함수호출 By Reference, By Value - https://youtu.be/YrZBw02K9Kw
 
-* 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://youtu.be/D9Gi7X6jaIk
+* CD 39 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://youtu.be/D9Gi7X6jaIk
 
 
 # Code for Design & Computational Design 
 
-00. 데이터(Data) 그리고 디자인(Design)에 대한 소개입니다. 컴퓨테이셔널 디자인(Computational Design)  
+* CD 00. 데이터(Data) 그리고 디자인(Design)에 대한 소개입니다. 컴퓨테이셔널 디자인(Computational Design)  
 
-NJ의서 바이 벌 키트 11 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유  
+* SK 11 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유 - https://youtu.be/2ENeopVvp88 
   
-01. 컴퓨테이셔널 디자인? / Computational Design  
-02. 파라메트릭 디자인? / Parametric Design  
-03. 컴퓨테이셔널 사고 (띵킹) / Computational Thinking  
+* CD 01 컴퓨테이셔널 디자인? / Computational Design - https://youtu.be/ggBVX5W-28c
+CD 02 파라메트릭 디자인? / Parametric Design - https://youtu.be/LVybPm_VUhs  
+CD 03 컴퓨테이셔널 사고 (띵킹) / Computational Thinking - https://youtu.be/B7MaKoxpH8Q  
 
-04. 건축 도시 디자이너를 위한 프로그래밍 테크트리  
-05. VR / AR 꼭 해야 할까? 2019 버전  
-09. 데이터 시각화 / Data Visualization  
+* CD 04 건축 도시 디자이너를 위한 프로그래밍 테크트리 - https://youtu.be/sGvRUFeLV_M  
+CD 05 VR / AR 꼭 해야 할까? 2019 버전 - https://youtu.be/73AYw0JYUlM  
+CD 09 데이터 시각화 / Data Visualization - https://youtu.be/lSEoOmAIyKM
 
-10. 건축 시각화 / Architectural Visualization  
-17. 도시, 건축 렌더링 팁 / Architectural & Urban Rendering tips / 건축 시각화  
-18. 매핑 (건축, 도시) / Mapping for Urban and Architecture  
+* CD 10 건축 시각화 / Architectural Visualization - https://youtu.be/6Z_5oAElfa8  
+CD 17 도시, 건축 렌더링 팁 / Architectural & Urban Rendering tips / 건축 시각화 - https://youtu.be/L2iT4R-5loM  
+CD 18 매핑 (건축, 도시) / Mapping for Urban and Architecture - https://youtu.be/tKDkzpBkATg  
 
-19. 건축 3D 랜더링에 관한, 어느 건축가의 질문들…/ 건축 시각화  
+
   
 ...
 
@@ -337,79 +350,89 @@ NJ의서 바이 벌 키트 11 디자이너에게 코딩이란 / 나에게 코딩
 # Portfolio & Admissions & Studying Abroad
 link: https://computationaldesign.tistory.com/45
 
-* 12 미국, 호주, 유학 준비와 그에 따른 생각들...  
-19 SOP 작성 유의사항 (취직 커버레터 / 자기소개서)  
-27 건축과 학생의 질문, 건축, 디자인 유학 준비 그리고 주관적 생각  
+* NJStory 17 - 생계형 유학생 하버드 졸업 후기 - https://youtu.be/qTWdRGL4Sys
 
-* 28 건축 & 디자인, 포트폴리오 그리고 취직, 유학  
-29 건축 유학 & 학비 그리고 개인적인 생각  
-25 대학원 진학, 유학에 대한 질문, 그리고 개인적인 생각, feat MIT Media Lab  
+* NJStory 18 - [인터뷰] 꿈을 설계하기 위해, 날아가다 - https://youtu.be/wYCA9FhU_yc & https://youtu.be/iA4HGrEk4eU
 
-* 33 유학 고민 많을 때, 실내건축학 전공자의 M.Arch 유학에 대한 고민  
-34 컴퓨테이셔널 디자인 유학을 준비하는 학생의 질문  
-39 건축 컴퓨테이셔널 유학 그리고 파이선 코딩 공부  
+* QnA 130 유학 준비 : 추천서 받기 - https://youtu.be/TSlQzWkW8jc  
 
-* 40 데이터를 활용한 도시 설계? 공부 전략? 그리고 엠아이티 센서블 시티(MIT SENSEable City Lab) 연구소  
-47 유학? 얻는 이익이 있나?  
-51 프로덕트 전공 학생의, Harvard Mdes 2021 지원 질문  
+* QnA 12 미국, 호주, 유학 준비와 그에 따른 생각들... - https://youtu.be/q31yCe-xI-U
+QnA 19 SOP 작성 유의사항 (취직 커버레터 / 자기소개서) - https://youtu.be/ouczzznH7yA  
+QnA 27 건축과 학생의 질문, 건축, 디자인 유학 준비 그리고 주관적 생각 - https://youtu.be/YENxUAytwII  
 
-* 65 건축 유학, 학부 코넬 건축학교와 UCL 건축학교(바틀 넷)?  
-72 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정 재정 생계  
-74 건축학부 유학 / 홍콩 / 싱가포르
+* QnA 28 건축 & 디자인, 포트폴리오 그리고 취직, 유학 - https://youtu.be/kiXCVXPxYhU  
+QnA 29 건축 유학 & 학비 그리고 개인적인 생각 - https://youtu.be/eFtT4N80xR4  
+QnA 25 대학원 진학, 유학에 대한 질문, 그리고 개인적인 생각, feat MIT Media Lab - https://youtu.be/2nrk9-gZ-jw  
 
-* 75 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡  
-81 건축 유학을 준비중인 학부 졸업생의 질문  
-82 서울과기대 건축학전공 2022 졸업준비위원회 - 선배와의 인터뷰
+* QnA 33 유학 고민 많을 때, 실내건축학 전공자의 M.Arch 유학에 대한 고민 - https://youtu.be/kr887_n-D8M  
+QnA 34 컴퓨테이셔널 디자인 유학을 준비하는 학생의 질문 - https://youtu.be/KJ743s1VDl8  
+QnA 39 건축 컴퓨테이셔널 유학 그리고 파이선 코딩 공부 - https://youtu.be/3_7mVLH-Reo  
 
-* 91 Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법  
-92 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략   
-111 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직  
+* QnA 40 데이터를 활용한 도시 설계? 공부 전략? 그리고 엠아이티 센서블 시티(MIT SENSEable City Lab) 연구소 - https://youtu.be/VmeO-5FRXME  
+QnA 47 유학? 얻는 이익이 있나? - https://youtu.be/5pSf9jl8lc0  
+QnA 51 프로덕트 전공 학생의, Harvard Mdes 2021 지원 질문 - https://youtu.be/uM1lE3bkpD4  
 
-* 116 A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD)  
-117 A - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문  
-109 영국 건축학교(AA School & Bartlett ) 유학 관련 질문과 생각들...  
+* QnA 65 건축 유학, 학부 코넬 건축학교와 UCL 건축학교(바틀넷)? - https://youtu.be/AlCEvp4-r7w  
+QnA 72 직장인 질문, 컴퓨테이셔널 디자인 대학원(지방, 수도권), 30대, 가정 재정 생계 - https://youtu.be/uv8h9K9Bslg  
+QnA 74 건축학부 유학 / 홍콩 / 싱가포르 - https://youtu.be/EW_0uWDHg24
+
+* QnA 75 어느 유학 준비생의 질문 & 통화 Feat. 근황 톡 - https://youtu.be/PPa_asf1BZ8  
+QnA 81 건축 유학을 준비중인 학부 졸업생의 질문 - https://youtu.be/1njMuOUMMho  
+QnA 82 서울과기대 건축학전공 2022 졸업준비위원회 - 선배와의 인터뷰 - https://youtu.be/smwi906-cAs
+
+* QnA 91 Harvard GSD MDes와 MIT SMArchS 졸업 후 career에 대해, 전공: Technology VS Mediums, 이해 하는 방법 - https://youtu.be/2y2sP4pnqNw  
+QnA 92 포트폴리오 이걸로 끝내자!, Harvard MDes, MIT SMArcheS 디자인 유학, 취직, 진학 / 포트폴리오 전략 - https://youtu.be/ZvdrR1UjSko  
+QnA 111 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학 , 취직 - https://youtu.be/L7QIASh3-9k  
+
+* QnA 116 A - 학업계획서(SOP) 리뷰, 디자인(건축)유학 SOP(하버드 GSD) - https://youtu.be/Nv6A5rd7sXE  
+  QnA 116 B - 추천서, 포트폴리오 리뷰, 디자인(건축)유학 SOP(하버드 GSD) - https://youtu.be/hkleqZ-wwo0  
+
+  QnA 117 A - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문 - https://youtu.be/l4SqYYYUqN8  
+  QnA 117 B - 하버드 GSD, MDE 프로그램, 디자인 회사 CEO의 입학 전략 질문 - https://youtu.be/J3TEtKqbDs4  
+
+  QnA 109 영국 건축학교(AA School & Bartlett ) 유학 관련 질문과 생각들... - https://youtu.be/0_fOtsFEryE  
+
+* QnA 124 Columbia, CMU, Stuttgart 대학원 선택 질문 - https://youtu.be/xiYrYIo1vl0
+
 ...
 
 ---
 
 # Career & Job & Interview
 
-* 08, 컴퓨테이션 직업군 및 준비 자세  
-09, 직장상사가 내 미래에 도움이 안 될 때, 회사를 떠나야 하나? 존 윅에서 배울 점  
-31, 건축/컴퓨테이션/뉴미디어/디자인 직업군, 어떻게 준비하면 좋을까요?  
+* 08, 컴퓨테이션 직업군 및 준비 자세 - https://youtu.be/fMG1-Sxe2lY  
+* 09, 직장상사가 내 미래에 도움이 안 될 때, 회사를 떠나야 하나? 존 윅에서 배울 점 - https://youtu.be/jdWb5JoSmW0   
+* 31, 건축/컴퓨테이션/뉴미디어/디자인 직업군, 어떻게 준비하면 좋을까요? - https://youtu.be/amAJVui-720  
 
-* 44, 컴퓨테이셔널 직장 구하기? 마음 가짐?  
-  68, 사회초년생 포폴과 취직 전략  
+* 44, 컴퓨테이셔널 직장 구하기? 마음 가짐? - https://youtu.be/vrRCfAKMPEE  
+* 68, 사회초년생 포폴과 취직 전략 - https://youtu.be/XiO-3mbAs8g  
   ...
+
+* QnA 111 추천서 관련 질문, 추천서(Recommendation letter)를 생각해 보면, 유학, 진학, 취직 - https://youtu.be/L7QIASh3-9k
 
 
 # ETC
 
-* 03 컴퓨터 고르는 법 (건축 3D / 크리에이티브 코딩)  
-  26 질문 그리고 유의사항!!!  
-  42 SA 7.0 Unit 2 관련 질문 / 스스로 공부하는 방법  
-  43 네이버 카페, 그래스호퍼 챌린지 질문 / 코딩을 공부하는 자세  
-  121 자료관리와 백업 & 파일관리와 폴더구조  
+* QnA 03 컴퓨터 고르는 법 (건축 3D / 크리에이티브 코딩) - https://youtu.be/AkvM3o1Qxj8  
+  QnA 26 질문 그리고 유의사항!!! - https://youtu.be/zlXe31zJhJA  
+  QnA 42 SA 7.0 Unit 2 관련 질문 / 스스로 공부하는 방법 - https://youtu.be/jDzKqYNr5zA  
+  QnA 43 네이버 카페, 그래스호퍼 챌린지 질문 / 코딩을 공부하는 자세 - https://youtu.be/eyQlMSrwDQ4  
+  QnA 121 자료관리와 백업 & 파일관리와 폴더구조 - https://youtu.be/wrdal2XN-hA  
 
-* 90 나는 NJ 채널을 이렇게 활용한다! 컴퓨테이셔널 학습 방법 공유  
-  89 엔제이채널, 비디오 관련 피드백  
-  113 Low Code, No Code / 코드를 적게, 코드 없이 프로그래밍? 앞으로의 미래, Feat 비판적 사고 75 % 매운맛 버전  
-
+* Membership Office Hours: 질문, 상담, 잡담, 고양이 - https://youtu.be/II4XNfVxBxs
+  2022 / 02 / 26 - Membership Office Hours: 질문, 상담, 잡담, 고양이 - https://youtu.be/ZcFP6u66DJU
+  QnA 89 엔제이채널, 비디오 관련 피드백 - https://youtu.be/7RHcAPdpLxY
  ...
 
 
-14 Harvard GSD Technology 그리고 MIT Computation 지원 준비, 프로그램 비교, 및 컴퓨테이션 공부 준비 방법  
-20 컴퓨테이셔널 디자인을 바라보는 시각과 오해  
-21 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data  
+* CD 14 Harvard GSD Technology 그리고 MIT Computation 지원 준비, 프로그램 비교, 및 컴퓨테이션 공부 준비 방법 - https://youtu.be/J6P39dLR0Io  
 
-22 코딩 공부 어떻게? (잔소리 포함) / 제발 타이핑해보자!!  
-25 힙합 문화로 보는 새로운 패러다임 그리고 컴퓨테이셔널 디자인의 운명  
-Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨테이셔널 디자인 - [link](https://youtu.be/yr9rLRzlNlg)  
+* CD 21 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data - https://youtu.be/bNv4GwQOmpg   
 
-34 소프트웨어 어떻게 공부할까? 변할 것 변하지 않을 것, Feat VR AR AI  
-36 코딩 공부와 수학 그리고 공부할 것 Feat. 4차 산업혁명 그리고 디자인
+* Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨테이셔널 디자인 - [link](https://youtu.be/yr9rLRzlNlg)  
 
-48 컴퓨테이셔널 디자인 공모 소개
+
+* CD 48 컴퓨테이셔널 디자인 공모 소개 - https://youtu.be/HS_aqAumPFE
 
 
 # ..........................................................................................
@@ -419,61 +442,56 @@ Vlog 27, 2021-07-25 Newport 마실 그리고 10년 생각하는 이유, 컴퓨�
 
 # Computational Design Thinking & Programming
 
-15. Active Command - 액티브 커멘드, CAD System - 캐드 시스템  
-16. Mouse Event / 마우스 이벤트, CAD System - 캐드 시스템  
+* CD 15 Active Command - 액티브 커멘드, CAD System - 캐드 시스템 - https://youtu.be/36CfJdPngME  
+* CD 16 Mouse Event / 마우스 이벤트, CAD System - 캐드 시스템 - https://youtu.be/i4Tj93MZ0RA   
   
-13. 자료구조, 그래프 / Data Structure for design , Graph 1/2  
-13. 자료구조, 픽셀, 복셀 / Data Structure for design , pixel and voxel data structure 2/2  
-23. 프로젝션 & 리맵 / Projection & Remap  
-24. 정규화 & 보간 & 이상치 / normalization & interpolation & outlier  
+* CD 23 프로젝션 & 리맵 / Projection & Remap - 
+* CD 24 정규화 & 보간 & 이상치 / normalization & interpolation & outlier -   
   
-26. 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩  
-33. 디자인 엔지니어링 / Design Engineering  
-35. 함수 호출 By Reference, By Value  
+* CD 26 곱하기 어떻게 볼까? 추상을 통한 상상? 컴퓨테이션/크리에이티브 코딩 - https://youtu.be/h5YphJY54nI  
+* CD 33 디자인 엔지니어링 / Design Engineering - https://youtu.be/_fK6MPYgHKo  
+* CD 35 함수 호출 By Reference, By Value - https://youtu.be/YrZBw02K9Kw
   
-37. 우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약  
-39. 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전)  
-40. 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전)
-
-42. 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼)
+* CD 37 우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약 - https://youtu.be/KbUSU8DVfpQ  
 
 ...
 
 
 
 # Computational thinking:
-* 컴퓨테이셔널 디자인: https://youtu.be/ggBVX5W-28c
-* 파라메트릭: https://youtu.be/LVybPm_VUhs
-* 컴퓨테이셔널 사고: https://youtu.be/B7MaKoxpH8Q
-
-* 언어와 사고의 도약: https://youtu.be/KbUSU8DVfpQ
 * Computational Design Thinking for Designers - https://computationaldesign.tistory.com/51
-* 디자인 엔지니어링 / Design Engineering - https://youtu.be/_fK6MPYgHKo
+
+* CD 01 컴퓨테이셔널 디자인: https://youtu.be/ggBVX5W-28c  
+  CD 02 파라메트릭: https://youtu.be/LVybPm_VUhs  
+  CD 03 컴퓨테이셔널 사고: https://youtu.be/B7MaKoxpH8Q  
+
+* CD 37 우리는 무엇을 배우면서 사는가 feat. 언어와 컴퓨테이셔널 사고, 그리고 사고의 도약: https://youtu.be/KbUSU8DVfpQ
+* CD 33 디자인 엔지니어링 / Design Engineering - https://youtu.be/_fK6MPYgHKo
 
 
 
 ---
 # Data Structure & Algorithm
-* 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
-* 그래프 - https://youtu.be/cUEQmPh57MU
-* 픽셀, 복셀 - https://youtu.be/GmwvGd1HZ78
+* CD 06 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
+* CD 13 자료구조, 그래프 / Data Structure for design, Graph 1/2 - https://youtu.be/cUEQmPh57MU
+* CD 13 자료구조, 픽셀, 복셀 / Data Structure for design, pixel and voxel data structure 2/2 - https://youtu.be/GmwvGd1HZ78
 
+* CD 39 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://youtu.be/D9Gi7X6jaIk  
+  CD 40 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전) - https://youtu.be/wLnUSKaQksM  
+  CD 42 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼) - https://youtu.be/1oxR8G51TjQ  
 
 
 # Geometry
 Geometry For Design - https://computationaldesign.tistory.com/61  
 * Regardless of the language, environment, or tools, building a strong foundation is always essential. With a solid understanding of the basics, you only need to adapt the format to suit the specific environment you're working in. For designers, the core lies in creating and visualizing ideas. Once that core is well understood, it's simply a matter of translating it into code. Therefore, the following course is a workshop on fundamental theories designers should know before diving into coding.
 
-1 Vector  
+* 1 Vector  
   link - https://computationaldesign.tistory.com/39
 
-2 Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure: Discrete Design Data  
+* 2 Point / Line / Curve / Polyline / Polygon / Surface / Mesh as data structure: Discrete Design Data  
   link: https://computationaldesign.tistory.com/23 
   
-3 Color  
-  link: https://computationaldesign.tistory.com/17
   
-
 ---
 # Raster & Color
 ## Lab: Raster & Color: Continuous Design Data
@@ -502,35 +520,37 @@ Geometry For Design - https://computationaldesign.tistory.com/61
 
 ---
 # AI & ML for designers
-Slides - https://docs.google.com/presentation/d/1R83_YHvkk1vc5u0ig3eXDEfEdIjt1XJO8Wg4tPfBaOc
-AI for designers - https://computationaldesign.tistory.com/55
-AI and Data for designer - https://computationaldesign.tistory.com/29
+Slides - https://docs.google.com/presentation/d/1R83_YHvkk1vc5u0ig3eXDEfEdIjt1XJO8Wg4tPfBaOc  
+AI for designers - https://computationaldesign.tistory.com/55  
+AI and Data for designer - https://computationaldesign.tistory.com/29  
 LAb: https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-design  
 
-* CD 54 도시 데이터 디자인에 적용하기 위한 도구에 대한 생각들 - https://youtu.be/8zQPY87OaVE  
-CD 53 도시 데이터 디자인에 적용하기 위한 전략에 대한 생각들 - https://youtu.be/WN6Ow0v-Nu8  
-CD 45 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML  
-CD 46 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o  
-CD 47 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=WSVEg2DMsYk  
+* QnA 146 디자이너가, 데이터 코딩 인공지능 해야 하나? 말아야 하나? - https://youtu.be/8N18SM9IkL4  
+* CD 45 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝, AI, ML - https://youtu.be/Bd9U-wjCLDU 
+* CD 46 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o  
+* CD 47 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 코드 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=WSVEg2DMsYk  
 
-* CD 49 인공지능을 디자인에 적용하기 위한 학습 전략  
-CD 50 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세  
-CD 51 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까?  
+* CD 54 도시 데이터 디자인에 적용하기 위한 도구에 대한 생각들 - https://youtu.be/8zQPY87OaVE  
+* CD 53 도시 데이터 디자인에 적용하기 위한 전략에 대한 생각들 - https://youtu.be/WN6Ow0v-Nu8  
+
+* CD 49 인공지능을 디자인에 적용하기 위한 학습 전략 - https://youtu.be/tW46tNHS8V0  
+CD 50 디자이너가 데이터사이언스 / 컴퓨테이션 수업을 대하는 자세 - https://youtu.be/KaN3ACFkALw  
+CD 51 디자이너로서 데이터과학 / 컴퓨테이션 포트폴리오를 어떻게 준비할까? - https://youtu.be/iWti52dBiGI  
 CD 52 데이터를 이용한 실제 디자인 적용의 한계? 문제점? - https://youtu.be/EllPW61esoc  
 
-* QnA 143 인공지능 어떻게 생각 하나요? AI인공지능으로 우리의 직업이 대체될 것인가?  
-QnA 139 MBTI의 연역적 & 귀납적 설명 feat. 데이터, 머신러닝, AI, 소프트웨어 2.0 적인 사고  
-QnA 138 Computational Thinking, Software 1.0 VS AI, Data-driven Thinking, Software 2.0  
-QnA 135 소프트웨어 1.0적 사고 VS 소프트웨어 2.0적 사고, AI & Data for Design  
+* QnA 143 인공지능 어떻게 생각 하나요? AI인공지능으로 우리의 직업이 대체될 것인가? - https://youtu.be/E7fJJdx3fHQ  
+QnA 139 MBTI의 연역적 & 귀납적 설명 feat. 데이터, 머신러닝, AI, 소프트웨어 2.0 적인 사고 - https://youtu.be/xJaThAbTEi4  
+QnA 138 Computational Thinking, Software 1.0 VS AI, Data-driven Thinking, Software 2.0 - https://youtu.be/mT3T3fOd2K8    
+QnA 135 소프트웨어 1.0적 사고 VS 소프트웨어 2.0적 사고, AI & Data for Design - https://youtu.be/-xshniGFC8Y  
 
-* QnA 136 디자이너가 AI (데이터)를 바라볼 때  
-QnA 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들...
-QnA 13 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
-QnA 46 AI, ML(머신러닝), GL(그래픽), CV(비전), 컴퓨테이셔널 전공을 시작하는 학생 질문 - https://youtu.be/xXai3P25CZA
+* QnA 136 디자이너가 AI (데이터)를 바라볼 때 - https://youtu.be/XYFE_xdwD_A  
+* QnA 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들... -  https://youtu.be/igo5ESpVQ9k
+* QnA 13 디자인(건축), 빅데이터, 그리고 인공지능(머신러닝)에 대한 질문
+* QnA 46 AI, ML(머신러닝), GL(그래픽), CV(비전), 컴퓨테이셔널 전공을 시작하는 학생 질문 - https://youtu.be/xXai3P25CZA
 
 * QnA 76 디자인의 미 Aesthetic, 코딩으로 구현이 가능한가? Feat 메타인지 & 머신러닝
-QnA 77 Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문  
-
+* QnA 77 Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질문  
+* QnA 123 ChatGPT, 컴퓨테이셔널 디자인 그리고 학습 활용 - https://youtu.be/JoSuYNylii8
 
 ...
 
@@ -540,7 +560,7 @@ QnA 77 Urban Data Sciences , 커리큘럼, 취업, 연구, 진로 질�
 # GEOMETRY: Spatial tools 
 LAB: Design Tools: Analysis, Generative design, Optimization, Simulation  
 ALGORITHM & DESIGN: Spatial data process  
-NJS Lab Factory: Tools & Utils  
+NJS Lab Factory: Tools & Utilities  
 
 
 
@@ -554,25 +574,23 @@ Lab: https://namjulee.github.io/njs-lab-public/lab/visualization-design-data-vr-
 * LAB: THREE Lab - https://namjulee.github.io/njs-lab-public/lab/lab-three-lab/three-starter
 * LAB: WebGL & WebGPU - https://namjulee.github.io/njs-lab-public/lab/lab-webgl-&-webgpu/nwebgpu-light
 
-* QnA 07 데이터 시각화 도구(tools) 그리고 개인적인 생각  
-  QnA 11 데이터 시각화가 꿈인 카이스트 학생의 질문  
-  QnA 41 시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할 것인가?  
-  QnA 53 데이터 시각화 공부와 연계 학습질문  
+* CD 09 데이터 시각화 / Data Visualization - https://youtu.be/lSEoOmAIyKM  
+  CD 11 HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - https://youtu.be/JIbFOgSmnhc  
 
-* QnA 45 지도 위에 데이터 시각화, 어떤 제품으로 개발을 하면 좋을까?  
-  QnA 50 데이터 시각화, 직장에 대해 그리고 공부방법과 마음가짐  
-  QnA 66 데이터 시각화를 준비하는 디자이너의 질문  
-  QnA 83 데이터 시각화를 공부하려 할 때  
+* QnA 07 데이터 시각화 도구(tools) 그리고 개인적인 생각 - https://youtu.be/WxsqBfXlgvE  
+  QnA 11 데이터 시각화가 꿈인 카이스트 학생의 질문 - https://youtu.be/UOTts1XrvGI  
+  QnA 41 시각디자인 전공, 학생의 질문, 데이터 시각화 어떻게 공부할 것인가? - https://youtu.be/TLMnTZcsjo0  
+  QnA 53 데이터 시각화 공부와 연계 학습질문 - https://youtu.be/5UbJEdOnqgg  
 
-
-## Design & Data Visualization
-Design Visualization - https://computationaldesign.tistory.com/11
-* 데이터 시각화 / Data Visualization - https://youtu.be/lSEoOmAIyKM
-* 건축 시각화 / Architectural Visualization - https://youtu.be/6Z_5oAElfa8
-* HTML Canvas, 데이터 시각화, 크리에이티브 코딩 - https://youtu.be/JIbFOgSmnhc
+* QnA 45 지도 위에 데이터 시각화, 어떤 제품으로 개발을 하면 좋을까? - https://youtu.be/862JlMqfIO8  
+  QnA 50 데이터 시각화, 직장에 대해 그리고 공부방법과 마음가짐 - https://youtu.be/rbgaY7pcP6M  
+  QnA 66 데이터 시각화를 준비하는 디자이너의 질문 - https://youtu.be/C4v1FqfxdK4  
+  QnA 83 데이터 시각화를 공부하려 할 때 - https://youtu.be/svdoqquGznk  
 
 
-
+Design Visualization - https://computationaldesign.tistory.com/11  
+* CD 10 건축 시각화 / Architectural Visualization - https://youtu.be/6Z_5oAElfa8
+* CD 19 건축 3D 랜더링에 관한, 어느 건축가의 질문들…/ 건축 시각화 - https://youtu.be/3YHMMectUTs   
 
 
 
@@ -647,56 +665,57 @@ link: https://computationaldesign.tistory.com/26
 ## Project
 link - https://computationaldesign.tistory.com/13  
   
-* NJ STUDIO Design Concept Work 2012 [Fourth Edition]  
-* Korea Traditional House [VisualImageSeriesWork]  
-* data visualization about homelessness in SF  
-* Agent-based Simulation at Sue Bierman Park in San Francisco  
-* 2015 Street Office, Data-Driven Design Research  
+* NJ STUDIO Design Concept Work 2012 [Fourth Edition] - https://youtu.be/jiGIA4CtA34  
+* Korea Traditional House [VisualImageSeriesWork] - https://youtu.be/RzQ-URQK-zA  
+* data visualization about homelessness in SF - https://youtu.be/NZncb6gKG3U  
+* Agent-based Simulation at Sue Bierman Park in San Francisco - https://youtu.be/zwMg4isQjiw  
+* 2015 Street Office, Data-Driven Design Research - https://youtu.be/0Zir205EElA  
   
-* NJSTUDIO DESIGN PROJECT Reel Fifth Edition  
-* 2015 DigitalMockup [FABRICATION]  
-* 2016 NJ Development Data Driven Design  
-* 2016 NJ Development Design Computation  
+* NJSTUDIO DESIGN PROJECT Reel Fifth Edition - https://youtu.be/ecixDvWqEUo  
+* 2015 DigitalMockup [FABRICATION] - https://youtu.be/8CMeaudyoQo  
+* 2016 NJ Development Data Driven Design - https://youtu.be/t6sCAGKvb6g  
+* 2016 NJ Development Design Computation - https://youtu.be/DQketWT2z3k  
   
-* Thermoresponsive Fabric and Blind, Harvard GSD  
-* Third Place Mobility, MIT Media Lab  
-* LandBoxForGame, beta 0 0 5  
+* Thermoresponsive Fabric and Blind, Harvard GSD - https://youtu.be/1BaYViGWazI  
+* Third Place Mobility, MIT Media Lab - https://youtu.be/FMBxHGcWrXA  
+* LandBoxForGame, beta 0 0 5 - https://youtu.be/whpw9xt0QjQ  
   
-* Column Distribution & Thickness Optimization, Harvard GSD, 2016  
-* Flux Parkerator PV1  
-* Flux Parkerator PV2  
+* Column Distribution & Thickness Optimization, Harvard GSD, 2016 - https://youtu.be/NwNsXgQOUpk  
+* Flux Parkerator PV1 - https://youtu.be/hrDjAh0EXXE  
+* Flux Parkerator PV2 - https://youtu.be/aYLSA2zxPT4  
   
-* Volumetric Representations and Machine Learning  
-* LandBoxForAR, Experiment, 2015  
-* SketchHand Beta 0.0.5  
-* LandBoxForDesigner, beta 0.0.1  
+* Volumetric Representations and Machine Learning - https://youtu.be/dOPXHhzRbhs  
+* LandBoxForAR, Experiment, 2015 - https://youtu.be/kONmD25KrmU  
+* SketchHand Beta 0.0.5 - https://youtu.be/c2_8JMWXwB8  
+* LandBoxForDesigner, beta 0.0.1 - https://youtu.be/oEBg1oDIY9g  
   
-* Numerical Dynamic for GH, 2015  
-* Numerical Geometry and Graph for GH, 2015  
-* Numerical Environment for GH, 2015 
+* Numerical Dynamic for GH, 2015 - https://youtu.be/oE3B2JP6518  
+* Numerical Geometry and Graph for GH, 2015 - https://youtu.be/iHfYXML2lMY  
+* Numerical Environment for GH, 2015 - https://youtu.be/W2OQxCaVvEo 
 
-* Built Environment Assessment for the Housing Value Prediction  
-* CompilerDemoVersion0.1.5\_For\_Grasshopper  
-* CS171 Visualization Harvard  
+* Built Environment Assessment for the Housing Value Prediction - https://youtu.be/ZpAj1VmqusY  
+* CompilerDemoVersion0.1.5 _For _Grasshopper - https://youtu.be/_dVc2sFNQDY  
+* CS171 Visualization Harvard - https://youtu.be/TsjjOl0nkng  
   
-* interactivity A / interactivity B  
-* NGraphicsV3 x Mapping, Drawing, Visualizing, Esri  
-* 2021 Smart Map Tracer, ESRI Storymaps Hackathon  
+* interactivity A - https://youtu.be/04CpyF9TYuE 
+* interactivity B - https://youtu.be/M_rqJWseY-c  
+* NGraphicsV3 x Mapping, Drawing, Visualizing, Esri - https://youtu.be/kvl2JuCd42s  
+* 2021 Smart Map Tracer, ESRI Storymaps Hackathon - https://youtu.be/cUsiCNE6mJA  
 ...
 
 
 ## Design Visualization
 link: https://computationaldesign.tistory.com/11  
-* NJSTUDIO Design Vis Demo Reel 2004  
-* NJSTUDIO Design Vis Demo Reel 2005  
-* NJSTUDIO Design Vis Demo Reel 2006  
-* NJSTUDIO Design Vis Demo Reel 2007  
-* NJSTUDIO Design Vis Demo Reel 2008  
+* NJSTUDIO Design Vis Demo Reel 2004 - https://youtu.be/6Fax4aCdB4U  
+* NJSTUDIO Design Vis Demo Reel 2005 - https://youtu.be/5qxfPC6pTu8   
+* NJSTUDIO Design Vis Demo Reel 2006 - https://youtu.be/eyhmIauyWLk   
+* NJSTUDIO Design Vis Demo Reel 2007 - https://youtu.be/KnIm0-yFdnk   
+* NJSTUDIO Design Vis Demo Reel 2008 - https://youtu.be/5dDKRoEEFQw   
   
-* 2015 NJSTUDIO DESIGN VISUALIZATION Reel Fifth Edition  
-* Aquascraper For Exhibition  
-* Master Plan for University of Sydney  
-* Camera Tracking / Design Visualization / Digital Mockup    
+* 2015 NJSTUDIO DESIGN VISUALIZATION Reel Fifth Edition - https://youtu.be/swEjzprtEog   
+* Aquascraper For Exhibition - https://youtu.be/JxNd1jja5KU   
+* Master Plan for University of Sydney - https://youtu.be/rlOhifbcetY   
+* Camera Tracking / Design Visualization / Digital Mockup - https://youtu.be/HThJg67Z_IM     
 ...  
 
 
@@ -704,22 +723,26 @@ link: https://computationaldesign.tistory.com/11
 
 # Research & Contribution & STUDIES & LAB
 link: https://computationaldesign.tistory.com/10 
-* ResearchProject 03. 물리학회 기고글: 도시 네트워크 & 기술과 4차 산업  
-* Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES World 2020  
-* Rhino GH Addon - Numerical Utility  
-* Rhino Python Mapping 06 Image Processing / 라이노 파이썬 매핑 06 이미지 프로세싱  
-* Research Project, Third Place, Media Lab, 컴퓨테이셔널 디자인 프로젝트  
+* ResearchProject 03. 물리학회 기고글: 도시 네트워크 & 기술과 4차 산업 - https://youtu.be/  
+* Analyzing Third Place, Paper Presentation & Panel Discussion at DigitalFUTURES World 2020 - https://youtu.be/rgmLUXqjGho
+ 
+* Rhino GH Addon - Numerical Utility - https://youtu.be/5XyBCLzxoVU  
+* Rhino Python Mapping 06 Image Processing / 라이노 파이썬 매핑 06 이미지 프로세싱 - https://youtu.be/lE3SnKiQCw0  
+* Research Project 01. Third Place, Media Lab, 컴퓨테이셔널 디자인 프로젝트 - https://youtu.be/gz9azwMx0Uc 
 ...
 
 ## Harvard GSD  
 link: https://computationaldesign.tistory.com/5  
-* Remixing & Resampling Three Dimensional Objects Use of Volumetric Representations and Machine Learning, MDes Thesis, Harvard GSD  
-* Thermoresponsive Fabric and Blind Nano Micro Macro: Adaptive Material Laboratory, Harvard GSD  
-* Column Distribution & Thickness Optimization, Harvard GSD  
+* Remixing & Resampling Three Dimensional Objects Use of Volumetric Representations and Machine Learning, MDes Thesis, Harvard GSD - https://youtu.be/dOPXHhzRbhs  
+* Thermoresponsive Fabric and Blind Nano Micro Macro: Adaptive Material Laboratory, Harvard GSD - https://youtu.be/1BaYViGWazI  
+* LandBoxForGame, beta 0.0.5 - https://youtu.be/whpw9xt0QjQ
+* Column Distribution & Thickness Optimization, Harvard GSD - https://youtu.be/NwNsXgQOUpk  
   
-* Small Environment \[Immersive Landscape\], Harvard GSD  
-* 2016 Introduction To 3D Visualization Workshop, Harvard GSD, MIT Architecture  
+* Small Environment [Immersive Landscape], Harvard GSD - https://youtu.be/whpw9xt0QjQ  
+* 2016 Introduction To 3D Visualization Workshop, Harvard GSD, MIT Architecture - https://youtu.be/3VeLfmt2N-0  
+* Harvard GSD 논문 발표 / 디스커션 / 디지털 디자인 1등상 - https://youtu.be/o4HujsKU-jI
 ...
+
 
 ## MIT, SENSEable City Lab  
 link: https://computationaldesign.tistory.com/7 
@@ -995,8 +1018,6 @@ link: https://brunch.co.kr/@njnamju/144
 [**\[컴퓨테이셔널 디자인\] 읽으면서 입문하는 디자이너를 위한 코딩 / Playlist**](https://www.youtube.com/playlist?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
 
 
----
-
 # ..........................................................................................
 # NJ CHANNEL PROJECT & ETC
 * NJS Links - https://computationaldesign.tistory.com/44
@@ -1008,55 +1029,56 @@ link: https://brunch.co.kr/@njnamju/144
 NJChannel 프로젝트를 하면서, 모인 **학생, 실무자 교육자 분들과 함께 진행한 미팅**을 모아놓은 챕터예요.    
 link : https://computationaldesign.tistory.com/12   
 
-* Code For Design Group 1 김건웅(ComAr), 파일 포맷 / 패턴  
-  Code For Design Group 2 이수민, 코딩 공부를 위한 노션 사용법 그리고 PD vs GD vs AD 용어 설명    
-  컴퓨테이셔널 디자인에 대한 몇 주제를 이야기 나누어 봐요!  
-  학생(실무 초년생)들에게 필요되는, 현실적인 컴퓨테이셔널 디자인 적용?  
-  2020/08/16 Code for Design 컴퓨테이셔널 디자인에 대한 몇 주제를 이야기 나누어 봐요!   
-  네이버 카페, 페이스북 페이지, 크리에이티브 코딩 / Creative Coding  
+* Code For Design Group 1 김건웅(ComAr), 파일 포맷 / 패턴 - https://youtu.be/wS9w21BKWWk 
+  Code For Design Group 2 이수민, 코딩 공부를 위한 노션 사용법 그리고 PD vs GD vs AD 용어 설명 - https://youtu.be/DLCXWzAEYss     
+
+ 
+* 학생(실무 초년생)들에게 필요되는, 현실적인 컴퓨테이셔널 디자인 적용? - https://youtu.be/is4id5-ZJ2c   
+* 2020/08/16 Code for Design 컴퓨테이셔널 디자인에 대한 몇 주제를 이야기 나누어 봐요! - https://youtu.be/M5kpfIe3lsg    
+* 네이버 카페, 페이스북 페이지, 크리에이티브 코딩 / Creative Coding - https://youtu.be/   
   ...
 
 
 # NJ's SURVIVAL KIT
 link - https://computationaldesign.tistory.com/6
 
-* 01. 스펙, 앞으로의 시대는? 난 뭘 해야 하지?  
-  02. 그게 네 꿈 맞니? 네 인생을 살고 있니?  
-  03. 주변이 네 미래다! / 10년 선배를 따르라!  
-  04. 유학생활, 경험 공유, 생활비 절약 팁  
-  05. SOP, 자기소개서 작성 팁 - 취직 및 유학  
+* 01. 스펙, 앞으로의 시대는? 난 뭘 해야 하지? - https://youtu.be/-NO8G2KkneE  
+  02. 그게 네 꿈 맞니? 네 인생을 살고 있니? - https://youtu.be/1D7zPV5uqAE  
+  03. 주변이 네 미래다! / 10년 선배를 따르라! - https://youtu.be/7bJaFoK3x3I  
+  04. 유학생활, 경험 공유, 생활비 절약 팁 - https://youtu.be/scXLByWGaE0  
+  05. SOP, 자기소개서 작성 팁 - 취직 및 유학 - https://youtu.be/wb9wVD7Zjx8
   
-* 06. 10개월에 연봉 두배 올린 방법  
-  07. 30대도 늦지 않았다?  
-  08. 정말 하기 싫을 때, 내가 했던 방법!  
-  09. 너 왜 영어 쓰냐? 한국말 못 해? / 전공 영어  
-  10. 선택보다 중요한 것?  
+* 06. 10개월에 연봉 두배 올린 방법 - https://youtu.be/W77iiBdtWuU  
+  07. 30대도 늦지 않았다? - https://youtu.be/xT4U5BLCZ3Q  
+  08. 정말 하기 싫을 때, 내가 했던 방법! - https://youtu.be/0fT9cAxObps  
+  09. 너 왜 영어 쓰냐? 한국말 못 해? / 전공 영어 - https://youtu.be/uMJITCJ7s8c  
+  10. 선택보다 중요한 것? - https://youtu.be/5H4fVVKMHQ0  
   
-* 11. 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유  
-  12. 주변 사람이 나의 미래다! / 부정적인 환경에서...  
-  13. 공무원 목표, 취직 / 공무원이 꿈 인 나라  
-  14. 두 부류의 사람 / 10년 후 느낀 점  
-  15. 누구와 어떻게 경쟁을 할 것인가? feat 선배의 조언이 항상 맞을까?  
+* 11. 디자이너에게 코딩이란 / 나에게 코딩이란 / 코딩을 하는 이유 - https://youtu.be/2ENeopVvp88  
+  12. 주변 사람이 나의 미래다! / 부정적인 환경에서... - https://youtu.be/yc803THbbH0  
+  13. 공무원 목표, 취직 / 공무원이 꿈 인 나라 - https://youtu.be/O1jD2sZNezY  
+  14. 두 부류의 사람 / 10년 후 느낀 점 - https://youtu.be/Zf4F4f-ZwaA  
+  15. 누구와 어떻게 경쟁을 할 것인가? feat 선배의 조언이 항상 맞을까? - https://youtu.be/f2QFn8rqjTE  
   
-* 16. 새로운 일을 시작한다고? 파랑새가 찾아 질까?  
-  17. 지식의 빈익빈 부익부 / 지식의 재테크  
-  18. 중력, 나의 별의 중력은? 그 상황에 잠이 오냐?  
-  19. 커리어 패스, 무엇이 약이고 무엇이 독일까??  
-  20. 직장이 내 꿈을 이루어 줄까? 나의 미래를 책임져 줄까?  
+* 16. 새로운 일을 시작한다고? 파랑새가 찾아 질까? - https://youtu.be/Prt54Zkppnk  
+  17. 지식의 빈익빈 부익부 / 지식의 재테크 - https://youtu.be/7KdqIP-0DrQ  
+  18. 중력, 나의 별의 중력은? 그 상황에 잠이 오냐? - https://youtu.be/2Ayco9KhNVU  
+  19. 커리어 패스, 무엇이 약이고 무엇이 독일까?? - https://youtu.be/tw6wZJHdRCw  
+  20. 직장이 내 꿈을 이루어 줄까? 나의 미래를 책임져 줄까? - https://youtu.be/huQ1PfCroKM  
   
-* 21. 회사를 망하게 하는 방법 - 직장생활 전략  
-  22. 텔레비전을 안 보는 이유, 인생이 바뀐다  
-  23. 인생은 말도 안 되게 불 공평하다. 21세기 계급사회  
-  24. 인생의 공갈빵을 조심해라 - 뿌듯할 때 조심, 뭐가 한 것 같지!?!  
-  25. 나의 슬럼프(번아웃/현타) 일 하기 싫을 때, 대처 방법 101  
+* 21. 회사를 망하게 하는 방법 - 직장생활 전략 - https://youtu.be/4uHdhRR9oUE  
+  22. 텔레비전을 안 보는 이유, 인생이 바뀐다 - https://youtu.be/oXX5CZV4c2U  
+  23. 인생은 말도 안 되게 불 공평하다. 21세기 계급사회 - https://youtu.be/Od_IGmrSZHE  
+  24. 인생의 공갈빵을 조심해라 - 뿌듯할 때 조심, 뭐가 한 것 같지!?! - https://youtu.be/5CYIo6k5-4c  
+  25. 나의 슬럼프(번아웃/현타) 일 하기 싫을 때, 대처 방법 101 - https://youtu.be/Ax1s5yLSIs0  
   
-* 26. 남들이 우르르 몰려갈 때, 생각 좀 해보자, Feat. 아기를 낳을 것인가?  
-  27. 우르르 몰려갈 때, 워라벨 / 소확행을 어떻게 할 것인가?  
-  28. 우르르 몰려갈 때, 내 인생은 꼰대 때문에??!!  
-  29. 학교, 직장, 우리 인생에 관심 없다. 우리는 스스로 살아남아야 한다.  
-  30. 사회는, 우리 인생에 관심 없다! 우리는 스스로 살아남아야 한다!  
+* 26. 남들이 우르르 몰려갈 때, 생각 좀 해보자, Feat. 아기를 낳을 것인가? - https://youtu.be/rRacPX6VQ0g  
+  27. 우르르 몰려갈 때, 워라벨 / 소확행을 어떻게 할 것인가? - https://youtu.be/NulR567zbpI  
+  28. 우르르 몰려갈 때, 내 인생은 꼰대 때문에??!! - https://youtu.be/Oy0Po2JyyEo  
+  29. 학교, 직장, 우리 인생에 관심 없다. 우리는 스스로 살아남아야 한다. - https://youtu.be/6i4IAUoe21Y  
+  30. 사회는, 우리 인생에 관심 없다! 우리는 스스로 살아남아야 한다! - https://youtu.be/IM8ztDJYM04  
   
-* 31. 딜의 중요성! 나의 회사는 우리의 미래에 관심 없다!! 우리는 스스로 살아남아야 한다!!!  
+* 31. 딜의 중요성! 나의 회사는 우리의 미래에 관심 없다!! 우리는 스스로 살아남아야 한다!!! - https://youtu.be/iueFa653bd4  
   ...
 
 ---
@@ -1064,7 +1086,7 @@ link - https://computationaldesign.tistory.com/6
 # NJ STORY
 link: https://computationaldesign.tistory.com/4
   
-* 01. 내가 비디오를 만드는 이유 / 내가 유튜브를 하는 이유  
+* 01. 내가 비디오를 만드는 이유 / 내가 유튜브를 하는 이유   
   02. 내가 유학을 결정한 이유  
   03. 유학, 성적, 학점 잘 받는 팁, 하버드 상 타고 졸업한 방법 How to get good grades at Harvard  
   04. 유학 준비 영어공부 힘들 때 에피소드 - 공감 - 나도 하잖아!  
@@ -1084,7 +1106,7 @@ link: https://computationaldesign.tistory.com/4
   
 * 16. 흙수저 마라톤 라이브 1 - 전투력, 전투력, 그리고 전투력  
   16. 흙수저 마라톤 라이브 2 - 그 마라톤 코스(나의 10대 20대 30대 커리어 패스, 나름 디테일 버전)  
-  17. 생계형 유학생 하버드 졸업 후기  
+  17. 생계형 유학생 하버드 졸업 후기 - https://youtu.be/qTWdRGL4Sys  
   18. [인터뷰] 꿈을 설계하기 위해, 날아가다
   ...
 
@@ -1204,6 +1226,8 @@ link: https://computationaldesign.tistory.com/4
 
 * Code For Design Group - https://computationaldesign.tistory.com/12  
 
+
+* NJSLab gif - https://docs.google.com/presentation/d/1DGemUWP9oljep46wFKZi4WtDtfMIn-tTF0NpkqrftjQ
 
 ----
 

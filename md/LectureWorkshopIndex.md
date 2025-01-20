@@ -37,7 +37,7 @@ Computational Design / Creative Coding
 * The following lecture series provides background knowledge, expertise, and the author’s perspectives, which are valuable for designers learning to code. It ranges from answering fundamental questions to covering the theory and foundational knowledge that designers should understand when studying coding, as well as materials used in lectures at educational institutions. This lecture series is designed to complement the workshop sessions introduced later, making them even more beneficial when studied together.
 
 
-# [Book] Computational Design
+# [Book] Computational Design I
 link: https://computationaldesign.tistory.com/49
 * Korean, ~~English~~
 * **keywords:** Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm...  
@@ -47,27 +47,24 @@ link: https://computationaldesign.tistory.com/49
 
 ### **Related lectures: _Introduction to Computation for Design_** 
 * The lecture series is designed for young professionals and first-year students in architectural design schools. It aims to help participants understand and utilize hardware and software technologies as tools in the design process. The focus is on teaching how to use data as design materials and how to code the design process by treating data as instructions.
-  * Data & Design (KOR & ENG)
-  link: https://medium.com/@nj-namju/data-design-c21457dc8dc
+  * Data & Design (KOR & ENG) - link: https://medium.com/@nj-namju/data-design-c21457dc8dc
 
-  * 2024 BuildSmart: Data & Design - https://namjulee.github.io/njs-lab-public/work?id=2024-buildsmart-conference
+  * BuildSMART: Data & Design, 2024 - https://namjulee.github.io/njs-lab-public/work?id=2024-buildsmart-conference
 
-  * 2024 GIS, Data & Design, FOSS4G Conference:  
+  * 인공지능시대의 디자인 도구, CNG TV, 2024 - https://namjulee.github.io/njs-lab-public/work?id=2024-cng-ai-design-talk  
+
+  * GIS, Data & Design, FOSS4G Conference 2024:  
     Lecture: https://www.youtube.com/watch?v=QLesjWC443c  
     Web: https://namjulee.github.io/njs-lab-public/work?id=2024-foss4g-korea
 
-  * 2024 AI X DESIGN: STUDIO7,8 Kongju University: https://namjulee.github.io/njs-lab-public/work?id=2024-introductionToComputationalDesign-Kongju-uni
+  * AI X DESIGN: STUDIO7,8 Kongju University, 2024 - https://namjulee.github.io/njs-lab-public/work?id=2024-introductionToComputationalDesign-Kongju-uni
 
-  * 2022 서울시립대 건축학전공 봄정기 강연 / 컴퓨테이셔널 디자인 / 데이터 그리고 디자인 - https://youtu.be/XrBfg--OIAk
+  * 서울시립대 건축학전공 봄정기 강연 / 컴퓨테이셔널 디자인 / 데이터 그리고 디자인, 2022 - https://youtu.be/XrBfg--OIAk
 
-  * 2022 첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 코딩 소개, 다가오는 시대, 기회, 준비전략, 동기부여 그리고 멘탈리티 - https://computationaldesign.tistory.com/48
+  * 첨단미디어디자인전공 "1학년"을 위한 디자인, 데이터, 코딩 소개, 다가오는 시대, 기회, 준비전략, 동기부여 그리고 멘탈리티, 2022 - https://computationaldesign.tistory.com/48
 
-  * 2021 디자이너가 코딩을 왜 배워야 할까? (디자이너를 위한 컴퓨테이셔널 디자인) - https://computationaldesign.tistory.com/3  
-    1/6 디자이너가 코딩을 왜 배워야 할까?,  2/6 코딩을 왜 배워야 하는 이유,  3/6 컴퓨테이셔널 디자인 사례,  4/6 학습 내용과 방향,  5/6 학습 자료,  6/6 QnA 시간  
-
-
-
-
+  * 디자이너가 코딩을 왜 배워야 할까? (디자이너를 위한 컴퓨테이셔널 디자인), 2021 - https://computationaldesign.tistory.com/3  
+    1/6 디자이너가 코딩을 왜 배워야 할까?, 2/6 코딩을 왜 배워야 하는 이유, 3/6 컴퓨테이셔널 디자인 사례, 4/6 학습 내용과 방향, 5/6 학습 자료, 6/6 QnA 시간  
 
 
 
@@ -81,15 +78,12 @@ link: https://computationaldesign.tistory.com/49
 
 
 
-# Data In Design
-#### CAD: Computer-aided design, MLAD: Machine Learning-Aided Design
-
-link: https://github.com/NamjuLee/data-in-design
-
+# Data In Design I & II
+#### CAD: Computer-aided design, MLAD: Machine Learning-Aided Design  
+link: [web](https://namjulee.github.io/data-in-design/) [Github](https://github.com/NamjuLee/data-in-design)
 * Korean, ~~English~~
 * keywords: Computer-aided design, Data-Driven Design, Machine learning-aided design, Computational Design, automation, optimization, machine learning, Graph data, Computational Design Thinking, Design Algorithm...
 * This course serves as an introduction to computation for design at Kyung Hee University.
-
 
 
 
@@ -235,11 +229,11 @@ Level: ★★★★☆
 Length: 2.5 Hours
 Type: Lecture & Workshop
 link: https://brunch.co.kr/@njnamju/90 
-* 27\. SA 7.0 Lecture 1. Data & Design  
-* 28\. SA 7.0 Lecture 2. Computational Thinking For Designer  
-* 29\. SA 7.0 Lecture 3. CAD data pipeline  
-* 30\. SA 7.0 Lecture 4. Discrete Urban Space and Connectivity (Graph)  
-* 31\. SA 7.0 Lecture 5. Geometry as data and Visualization  
+* CD 27 SA 7.0 Lecture 1. Data & Design - https://youtu.be/573kuU1kt-w   
+* CD 28 SA 7.0 Lecture 2. Computational Thinking For Designer - https://youtu.be/fuz4NLiK0i0
+* CD 29 SA 7.0 Lecture 3. CAD data pipeline - https://youtu.be/n7qvjYWHyRs 
+* CD 30 SA 7.0 Lecture 4. Discrete Urban Space and Connectivity (Graph) - https://youtu.be/BctlL6jQU64 
+* CD 31 SA 7.0 Lecture 5. Geometry as data and Visualization - https://youtu.be/h4fOgldMuNs 
 
 # Numeric Network Analysis: Post-COVID-19 Urbanism, 6 ft rule
 link: https://nj-namju.medium.com/numeric-network-analysis-post-covid-19-urbanism-6-ft-rule-de267886b028
