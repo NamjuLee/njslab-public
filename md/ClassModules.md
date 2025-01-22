@@ -565,6 +565,7 @@ Geometry class - https://computationaldesign.tistory.com/23
 * Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh
 
 ### LECTURE:
+* Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh 
 
 * Meshes
   Faces and Vertices / Edges / Topological properties / Euler Characteristic / Meshes as approximations of surfaces / normals / CW and CCW / discrete curvature / Non Manifold meshes / Meshes as spatial information storage schemes
