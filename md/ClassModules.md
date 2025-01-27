@@ -8,8 +8,6 @@
 * [Chart](https://lucid.app/lucidspark/a5b884d3-1462-4b5d-b88a-fe1adad8753e/edit?viewport_loc=-1668%2C-268%2C2094%2C1202%2C0_0&invitationId=inv_24152cfa-a793-4ddc-b20e-1782df7d55f2)
 
 
-
-
 ---
 # CLASS LEVELS
 
@@ -103,14 +101,18 @@ Data & Design - https://computationaldesign.tistory.com/50
 
 Overview: Introduction to Computation for Design I & II
 
+### LECTURE:
+* Introduction Computation for Design / Data & Design - https://computationaldesign.tistory.com/50  
+  * Data as Materials for design
+  * Code for design
+  * Computational Thinking and Computational Design Thinking
+    * Design Science, AI/ML Data-Driven Design, Agent-based Design, Parametric Design, Generative Design, Algorithmic Design 
+  * Data as Materials for design
+    * Software as tool & Code for design
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DesignScience.png)
 
-### LECTURE:
-* Introduction Computation for Design
-* Data as Materials for design
-* Code for design
 ---
-
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/computationalThinking.png)
 
@@ -171,7 +173,6 @@ The introduction to the key topic: Data in Design, helps you understand the mean
 Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54  
 
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/programmingParadigm.png)
 
 ### LECTURE:
 * Data in Design at Scale https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_46  
@@ -205,6 +206,8 @@ intro array
   - CHAPTER 5 컴퓨테이셔널 사고 Computational Thinking - [link](https://youtu.be/QPvSWSP--mE?list=PLweNVwGgDKEbH7RWcAPFd2uvDk3Lwel63)  
   - CHAPTER 6 코딩 Coding 무엇을 기술하나? - [link](https://youtu.be/H6bpeBdBVZY) 
 
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/programmingParadigm.png)
 
 ---
 ### LAB:  

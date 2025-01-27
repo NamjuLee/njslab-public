@@ -23,7 +23,7 @@ Numerical descriptions as Design tools
 
 
 **KEYWORD:**
-* Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine Learning, Artificial Intelligence, Visualization, Mapping, Design Decision-Making ...
+* Design Science, AI/ML Data-Driven Design, Agent-based Design, Parametric Design, Generative Design, Algorithmic Design, Computational Design Thinking, Vector, Raster, Urban Data, GIS, Data Processing, Data Mining, Machine Learning, Artificial Intelligence, Visualization, Mapping, Design Decision-Making ...
 
 ---
 
@@ -101,7 +101,7 @@ Design and implement custom tools for design algorithms and projects, tailored t
 
 
 **교재 및 참고자료**  
-  1. 컴퓨테이셔널 디자인 - 저자: 이남주 ISBN: 9791137270428 - https://brunch.co.kr/@njnamju/144  
+  1. 컴퓨테이셔널 디자인 - 저자: 이남주, BOOKK, ISBN: 9791137270428 - https://brunch.co.kr/@njnamju/144  
   2. 매 수업마다 제공되는 수업 자료가 배포됩니다.  
 
 
@@ -111,22 +111,39 @@ Design and implement custom tools for design algorithms and projects, tailored t
   3. 최종 프로젝트(디자인/글/알고리즘)  
 
 
-**Assignment / 과제**
-1. 요약  
-  100자 또는 한 문단으로 내용을 정리하며, 질문과 배운 점을 포함할 수 있습니다.  
-  예시: 챕터 2 - 디자이너가 코딩을 해야 하는 이유 요약:  
-  디자이너가 코딩을 배우면 자동화, 창의성, 효율성뿐 아니라 프로세스를 코드화할 수 있다. 예전에는 코딩을 자동화를 위한 도구로만 생각했지만, 실제로 더 많은 것을 코드화할 수 있다는 것을 알게 되었다.
+**Assignment / 과제**  
+4가지의 과제가 있으며, 과제 형식과 내용은 아래와 같습니다.
+1. Reading: 책 읽고 요약  
+  요약 형식: 100자 또는 한 문단으로 내용을 정리하며, 질문과 배운 점을 포함할 수 있음.   
+  예시:  
+    챕터 2 - 디자이너가 코딩을 해야 하는 이유 요약:디자이너가 코딩을 배우면 자동화, 창의성, 효율성뿐 아니라 프로세스를 코드화할 수 있다. 예전에는 코딩을 자동화를 위한 도구로만 생각했지만, 실제로 더 많은 것을 코드화할 수 있다는 것을 알게 되었다.
 
-2. 코딩  
-  공부 방법 1: 따라 타이핑하며 코드를 익힌다.  
-  공부 방법 2: 논리를 이해한 후, 스스로 작성해 본다.  
-  공부 방법 3: 프로그램의 결과를 이해한 뒤, 직접 구현해 본다.  
-  참조 비디오: https://namjulee.github.io/njs-lab-public/lecture?id=RfFcnXLpsaQ  
 
-3. 과제 
-  수업과 연계된 '컴퓨테이셔널 디자인' 책 읽기  
-  수업에 따른 코딩 과제 해결  
-  학기말 최종 과제를 지속적으로 발전시키기  
+2. Coding: 프로그래밍 / 코딩  
+  공부 방법:  
+    1: 따라 타이핑하며 코드를 익힌다.  
+    2: 논리를 이해한 후, 스스로 작성해 본다.  
+    3: 프로그램의 결과를 이해한 뒤, 직접 구현해 본다.  
+    참조 비디오: https://namjulee.github.io/njs-lab-public/lecture?id=RfFcnXLpsaQ  
+
+
+3. Lecture: 온라인 수업 시청 요약  
+	요약 형식: Reading 과제 형식을 참고하여 작성.  
+
+
+4. Presentation: 요약 / 발표  
+	시청각 발표와 토론  
+
+5. Project: 최종 과제   
+	디자인 혹은 연구 프로젝트 / 알고리즘 개발 등   
+	수업 진행에 따라 최종 과제를 지속적으로 발전시키기   
+
+
+
+
+
+
+
 
 
 **DELIVERABLES / 결과물**:
@@ -240,6 +257,7 @@ Design and implement custom tools for design algorithms and projects, tailored t
 
 #### 15. 프로젝트 2
   최종 프로젝트 발표 및 리뷰
+
 
 
 
@@ -358,7 +376,8 @@ Introduction to Computation for Design 1 & 2
 ### 2.4 Assignment:
 * Reading: 챕터 6, 7, 8
 * Lecture: 
-	- 수업요약: 라이노의 문법 그리고 그라스하퍼 - https://namjulee.github.io/njs-lab-public/lecture?id=NlRDyHMUkvc
+	* 수업요약: 라이노의 문법 그리고 그라스하퍼 - https://namjulee.github.io/njs-lab-public/lecture?id=NlRDyHMUkvc
+	* 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해 - https://namjulee.github.io/njs-lab-public/lecture?id=ni2sTXgvjQo  
 	* Rhino Ecosystem
 		* Rhino Basic and Concept: https://computationaldesign.tistory.com/35
 			* Video: https://youtu.be/kDE--Ai1ZJU
@@ -370,10 +389,9 @@ Introduction to Computation for Design 1 & 2
 
 ### 2.5 Reference:
 * Lecture:
-	- 디자이너를 위한 프로그래밍 언어 1/2 - C# -  https://namjulee.github.io/njs-lab-public/lecture?id=o2FpVWV2AF4 
-	- 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript) - https://namjulee.github.io/njs-lab-public/lecture?id=HSMPTghLPcc 
-
-	* 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들 - https://namjulee.github.io/njs-lab-public/lecture?id=b-KqUEIWUWE
+	- 디자이너를 위한 프로그래밍 언어 1/2 - C# -  https://namjulee.github.io/njs-lab-public/lecture?id=o2FpVWV2AF4  
+	- 디자이너를 위한 프로그래밍 언어 2/2 - Typescript(Javascript) - https://namjulee.github.io/njs-lab-public/lecture?id=HSMPTghLPcc  
+	- 가장 일반적인 오해, 컴퓨테이셔널 디자인 오해들 - https://namjulee.github.io/njs-lab-public/lecture?id=b-KqUEIWUWE  
 
 * Coding:
 	- 01 Basic Python Syntax - https://namjulee.github.io/njs-lab-public/lecture?id=o5EYgYySqHw 
@@ -394,6 +412,9 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 		* 2. 라이노(Rhino3d) 개념 잡기 - https://namjulee.github.io/njs-lab-public/lecture?id=kDE--Ai1ZJU
 		* 3. 시작하기 그리고 Curve / 커브 생성자 - https://namjulee.github.io/njs-lab-public/lecture?id=4EohWwGula8
 		* 4. Curve Tool /커브 수정자 - https://namjulee.github.io/njs-lab-public/lecture?id=xfqgX3xKbvc
+
+* w3schools: Python, JAVA, Javascript, Typescript ...
+  * https://www.w3schools.com/
 
 ---
 # 3. Vector & Point 
@@ -458,6 +479,9 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 * Lecture:
 	* KICDT GH 스터디 01 & 데이터구조 & 공부 전략과 틀 & 개념잡기 - https://namjulee.github.io/njs-lab-public/lecture?id=eP0-GEugYcw
 
+* Presentation:
+	* 컴퓨테이셔널 접근 방식을 활용하여 참여한 프로젝트 및 연구를 정리하여 발표하기  
+	* Vector Data 생태계 정리 / 발표
 
 ### 3.5 Reference:
 * Coding:
@@ -522,7 +546,8 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 
 ### 4.2 Discussion:
 * Topic:
-	* 역사상 가장 비싼 제품
+	* 컴퓨테이셔널 접근 방식을 활용하여 참여한 프로젝트 및 연구를 정리하여 발표하기 
+	* 역사상 가장 비싼 제품 ...
 	* QnA
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-surface-02.gif)
@@ -549,16 +574,20 @@ rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 
 
 ### 4.4. Assignment:
-
 * Coding: 
-	코드완성, Python, Vector, Point, Curve 부족한 부분 보충 학습 후 제출
+	코드완성: Python, Vector, Point, Curve 부족한 부분 보충 학습 후 제출 (과제 포함)
+
+* Lecture:
+	* 추후 공지  
+
+* Presentation:
+	* Curve Data 생태계 정리 / 발표
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-1D.png)
 
 ### 4.5 Reference:
 * Lecture: 
 	* 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 - https://namjulee.github.io/njs-lab-public/lecture?id=bNv4GwQOmpg
-
 
 ---
 # 5. Surface & Brep(Boundary Representation)
@@ -622,11 +651,17 @@ rhinoscriptsyntax, surface related functions
 	minimal surfaces / mean curvature flow
 
 ### 5.4 Assignment:
-* Reading: 
-	* 지오메트리 & 디자인 데이터 정리 요약 
+
+* Coding: 
+	코드완성: Surface & Brep 부족한 부분 보충 학습 후 제출 (과제 포함)  
 
 * Lecture:
-	* https://namjulee.github.io/njs-lab-public/lecture?id=lA3KWQTrToU  
+	* https://namjulee.github.io/njs-lab-public/lecture?id=lA3KWQTrToU
+	* 추가 공지 예정  
+
+* Presentation:
+	* Surface & Brep Data 생태계 정리 / 발표
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-2D.png)  
 
@@ -670,8 +705,17 @@ rhinoscriptsyntax, surface related functions
 	RhinoCommon
 
 ### 6.4 Assignment:
-* 디자이너를 위한 파이썬 04 파이썬 클래스 - https://namjulee.github.io/njs-lab-public/lecture?id=dy575QbFtFg   
-* 지오메트리 클래스 - https://computationaldesign.tistory.com/23  
+
+* Coding: 
+	* 디자이너를 위한 파이썬 04 파이썬 클래스 - https://namjulee.github.io/njs-lab-public/lecture?id=dy575QbFtFg   
+	* 지오메트리 클래스 - https://computationaldesign.tistory.com/23    
+
+* Lecture:
+	* 추후 공지  
+
+* Presentation:
+	* OOP 접근 방식을 활용하여 참여한 프로젝트 및 연구를 정리하여 발표하기
+
 * 과제 선정
 	- 1 프로젝트(디자인, 글, 알고리즘) 선택 및 해결하고자 하는 문제에 대한 기술기술
 	- 2 발표와 피드백 
@@ -721,6 +765,7 @@ rhinoscriptsyntax, surface related functions
 
 ### 7.2 Discussion:
 * QnA 시간
+* 추후 공지
 
 ### 7.3 Lab:
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/mehs-01.gif)
@@ -729,9 +774,15 @@ rhinoscriptsyntax, surface related functions
 ### 7.4 Assignment:
 * Lecture: 
 	* 자료구조, 그래프 / Data Structure for design, Graph 1/2 - https://namjulee.github.io/njs-lab-public/lecture?id=cUEQmPh57MU  
+	* SA 7.0 Lecture 4. 이산 도시공간과 연결성 (그래프)/Discrete Urban Space and Connectivity (Graph) - https://namjulee.github.io/njs-lab-public/lecture?id=BctlL6jQU64  
+	* 추가 공지 예정  
+
+* Coding:
+	* 코드완성: 부족한 부분 보충 학습 후 제출 (과제 포함)  
+
 
 ### 7.5 Reference:
-* Graph 구현 완성
+* Mesh Part - https://medium.com/@nj-namju/discrete-urban-space-and-connectivity-492b3dbd0a81  
 
 
 ---
@@ -739,7 +790,7 @@ rhinoscriptsyntax, surface related functions
 ## 8. 벡터: 그래프 데이터 구조
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
-### 8.1 Assignment:
+### 8.1 Lecture:
 * Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
 	그래프 구조의 이해와 구현  
 	공간 정보의 그래프 표현과 공간 데이터 프로세스  
@@ -758,15 +809,25 @@ rhinoscriptsyntax, surface related functions
 	Mapping with Data  
 
 ### 8.4 Assignment:
-* Graph 구현 완성
+* Coding: 
+	* Graph 구현 완성  
+	* NNA 예제 학습
 
 * Lecture:
 	* 수업요약: 자료구조, 픽셀, 복셀 / Data Structure for design, pixel and voxel data structure 2/2  - https://namjulee.github.io/njs-lab-public/lecture?id=GmwvGd1HZ78 
+	* NNA  
+		* Lecture: https://namjulee.github.io/njs-lab-public/lecture?id=5U4EmOuNmNw  
+		* workshop: https://namjulee.github.io/njs-lab-public/lecture?id=_9l7dp5q6A0  
+	* 추가 공지 예정  
+
 
 ### 8.5 Reference:
-* Graph: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node 
+
+* Discrete Urban Space and Connectivity - https://namjulee.github.io/njs-lab-public/work?id=2020-discrete-urban-space-connectivity  
 
 * https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/discrete-urban%20space%20and%20connectivity 
+
+* Graph: https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-node 
 
 * Concept of Data Propagation and Path Finding - https://namjulee.github.io/njs-lab-public/lecture?id=llWdmIYWVsc  
 * PathFinding A* concept - https://namjulee.github.io/njs-lab-public/lecture?id=byvgYLSheQs  
@@ -774,7 +835,6 @@ rhinoscriptsyntax, surface related functions
 * App
 	* Numerical Network Analysis 
 	* NNA2
-
 
 ---
 # 9. Raster: Pixel & Voxel Data Structure
@@ -788,6 +848,7 @@ rhinoscriptsyntax, surface related functions
 	픽셀과 복셀 구현 및 공간 데이터 프로세스  
 
 ### 9.2 Discussion:
+* 추가 공지 예정
 * QnA
 
 ### 9.3 Lab:
@@ -800,10 +861,17 @@ rhinoscriptsyntax, surface related functions
 	* 인덱싱 센싱
 
 ### 9.4 Assignment:
+* Coding:
+	* Complete Pixel & Voxel Codes
 
 * Lecture:
 	* Computational Thinking, Software 1.0 VS AI, Data-driven Thinking, Software 2.0 - https://namjulee.github.io/njs-lab-public/lecture?id=mT3T3fOd2K8  
 	* 인공지능(AI, ML)을 상상, 소설, 매스컴, 영화, 비전문가를 통해 정리한 디자이너를 위한 개념 정리, 디자인 인공지능, 머신러닝 - https://namjulee.github.io/njs-lab-public/lecture?id=Bd9U-wjCLDU 
+	* QnA 108 디자이너가 인공지능(AI, ML)를 생각할 때, 일반적인 이해와 질문과 생각들 - https://namjulee.github.io/njs-lab-public/lecture?id=igo5ESpVQ9k  
+
+* Presentation:  
+	* 공간정보를 다루기 위한 데이터 구조 / 참여한 프로젝트 및 연구를 정리하여 발표하기  
+	* 최종 과제 점검  
 
 ### 9.5 Reference:
 * Lab:
@@ -840,6 +908,7 @@ rhinoscriptsyntax, surface related functions
 
 ### 10.2 Discussion:
 * AI and Design / 인공지능과 디자인 
+* 초지능과 디자인
 
 ### 10.3 Lab:
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/digitalTexture.jpg)
@@ -859,8 +928,18 @@ rhinoscriptsyntax, surface related functions
 	* git - https://github.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public?tab=readme-ov-file 
 
 ### 10.4 Assignment:
-* Coding
-	* Complete the workshops
+* Coding:  
+	* Complete the workshops  
+
+* Lecture:  
+	* [#컴퓨테이셔널디자인 33] 디자인 엔지니어링 / Design Engineering - https://namjulee.github.io/njs-lab-public/lecture?id=_fK6MPYgHKo  
+	*  디자이너가 AI (데이터)를 바라볼 때 - https://namjulee.github.io/njs-lab-public/lecture?id=XYFE_xdwD_A  
+	* 건축학회 기고글 제3의공간 분석과 적용디자인 데이터 인공지능 글 리뷰 - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o  
+
+* Presentation:  
+	* 인공지능(머신러닝) 모델과 데이터 / 참여한 프로젝트 및 연구를 정리하여 발표하기  
+	* 최종 과제 점검  
+
 
 ### 10.5 Reference:
 * AI & Design - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-design 
@@ -904,11 +983,11 @@ rhinoscriptsyntax, surface related functions
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/StackQueue.png)
 
 ### 11.2 Discussion:
-* QnA
+* 추후 공지    
+* QnA  
 
 ### 11.3 Lab:
-* 파티클 다이내믹스 옵티마이제이션
-* Particle and Dynamics
+* Particle / Dynamics / Optimization
 * Spring model
 * Optimizing, Fitting, and Finding values
 
@@ -931,6 +1010,12 @@ rhinoscriptsyntax, surface related functions
 
 ### 11.4 Assignment:
 * Coding
+	* Complete the workshops
+
+* Lecture: 
+	* 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 - https://namjulee.github.io/njs-lab-public/lecture?id=wLnUSKaQksM  
+	* 데이터를 이용한 실제 디자인 적용의 한계? 문제점? - https://namjulee.github.io/njs-lab-public/lecture?id=EllPW61esoc  
+ 
 
 ### 11.5 Reference:
 
@@ -959,10 +1044,19 @@ rhinoscriptsyntax, surface related functions
 
 ### 12.4 Assignment:
 
+* Coding:  
+	* Complete the workshops  
+
+* Lecture:
+	* 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 그리고 디자인 프로세스(발췌 버젼) - https://namjulee.github.io/njs-lab-public/lecture?id=1oxR8G51TjQ  
+	* 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오 https://namjulee.github.io/njs-lab-public/lecture?id=KOKB1T2C8ws  
+	* 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 기술 / 하드웨어 기술 / 창의성에 대해 - https://namjulee.github.io/njs-lab-public/lecture?id=yLLbuBYdue0  
+
+
+
 
 ### 12.5 Reference:
 * 유니티 쓰리제이에스 캔버스 소개
-
 
 * Interactive Visualization on Web. 
 	* This part is about implementing interactive visualization with urban data and the results from Machine Learning on a web browser. We will examine practical digital mapping techniques such as Bin, Color Blending, and more.  
@@ -1019,14 +1113,21 @@ rhinoscriptsyntax, surface related functions
 * Tools for design and research
 
 ### 13.4 Assignment:
-* Coding
+* Coding:  
+	* Complete the workshops  
+
+* Lecture:
+	* 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 그리고 디자인 프로세스(발췌 버젼) - https://namjulee.github.io/njs-lab-public/lecture?id=1oxR8G51TjQ  
+	* 디자인과 소프트웨어기술을 볼 때, 고민하다 올리는 비디오 https://namjulee.github.io/njs-lab-public/lecture?id=KOKB1T2C8ws  
+	* 기술의 발전에 따라 건축가의 역할이 줄어들까? 소프트웨어 기술 / 하드웨어 기술 / 창의성에 대해 - https://namjulee.github.io/njs-lab-public/lecture?id=yLLbuBYdue0  
 
 
 ### 13.5 Reference:
 * Lecture  
-	캐드, 데이트의 흐름 / CAD data pipeline - https://namjulee.github.io/njs-lab-public/lecture?id=n7qvjYWHyRs  
-	컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://namjulee.github.io/njs-lab-public/lecture?id=D9Gi7X6jaIk   
-	건강한 컴퓨테이셔널 디자인(사고)의 정리 / 이분법적 접근 말자 - https://namjulee.github.io/njs-lab-public/lecture?id=TIvR7jlDxsA   
+	* 캐드, 데이트의 흐름 / CAD data pipeline - https://namjulee.github.io/njs-lab-public/lecture?id=n7qvjYWHyRs  
+	* 컴퓨테이셔널 사고와 파이프라인의 중요성 (발췌 버전) - https://namjulee.github.io/njs-lab-public/lecture?id=D9Gi7X6jaIk   
+	* 건강한 컴퓨테이셔널 디자인(사고)의 정리 / 이분법적 접근 말자 - https://namjulee.github.io/njs-lab-public/lecture?id=TIvR7jlDxsA   
+	* SA 7.0 Lecture 2. 디자이너를 위한 컴퓨테이셔널 팅킹 / Computational Thinking For Designer - https://namjulee.github.io/njs-lab-public/lecture?id=fuz4NLiK0i0  
 
 * iPhone / Mac / Windows Starter - https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index/cad-app-starter  
 
@@ -1034,15 +1135,17 @@ rhinoscriptsyntax, surface related functions
 ---
 # 14. Project I 
 * Design & Research slides: https://docs.google.com/presentation/d/1Ll6W4CuIg3-IvhAvy2kSR8HMGxJ5KlnZrjLY_mZ4Mn8
+
+### Assignment:
 * 프로젝트 기획 및 진행
 	* Review works(Design / Writing / Algorithm)
 
 # 15. Project II
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/02_sys_1500.gif)
+
+### Assignment:
 * 최종 프로젝트 발표 및 리뷰
 	* Present works(Design / Writing / Algorithm)
-
-
 
 ---
 
