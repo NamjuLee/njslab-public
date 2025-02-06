@@ -19,7 +19,7 @@
         Raster Data Structure  
         Graph, Grid, Voxel  
 
-* 4 Implementation  
+* 4 Implementation 
         Projects  
 
 #### NJ CHANNEL: Membership Level 2, 1 study guide  

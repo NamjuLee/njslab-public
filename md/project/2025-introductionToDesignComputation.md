@@ -192,55 +192,70 @@ Design and implement custom tools for design algorithms and projects, tailored t
 
 #### 1. 데이터 디자인  
   1-1. 컴퓨테이션 도구의 가능성과 한계 이해  
-  1-2. 컴퓨테이셔널 사고와 디자인 씽킹  
+  1-2. 컴퓨테이셔널 사고와 컴퓨테이셔널 디자인 사고  
   1-3. 파라메트릭, 제너레이티브, 에이전트, 인공지능(머신러닝) 기반 디자인  
+  1-4. 디자인 재료로서의 데이터
 
 #### 2. 프로그래밍  
   2-1. 파이썬 프로그래밍  
   2-2. 데이터 구조 이해  
-  2-3. 문제 정의와 해결  
+  2-3. 문제 정의, 기술, 해결
+  2-4. 디자인 데이터 구조와 문제 기술
 
 ---
-#### 3. 벡터  
+#### 3. 벡터와 포인트  
   3-1. 벡터 계산  
   3-2. 분석적 기하학과 문제 해결  
   3-3. 포인트와 그리드 구조  
+  3-4. 좌표계와 프로젝션  
+  3-5. 트랜스폼
 
-#### 4. 커브  
+#### 4. 커브와 면
   4-1. 라인, 폴리라인, 커브  
   4-2. 커브의 디자인 데이터  
   4-3. 원, 호 등의 기하학 생성과 수정  
+  4-4. 점과 선 데이터 관계 이해와 응용  
 
-#### 5. 서피스(Surface)와 비랩(Brep)  
+#### 5. 면과 비랩 / Surface & Brep  
   5-1. 면 생성 및 수정  
   5-2. 면과 비랩의 디자인 데이터 활용  
+  5-3. 점, 선 그리고 면 데이터 관계 이해와 응용
 
 ---
-#### 6. 객체지향 프로그래밍(OOP)  
-  6-1. 객체지향 프로그래밍 이해와 구현, 디자인 패턴  
-  6-2. 디자인 문제와 데이터 구조 설계  
+#### 6. 객체지향 프로그래밍 / OOP(Object-Oriented Programming)  
+  6-1. 객체지향 프로그래밍 이해와 구현
+  6-2. 디자인 문제에 따른 데이터 구조 설계  
+  6-3. 소프트웨어 아키텍쳐와 디자인 패턴 
   과제 선정: 프로젝트(디자인, 글, 알고리즘) 선택 및 해결하고자 하는 문제에 대한 기술기술, 발표와 피드백  
 
 #### 7. 공간(디자인) 정보와 이산화  
   7-1. 공간 분할과 파티셔닝  
-  7-2. 매쉬 오브젝트와 디자인 데이터  
+  7-2. 메쉬 오브젝트와 디자인 데이터  
+  7-3. 점, 선, 면, 그리고 메쉬 데이터 관계 이해와 응용  
+  7.4. 데이터의 직렬화(Serialization)와 역직렬화(Deserialization)  
 
 #### 8. 그래프  
   8-1. 그래프 구조의 이해와 구현  
-  8-2. 공간 정보의 그래프 표현과 공간 데이터 프로세스  
+  8-2. 공간 정보의 그래프 표현과 이산 데이터 프로세스  
+  8-3. 도시 네트워크 분석, NNA Tool 이해와 적용  
 
 #### 9. 래스터  
   9-1. 컬러, 이미지 데이터, 컴퓨터 비전  
-  9-2. 픽셀과 복셀 구현 및 공간 데이터 프로세스  
+  9-2. 공간 정보의 표현과 연속 데이터 프로세스
+  9-3. 픽셀과 복셀 구현 및 공간 데이터 프로세스  
+  9-4. Numerical Image Tool 이해와 적용
 
 ---
-#### 10. 데이터 드리븐 프로그래밍  
-  10-1. 귀납적 사고와 머신러닝  
-  10-2. 문제 정의, 데이터 활용, 인공지능 모델 이해  
+#### 10. 인공지능과 디자인  
+  10-1. 인공지능의 이해와 컴퓨테이셔널 디자인  
+  10-2. 귀납적 사고와 머신러닝  
+  10-3. 문제 정의, 데이터 활용, 인공지능 모델 이해  
+  10-4. 분석형 모델 & 생성형 모델: 데이터 형식과 내용 그리고 모델의 적용
 
 #### 11. 디자인 알고리즘: 최적화와 구현  
-  11-1. 벡터와 다이내믹스  
+  11-1. 문제에 특성과 최적화 이해
   11-2. 디자인 프로세스의 코드화 및 최적화  
+  11-3. 벡터와 다이내믹스  
 
 ---
 #### 12. 데이터(디자인) 시각화  
@@ -251,6 +266,7 @@ Design and implement custom tools for design algorithms and projects, tailored t
 #### 13. CAD 프로그램 개발  
   13-1. 디자인 소프트웨어의 이해  
   13-2. 연구 및 디자인 도구 개발  
+  13-3. Web / Windows / IOS/ Addon / Plugin Development
 
 #### 14. 프로젝트 1
   프로젝트 기획 및 진행
@@ -272,7 +288,7 @@ Introduction to Computation for Design 1 & 2
 ###  1.1 Lecture:
 * Data & Design - https://computationaldesign.tistory.com/50   
 * 컴퓨테이션 도구의 가능성과 한계 이해  
-* 컴퓨테이셔널 사고와 디자인 씽킹  
+* 컴퓨테이셔널 사고와 컴퓨테이셔널 디자인 사고   
 * 디자인 사이언스, 파라메트릭, 제너레이티브, 에이전트, 인공지능(머신러닝) 기반 디자인  
 * Data as Materials for design
   * Software as tool & Code for design
@@ -293,17 +309,19 @@ Introduction to Computation for Design 1 & 2
 	* [Colab: Python basics](https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl) / [Colab: Basic Data processing](https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO)
 
 * Software Installation: https://namjulee.github.io/njs-lab-public/installation  
-    *  Rhino 8 / Github desktop  
-    Miniconda env  
-    Visual Studio Code / Visual Studio Community 2022  
+    * Rhino 8 / Github desktop  
+    * Miniconda env  
+    * Visual Studio Code / Visual Studio Community 2022  
 
 ### 1.4 Assignment:
-* Reading: 쳅터 4, 5
+* Reading: 컴퓨테이셔널 디자인, 쳅터 4, 5
 * Lecture: 
+	- CD 21 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 / Design & Data - https://youtu.be/bNv4GwQOmpg   
     - 파이썬 (Python) 배워야 할까? 장단점을 알아보자! - https://namjulee.github.io/njs-lab-public/lecture?id=EwhopA00f2M  
     - 라이노 파이썬 / Rhino Python, 공부법  - https://namjulee.github.io/njs-lab-public/lecture?id=lEW3xReb3FM  
     - 파이썬 워크숍 수업 시청 https://namjulee.github.io/njs-lab-public/lecture?id=cIW1fsb8ITs  
     - 파이썬 코드 완성 - https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl  
+
 
 * Coding:   
 	- Complete the installation(software and development environment)   
@@ -340,7 +358,9 @@ Introduction to Computation for Design 1 & 2
 ###  2.1 Lecture:
 * Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54  
 * 파이썬 프로그래밍  
-* 데이터 구조 이해 / 문제 정의와 해결  
+* 데이터 구조 이해  
+* 문제 정의, 기술, 해결  
+* 디자인 데이터 구조와 문제 기술
 
 * Programming: Python & C# & Javascript(Typescript)  
 	* Computational design fundamental / Visual programming (Grasshopper)  
@@ -357,16 +377,18 @@ Introduction to Computation for Design 1 & 2
 
 ### 2.2 Discussion: 
 * [Book](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g32c57c59277_1_789) 
-* 챕터 4 코딩 디자인 
-* 챕터 5 컴퓨테이셔널 사고
+* 챕터 4 코딩 디자인  
+* 챕터 5 컴퓨테이셔널 사고  
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/programmingParadigm.png)
 
 ### 2.3 Lab:
 * 파이썬 기초 / 라이노 파이썬 - LAB_01_PythonBasic.ipynb / [Colab: Python basics](https://colab.research.google.com/drive/1kBWOL81OG0u1VRYOQonZJzcP7Yi9YLgl)
     * Python Programming   
-		* Python basic Syntax  
+		* Python basic Syntax
+		* Primitive data structure  
         * functions  
+
 * 파이썬 데이터 구조 - LAB_02_PythonBasicDataProcessing.ipynb /[Colab: Basic Data processing](https://colab.research.google.com/drive/1ifYtJ4X36jRf_qws4EXr0vRg8hVyDXwO)
     * Series / Domain / Random / Item / Split strings / Reverse String data / GH Stack component /Fibonacci numbers /Cull index / Random reduce / Index Partition / Replace / Multiplication table
 
@@ -374,7 +396,7 @@ Introduction to Computation for Design 1 & 2
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/computationalThinking.png)
 
 ### 2.4 Assignment:
-* Reading: 챕터 6, 7, 8
+* Reading: 컴퓨테이셔널 디자인, 챕터 6, 7, 8
 * Lecture: 
 	* 수업요약: 라이노의 문법 그리고 그라스하퍼 - https://namjulee.github.io/njs-lab-public/lecture?id=NlRDyHMUkvc
 	* 라이노 파이썬(Rhino Python) 스터디 방향 질문 / API 학습에 대해 - https://namjulee.github.io/njs-lab-public/lecture?id=ni2sTXgvjQo  
@@ -427,19 +449,14 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 	* 3-1. 벡터 계산  
   	* 3-2. 분석적 기하학과 문제 해결  
   	* 3-3. 포인트와 그리드 구조  
+	* 3-4. 좌표계와 프로젝션  
+	* 3-5. 트랜스폼
 
 	* Coordinate System  
 	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/coordinateSystem.png)  
-		* 1D, t - Curve / R1 space projection
-		* 2D, uv - R2 space projection
-		* 3D, xyz - R3 space - Mesh / Brep / Decompose
-
-	* Transform  
-	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/transformMat.png)  
-
-	* Transformations
-		* Move, rotate, scale : a language  
-		* Geometric invariants / Translation / Rotation / Isotropic Scaling / Anisotropic scaling / Shear transformations / Perspective distortion / Topology preserving non-linear transformations / General non-linear transformations / Non geometric transformations / Linear transformations / Affine Transformations / Non-Linear Transformations / Inverse transformations / Active / passive transformations / The shape of transformations , Iterated function systems / Nested transformations and hierarchies [inverse kinematics and robotics]
+		* 1D, t value - Curve / R1 space projection
+		* 2D, uv value - R2 space projection
+		* 3D, xyz value - R3 space - Mesh / Brep / Decompose
 
 	* Analytical Geometry
 		* From geometric constructions to algebraic expressions
@@ -449,6 +466,12 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 			* Numerical representation of vectors & Operation 
 			* Length / Addition of vectors / Multiplication by a number[scalar] / Unit Vectors / The dot product / The cross product  
 		* Vectors as differences of points / Common geometry problems / Distance between two points / Angle between vectors / Angle of triangle / Area of triangles / Triangle unit normal / Projection of point of line / Projection of point to plane / Point at a distance d along line between 2 points / Mid-point / Linear interpolation between two points / Center of triangle / Center of point cloud  
+
+	* Transform  
+	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/transformMat.png)  
+	* Transformations  
+		* Move, rotate, scale : a language  
+		* Geometric invariants / Translation / Rotation / Isotropic Scaling / Anisotropic scaling / Shear transformations / Perspective distortion / Topology preserving non-linear transformations / General non-linear transformations / Non geometric transformations / Linear transformations / Affine Transformations / Non-Linear Transformations / Inverse transformations / Active / passive transformations / The shape of transformations , Iterated function systems / Nested transformations and hierarchies [inverse kinematics and robotics]  
 
 	* General notes  
 		* Barycentric coordinates / Homogeneous coordinates  
@@ -466,9 +489,10 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 * Coordinate System 
 * Transform
 * Point Grid 1D[Curve]
-	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-1D.gif)
-* Point Grid 2D[Surface], Grid 3D(Voxel)[Solid(Mesh/Brep)]
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-2D-grid.gif)
+	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-1D.gif)  
+
+* Point Grid 2D[Surface], Grid 3D(Voxel)[Solid(Mesh/Brep)]  
+	![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/point-2D-grid.gif)  
 
 ### 3.4 Assignment:
 * Lecture / Coding:
@@ -509,15 +533,16 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 * Vector: Curve - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/line-curve 
 	* 라인, 폴리라인, 커브  
 	* 커브의 디자인 데이터  
-	* 원, 호 등의 기하학 생성과 수정   
+	* 원, 호 등의 기하학 생성과 수정  
+	* 점과 선 데이터 관계 이해와 응용  
 
 	* Mathematics of curves  
 		Curves as graphs of functions: y=f(x) /
-		Numerical representations /  
+		Numerical representations /
 		The discrete derivative /
 		Implicitly defined curves / contours /
-		Contours - marching cubes /  
-		Recursive curves /  
+		Contours - marching cubes /
+		Recursive curves /
 		Dimension /
 		Integral curves /
 		Gradient curves /
@@ -526,14 +551,14 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 		Tensor patterns app /
 		skeletonization 
  
-	* Explicit curves: parametric representation
+	* Explicit curves: parametric representation  
 		The straight line /
 		The circle /
 		The helix /
-		Drawing parameterized curves / 
+		Drawing parameterized curves /
 		Parameterization
 
-	* Natural equations
+	* Natural equations  
 		Fitting curves /
 		Interplation curves /
 		Nurbbs Bexier and splines /
@@ -547,7 +572,7 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 ### 4.2 Discussion:
 * Topic:
 	* 컴퓨테이셔널 접근 방식을 활용하여 참여한 프로젝트 및 연구를 정리하여 발표하기 
-	* 역사상 가장 비싼 제품 ...
+	* [역사상 가장 비싼 제품](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g32d69564adc_2_3)
 	* QnA
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-surface-02.gif)
@@ -555,39 +580,40 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 ### 4.3 Lab:
 rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 
-* Evaluation of curve(in Rhino common)  
-	domain  
-	min(Start Point)  
-	max(End Point)   
-	at(t)   
-	Closest point query [inversion]  
-	Tangent   
-	Length  
-	Osculation plane and the binormal  
-	Osculation circle  
-	Principal normal  
-	Curvature  
-	Moving frame  
-	Torsion  
+* Evaluation of curve(in RhinoCommon)  
+	Domain /
+	Min(Start Point) /
+	Max(End Point) / 
+	at(t) / 
+	Closest point query [inversion] /
+	Tangent / 
+	Length /
+	Osculation plane and the binormal /
+	Osculation circle /
+	Principal normal /
+	Curvature /
+	Moving frame /
+	Torsion /
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/curve-data-2.gif)
 
 
 ### 4.4. Assignment:
-* Coding: 
-	코드완성: Python, Vector, Point, Curve 부족한 부분 보충 학습 후 제출 (과제 포함)
+* Coding:  
+	코드완성: Python, Vector, Point, Curve 부족한 부분 보충 학습 후 제출 (과제 포함)  
 
-* Lecture:
+* Lecture:  
 	* 추후 공지  
 
-* Presentation:
-	* Curve Data 생태계 정리 / 발표
+* Presentation:  
+	* Curve Data 생태계 정리 / 발표  
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-1D.png)
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/curve-1D.png)  
 
 ### 4.5 Reference:
-* Lecture: 
-	* 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 - https://namjulee.github.io/njs-lab-public/lecture?id=bNv4GwQOmpg
+* Lecture:  
+	* 내가 생각하는 컴퓨테이셔널 디자인 / 워크숍 강좌를 만드는 배경 / 디자인 데이터 - https://namjulee.github.io/njs-lab-public/lecture?id=bNv4GwQOmpg  
+
 
 ---
 # 5. Surface & Brep(Boundary Representation)
@@ -600,7 +626,9 @@ rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 ### 5.1 Lecture:
 * Vector: Surface & Brep - https://namjulee.github.io/njs-lab-public/lab/lab-curve-discrete-design-data/surface-brep
 	* 면 생성 및 수정  
-	* 면과 비랩의 디자인 데이터 활용  
+	* 면과 비랩의 디자인 데이터 활용    
+	* 점, 선 그리고 면 데이터 관계 이해와 응용  
+
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
 
 	* Mathematics of surfaces  
@@ -680,16 +708,24 @@ rhinoscriptsyntax, surface related functions
 
 ### 6.1 Lecture:
 * Object-Oriented Programming & Data Structure and Processing - https://namjulee.github.io/njs-lab-public/lab/lab-computational-thinking-typescript/oop
-	*  객체지향 프로그래밍 이해와 구현, 디자인 패턴
-	* 디자인 문제와 데이터 구조 설계
-	* OOP - 
-		Class  
-		Properties   
-		Function   
-		Static function and properties[member]  
-		Abstract class & Concrete class
-		Access Modifiers: public & private & protected  
-	* Design Pattern
+	* 객체지향 프로그래밍 이해와 구현  
+	* 디자인 문제에 따른 데이터 구조 설계    
+	* 소프트웨어 아키텍쳐와 디자인 패턴  
+	
+	* OOP -  
+		Class /  
+		Properties /    
+		Function /
+		Static function and properties[member] /
+		Abstract class & Concrete class /
+		Access Modifiers: public & private & protected     
+
+	* Design Pattern   
+		* Creational Patterns – Optimize object creation  
+		* Structural Patterns – Improve class and object relationships  
+		* Behavioral Patterns – Manage object interactions and responsibilities  
+
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/OOP-data-small.gif)  
 
@@ -725,6 +761,7 @@ rhinoscriptsyntax, surface related functions
 * 쉽게 이해하는 클래스(Class) - https://youtu.be/lA3KWQTrToU
 * class examples - https://github.com/NamjuLee/NJS
 
+* Data Structure for Computational Design - https://codepen.io/collection/DKeygq
 
 
 ————————————————————————————————————————
@@ -734,8 +771,10 @@ rhinoscriptsyntax, surface related functions
 
 ### 7.1 Lecture:
 * Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh 
-	공간 분할과 파티셔닝
-	매쉬 오브젝트와 디자인 데이터
+	공간 분할과 파티셔닝  
+	메쉬 오브젝트와 디자인 데이터  
+	점, 선, 면, 그리고 메쉬 데이터 관계 이해와 응용  
+	데이터의 직렬화(Serialization)와 역직렬화(Deserialization)  
 
 * Vector and Raster as design data
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/vectorRaster-1.jpg)
@@ -787,13 +826,14 @@ rhinoscriptsyntax, surface related functions
 
 ---
 # 8. Vector: Graph Data structure
-## 8. 벡터: 그래프 데이터 구조
+## 8. 그래프
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
 ### 8.1 Lecture:
 * Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
 	그래프 구조의 이해와 구현  
 	공간 정보의 그래프 표현과 공간 데이터 프로세스  
+	도시 네트워크 분석, NNA Tool 이해와 적용 
 
 ### 8.2 Discussion:
 * QnA  
@@ -888,14 +928,15 @@ rhinoscriptsyntax, surface related functions
 
 ---
 # 10. AI, ML, Data driven programming / 
-## 10. 인공지능, 머신러닝, 데이터 드리븐 프로그래밍
+## 10. 인공지능과 디자인
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
 ### 10.1 Lecture:
 * AI for Designers - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-designers 
-* 귀납적 사고와 머신러닝
-* 문제 정의, 데이터 활용, 인공지능 모델 이해
-* Signal from Noise
+	인공지능의 이해와 컴퓨테이셔널 디자인  
+	귀납적 사고와 머신러닝    
+	문제 정의, 데이터 활용, 인공지능 모델 이해   
+	분석형 모델 & 생성형 모델: 데이터 형식과 내용 그리고 모델의 적용  
 
 * Introduction to AI models and Implementations
 	* Analytical models:   
@@ -969,16 +1010,30 @@ rhinoscriptsyntax, surface related functions
 			LAB 01 - Visualization  
 			LAB 02 - Model implementation(Boston, LA, and Redlands)  
 
+* Smart Drawing - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/tf-smart-drawing  
+* Regression - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/tf-regression
 
 ---
 # 11. Design Algorithm & implementation & Dynamics & Optimization
-## 11. 디자인 알고리즘과 구현 & 다이내믹스 & 최적화
+## 11. 디자인 알고리즘: 최적화와 구현 & 다이내믹스
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DataStructure.png)
 
 ### 11.1 Lecture:
 * Lecture - http://www.xxxxxx   
-	벡터와 다이내믹스  
+	문제에 특성과 최적화 이해  
 	디자인 프로세스의 코드화 및 최적화  
+	벡터와 다이내믹스  
+
+* Brute force - https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/grid-optimizer    
+  Heuristic Optimization - https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star  
+  Genetic Algorithm - https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/genetic-algorithm   
+  Gradient-Based Optimization - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/js-linear-regressiongd    
+
+* Divide and Conquer/ Dynamic Programming / Backtracking  
+* Greedy Algorithm - Kruskal's Algorithm - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-system  
+* Search Algorithms (Breadth-First Search, BFS) (Depth-First Search, DFS) - https://codepen.io/NJStudio/pen/RwWxGXo  
+* Grid Search / Random Search  
+* Reinforcement Learning / Machine Learning based optimization  
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/StackQueue.png)
 
@@ -987,26 +1042,30 @@ rhinoscriptsyntax, surface related functions
 * QnA  
 
 ### 11.3 Lab:
-* Particle / Dynamics / Optimization
-* Spring model
-* Optimizing, Fitting, and Finding values
+* Brute force / Genetic Algorithm  
+* Particle / Dynamics / Optimization  
+* Spring model  
+* GA model  
+* Optimizing, Fitting, and Finding values   
+* Machine Leaning Models  
+* Particle - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/boid  
+	* Boids (Flocking Simulation)  
 
 * Dynamics
 	Task 1: particle [the node class] / Node dynamics  
 	Task 2: particle group [the graph class]  
-	Task 3: gravity  
+	Task 3: gravity - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/particle-structure    
 	Task 4: boundary collision  
 	Task 5: trajectories  
 	Task 6: edges  
 	Task 7: spring forces  
 	Task 8: boundary conditions  
-	Task 9: grid  
+	Task 9: grid - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/grid-structure  
 	Task 10: fabric  
-	Task 11: curtain  
-	Task 12: tensile structure  
+	Task 11: curtain - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/curtain-structure    
+	Task 12: tensile structure - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/tensile-structure    
+			https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/truss-structure  
 
-* Particle and Spring model
-* GA model
 
 ### 11.4 Assignment:
 * Coding
@@ -1017,14 +1076,22 @@ rhinoscriptsyntax, surface related functions
 	* 데이터를 이용한 실제 디자인 적용의 한계? 문제점? - https://namjulee.github.io/njs-lab-public/lecture?id=EllPW61esoc  
  
 
+* Heuristic Optimization   
+	https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-path-finding  
+	https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star  
+
+
 ### 11.5 Reference:
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/07_1500.gif)
 
+* Rect-Pos-Opti - https://namjulee.github.io/njs-lab-public/lab/lab-dynamics-particle-simulation/rect-pos-opti  
+
+
 
 ---
 # 12. 3D & 2D & Data Visualization
-## 12. 데이터(디자인) & 2D & 3D 시각화
+## 12. 데이터(디자인) / 2D & 3D 시각화
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/mapping2.jpg)
 
 ### 12.1 Lecture:
@@ -1096,7 +1163,7 @@ rhinoscriptsyntax, surface related functions
 
 
 # 13. CAD App Development
-## 13 CAD 프로그램 개발
+## 13. CAD 프로그램 개발
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 ### 13.1 Lecture:

@@ -480,6 +480,7 @@ QnA 111 추천서 관련 질문, 추천서(Recommendation letter)를 생�
   CD 40 컴퓨테이셔널 사고와 파이프라인 위계 에이전트의 행동, 데이터 업데이트 관계성 (발췌 버전) - https://youtu.be/wLnUSKaQksM  
   CD 42 유니티를 통해 배우는 컴퓨테이셔널 사고와 이벤트 & 디자인 프로세스(발췌 버젼) - https://youtu.be/1oxR8G51TjQ  
 
+* Data Structure for Computational Design - https://codepen.io/collection/DKeygq
 
 # Geometry
 Geometry For Design - https://computationaldesign.tistory.com/61  
