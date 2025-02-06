@@ -767,10 +767,10 @@ rhinoscriptsyntax, surface related functions
 ————————————————————————————————————————
 # 7. Discretization: Mesh & Partitions & Spatial Information  
 ## 7. 공간(디자인) 정보와 이산화 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/01_data_1500.gif)  
 
-### 7.1 Lecture:
-* Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh 
+### 7.1 Lecture:  
+* Lecture - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-discretization-partitions-mesh  
 	공간 분할과 파티셔닝  
 	메쉬 오브젝트와 디자인 데이터  
 	점, 선, 면, 그리고 메쉬 데이터 관계 이해와 응용  
@@ -830,7 +830,7 @@ rhinoscriptsyntax, surface related functions
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/03_1500.gif)  
 
 ### 8.1 Lecture:
-* Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph 
+* Lecture: - https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/vector-graph  
 	그래프 구조의 이해와 구현  
 	공간 정보의 그래프 표현과 공간 데이터 프로세스  
 	도시 네트워크 분석, NNA Tool 이해와 적용 
@@ -882,8 +882,8 @@ rhinoscriptsyntax, surface related functions
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/12_1500.gif)
 
 ### 9.1 Lecture:
-* Raster: - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/raster 
-* [Data Structure and Algorithm for Design and Research] * Pixel & Voxel & Graph - https://namjulee.github.io/njs-lab-public/lab/lab-pixel-&-voxel-map-continuous-design-data/raster-pixel-voxel  
+* Raster: - https://namjulee.github.io/njs-lab-public/lab/lab-raster-&-color-continuous-design-data/raster  
+* [Data Structure and Algorithm for Design and Research] * Pixel & Voxel & Graph - https://namjulee.github.io/njs-lab-public/lab/lab-pixel-&-voxel-map-continuous-design-data/raster-pixel-voxel   
 	컬러, 이미지 데이터, 컴퓨터 비전  
 	픽셀과 복셀 구현 및 공간 데이터 프로세스  
 
@@ -1019,7 +1019,7 @@ rhinoscriptsyntax, surface related functions
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DataStructure.png)
 
 ### 11.1 Lecture:
-* Lecture - http://www.xxxxxx   
+* Lecture - https://namjulee.github.io/njs-lab-public/lab/algorithm-&-design-spatial-data-process/design-algorithm-&-dynamics-&-optimization   
 	문제에 특성과 최적화 이해  
 	디자인 프로세스의 코드화 및 최적화  
 	벡터와 다이내믹스  
@@ -1095,10 +1095,16 @@ rhinoscriptsyntax, surface related functions
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/mapping2.jpg)
 
 ### 12.1 Lecture:
-* Lecture - http://www.xxxxxx   
+* Lecture - https://namjulee.github.io/njs-lab-public/lab/visualization-design-data-vr-ar-mr/design-vis-web  
 	데이터 시각화의 이해와 구현  
 	2D, 3D 시각화와 파이프라인 이해  
 	VR/AR/MR 시각화 구현  
+
+* Unity - https://namjulee.github.io/njs-lab-public/lab/workshop-series/unity  
+* Digital Mapping - https://namjulee.github.io/njs-lab-public/lab/workshop-series/digital-mapping    
+* Digital Mapping JSAPI - https://namjulee.github.io/njs-lab-public/lab/workshop-series/digital-mapping-jsapi    
+* Digital Mapping GH - https://namjulee.github.io/njs-lab-public/lab/workshop-series/digital-mapping-gh    
+
 
 ### 12.2 Discussion:
 * QnA
@@ -1162,19 +1168,22 @@ rhinoscriptsyntax, surface related functions
 	* UnityForDesigners Basic 03 Unity 실행 그리고 Interface - https://namjulee.github.io/njs-lab-public/lecture?id=40znXhhOw-w
 
 
+
 # 13. CAD App Development
 ## 13. CAD 프로그램 개발
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/cad-app/cad-standalone-dev.png)  
 
 ### 13.1 Lecture:
-* Lecture - https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index/cad-app-starter   
+* Lecture - CAD App Starter - https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index/cad-app-starter   
 	디자인 소프트웨어의 이해  
 	연구 및 디자인 도구 개발  
 
-### 13.2 Discussion:
-* QnA
+* Plugin & Addon - https://namjulee.github.io/njs-lab-public/lab/cad-app-starter-index/plugin-&-addon  
 
-### 13.3 Lab:
+### 13.2 Discussion:
+* QnA  
+
+### 13.3 Lab:  
 * Pipelines(events / rendering)  
 * Web app / Plugin & Addon development 
 * Tools for design and research
