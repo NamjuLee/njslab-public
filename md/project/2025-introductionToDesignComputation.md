@@ -190,13 +190,14 @@ Design and implement custom tools for design algorithms and projects, tailored t
 -----
 # TOC
 
-#### 1. 데이터 디자인  
+#### 1. 데이터 & 디자인  
   1-1. 컴퓨테이션 도구의 가능성과 한계 이해  
   1-2. 컴퓨테이셔널 사고와 컴퓨테이셔널 디자인 사고  
   1-3. 파라메트릭, 제너레이티브, 에이전트, 인공지능(머신러닝) 기반 디자인  
   1-4. 디자인 재료로서의 데이터
 
 #### 2. 프로그래밍  
+  2-1. 컴퓨이셔널 사고
   2-1. 파이썬 프로그래밍  
   2-2. 데이터 구조 이해  
   2-3. 문제 정의, 기술, 해결
@@ -280,7 +281,7 @@ Design and implement custom tools for design algorithms and projects, tailored t
 -----
 
 # 1. Data & Design: Code for Design 
-## 1. 데이터 디자인
+## 1. 데이터 & 디자인
 Introduction to Computation for Design 1 & 2
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/dataDesignSequence.jpg)
@@ -293,9 +294,8 @@ Introduction to Computation for Design 1 & 2
 * Data as Materials for design
   * Software as tool & Code for design
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DesignScience.png)
-
 ### 1.2 Discussion:  
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/DesignScience.png)
 * [BOOK] Introduction Computation for Design - [slides](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ/edit#slide=id.g2e7a1a6a41f_1_30)
 * 챕터 1 재료 도구 디자인  
 * 챕터 2 디자이너에게 코딩이란  
@@ -357,6 +357,7 @@ Introduction to Computation for Design 1 & 2
 
 ###  2.1 Lecture:
 * Code for Design, Data, and Programming - https://computationaldesign.tistory.com/54  
+* 컴퓨테이셔널 사고  
 * 파이썬 프로그래밍  
 * 데이터 구조 이해  
 * 문제 정의, 기술, 해결  
@@ -483,7 +484,9 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 * 챕터 8 힉습자료
 
 
-### 3.3 Lab
+### 3.3 Lab  
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/geometry/pointGrid/pointGrid.png)
+
 * Vector Operation
 * Analytical Geometry
 * Coordinate System 
@@ -525,7 +528,7 @@ As a first step, We will learn the basic concept of programming, dealing with lo
 
 
 ---
-# 4. Vector: Line & Polyline & Curve & Surface
+# 4. Vector: Line & Polyline & Curve  
 ## 4. 커브 & 면
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/designDataStructure/curve-data-1.gif)
 
@@ -616,7 +619,7 @@ rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 
 
 ---
-# 5. Surface & Brep(Boundary Representation)
+# 5. Vector: Surface & Brep(Boundary Representation)
 ## 5. 면과 비랩
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-01.gif)  
@@ -628,8 +631,7 @@ rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 	* 면 생성 및 수정  
 	* 면과 비랩의 디자인 데이터 활용    
 	* 점, 선 그리고 면 데이터 관계 이해와 응용  
-
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
+		![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
 
 * Mathematics of surfaces  
 	* Surfaces as graphs of functions of two variables:  
@@ -725,17 +727,15 @@ rhinoscriptsyntax, surface related functions
 		* Structural Patterns – Improve class and object relationships  
 		* Behavioral Patterns – Manage object interactions and responsibilities  
 
-
-
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/OOP-data-small.gif)  
 
 ### 6.2 Discussion:
 * 주제: 이전 수업들에서 받았던 질문들 대상으로 선정
 * QnA 시간
 
-![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-component-centric.png)
+### 6.3 Lab:  
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/computation/Programming/OOP-component-centric.png)  
 
-### 6.3 Lab:
 * Class 개념 이해
   	포인트 라인 면 클래스 만들기
 	RhinoCommon
@@ -927,7 +927,7 @@ rhinoscriptsyntax, surface related functions
 
 
 ---
-# 10. AI, ML, Data driven programming / 
+# 10. AI, ML, Data driven programming 
 ## 10. 인공지능과 디자인
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
@@ -1090,7 +1090,7 @@ rhinoscriptsyntax, surface related functions
 
 
 ---
-# 12. 3D & 2D & Data Visualization
+# 12. Design & Data Visualization
 ## 12. 데이터(디자인) / 2D & 3D 시각화
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/mapping2.jpg)
 
@@ -1246,9 +1246,3 @@ rhinoscriptsyntax, surface related functions
 * Computational Design Thinking for Designers: https://nj-namju.medium.com/computational-design-thinking-for-designers-68224bb07f5c
 
 * Code for Design Reference: https://namjulee.github.io/njs-lab-public/reference
-
-
-
-
-
-
