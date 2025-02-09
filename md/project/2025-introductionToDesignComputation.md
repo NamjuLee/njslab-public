@@ -1,6 +1,6 @@
 # Data in Design I & II
 
-![Data in Design](https://namjulee.github.io/njs-lab-public/project/2025-introductionToDesignComputation/2025-data-in-design.png)
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/geometry/pointGrid/pointGrid.png)
 
 
 [Web](https://namjulee.github.io/data-in-design) & 
@@ -631,25 +631,25 @@ rhinoscriptsyntax, Line, Polyline, Curve, and its Data
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/geometry/sur-brep-02.gif)  
 
-	* Mathematics of surfaces  
-		Surfaces as graphs of functions of two variables:  
-		z=f(x,y)  
-		implicitly defined surfaces / onion skin contours  
-		Exponentially decaying fields  
+* Mathematics of surfaces  
+	* Surfaces as graphs of functions of two variables:  
+	z=f(x,y)  
+	implicitly defined surfaces / onion skin contours  
+	Exponentially decaying fields  
 
-		Explicit surfaces: [parametric representation]  
-			the plane  
-			the sphere  
-			the cylinder  
-			parameterization  
-			isoparametric curves  
+	* Explicit surfaces: [parametric representation]  
+		* the plane  
+		the sphere  
+		the cylinder  
+		parameterization  
+		isoparametric curves  
 
-	* mapping  
-		developable surfaces  
-		Ribbons: normal/binormal/tangent surfaces  
-		fitting surfaces  
-		geodesics  
-		nurbs surfaces  
+* mapping  
+	developable surfaces  
+	Ribbons: normal/binormal/tangent surfaces  
+	fitting surfaces  
+	geodesics  
+	nurbs surfaces  
 
 ### 5.2 Discussion:
 * 주제: 지오메트리 & 디자인 데이터 정리 요약

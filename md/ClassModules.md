@@ -5,7 +5,7 @@
 ## COURSEWORKS & CLASS MODULES
 * CLASS MODULES: [Short slides](https://docs.google.com/presentation/d/1DGemUWP9oljep46wFKZi4WtDtfMIn-tTF0NpkqrftjQ) / [Long slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI)  
 * Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
-* [Chart](https://lucid.app/lucidspark/a5b884d3-1462-4b5d-b88a-fe1adad8753e/edit?viewport_loc=-1668%2C-268%2C2094%2C1202%2C0_0&invitationId=inv_24152cfa-a793-4ddc-b20e-1782df7d55f2)
+* [Topic to Discuss](https://docs.google.com/presentation/d/1EY84bHhezSzHx4gmToW-yOL8y1rIb6-6uinxGbinrsE), [Chart](https://lucid.app/lucidspark/a5b884d3-1462-4b5d-b88a-fe1adad8753e/edit?viewport_loc=-1668%2C-268%2C2094%2C1202%2C0_0&invitationId=inv_24152cfa-a793-4ddc-b20e-1782df7d55f2)
 
 
 ---
