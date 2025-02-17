@@ -60,14 +60,14 @@ link: [https://www.youtube.com/c/CodeforDesign](https://www.youtube.com/c/Codefo
 
 ---
 
-# SNIPPET, Computational Design & Code for Design
-  * Work Snippet index - https://computationaldesign.tistory.com/41
-  * Lecture Snippet index - https://computationaldesign.tistory.com/47
+# SNIPPET SHORTS, Computational Design & Code for Design  
+  * Work Snippet index - https://computationaldesign.tistory.com/41  
+  * Lecture Snippet index - https://computationaldesign.tistory.com/47  
 
 
-# Code for Design Group
-Code for Design: Design & Computation:  
-I have been actively involved in lectures, consulting, workshops, and research and development in areas such as Coding for Designers, Creative Coding, and Computational Design, both domestically and internationally. Through various channels, I have been sharing educational resources with students and professionals alike. Coding for designers remains a relatively unfamiliar and uncharted territory, not only in Korea but also globally. This is especially true for Korean-language learning materials, which are still scarce. With the hope of making even a small contribution, I have been dedicated to sharing these resources. The courses I offer include ones that are already complete, some that are being continuously updated, and others that are planned for future release.
+# Code for Design Group  
+Code for Design: Design & Computation:    
+I have been actively involved in lectures, consulting, workshops, and research and development in areas such as Coding for Designers, Creative Coding, and Computational Design, both domestically and internationally. Through various channels, I have been sharing educational resources with students and professionals alike. Coding for designers remains a relatively unfamiliar and uncharted territory, not only in Korea but also globally. This is especially true for Korean-language learning materials, which are still scarce. With the hope of making even a small contribution, I have been dedicated to sharing these resources. The courses I offer include ones that are already complete, some that are being continuously updated, and others that are planned for future release.  
 * Kakao group - https://open.kakao.com/o/g9lXR2hb
 * Slack - https://join.slack.com/t/codefordesign-dht5990/shared_invite/zt-14jqa3nur-bg1ogu0ePYS0ewmWzU8zaA
 * Discord - https://discord.gg/fVPs9Vcf

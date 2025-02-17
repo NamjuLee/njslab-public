@@ -6,7 +6,7 @@
 * CLASS MODULES: [Short slides](https://docs.google.com/presentation/d/1DGemUWP9oljep46wFKZi4WtDtfMIn-tTF0NpkqrftjQ) / [Long slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI)  
 * Open Lectures Level 1,2,3 - https://www.youtube.com/watch?v=doTbuenr16Q
 * [Topic to Discuss](https://docs.google.com/presentation/d/1EY84bHhezSzHx4gmToW-yOL8y1rIb6-6uinxGbinrsE), [Chart](https://lucid.app/lucidspark/a5b884d3-1462-4b5d-b88a-fe1adad8753e/edit?viewport_loc=-1668%2C-268%2C2094%2C1202%2C0_0&invitationId=inv_24152cfa-a793-4ddc-b20e-1782df7d55f2)
-
+* [Quick intro for the class](https://docs.google.com/presentation/d/10fz_dd6TRK4FNYWYFcu3x3LorJgG5Lmlxviqm-JN8F4/edit#slide=id.g33102ed3ade_2_149)
 
 ---
 # CLASS LEVELS
@@ -27,7 +27,7 @@
 
 - ### CLASS C, Introduction to Computation and Design 
    Introduction to Computational Design:  
-  [Slides](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ)  
+  [BOOK A Slides](https://docs.google.com/presentation/d/1Z-jSy-nD18ifqefktrEHQGW4SjpJehAqX6nfcwGcnRQ)  
    * **Keywords**: Computational Design, Data, How to code for designers, Computational Design Thinking, Design Algorithm  
    Research An introduction to Computational Design for designers. This Book(P394) talks about data, design, and algorithms, how designers understand the paradigm shifts(with the 4th industrial revolution), and how to prepare for them. This book helps novice designers to start becoming computational designers. English version of it has been writing now.  
   * [BOOK]Computational Design [linkA](https://brunch.co.kr/@njnamju/144), [inkB](https://computationaldesign.tistory.com/49)
@@ -42,8 +42,6 @@
   * **Keywords**: Design engineering, Data science for design, Data-driven design research, Data for Design(AIAD: Artificial Intelligence-Aided Design, MLAD: Machine Learning-Aided Design)
   * **Lecture**: Projects & Thesis, Research
   * [Link](https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/)
-
-
 
 # COURSE LEVEL
 - ### COURSE LEVEL 1, Numerical Description as Design Tools  
