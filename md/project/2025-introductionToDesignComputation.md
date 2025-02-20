@@ -178,13 +178,15 @@ Design and implement custom tools for design algorithms and projects, tailored t
 
 -----
 # TOC  
-### 1. 데이터 & 디자인 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g324e35f3268_0_1474), [Sub Slides](https://docs.google.com/presentation/d/1Bs0tnEYVfQa1WB24WkXHaOvyJUR3bXYmbBe1c_hplBY/edit#slide=id.g330866be500_1_0)   
+### 1. 데이터 & 디자인   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g324e35f3268_0_1474), [Sub Slides](https://docs.google.com/presentation/d/1Bs0tnEYVfQa1WB24WkXHaOvyJUR3bXYmbBe1c_hplBY/edit#slide=id.g330866be500_1_0)   
   1-1. 컴퓨테이션 도구의 가능성과 한계 이해  
   1-2. 컴퓨테이셔널 사고와 컴퓨테이셔널 디자인 사고  
   1-3. 파라메트릭, 제너레이티브, 에이전트, 인공지능(머신러닝) 기반 디자인  
   1-4. 디자인 재료로서의 데이터
 
-### 2. 프로그래밍 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_2_0), [Sub Slides](https://docs.google.com/presentation/d/1HJbWOy9GXlTCyKkAJPgMYPSYHFN19KHtOSeSy3nLDUk/edit#slide=id.g3311b82efb5_0_63)      
+### 2. 프로그래밍   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_2_0), [Sub Slides](https://docs.google.com/presentation/d/1HJbWOy9GXlTCyKkAJPgMYPSYHFN19KHtOSeSy3nLDUk/edit#slide=id.g3311b82efb5_0_63)      
   2-1. 컴퓨이셔널 사고
   2-1. 파이썬 프로그래밍  
   2-2. 데이터 구조 이해  
@@ -192,73 +194,86 @@ Design and implement custom tools for design algorithms and projects, tailored t
   2-4. 디자인 데이터 구조와 문제 기술
 
 ---
-### 3. 벡터와 포인트 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_3_0), [Sub Slides](https://docs.google.com/presentation/d/11QjC2_PZIdaXGwK5VrXUDbwZBdS6P3jmVsVxvWITLVY/edit#slide=id.g3311cd9216c_4_0)        
+### 3. 벡터와 포인트   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_3_0), [Sub Slides](https://docs.google.com/presentation/d/11QjC2_PZIdaXGwK5VrXUDbwZBdS6P3jmVsVxvWITLVY/edit#slide=id.g3311cd9216c_4_0)        
   3-1. 벡터 계산  
   3-2. 분석적 기하학과 문제 해결  
   3-3. 포인트와 그리드 구조  
   3-4. 좌표계와 프로젝션  
   3-5. 트랜스폼
 
-### 4. 커브와 면 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_0), [Sub Slides](https://docs.google.com/presentation/d/1bB1vFFEPUEYUwYSC7_iKauG4wM4QwujWUPXd3asQ1Ps/edit#slide=id.g3311cfb7caf_2_0)  
+### 4. 커브와 면   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_0), [Sub Slides](https://docs.google.com/presentation/d/1bB1vFFEPUEYUwYSC7_iKauG4wM4QwujWUPXd3asQ1Ps/edit#slide=id.g3311cfb7caf_2_0)  
   4-1. 라인, 폴리라인, 커브  
   4-2. 커브의 디자인 데이터  
   4-3. 원, 호 등의 기하학 생성과 수정  
   4-4. 점과 선 데이터 관계 이해와 응용  
 
-### 5. 면과 비렙 / Surface & Brep - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_4), [Sub Slides](https://docs.google.com/presentation/d/1uxo_rQ9dhNG98tq33ag4j40fYEbJhIHdR7SuhC_ql4s/edit#slide=id.g3311cd922d9_1_50)  
+### 5. 면과 비렙 / Surface & Brep   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_4), [Sub Slides](https://docs.google.com/presentation/d/1uxo_rQ9dhNG98tq33ag4j40fYEbJhIHdR7SuhC_ql4s/edit#slide=id.g3311cd922d9_1_50)  
   5-1. 면 생성 및 수정  
   5-2. 면과 비렙의 디자인 데이터 활용  
   5-3. 점, 선 그리고 면 데이터 관계 이해와 응용
 
 ---
-### 6. 객체지향 프로그래밍 / OOP(Object-Oriented Programming) - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_8), [Sub Slides](https://docs.google.com/presentation/d/1kCMuX-X7NsXLxUFCWOQGd4bGOxDeMxsegg6CMpOjyTk/edit#slide=id.g3311cddf2b0_4_0)   
+### 6. 객체지향 프로그래밍 / OOP(Object-Oriented Programming)   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_1_8), [Sub Slides](https://docs.google.com/presentation/d/1kCMuX-X7NsXLxUFCWOQGd4bGOxDeMxsegg6CMpOjyTk/edit#slide=id.g3311cddf2b0_4_0)   
   6-1. 객체지향 프로그래밍 이해와 구현
   6-2. 디자인 문제에 따른 데이터 구조 설계  
   6-3. 소프트웨어 아키텍쳐와 디자인 패턴 
   과제 선정: 프로젝트(디자인, 글, 알고리즘) 선택 및 해결하고자 하는 문제에 대한 기술기술, 발표와 피드백  
 
-### 7. 공간(디자인) 정보와 이산화 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_12_8), [Sub Slides](https://docs.google.com/presentation/d/1pkv8KyhsHyQfqmEF50KkFyTADL2CHMiH7e7bpB4_1X8/edit#slide=id.g3311c940872_2_0)   
+### 7. 공간(디자인) 정보와 이산화   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_12_8), [Sub Slides](https://docs.google.com/presentation/d/1pkv8KyhsHyQfqmEF50KkFyTADL2CHMiH7e7bpB4_1X8/edit#slide=id.g3311c940872_2_0)   
   7-1. 공간 분할과 파티셔닝  
   7-2. 메쉬 오브젝트와 디자인 데이터  
   7-3. 점, 선, 면, 그리고 메쉬 데이터 관계 이해와 응용  
   7.4. 데이터의 직렬화(Serialization)와 역직렬화(Deserialization)  
 
-### 8. 그래프 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_12_0), [Sub Slides](https://docs.google.com/presentation/d/1ao_7HGf0gfTnxgFxkSPycNp8by0rSIgprQgZ7xA409U/edit#slide=id.g3311ce9a53c_1_0)    
+### 8. 그래프   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_12_0), [Sub Slides](https://docs.google.com/presentation/d/1ao_7HGf0gfTnxgFxkSPycNp8by0rSIgprQgZ7xA409U/edit#slide=id.g3311ce9a53c_1_0)    
   8-1. 그래프 구조의 이해와 구현  
   8-2. 공간 정보의 그래프 표현과 이산 데이터 프로세스  
   8-3. 도시 네트워크 분석, NNA Tool 이해와 적용  
 
-### 9. 래스터 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_21_0), [Sub Slides](https://docs.google.com/presentation/d/1wH6VMX74fsImDOibgHC_o9IdSgy63M743HKoc8SrVIs/edit#slide=id.g3311cf41349_1_0)   
+### 9. 래스터   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_21_0), [Sub Slides](https://docs.google.com/presentation/d/1wH6VMX74fsImDOibgHC_o9IdSgy63M743HKoc8SrVIs/edit#slide=id.g3311cf41349_1_0)   
   9-1. 컬러, 이미지 데이터, 컴퓨터 비전  
   9-2. 공간 정보의 표현과 연속 데이터 프로세스
   9-3. 픽셀과 복셀 구현 및 공간 데이터 프로세스  
   9-4. Numerical Image Tool 이해와 적용
 
 ---
-### 10. 인공지능과 디자인 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_45), [Sub Slides](https://docs.google.com/presentation/d/1h1k2N5d-ejlsE4Oaw3_dY-gfp6aCZyc7W1QFb8zO7Ww/edit#slide=id.g3311d265024_1_0)   
+### 10. 인공지능과 디자인   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_45), [Sub Slides](https://docs.google.com/presentation/d/1h1k2N5d-ejlsE4Oaw3_dY-gfp6aCZyc7W1QFb8zO7Ww/edit#slide=id.g3311d265024_1_0)   
   10-1. 인공지능의 이해와 컴퓨테이셔널 디자인  
   10-2. 귀납적 사고와 머신러닝  
   10-3. 문제 정의, 데이터 활용, 인공지능 모델 이해  
   10-4. 분석형 모델 & 생성형 모델: 데이터 형식과 내용 그리고 모델의 적용
 
-### 11. 디자인 알고리즘: 최적화와 구현 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_35), [Sub Slides](https://docs.google.com/presentation/d/18N_u8LJRwe8OYTJDFqicYapNVttB4mq6sFFL-A6Xlus/edit#slide=id.g3311d26508e_0_50)    
+### 11. 디자인 알고리즘: 최적화와 구현   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_35), [Sub Slides](https://docs.google.com/presentation/d/18N_u8LJRwe8OYTJDFqicYapNVttB4mq6sFFL-A6Xlus/edit#slide=id.g3311d26508e_0_50)    
   11-1. 문제에 특성과 최적화 이해
   11-2. 디자인 프로세스의 코드화 및 최적화  
   11-3. 벡터와 다이내믹스  
 
 ---
-### 12. 데이터(디자인) 시각화 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_5), [Sub Slides](https://docs.google.com/presentation/d/1_8A_ONw4lpCGR3cwS71rbmzDpUStGxJ9lPL-YntxAiQ/edit#slide=id.g3311d3ccee9_0_50)  
+### 12. 데이터(디자인) 시각화   
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_5), [Sub Slides](https://docs.google.com/presentation/d/1_8A_ONw4lpCGR3cwS71rbmzDpUStGxJ9lPL-YntxAiQ/edit#slide=id.g3311d3ccee9_0_50)  
   12-1. 데이터 시각화의 이해와 구현  
   12-2. 2D, 3D 시각화와 파이프라인 이해  
   12-3. VR/AR/MR 시각화 구현  
 
-### 13. CAD 프로그램 개발 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g324bb5a5349_0_1686), [Sub Slides](https://docs.google.com/presentation/d/1oQEzjHUPY0kKehWXD5ZbwDDJIVL7W9wH0vWlJpqRW5w/edit#slide=id.g3311d3ccf75_0_50)    
+### 13. CAD 프로그램 개발  
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g324bb5a5349_0_1686), [Sub Slides](https://docs.google.com/presentation/d/1oQEzjHUPY0kKehWXD5ZbwDDJIVL7W9wH0vWlJpqRW5w/edit#slide=id.g3311d3ccf75_0_50)    
   13-1. 디자인 소프트웨어의 이해  
   13-2. 연구 및 디자인 도구 개발  
   13-3. Web / Windows / IOS/ Addon / Plugin Development
 
-### 14. 프로젝트 1 - [Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_0), [Sub Slides](https://docs.google.com/presentation/d/1f5hh1dYpKtgTrKL358lhOF5fgnmaVwUIN1Ha-wdXiTU/edit#slide=id.g3311d3ccf93_1_0)  
-  프로젝트 기획 및 진행
+### 14. 프로젝트 1
+[Slides](https://docs.google.com/presentation/d/1GleNkuu6Uuif7y8EXv9ArdqGaEJs9s-5cK8O9SN3AeI/edit#slide=id.g3306f31fec8_9_0), [Sub Slides](https://docs.google.com/presentation/d/1f5hh1dYpKtgTrKL358lhOF5fgnmaVwUIN1Ha-wdXiTU/edit#slide=id.g3311d3ccf93_1_0)  
+
+프로젝트 기획 및 진행
 
 ### 15. 프로젝트 2
   최종 프로젝트 발표 및 리뷰
@@ -987,14 +1002,33 @@ rhinoscriptsyntax, surface related functions
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/digitalTexture.jpg)
 
 * Introduction to AI for Design  
+* Analytical models: focus on analyzing existing data to extract insights and make predictions  
+* Generative models: create new content by learning patterns from existing data  
 * Understanding the concept of Machine Learning  
-
 * Tensorflow, Keras, Numpy, Pandas, and other libraries  
+
+* Analytical and Generative models for design
 	LAB 01 - Temperature conversion  
 	LAB 02 - Multiplication table  
 	LAB 03 - Smart Drawing  
-	LAB 04 - Digital Texture prediction,   
-	Examples - Map classification, GAN ...  
+	LAB 04 - Time Series Data  
+	LAB 05 - Digital Texture prediction  
+	LAB 06 - Map Classifier  
+	LAB 07 - Data Reference Basic Analytical Models  
+	LAB 08 - Sketch To Rendering  
+	LAB 09 - Text to Image  
+	LAB 09 - Text to Speech / Speech-to-Text  
+	LAB 10 - Semantic Segmentation  
+	LAB 11 - Transformer  
+	LAB 12 - Reinforcement  
+	LAB 13 - Others  
+
+* Third-Place-Prediction-Report-V2022 
+  * review(writing) 
+    * Kor - https://brunch.co.kr/@njnamju/148 
+    * Eng - https://nj-namju.medium.com/third-place-analysis-and-implementation-design-data-artificial-intelligence-bf802a8e7e0a
+  * review(video) - https://namjulee.github.io/njs-lab-public/lecture?id=hzwkfnVSH4o
+  * git(code) - https://github.com/NamjuLee/Third-Place-Prediction-Report-V2022
 
 * Workshop
 	* web - https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/ 

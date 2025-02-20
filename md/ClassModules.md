@@ -880,12 +880,27 @@ Voxel
 #### Problem, Data(Vector & Raster), Model, Train, Validation
 **WORKSHOP**
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/digitalTexture.jpg)
+* Introduction to AI for Design  
+* Analytical models: focus on analyzing existing data to extract insights and make predictions  
+* Generative models: create new content by learning patterns from existing data  
+* Understanding the concept of Machine Learning  
 * Tensorflow, Keras, Numpy, Pandas, and other libraries  
-  * LAB 01 - Temperature conversion  
-  * LAB 02 - Multiplication table  
-  * LAB 03 - Smart Drawing  
-  * LAB 04 - Digital Texture prediction,  
-  * Examples - Map classification, GAN ...  
+
+* Analytical and Generative models for design
+	LAB 01 - Temperature conversion  
+	LAB 02 - Multiplication table  
+	LAB 03 - Smart Drawing  
+	LAB 04 - Time Series Data  
+	LAB 05 - Digital Texture prediction  
+	LAB 06 - Map Classifier  
+	LAB 07 - Data Reference Basic Analytical Models  
+	LAB 08 - Sketch To Rendering  
+	LAB 09 - Text to Image  
+	LAB 09 - Text to Speech / Speech-to-Text  
+	LAB 10 - Semantic Segmentation  
+	LAB 11 - Transformer  
+	LAB 12 - Reinforcement  
+	LAB 13 - Others  
 
 * Third-Place-Prediction-Report-V2022 
   * review(writing) 
