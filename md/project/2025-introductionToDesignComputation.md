@@ -998,6 +998,9 @@ rhinoscriptsyntax, surface related functions
 * AI and Design / 인공지능과 디자인 
 * 초지능과 디자인
 
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/CartPole.gif)
+
 ## 10.3 Lab:
 ![](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/digitalTexture.jpg)
 
@@ -1034,6 +1037,8 @@ rhinoscriptsyntax, surface related functions
 	* web - https://namjulee.github.io/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/ 
 	* git - https://github.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public?tab=readme-ov-file 
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/QLearningGraph.gif)
+
 ## 10.4 Assignment:
 * Coding:  
 	* Complete the workshops  
@@ -1050,6 +1055,7 @@ rhinoscriptsyntax, surface related functions
 	* 인공지능(머신러닝) 모델과 데이터 / 참여한 프로젝트 및 연구를 정리하여 발표하기  
 	* 최종 과제 점검  
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/QLearningPixelVoxel.gif)
 
 ## 10.5 Reference:
 * AI & Design - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ai-for-design 
@@ -1152,6 +1158,7 @@ rhinoscriptsyntax, surface related functions
 	https://namjulee.github.io/njs-lab-public/lab/lab-graph-&-network-discrete-design-data/graph-path-finding  
 	https://namjulee.github.io/njs-lab-public/lab/geometry-spatial-tools/a-star  
 
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/DQNlayout.gif)
 
 ## 11.5 Reference:
 

@@ -807,12 +807,14 @@ Voxel
 
 ---
 # ..........................................................................................
-# Class 11. Analytical model: Machine Learning ...
+# Class 11. Analytical model: Machine Learning
+
 
 ![Data in Design](https://raw.githubusercontent.com/NamjuLee/Data-Design-AI-for-Urban-Data-and-Viz-Harvard-GSD-public/main/public/reference/img/ml.jpg)
 
 ### LECTURE:
 * [sliders] AI for designers - https://computationaldesign.tistory.com/55
+* Supervised Learning, Unsupervised Learning, Deep Learning, Reinforcement Learning ...
 * Data: Scalar, Vector, Matrix, and Tensor
 * Model: Type of problem and data structure
   * Regression -  
@@ -822,6 +824,9 @@ Voxel
 - T-SNE visualization - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/storymaps-tsne-viz
 
 ---
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/QLearningGraph.gif)
+
 ### SEMINAR:
 
 * Linear Regression - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/js-linear-regression
@@ -838,6 +843,8 @@ Voxel
   * Training - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/network-iris-prediction
 
 * XOR - https://namjulee.github.io/njs-lab-public/lab/ai-&-ml-for-designers/ml-xor
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/QLearningPixelVoxel.gif)
 
 ---
 ### LAB:
@@ -870,12 +877,14 @@ Voxel
 #### 5. Introduction to AI models and Implementations
 
 
-
 **LECTURE**
 
 * Regression, Classification, Machine Learning, Deep Learning
 
 * We will gain a high-level understanding of AI in design: Supervised and Unsupervised Learning and related models. Students will go through several examples, enabling us to expand the use of models in design processes.
+
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/CartPole.gif)
 
 #### Problem, Data(Vector & Raster), Model, Train, Validation
 **WORKSHOP**
@@ -988,6 +997,8 @@ Deep Learning
 ### LECTURE:
 * Geometry Algorithm for design and process
 * Environmental Data & Building Energy
+
+![Data in Design](https://raw.githubusercontent.com/NamjuLee/data/master/works/ai/DQNlayout.gif)  
 
 ---
 ### SEMINAR:

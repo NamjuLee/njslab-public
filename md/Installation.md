@@ -198,6 +198,9 @@ pip install opencv-python
 conda install -c anaconda scikit-learn
 conda install -c conda-forge scikit-image
 pip install tqdm
+pip install gym
+pip install gymnasium
+pip install seaborn
 ```
 
 * Only for TF
